@@ -1,0 +1,541 @@
+Drive1
+Possession: Pittsburgh Steelers
+Result: Punt
+PIT: 0
+SF: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (15:00 - 1st) M.Wishnowsky kicks 65 yards from SF 35 to end zone, Touchback.
+1 & 10 on PIT 25
+Sumamry: (15:00 - 1st) (Shotgun) K.Pickett pass short left to G.Pickens to PIT 31 for 6 yards (F.Warner).
+2 & 4 on PIT 31
+Sumamry: (14:25 - 1st) (Shotgun) K.Pickett pass short middle to C.Austin to PIT 30 for -1 yards (C.Ferrell, T.Gipson).
+3 & 5 on PIT 30
+Sumamry: (14:02 - 1st) (No Huddle, Shotgun) K.Pickett sacked at PIT 20 for -10 yards (D.Jackson).
+4 & 15 on PIT 20
+Sumamry: (13:15 - 1st) P.Harvin punts 34 yards to SF 46, Center-C.Kuntz, out of bounds.
+===============
+Drive2
+Possession: San Francisco 49ers
+Result: Touchdown
+PIT: 0
+SF: 7
+Plays: 7
+Yards: 54
+Time: 3:46
+1 & 10 on SF 46
+Sumamry: (13:15 - 1st) (Shotgun) B.Purdy pass short middle to D.Samuel to PIT 48 for 6 yards (K.Neal).
+2 & 4 on PIT 48
+Sumamry: (12:35 - 1st) (Shotgun) D.Samuel right end to PIT 45 for 3 yards (L.Ogunjobi).
+3 & 1 on PIT 45
+Sumamry: (12:09 - 1st) (No Huddle) C.McCaffrey up the middle to PIT 45 for no gain (E.Roberts, C.Holcomb).
+4 & 1 on PIT 45
+Sumamry: (11:34 - 1st) (Shotgun) B.Purdy pass short left to G.Kittle to PIT 34 for 11 yards (E.Roberts; P.Peterson).
+1 & 10 on PIT 34
+Sumamry: (10:50 - 1st) C.McCaffrey left end pushed ob at PIT 25 for 9 yards (L.Wallace).
+2 & 1 on PIT 25
+Sumamry: (10:14 - 1st) C.McCaffrey left guard to PIT 8 for 17 yards (M.Fitzpatrick).
+Sumamry: (9:29 - 1st) Timeout at 09:29.
+===============
+Drive3
+Possession: Pittsburgh Steelers
+Result: Interception
+PIT: 0
+SF: 7
+Plays: 3
+Yards: 5
+Time: 1:29
+Sumamry: (9:29 - 1st) M.Wishnowsky kicks 63 yards from SF 35 to PIT 2. A.McFarland to PIT 27 for 25 yards (C.Woerner).
+1 & 10 on PIT 27
+Sumamry: (9:24 - 1st) N.Harris left tackle to PIT 25 for -2 yards (F.Warner).
+2 & 12 on PIT 25
+Sumamry: (8:48 - 1st) (Shotgun) K.Pickett pass short right to C.Austin to PIT 32 for 7 yards (D.Lenoir).
+3 & 5 on PIT 32
+Sumamry: (8:00 - 1st) (Shotgun) K.Pickett pass deep right intended for D.Johnson INTERCEPTED by C.Ward at SF 43. C.Ward pushed ob at PIT 48 for 9 yards (P.Freiermuth).
+Sumamry: (8:00 - 1st) Timeout at 08:00.
+===============
+Drive4
+Possession: San Francisco 49ers
+Result: Field Goal
+PIT: 0
+SF: 10
+Plays: 6
+Yards: 25
+Time: 3:22
+1 & 10 on PIT 48
+Sumamry: (8:00 - 1st) C.McCaffrey left tackle to PIT 49 for -1 yards (E.Roberts).
+2 & 11 on PIT 49
+Sumamry: (7:20 - 1st) (Shotgun) B.Purdy pass short middle to B.Aiyuk to PIT 26 for 23 yards (K.Neal; M.Fitzpatrick).
+1 & 10 on PIT 26
+Sumamry: (6:38 - 1st) C.McCaffrey right tackle to PIT 24 for 2 yards (A.Highsmith). PENALTY on SF-S.Burford, Offensive Holding, 10 yards, enforced at PIT 26 - No Play.
+1 & 20 on PIT 36
+Sumamry: (6:14 - 1st) (Shotgun) B.Purdy pass short middle to G.Kittle to PIT 30 for 6 yards (M.Fitzpatrick).
+2 & 14 on PIT 30
+Sumamry: (5:36 - 1st) (Shotgun) B.Purdy pass incomplete short middle to J.Jennings (P.Peterson).
+3 & 14 on PIT 30
+Sumamry: (5:32 - 1st) (Shotgun) B.Purdy pass short right to G.Kittle to PIT 28 for 2 yards (D.Kazee; K.Neal) [T.Watt].
+Sumamry: (4:48 - 1st) Timeout #1 by PIT at 04:48.
+4 & 12 on PIT 28
+Sumamry: (4:48 - 1st) J.Moody 46 yard field goal is BLOCKED (P.Peterson), Center-T.Pepper, Holder-M.Wishnowsky, recovered by SF-M.Wishnowsky at PIT 36. M.Wishnowsky pushed ob at PIT 19 for 17 yards (E.Roberts). PENALTY on PIT-P.Peterson, Defensive Offside, 5 yards, enforced at PIT 28 - No Play.
+4 & 7 on PIT 23
+Sumamry: (4:38 - 1st) J.Moody 41 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.
+Sumamry: (4:38 - 1st) Timeout at 04:38.
+===============
+Drive5
+Possession: Pittsburgh Steelers
+Result: Punt
+PIT: 0
+SF: 10
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (4:38 - 1st) M.Wishnowsky kicks 65 yards from SF 35 to PIT 0. A.McFarland to PIT 32 for 32 yards (C.Robinson).
+1 & 10 on PIT 32
+Sumamry: (4:32 - 1st) K.Pickett pass short left to A.Robinson to PIT 34 for 2 yards (D.Lenoir).
+2 & 8 on PIT 34
+Sumamry: (3:58 - 1st) N.Harris left guard to PIT 34 for no gain (J.Hargrave).
+3 & 8 on PIT 34
+Sumamry: (3:21 - 1st) (Shotgun) K.Pickett pass incomplete deep middle to D.Johnson.
+4 & 8 on PIT 34
+Sumamry: (3:16 - 1st) (Punt formation) PENALTY on PIT-E.Roberts, False Start, 5 yards, enforced at PIT 34 - No Play.
+4 & 13 on PIT 29
+Sumamry: (3:05 - 1st) P.Harvin punts 54 yards to SF 17, Center-C.Kuntz. R.McCloud to SF 32 for 15 yards (C.Kuntz, M.Killebrew).
+Sumamry: (3:05 - 1st) Timeout at 03:05.
+Sumamry: (3:05 - 1st) Timeout #1 by SF at 03:05.
+===============
+Drive6
+Possession: San Francisco 49ers
+Result: Touchdown
+PIT: 0
+SF: 17
+Plays: 9
+Yards: 68
+Time: 4:35
+1 & 10 on SF 32
+Sumamry: (3:05 - 1st) (Shotgun) B.Purdy pass short middle to C.McCaffrey to SF 39 for 7 yards (K.Alexander, C.Holcomb) [Ca.Heyward]. FUMBLES (C.Holcomb), and recovers at SF 39.
+2 & 3 on SF 39
+Sumamry: (2:36 - 1st) C.McCaffrey right tackle to SF 44 for 5 yards (C.Holcomb).
+1 & 10 on SF 44
+Sumamry: (2:01 - 1st) B.Purdy pass incomplete short middle to G.Kittle (P.Peterson).
+2 & 10 on SF 44
+Sumamry: (1:57 - 1st) (Shotgun) C.McCaffrey up the middle to PIT 45 for 11 yards (M.Fitzpatrick, D.Leal).
+1 & 10 on PIT 45
+Sumamry: (1:17 - 1st) E.Mitchell right tackle to PIT 44 for 1 yard (T.Watt).
+2 & 9 on PIT 44
+Sumamry: (0:37 - 1st) (Shotgun) B.Purdy pass short middle to B.Aiyuk to PIT 34 for 10 yards (K.Alexander).
+1 & 10 on PIT 34
+Sumamry: (0:37 - 1st) (No Huddle) PENALTY on SF-S.Burford, False Start, 5 yards, enforced at PIT 34 - No Play.
+1 & 15 on PIT 39
+Sumamry: (15:00 - 2nd) B.Purdy pass deep middle to D.Samuel to PIT 17 for 22 yards (D.Kazee).
+1 & 10 on PIT 17
+Sumamry: (14:17 - 2nd) C.McCaffrey left end to PIT 19 for -2 yards (K.Alexander; A.Highsmith).
+2 & 12 on PIT 19
+Sumamry: (13:30 - 2nd) (Shotgun) B.Purdy pass deep right to B.Aiyuk for 19 yards, TOUCHDOWN.J.Moody extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.
+Sumamry: (13:30 - 2nd) Timeout at 13:30.
+===============
+Drive7
+Possession: Pittsburgh Steelers
+Result: Punt
+PIT: 0
+SF: 17
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (13:30 - 2nd) M.Wishnowsky kicks 65 yards from SF 35 to end zone, Touchback.
+1 & 10 on PIT 25
+Sumamry: (13:30 - 2nd) (Shotgun) K.Pickett pass short right to J.Warren to PIT 20 for -5 yards (T.Hufanga). Penalty on PIT-C.Okorafor, Offensive Holding, declined.
+2 & 15 on PIT 20
+Sumamry: (13:11 - 2nd) (Shotgun) K.Pickett pass incomplete short left to A.Robinson [C.Ferrell].
+3 & 15 on PIT 20
+Sumamry: (13:11 - 2nd) (Shotgun) PENALTY on PIT-I.Seumalo, False Start, 5 yards, enforced at PIT 20 - No Play.
+3 & 20 on PIT 15
+Sumamry: (13:05 - 2nd) (Shotgun) K.Pickett sacked at PIT 15 for 0 yards (D.Jackson).
+4 & 20 on PIT 15
+Sumamry: (12:17 - 2nd) P.Harvin punts 57 yards to SF 28, Center-C.Kuntz. R.McCloud to SF 35 for 7 yards (C.Kuntz, E.Riley). PENALTY on PIT-C.Kuntz, Face Mask, 15 yards, enforced at SF 35.
+Sumamry: (12:17 - 2nd) Timeout at 12:17.
+===============
+Drive8
+Possession: San Francisco 49ers
+Result: Field Goal
+PIT: 0
+SF: 20
+Plays: 7
+Yards: 37
+Time: 3:55
+1 & 10 on 50
+Sumamry: (12:17 - 2nd) (Shotgun) C.McCaffrey left guard to PIT 49 for 1 yard (D.Leal, L.Ogunjobi). PENALTY on SF-D.Samuel, Illegal Motion, 5 yards, enforced at 50 - No Play.
+1 & 15 on SF 45
+Sumamry: (11:53 - 2nd) C.McCaffrey up the middle to SF 46 for 1 yard (M.Golden).
+2 & 14 on SF 46
+Sumamry: (11:16 - 2nd) B.Purdy pass short middle to D.Samuel to PIT 47 for 7 yards (K.Alexander).
+3 & 7 on PIT 47
+Sumamry: (10:32 - 2nd) (Shotgun) B.Purdy pass deep right to B.Aiyuk to PIT 31 for 16 yards (K.Alexander, K.Neal). PENALTY on PIT-L.Wallace, Unnecessary Roughness, 15 yards, enforced at PIT 31.
+1 & 10 on PIT 16
+Sumamry: (9:52 - 2nd) C.McCaffrey left end pushed ob at PIT 13 for 3 yards (E.Roberts).
+2 & 7 on PIT 13
+Sumamry: (9:10 - 2nd) (Shotgun) B.Purdy sacked at PIT 13 for 0 yards (T.Watt). FUMBLES (T.Watt) [T.Watt], and recovers at PIT 13. B.Purdy to PIT 13 for no gain (T.Watt). Pittsburgh challenged the loose ball recovery ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)
+Sumamry: (8:32 - 2nd) Timeout at 08:32.
+3 & 7 on PIT 13
+Sumamry: (8:32 - 2nd) (Shotgun) B.Purdy pass incomplete short left to G.Kittle (I.Loudermilk). Penalty on SF-T.Williams, Offensive Holding, declined.
+4 & 7 on PIT 13
+Sumamry: (8:22 - 2nd) J.Moody 32 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.
+Sumamry: (8:22 - 2nd) Timeout at 08:22.
+===============
+Drive9
+Possession: Pittsburgh Steelers
+Result: Punt
+PIT: 0
+SF: 20
+Plays: 3
+Yards: 4
+Time: 1:29
+Sumamry: (8:22 - 2nd) M.Wishnowsky kicks 63 yards from SF 35 to PIT 2. A.McFarland pushed ob at PIT 36 for 34 yards (I.Oliver).
+1 & 10 on PIT 36
+Sumamry: (8:16 - 2nd) J.Warren left tackle to PIT 37 for 1 yard (N.Bosa).
+2 & 9 on PIT 37
+Sumamry: (7:44 - 2nd) J.Warren left end to PIT 40 for 3 yards (F.Warner).
+3 & 6 on PIT 40
+Sumamry: (7:05 - 2nd) (Shotgun) K.Pickett pass incomplete short right to P.Freiermuth.
+4 & 6 on PIT 40
+Sumamry: (6:53 - 2nd) P.Harvin punts 36 yards to SF 24, Center-C.Kuntz, out of bounds.
+Sumamry: (6:53 - 2nd) Timeout at 06:53.
+===============
+Drive10
+Possession: San Francisco 49ers
+Result: Punt
+PIT: 0
+SF: 20
+Plays: 11
+Yards: 34
+Time: 5:18
+1 & 10 on SF 24
+Sumamry: (6:52 - 2nd) B.Purdy scrambles left end to SF 28 for 4 yards (K.Alexander).
+2 & 6 on SF 28
+Sumamry: (6:19 - 2nd) (Shotgun) B.Purdy pass incomplete short right to C.McCaffrey (T.Watt).
+3 & 6 on SF 28
+Sumamry: (6:13 - 2nd) (Shotgun) B.Purdy pass short right to C.McCaffrey to SF 35 for 7 yards (K.Alexander).
+1 & 10 on SF 35
+Sumamry: (5:27 - 2nd) (Shotgun) D.Samuel left end to SF 40 for 5 yards (A.Highsmith). PIT-Ca.Heyward was injured during the play.
+Sumamry: (5:08 - 2nd) Timeout at 05:08.
+2 & 5 on SF 40
+Sumamry: (4:47 - 2nd) (Shotgun) E.Mitchell left tackle to SF 44 for 4 yards (L.Ogunjobi).
+Sumamry: (4:01 - 2nd) Timeout #2 by SF at 04:01.
+3 & 1 on SF 44
+Sumamry: (4:01 - 2nd) C.McCaffrey left end pushed ob at PIT 49 for 7 yards (K.Alexander).
+1 & 10 on PIT 49
+Sumamry: (3:25 - 2nd) (Shotgun) C.McCaffrey left guard to PIT 47 for 2 yards (E.Roberts, K.Benton).
+2 & 8 on PIT 47
+Sumamry: (2:43 - 2nd) (Shotgun) B.Purdy pass short left to D.Samuel to PIT 37 for 10 yards (L.Wallace).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+1 & 10 on PIT 37
+Sumamry: (2:00 - 2nd) (Shotgun) B.Purdy pass incomplete short middle to G.Kittle.
+2 & 10 on PIT 37
+Sumamry: (1:55 - 2nd) (Shotgun) B.Purdy pass incomplete deep left to D.Samuel (I.Loudermilk).
+Sumamry: (1:50 - 2nd) Timeout #3 by PIT at 01:50.
+3 & 10 on PIT 37
+Sumamry: (1:50 - 2nd) (Shotgun) PENALTY on SF-J.Brendel, False Start, 5 yards, enforced at PIT 37 - No Play.
+3 & 15 on PIT 42
+Sumamry: (1:50 - 2nd) (Shotgun) B.Purdy pass incomplete short left [D.Leal].
+4 & 15 on PIT 42
+Sumamry: (1:33 - 2nd) M.Wishnowsky punts 37 yards to PIT 5, Center-T.Pepper, downed by SF-O.Burks.
+Sumamry: (1:35 - 2nd) Timeout at 01:35.
+===============
+Drive11
+Possession: Pittsburgh Steelers
+Result: Touchdown
+PIT: 7
+SF: 20
+Plays: 12
+Yards: 95
+Time: 1:25
+1 & 10 on PIT 5
+Sumamry: (1:35 - 2nd) (Shotgun) K.Pickett pass short left to G.Pickens to PIT 15 for 10 yards (A.Thomas). The Replay Official reviewed the first down ruling, and the play was REVERSED. (Shotgun) K.Pickett pass short left to G.Pickens to PIT 14 for 9 yards (A.Thomas).
+2 & 1 on PIT 14
+Sumamry: (1:31 - 2nd) (Shotgun) K.Pickett pass incomplete deep right to G.Pickens.
+3 & 1 on PIT 14
+Sumamry: (1:24 - 2nd) (Shotgun) N.Harris right guard to PIT 38 for 24 yards (T.Hufanga). PENALTY on SF-D.Lenoir, Unnecessary Roughness, 15 yards, enforced at PIT 38.
+1 & 10 on SF 47
+Sumamry: (1:16 - 2nd) (Shotgun) K.Pickett pass short left to A.Robinson to SF 38 for 9 yards (D.Lenoir).
+2 & 1 on SF 38
+Sumamry: (0:56 - 2nd) (No Huddle, Shotgun) K.Pickett pass short left to D.Johnson to SF 23 for 15 yards (A.Thomas).
+1 & 10 on SF 23
+Sumamry: (0:51 - 2nd) (Shotgun) K.Pickett pass short left to D.Johnson ran ob at SF 16 for 7 yards (D.Lenoir).
+2 & 3 on SF 16
+Sumamry: (0:46 - 2nd) (Shotgun) K.Pickett pass incomplete deep middle to P.Freiermuth (A.Thomas) [A.Armstead]. PIT-P.Freiermuth was injured during the play.
+Sumamry: (0:42 - 2nd) Timeout #4 by PIT at 00:42.
+3 & 3 on SF 16
+Sumamry: (0:42 - 2nd) (Shotgun) K.Pickett pass incomplete short middle to D.Johnson.
+Sumamry: (0:39 - 2nd) Timeout #3 by SF at 00:39.
+4 & 3 on SF 16
+Sumamry: (0:39 - 2nd) (Shotgun) K.Pickett pass short left to A.McFarland to SF 11 for 5 yards (A.Thomas).
+1 & 10 on SF 11
+Sumamry: (0:23 - 2nd) K.Pickett spiked the ball to stop the clock.
+2 & 10 on SF 11
+Sumamry: (0:23 - 2nd) (Shotgun) K.Pickett pass short left to G.Pickens pushed ob at SF 7 for 4 yards (A.Thomas).
+3 & 6 on SF 7
+Sumamry: (0:18 - 2nd) (Shotgun) K.Pickett pass incomplete short right to A.Robinson [A.Armstead]. PENALTY on SF-D.Lenoir, Illegal Contact, 4 yards, enforced at SF 7 - No Play.
+===============
+Drive12
+Possession: San Francisco 49ers
+Result: End of Half
+PIT: 7
+SF: 20
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (0:10 - 2nd) C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.
+1 & 10 on SF 25
+Sumamry: (0:09 - 2nd) B.Purdy kneels to SF 24 for -1 yards.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive13
+Possession: San Francisco 49ers
+Result: Touchdown
+PIT: 7
+SF: 27
+Plays: 2
+Yards: 75
+Time: 0:58
+Sumamry: (15:00 - 3rd) C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.
+1 & 10 on SF 25
+Sumamry: (15:00 - 3rd) (Shotgun) B.Purdy pass short left to D.Samuel to SF 35 for 10 yards (K.Alexander).
+1 & 10 on SF 35
+Sumamry: (14:02 - 3rd) Christian McCaffrey 65 Yd Rush J.Moody extra point is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.
+===============
+Drive14
+Possession: Pittsburgh Steelers
+Result: Punt
+PIT: 7
+SF: 27
+Plays: 4
+Yards: 30
+Time: 2:2
+Sumamry: (14:02 - 3rd) M.Wishnowsky kicks 65 yards from SF 35 to end zone, Touchback.
+1 & 10 on PIT 25
+Sumamry: (14:02 - 3rd) (Shotgun) K.Pickett pass short right to D.Johnson to SF 49 for 26 yards (T.Gipson). PIT-D.Johnson was injured during the play.
+Sumamry: (13:50 - 3rd) Timeout at 13:50.
+1 & 10 on SF 49
+Sumamry: (13:35 - 3rd) (Shotgun) K.Pickett pass short right to J.Warren to SF 47 for 2 yards (F.Warner) [N.Bosa].
+2 & 8 on SF 47
+Sumamry: (12:54 - 3rd) (Shotgun) J.Warren up the middle to SF 45 for 2 yards (J.Hargrave; C.Ferrell).
+3 & 6 on SF 45
+Sumamry: (12:15 - 3rd) (Shotgun) K.Pickett pass incomplete short right to A.Robinson.
+4 & 6 on SF 45
+Sumamry: (12:00 - 3rd) P.Harvin punts 28 yards to SF 17, Center-C.Kuntz, fair catch by R.McCloud.
+===============
+Drive15
+Possession: San Francisco 49ers
+Result: Punt
+PIT: 7
+SF: 27
+Plays: 7
+Yards: 23
+Time: 5:6
+1 & 10 on SF 17
+Sumamry: (12:00 - 3rd) (Shotgun) B.Purdy pass deep middle to B.Aiyuk to SF 33 for 16 yards (D.Kazee) [T.Watt].
+1 & 10 on SF 33
+Sumamry: (11:19 - 3rd) (Shotgun) C.McCaffrey up the middle to SF 36 for 3 yards (A.Highsmith).
+2 & 7 on SF 36
+Sumamry: (10:34 - 3rd) C.McCaffrey left tackle to SF 35 for -1 yards (A.Highsmith).
+3 & 8 on SF 35
+Sumamry: (9:52 - 3rd) (Shotgun) B.Purdy pass short left to B.Aiyuk pushed ob at 50 for 15 yards (D.Kazee).
+1 & 10 on 50
+Sumamry: (9:11 - 3rd) C.McCaffrey right tackle to PIT 49 for 1 yard (M.Golden, Ni.Herbig).
+2 & 9 on PIT 49
+Sumamry: (8:31 - 3rd) (Shotgun) E.Mitchell up the middle to PIT 46 for 3 yards (D.Leal).
+3 & 6 on PIT 46
+Sumamry: (7:51 - 3rd) (Shotgun) B.Purdy sacked at SF 45 for -9 yards (T.Watt).
+4 & 15 on SF 45
+Sumamry: (7:51 - 3rd) (Punt formation) PENALTY on SF-S.Womack, False Start, 5 yards, enforced at SF 45 - No Play.
+4 & 20 on SF 40
+Sumamry: (7:05 - 3rd) M.Wishnowsky punts 56 yards to PIT 4, Center-T.Pepper. C.Austin to PIT 6 for 2 yards (S.Womack).
+Sumamry: (6:54 - 3rd) Timeout at 06:54.
+===============
+Drive16
+Possession: Pittsburgh Steelers
+Result: Punt
+PIT: 7
+SF: 27
+Plays: 3
+Yards: 6
+Time: 1:12
+1 & 10 on PIT 6
+Sumamry: (6:54 - 3rd) (Shotgun) K.Pickett pass short left to C.Austin pushed ob at PIT 10 for 4 yards (D.Lenoir).
+2 & 6 on PIT 10
+Sumamry: (6:21 - 3rd) (Shotgun) N.Harris left end to PIT 12 for 2 yards (J.Kinlaw).
+3 & 4 on PIT 12
+Sumamry: (5:58 - 3rd) (No Huddle, Shotgun) K.Pickett pass incomplete short left to A.Robinson.
+4 & 4 on PIT 12
+Sumamry: (5:53 - 3rd) P.Harvin punts 45 yards to SF 43, Center-C.Kuntz. R.McCloud to PIT 38 for 19 yards (M.Killebrew).
+Sumamry: (5:42 - 3rd) Timeout at 05:42.
+===============
+Drive17
+Possession: San Francisco 49ers
+Result: Fumble
+PIT: 7
+SF: 27
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on PIT 38
+Sumamry: (5:42 - 3rd) (Shotgun) B.Purdy sacked at PIT 46 for -8 yards (T.Watt). FUMBLES (T.Watt) [T.Watt], RECOVERED by PIT-T.Watt at PIT 46. PENALTY on SF-S.Burford, Face Mask, 15 yards, enforced at PIT 46.
+===============
+Drive18
+Possession: Pittsburgh Steelers
+Result: Downs
+PIT: 7
+SF: 27
+Plays: 8
+Yards: 31
+Time: 3:33
+1 & 10 on SF 39
+Sumamry: (5:35 - 3rd) (Shotgun) K.Pickett pass short right to N.Harris to SF 35 for 4 yards (D.Greenlaw; I.Oliver).
+2 & 6 on SF 35
+Sumamry: (4:53 - 3rd) (Shotgun) K.Pickett pass incomplete short right to C.Austin. PENALTY on SF-C.Ward, Defensive Pass Interference, 11 yards, enforced at SF 35 - No Play.
+1 & 10 on SF 24
+Sumamry: (4:48 - 3rd) (Shotgun) K.Pickett pass short right to Co.Heyward pushed ob at SF 16 for 8 yards (C.Ward; D.Greenlaw).
+2 & 2 on SF 16
+Sumamry: (4:17 - 3rd) (Shotgun) K.Pickett pass incomplete deep right to Co.Heyward. Coverage 57 -Greenlaw.
+Sumamry: (4:10 - 3rd) Timeout #1 by PIT at 04:10.
+3 & 2 on SF 16
+Sumamry: (4:10 - 3rd) (Shotgun) N.Harris up the middle to SF 14 for 2 yards (T.Hufanga, F.Warner).
+1 & 10 on SF 14
+Sumamry: (3:34 - 3rd) (Shotgun) K.Pickett pass incomplete short right to G.Pickens.
+2 & 10 on SF 14
+Sumamry: (3:29 - 3rd) (Shotgun) K.Pickett pass short right to A.McFarland to SF 8 for 6 yards (D.Greenlaw).
+3 & 4 on SF 8
+Sumamry: (2:52 - 3rd) (Shotgun) K.Pickett pass short right to J.Warren to SF 8 for no gain (C.Ward, N.Bosa).
+4 & 4 on SF 8
+Sumamry: (2:02 - 3rd) (Shotgun) K.Pickett pass incomplete short middle to P.Freiermuth.
+Sumamry: (2:02 - 3rd) Timeout at 02:02.
+===============
+Drive19
+Possession: San Francisco 49ers
+Result: Punt
+PIT: 7
+SF: 27
+Plays: 7
+Yards: 47
+Time: 4:18
+1 & 10 on SF 8
+Sumamry: (2:02 - 3rd) (Shotgun) C.McCaffrey left guard to SF 19 for 11 yards (K.Neal).
+1 & 10 on SF 19
+Sumamry: (1:20 - 3rd) C.McCaffrey up the middle to SF 22 for 3 yards (A.Highsmith; M.Adams).
+2 & 7 on SF 22
+Sumamry: (0:36 - 3rd) (Shotgun) B.Purdy pass short right to C.McCaffrey to SF 25 for 3 yards (M.Golden).
+3 & 4 on SF 25
+Sumamry: (15:00 - 4th) (Shotgun) B.Purdy pass short left to B.Aiyuk to SF 47 for 22 yards (L.Wallace; C.Holcomb). SF-T.Williams was injured during the play.
+Sumamry: (14:48 - 4th) Timeout at 14:48.
+1 & 10 on SF 47
+Sumamry: (14:19 - 4th) C.McCaffrey left tackle to 50 for 3 yards (K.Benton).
+2 & 7 on 50
+Sumamry: (13:38 - 4th) C.McCaffrey left end to PIT 45 for 5 yards (A.Highsmith, K.Benton).
+3 & 2 on PIT 45
+Sumamry: (12:56 - 4th) (Shotgun) B.Purdy pass incomplete short right to C.McCaffrey.
+4 & 2 on PIT 45
+Sumamry: (12:44 - 4th) M.Wishnowsky punts 41 yards to PIT 4, Center-T.Pepper, out of bounds.
+Sumamry: (12:44 - 4th) Timeout at 12:44.
+===============
+Drive20
+Possession: Pittsburgh Steelers
+Result: Interception
+PIT: 7
+SF: 27
+Plays: 7
+Yards: 48
+Time: 2:36
+1 & 10 on PIT 4
+Sumamry: (12:44 - 4th) (Shotgun) K.Pickett pass short right to C.Austin to PIT 13 for 9 yards (C.Ward).
+2 & 1 on PIT 13
+Sumamry: (12:22 - 4th) (No Huddle, Shotgun) K.Pickett pass short left to A.Robinson to PIT 25 for 12 yards (I.Oliver; D.Lenoir).
+1 & 10 on PIT 25
+Sumamry: (11:58 - 4th) (No Huddle, Shotgun) K.Pickett pass short left to C.Austin to PIT 38 for 13 yards (D.Lenoir) [C.Ferrell].
+1 & 10 on PIT 38
+Sumamry: (11:33 - 4th) (No Huddle, Shotgun) K.Pickett pass short left to N.Harris to PIT 36 for -2 yards (D.Greenlaw).
+2 & 12 on PIT 36
+Sumamry: (11:10 - 4th) (No Huddle, Shotgun) K.Pickett pass short left to Co.Heyward ran ob at PIT 47 for 11 yards.
+3 & 1 on PIT 47
+Sumamry: (10:50 - 4th) (No Huddle) N.Harris up the middle to SF 48 for 5 yards (D.Greenlaw; D.Lenoir).
+1 & 10 on SF 48
+Sumamry: (10:08 - 4th) (No Huddle, Shotgun) K.Pickett pass deep middle intended for Co.Heyward INTERCEPTED by T.Hufanga (F.Warner) at SF 26. T.Hufanga pushed ob at PIT 10 for 64 yards. PENALTY on SF-T.Hufanga, Illegal Forward Pass, 5 yards, enforced at PIT 46.
+===============
+Drive21
+Possession: San Francisco 49ers
+Result: Field Goal
+PIT: 7
+SF: 30
+Plays: 9
+Yards: 29
+Time: 4:38
+1 & 10 on SF 49
+Sumamry: (10:08 - 4th) C.McCaffrey left tackle to PIT 45 for 6 yards (E.Roberts, M.Adams).
+2 & 4 on PIT 45
+Sumamry: (9:22 - 4th) C.McCaffrey left guard to PIT 40 for 5 yards (P.Peterson; I.Loudermilk).
+1 & 10 on PIT 40
+Sumamry: (8:37 - 4th) C.McCaffrey up the middle to PIT 41 for -1 yards (D.Leal, A.Highsmith).
+2 & 11 on PIT 41
+Sumamry: (7:54 - 4th) (Shotgun) B.Purdy pass incomplete short right to E.Mitchell.
+3 & 11 on PIT 41
+Sumamry: (7:50 - 4th) (Shotgun) B.Purdy scrambles right guard to PIT 24 for 17 yards (J.Porter).
+1 & 10 on PIT 24
+Sumamry: (7:03 - 4th) E.Mitchell right guard to PIT 25 for -1 yards (E.Roberts).
+2 & 11 on PIT 25
+Sumamry: (6:21 - 4th) E.Mitchell up the middle to PIT 22 for 3 yards (C.Holcomb).
+Sumamry: (5:37 - 4th) Timeout #1 by SF at 05:37.
+3 & 8 on PIT 22
+Sumamry: (5:37 - 4th) (Shotgun) B.Purdy pass incomplete short left to D.Samuel.
+4 & 8 on PIT 22
+Sumamry: (5:30 - 4th) J.Moody 40 yard field goal is GOOD, Center-T.Pepper, Holder-M.Wishnowsky.
+Sumamry: (5:30 - 4th) Timeout at 05:30.
+===============
+Drive22
+Possession: Pittsburgh Steelers
+Result: Downs
+PIT: 7
+SF: 30
+Plays: 12
+Yards: 43
+Time: 4:20
+Sumamry: (5:30 - 4th) M.Wishnowsky kicks 65 yards from SF 35 to end zone, Touchback.
+1 & 10 on PIT 25
+Sumamry: (5:30 - 4th) (Shotgun) K.Pickett pass incomplete short left to J.Warren.
+2 & 10 on PIT 25
+Sumamry: (5:26 - 4th) (Shotgun) K.Pickett pass short left to G.Pickens to PIT 33 for 8 yards (D.Lenoir).
+3 & 2 on PIT 33
+Sumamry: (5:01 - 4th) (No Huddle, Shotgun) K.Pickett pass short middle to G.Pickens to PIT 42 for 9 yards (F.Warner). PENALTY on PIT-G.Pickens, Unnecessary Roughness, 15 yards, enforced between downs.
+1 & 10 on PIT 27
+Sumamry: (4:46 - 4th) (Shotgun) K.Pickett scrambles up the middle to PIT 31 for 4 yards (T.Hufanga).
+2 & 6 on PIT 31
+Sumamry: (4:23 - 4th) (No Huddle, Shotgun) K.Pickett pass short left to J.Warren to PIT 40 for 9 yards (I.Oliver, F.Warner).
+1 & 10 on PIT 40
+Sumamry: (4:02 - 4th) (No Huddle, Shotgun) K.Pickett sacked at PIT 33 for -7 yards (K.Hyder).
+2 & 17 on PIT 33
+Sumamry: (3:31 - 4th) (Shotgun) K.Pickett pass short right to J.Warren to PIT 39 for 6 yards (D.Greenlaw, I.Oliver).
+3 & 11 on PIT 39
+Sumamry: (3:09 - 4th) (No Huddle, Shotgun) K.Pickett pass deep left to A.Robinson to SF 30 for 31 yards (T.Hufanga). PIT-C.Okorafor was injured during the play.
+Sumamry: (2:55 - 4th) Timeout at 02:55.
+1 & 10 on SF 30
+Sumamry: (2:48 - 4th) (Shotgun) K.Pickett sacked at SF 40 for -10 yards (D.Jackson).
+2 & 20 on SF 40
+Sumamry: (2:10 - 4th) (Shotgun) K.Pickett pass short middle to A.Robinson to SF 30 for 10 yards (F.Warner; A.Thomas).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+3 & 10 on SF 30
+Sumamry: (2:00 - 4th) (Shotgun) K.Pickett pass short right to C.Austin to SF 25 for 5 yards (D.Lenoir).
+4 & 5 on SF 25
+Sumamry: (1:10 - 4th) (Shotgun) K.Pickett sacked at SF 32 for -7 yards (J.Hargrave).
+===============
+Drive23
+Possession: San Francisco 49ers
+Result: End of Game
+PIT: 7
+SF: 30
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on SF 32
+Sumamry: (1:10 - 4th) S.Darnold kneels to SF 31 for -1 yards.
+2 & 11 on SF 31
+Sumamry: (0:37 - 4th) S.Darnold kneels to SF 30 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

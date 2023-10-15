@@ -1,0 +1,529 @@
+Drive1
+Possession: Detroit Lions
+Result: Punt
+KC: 0
+DET: 0
+Plays: 3
+Yards: 7
+Time: 0:51
+Sumamry: (15:00 - 1st) H.Butker kicks 65 yards from KC 35 to end zone, Touchback.
+1 & 10 on DET 25
+Sumamry: (15:00 - 1st) D.Montgomery right guard to DET 32 for 7 yards (N.Bolton; G.Karlaftis).
+2 & 3 on DET 32
+Sumamry: (14:29 - 1st) J.Goff pass incomplete short right.
+3 & 3 on DET 32
+Sumamry: (14:25 - 1st) (Shotgun) J.Goff pass incomplete deep right to J.Reynolds.
+4 & 3 on DET 32
+Sumamry: (14:21 - 1st) J.Fox punts 61 yards to KC 7, Center-S.Daly. R.James to KC 13 for 6 yards (K.Dorsey).
+===============
+Drive2
+Possession: Kansas City Chiefs
+Result: Punt
+KC: 0
+DET: 0
+Plays: 6
+Yards: 25
+Time: 3:19
+1 & 10 on KC 13
+Sumamry: (14:09 - 1st) (Shotgun) C.Edwards-Helaire right end to KC 18 for 5 yards (A.Hutchinson).
+2 & 5 on KC 18
+Sumamry: (13:34 - 1st) (Shotgun) C.Edwards-Helaire right end to KC 21 for 3 yards (A.McNeill; A.Anzalone).
+3 & 2 on KC 21
+Sumamry: (12:56 - 1st) (Shotgun) P.Mahomes pass short left to J.McKinnon to KC 31 for 10 yards (M.Rodriguez).
+1 & 10 on KC 31
+Sumamry: (12:20 - 1st) (Shotgun) P.Mahomes pass short left to N.Gray to KC 36 for 5 yards (A.Anzalone).
+2 & 5 on KC 36
+Sumamry: (11:44 - 1st) P.Mahomes pass incomplete short right [A.Anzalone].
+3 & 5 on KC 36
+Sumamry: (11:35 - 1st) (Shotgun) P.Mahomes scrambles up the middle to KC 38 for 2 yards (J.Cominsky).
+4 & 3 on KC 38
+Sumamry: (10:58 - 1st) T.Townsend punts 53 yards to DET 9, Center-J.Winchester, fair catch by K.Raymond.
+Sumamry: (10:50 - 1st) Timeout at 10:50.
+===============
+Drive3
+Possession: Detroit Lions
+Result: Touchdown
+KC: 0
+DET: 7
+Plays: 14
+Yards: 91
+Time: 8:4
+1 & 10 on DET 9
+Sumamry: (10:50 - 1st) D.Montgomery left tackle to DET 12 for 3 yards (G.Karlaftis).
+2 & 7 on DET 12
+Sumamry: (10:10 - 1st) (Shotgun) J.Goff pass incomplete short left to M.Jones (M.Danna).
+3 & 7 on DET 12
+Sumamry: (10:06 - 1st) (Shotgun) J.Goff pass short left to M.Jones to DET 17 for 5 yards (J.Reid) [F.Anudike-Uzomah].
+4 & 2 on DET 17
+Sumamry: (9:27 - 1st) (Punt formation) Direct snap to J.Reeves-Maybin.  J.Reeves-Maybin up the middle to DET 20 for 3 yards (B.Cook).
+1 & 10 on DET 20
+Sumamry: (8:50 - 1st) J.Gibbs right guard to DET 21 for 1 yard (T.McDuffie).
+2 & 9 on DET 21
+Sumamry: (8:09 - 1st) (Shotgun) J.Goff pass short left to A.St. Brown to DET 34 for 13 yards (J.Reid).
+1 & 10 on DET 34
+Sumamry: (7:30 - 1st) J.Goff pass short right to J.Reynolds to KC 45 for 21 yards (T.McDuffie).
+1 & 10 on KC 45
+Sumamry: (6:57 - 1st) D.Montgomery up the middle to KC 41 for 4 yards (L.Chenal).
+2 & 6 on KC 41
+Sumamry: (6:21 - 1st) (Shotgun) J.Gibbs left end to KC 24 for 17 yards (W.Gay).
+1 & 10 on KC 24
+Sumamry: (5:34 - 1st) (Shotgun) J.Goff pass short right to A.St. Brown to KC 19 for 5 yards (L.Chenal; L.Sneed).
+2 & 5 on KC 19
+Sumamry: (4:58 - 1st) D.Montgomery left tackle to KC 13 for 6 yards (N.Bolton).
+1 & 10 on KC 13
+Sumamry: (4:20 - 1st) D.Montgomery left end to KC 9 for 4 yards (D.Nnadi; J.Reid).
+2 & 6 on KC 9
+Sumamry: (3:37 - 1st) J.Gibbs right guard to KC 9 for no gain (B.Cook, L.Sneed).
+3 & 6 on KC 9
+Sumamry: (2:46 - 1st) (Shotgun) J.Goff pass short right to A.St. Brown for 9 yards, TOUCHDOWN.R.Patterson extra point is GOOD, Center-S.Daly, Holder-J.Fox.
+Sumamry: (2:46 - 1st) Timeout at 02:46.
+===============
+Drive4
+Possession: Kansas City Chiefs
+Result: Touchdown
+KC: 7
+DET: 7
+Plays: 13
+Yards: 75
+Time: 5:56
+Sumamry: (2:46 - 1st) J.Fox kicks 65 yards from DET 35 to end zone, Touchback.
+1 & 10 on KC 25
+Sumamry: (2:46 - 1st) I.Pacheco left end pushed ob at KC 27 for 2 yards (A.Anzalone).
+2 & 8 on KC 27
+Sumamry: (2:11 - 1st) (Shotgun) P.Mahomes pass incomplete short left to N.Gray (A.Anzalone).
+3 & 8 on KC 27
+Sumamry: (2:06 - 1st) (Shotgun) P.Mahomes pass deep right to Ju.Watson to KC 46 for 19 yards (K.Joseph).
+1 & 10 on KC 46
+Sumamry: (1:28 - 1st) S.Moore left end to 50 for 4 yards (C.Gardner-Johnson).
+2 & 6 on 50
+Sumamry: (0:52 - 1st) (Shotgun) I.Pacheco left end to 50 for no gain (C.Gardner-Johnson).
+3 & 6 on 50
+Sumamry: (0:12 - 1st) (Shotgun) P.Mahomes scrambles right end pushed ob at DET 44 for 6 yards (B.Branch).
+1 & 10 on DET 44
+Sumamry: (15:00 - 2nd) (Shotgun) P.Mahomes pass short right to I.Pacheco to DET 39 for 5 yards (A.Hutchinson).
+2 & 5 on DET 39
+Sumamry: (14:25 - 2nd) P.Mahomes pass short right to M.Valdes-Scantling to DET 25 for 14 yards (C.Gardner-Johnson).
+1 & 10 on DET 25
+Sumamry: (13:53 - 2nd) (Shotgun) P.Mahomes pass incomplete short left to R.Rice.
+2 & 10 on DET 25
+Sumamry: (13:49 - 2nd) (Shotgun) P.Mahomes scrambles up the middle ran ob at DET 9 for 16 yards (K.Joseph).
+Sumamry: (11:50 - 2nd) Timeout at 11:50.
+===============
+Drive5
+Possession: Detroit Lions
+Result: Fumble
+KC: 7
+DET: 7
+Plays: 11
+Yards: 61
+Time: 6:36
+Sumamry: (11:50 - 2nd) H.Butker kicks 65 yards from KC 35 to end zone, Touchback.
+Sumamry: (11:50 - 2nd) Timeout #1 by DET at 11:50.
+1 & 10 on DET 25
+Sumamry: (11:50 - 2nd) J.Goff pass short middle to B.Wright to DET 34 for 9 yards (N.Bolton, W.Gay).
+2 & 1 on DET 34
+Sumamry: (11:26 - 2nd) (No Huddle) J.Goff up the middle to DET 36 for 2 yards (M.Danna; M.Dickerson).
+1 & 10 on DET 36
+Sumamry: (10:51 - 2nd) D.Montgomery left end to DET 39 for 3 yards (M.Danna; L.Chenal).
+2 & 7 on DET 39
+Sumamry: (10:11 - 2nd) J.Goff pass deep left to A.St. Brown to KC 40 for 21 yards (J.Reid).
+1 & 10 on KC 40
+Sumamry: (9:29 - 2nd) D.Montgomery left guard to KC 41 for -1 yards (K.Coburn, T.McDuffie).
+2 & 11 on KC 41
+Sumamry: (8:49 - 2nd) (Shotgun) J.Goff pass short left to S.LaPorta to KC 27 for 14 yards (M.Danna, B.Cook).
+1 & 10 on KC 27
+Sumamry: (8:06 - 2nd) D.Montgomery up the middle to KC 25 for 2 yards (G.Karlaftis; N.Bolton).
+2 & 8 on KC 25
+Sumamry: (7:24 - 2nd) (Shotgun) J.Goff pass short right to J.Gibbs to KC 17 for 8 yards (D.Tranquill).
+1 & 10 on KC 17
+Sumamry: (6:43 - 2nd) (Shotgun) J.Goff Aborted. F.Ragnow FUMBLES at KC 24, recovered by DET-J.Goff at KC 27. J.Goff to KC 27 for no gain (G.Karlaftis).
+2 & 20 on KC 27
+Sumamry: (6:01 - 2nd) (Shotgun) J.Goff pass short left to J.Gibbs pushed ob at KC 17 for 10 yards (N.Bolton).
+3 & 10 on KC 17
+Sumamry: (5:21 - 2nd) (Shotgun) J.Goff pass short right to M.Jones to KC 14 for 3 yards (T.McDuffie). FUMBLES (T.McDuffie), RECOVERED by KC-B.Cook at KC 7.
+Sumamry: (5:14 - 2nd) Timeout at 05:14.
+===============
+Drive6
+Possession: Kansas City Chiefs
+Result: Punt
+KC: 7
+DET: 7
+Plays: 3
+Yards: 5
+Time: 1:27
+1 & 10 on KC 7
+Sumamry: (5:14 - 2nd) (Shotgun) C.Edwards-Helaire left tackle to KC 9 for 2 yards (J.Jacobs).
+2 & 8 on KC 9
+Sumamry: (4:38 - 2nd) (Shotgun) P.Mahomes scrambles left end to KC 12 for 3 yards (A.Anzalone).
+Sumamry: (4:00 - 2nd) Timeout #1 by KC at 04:00.
+3 & 5 on KC 12
+Sumamry: (4:00 - 2nd) (Shotgun) P.Mahomes pass incomplete deep right to N.Gray [A.Hutchinson].
+4 & 5 on KC 12
+Sumamry: (3:54 - 2nd) T.Townsend punts 47 yards to DET 41, Center-J.Winchester, fair catch by K.Raymond.
+===============
+Drive7
+Possession: Detroit Lions
+Result: Punt
+KC: 7
+DET: 7
+Plays: 3
+Yards: 2
+Time: 1:45
+1 & 10 on DET 41
+Sumamry: (3:47 - 2nd) D.Montgomery right end to DET 46 for 5 yards (G.Karlaftis; M.Dickerson).
+2 & 5 on DET 46
+Sumamry: (3:05 - 2nd) J.Goff pass incomplete deep left to M.Jones.
+3 & 5 on DET 46
+Sumamry: (3:00 - 2nd) (Shotgun) J.Goff sacked at DET 43 for -3 yards (M.Danna).
+4 & 8 on DET 43
+Sumamry: (2:12 - 2nd) J.Fox punts 40 yards to KC 17, Center-S.Daly. R.James to KC 18 for 1 yard (J.Reeves-Maybin, K.Dorsey).
+===============
+Drive8
+Possession: Kansas City Chiefs
+Result: Touchdown
+KC: 14
+DET: 7
+Plays: 6
+Yards: 82
+Time: 1:28
+1 & 10 on KC 18
+Sumamry: (2:02 - 2nd) (Shotgun) P.Mahomes pass short right to R.Rice to KC 43 for 25 yards (J.Campbell).
+Sumamry: (1:54 - 2nd) Two-Minute Warning
+1 & 10 on KC 43
+Sumamry: (1:54 - 2nd) (Shotgun) P.Mahomes pass incomplete deep left to R.James.
+2 & 10 on KC 43
+Sumamry: (1:48 - 2nd) (Shotgun) P.Mahomes pass short left to R.Rice to KC 46 for 3 yards (B.Branch).
+3 & 7 on KC 46
+Sumamry: (1:12 - 2nd) (Shotgun) P.Mahomes pass short middle to N.Gray to DET 48 for 6 yards (K.Joseph). PENALTY on KC-T.Smith, Offensive Holding, 10 yards, enforced at KC 46 - No Play.
+Sumamry: (1:07 - 2nd) Timeout #2 by KC at 01:07.
+3 & 17 on KC 36
+Sumamry: (1:07 - 2nd) (Shotgun) P.Mahomes pass deep middle to M.Valdes-Scantling to DET 30 for 34 yards (J.Jacobs).
+1 & 10 on DET 30
+Sumamry: (0:39 - 2nd) (No Huddle, Shotgun) P.Mahomes pass deep left to Ju.Watson pushed ob at DET 4 for 26 yards (C.Gardner-Johnson).
+Sumamry: (0:34 - 2nd) Timeout #3 by KC at 00:34.
+Sumamry: (0:34 - 2nd) Timeout at 00:34.
+===============
+Drive9
+Possession: Detroit Lions
+Result: Downs
+KC: 14
+DET: 7
+Plays: 7
+Yards: 17
+Time: 0:34
+Sumamry: (0:34 - 2nd) H.Butker kicks 65 yards from KC 35 to end zone, Touchback.
+1 & 10 on DET 25
+Sumamry: (0:34 - 2nd) (Shotgun) J.Goff pass short right to S.LaPorta to DET 30 for 5 yards (F.Anudike-Uzomah).
+Sumamry: (0:29 - 2nd) Timeout #2 by DET at 00:29.
+2 & 5 on DET 30
+Sumamry: (0:29 - 2nd) (Shotgun) J.Goff pass short left to S.LaPorta to DET 34 for 4 yards (T.McDuffie).
+Sumamry: (0:22 - 2nd) Timeout #3 by DET at 00:22.
+3 & 1 on DET 34
+Sumamry: (0:22 - 2nd) (Shotgun) J.Goff pass short middle to J.Reynolds to DET 42 for 8 yards (M.Edwards, B.Cook).
+1 & 10 on DET 42
+Sumamry: (0:07 - 2nd) (No Huddle) J.Goff spiked the ball to stop the clock.
+2 & 10 on DET 42
+Sumamry: (0:08 - 2nd) (Shotgun) J.Goff pass incomplete deep right to M.Jones.
+3 & 10 on DET 42
+Sumamry: (0:04 - 2nd) (Shotgun) J.Goff pass incomplete short right to A.St. Brown (G.Karlaftis).
+4 & 10 on DET 42
+Sumamry: (0:02 - 2nd) (Shotgun) J.Goff pass incomplete deep right.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive10
+Possession: Kansas City Chiefs
+Result: Punt
+KC: 14
+DET: 7
+Plays: 5
+Yards: 14
+Time: 2:6
+Sumamry: (15:00 - 3rd) J.Fox kicks 65 yards from DET 35 to end zone, Touchback.
+1 & 10 on KC 25
+Sumamry: (15:00 - 3rd) I.Pacheco left end to KC 27 for 2 yards (J.Cominsky; D.Barnes).
+2 & 8 on KC 27
+Sumamry: (14:24 - 3rd) (Shotgun) P.Mahomes pass short left to I.Pacheco to KC 37 for 10 yards (B.Jones). KC-I.Pacheco was injured during the play.
+1 & 10 on KC 37
+Sumamry: (13:48 - 3rd) P.Mahomes pass incomplete short left.
+2 & 10 on KC 37
+Sumamry: (13:42 - 3rd) (Shotgun) P.Mahomes pass incomplete short left to B.Bell.
+3 & 10 on KC 37
+Sumamry: (13:38 - 3rd) (Shotgun) P.Mahomes pass short right to N.Gray to KC 39 for 2 yards (J.Jacobs) [A.Hutchinson].
+4 & 8 on KC 39
+Sumamry: (13:00 - 3rd) T.Townsend punts 54 yards to DET 7, Center-J.Winchester, fair catch by K.Raymond.
+Sumamry: (12:54 - 3rd) Timeout at 12:54.
+===============
+Drive11
+Possession: Detroit Lions
+Result: Punt
+KC: 14
+DET: 7
+Plays: 3
+Yards: 4
+Time: 1:10
+1 & 10 on DET 7
+Sumamry: (12:54 - 3rd) J.Goff pass incomplete short right to M.Jones.
+2 & 10 on DET 7
+Sumamry: (12:50 - 3rd) D.Montgomery right guard to DET 7 for no gain (G.Karlaftis). Penalty on DET-H.Vaitai, Unnecessary Roughness, offsetting. Penalty on KC-M.Dickerson, Unnecessary Roughness, offsetting.
+3 & 10 on DET 7
+Sumamry: (12:31 - 3rd) (Shotgun) J.Goff pass short left to S.LaPorta to DET 11 for 4 yards (J.Reid) [F.Anudike-Uzomah].
+4 & 6 on DET 11
+Sumamry: (11:52 - 3rd) J.Fox punts 47 yards to KC 42, Center-S.Daly, fair catch by R.James.
+Sumamry: (11:44 - 3rd) Timeout at 11:44.
+===============
+Drive12
+Possession: Kansas City Chiefs
+Result: Interception Touchdown
+KC: 14
+DET: 14
+Plays: 3
+Yards: 4
+Time: 0:50
+1 & 10 on KC 42
+Sumamry: (11:44 - 3rd) (Shotgun) P.Mahomes pass incomplete deep middle to K.Toney (J.Campbell).
+2 & 10 on KC 42
+Sumamry: (11:39 - 3rd) (Shotgun) C.Edwards-Helaire right guard to KC 46 for 4 yards (B.Branch; B.Jones).
+3 & 6 on KC 46
+Sumamry: (10:54 - 3rd) (Shotgun) P.Mahomes pass short right intended for K.Toney INTERCEPTED by B.Branch at 50. B.Branch for 50 yards, TOUCHDOWN.R.Patterson extra point is GOOD, Center-S.Daly, Holder-J.Fox.
+Sumamry: (10:54 - 3rd) Timeout at 10:54.
+===============
+Drive13
+Possession: Kansas City Chiefs
+Result: Punt
+KC: 14
+DET: 14
+Plays: 5
+Yards: 16
+Time: 2:18
+Sumamry: (10:54 - 3rd) J.Fox kicks 65 yards from DET 35 to end zone, Touchback.
+1 & 10 on KC 25
+Sumamry: (10:53 - 3rd) (Shotgun) P.Mahomes pass short left to I.Pacheco pushed ob at KC 32 for 7 yards (D.Barnes) [C.Harris].
+2 & 3 on KC 32
+Sumamry: (10:20 - 3rd) (Shotgun) I.Pacheco left guard to KC 35 for 3 yards (J.Paschal).
+1 & 10 on KC 35
+Sumamry: (9:37 - 3rd) P.Mahomes pass incomplete deep middle to Ju.Watson.
+2 & 10 on KC 35
+Sumamry: (9:30 - 3rd) (Shotgun) P.Mahomes pass short right to R.James to KC 41 for 6 yards (K.Joseph).
+3 & 4 on KC 41
+Sumamry: (8:55 - 3rd) (Shotgun) P.Mahomes pass incomplete deep right to S.Moore [A.Hutchinson].
+4 & 4 on KC 41
+Sumamry: (8:48 - 3rd) T.Townsend punts 58 yards to DET 1, Center-J.Winchester. K.Raymond to DET 17 for 16 yards (C.Conner).
+Sumamry: (8:36 - 3rd) Timeout at 08:36.
+===============
+Drive14
+Possession: Detroit Lions
+Result: Punt
+KC: 14
+DET: 14
+Plays: 6
+Yards: 43
+Time: 2:52
+1 & 10 on DET 17
+Sumamry: (8:36 - 3rd) J.Gibbs right end to DET 23 for 6 yards (L.Sneed).
+2 & 4 on DET 23
+Sumamry: (8:05 - 3rd) J.Goff pass deep left to A.St. Brown to DET 41 for 18 yards (T.McDuffie).
+1 & 10 on DET 41
+Sumamry: (7:30 - 3rd) (Shotgun) J.Goff pass short right to S.LaPorta to KC 47 for 12 yards (J.Williams). Penalty on KC-L.Sneed, Defensive Holding, declined.
+1 & 10 on KC 47
+Sumamry: (7:06 - 3rd) J.Gibbs right tackle to KC 45 for 2 yards (D.Nnadi; D.Tranquill).
+2 & 8 on KC 45
+Sumamry: (6:25 - 3rd) (Shotgun) J.Goff pass short left to A.St. Brown pushed ob at KC 40 for 5 yards (B.Cook).
+3 & 3 on KC 40
+Sumamry: (5:59 - 3rd) (No Huddle, Shotgun) J.Goff pass incomplete short right to J.Reynolds.
+4 & 3 on KC 40
+Sumamry: (5:56 - 3rd) J.Fox punts 30 yards to KC 10, Center-S.Daly, downed by DET-W.Harris.
+Sumamry: (5:44 - 3rd) Timeout at 05:44.
+===============
+Drive15
+Possession: Kansas City Chiefs
+Result: Field Goal
+KC: 17
+DET: 14
+Plays: 8
+Yards: 73
+Time: 3:34
+1 & 10 on KC 10
+Sumamry: (5:44 - 3rd) I.Pacheco right guard to KC 13 for 3 yards (D.Barnes).
+2 & 7 on KC 13
+Sumamry: (5:09 - 3rd) (Shotgun) P.Mahomes scrambles right end to KC 22 for 9 yards (B.Jones).
+1 & 10 on KC 22
+Sumamry: (4:28 - 3rd) (Shotgun) P.Mahomes pass short right to I.Pacheco to KC 31 for 9 yards (C.Harris).
+2 & 1 on KC 31
+Sumamry: (3:44 - 3rd) I.Pacheco left tackle to KC 34 for 3 yards (D.Barnes).
+1 & 10 on KC 34
+Sumamry: (3:07 - 3rd) P.Mahomes pass incomplete deep middle to Ju.Watson. PENALTY on DET-C.Sutton, Defensive Pass Interference, 41 yards, enforced at KC 34 - No Play.
+1 & 10 on DET 25
+Sumamry: (3:00 - 3rd) (Shotgun) P.Mahomes pass short right to B.Bell pushed ob at DET 17 for 8 yards (A.Anzalone).
+2 & 2 on DET 17
+Sumamry: (2:21 - 3rd) (Shotgun) P.Mahomes pass incomplete short left to S.Moore.
+3 & 2 on DET 17
+Sumamry: (2:18 - 3rd) (Shotgun) P.Mahomes pass incomplete short middle to K.Toney.
+4 & 2 on DET 17
+Sumamry: (2:10 - 3rd) H.Butker 35 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.
+Sumamry: (2:10 - 3rd) Timeout at 02:10.
+Sumamry: (2:10 - 3rd) Timeout at 02:10.
+===============
+Drive16
+Possession: Detroit Lions
+Result: Punt
+KC: 17
+DET: 14
+Plays: 3
+Yards: 8
+Time: 1:4
+Sumamry: (2:10 - 3rd) H.Butker kicks 65 yards from KC 35 to end zone, Touchback.
+1 & 10 on DET 25
+Sumamry: (2:10 - 3rd) (Shotgun) J.Goff pass incomplete short right to A.St. Brown (J.Reid).
+2 & 10 on DET 25
+Sumamry: (2:06 - 3rd) (Shotgun) J.Goff pass incomplete short right. PENALTY on DET-D.Montgomery, Tripping, 12 yards, enforced at DET 25 - No Play.
+2 & 22 on DET 13
+Sumamry: (2:01 - 3rd) (Shotgun) J.Goff pass deep middle to K.Raymond to DET 33 for 20 yards (B.Cook).
+3 & 2 on DET 33
+Sumamry: (1:21 - 3rd) J.Goff pass incomplete short right to A.St. Brown.
+4 & 2 on DET 33
+Sumamry: (1:17 - 3rd) J.Fox punts 44 yards to KC 23, Center-S.Daly. R.James to KC 32 for 9 yards (K.Dorsey).
+===============
+Drive17
+Possession: Kansas City Chiefs
+Result: Field Goal
+KC: 20
+DET: 14
+Plays: 8
+Yards: 47
+Time: 3:55
+1 & 10 on KC 32
+Sumamry: (1:06 - 3rd) (Shotgun) C.Edwards-Helaire right tackle to KC 36 for 4 yards (A.Anzalone, D.Barnes).
+2 & 6 on KC 36
+Sumamry: (0:31 - 3rd) (Shotgun) P.Mahomes pass short right to N.Gray to DET 40 for 24 yards (C.Gardner-Johnson). DET-B.Branch was injured during the play.
+1 & 10 on DET 40
+Sumamry: (15:00 - 4th) (Shotgun) P.Mahomes pass short left to C.Edwards-Helaire to DET 33 for 7 yards (J.Campbell).
+2 & 3 on DET 33
+Sumamry: (14:22 - 4th) (Shotgun) C.Edwards-Helaire left end to DET 29 for 4 yards (A.Hutchinson).
+1 & 10 on DET 29
+Sumamry: (13:41 - 4th) (Shotgun) P.Mahomes scrambles left end to DET 20 for 9 yards (J.Jacobs).
+2 & 1 on DET 20
+Sumamry: (13:03 - 4th) K.Toney left end to DET 21 for -1 yards (D.Barnes, C.Harris).
+3 & 2 on DET 21
+Sumamry: (12:23 - 4th) (Shotgun) P.Mahomes pass incomplete short right to J.McKinnon [J.Houston]. DET-L.Onwuzurike was injured during the play.
+4 & 2 on DET 21
+Sumamry: (12:11 - 4th) H.Butker 39 yard field goal is GOOD, Center-J.Winchester, Holder-T.Townsend.
+Sumamry: (12:11 - 4th) Timeout at 12:11.
+===============
+Drive18
+Possession: Detroit Lions
+Result: Touchdown
+KC: 20
+DET: 21
+Plays: 9
+Yards: 75
+Time: 5:5
+Sumamry: (12:11 - 4th) H.Butker kicks 65 yards from KC 35 to end zone, Touchback.
+1 & 10 on DET 25
+Sumamry: (12:11 - 4th) D.Montgomery right end to DET 30 for 5 yards (N.Bolton; L.Sneed).
+2 & 5 on DET 30
+Sumamry: (11:32 - 4th) J.Gibbs right guard to DET 28 for -2 yards (L.Sneed, L.Chenal).
+3 & 7 on DET 28
+Sumamry: (10:46 - 4th) (Shotgun) PENALTY on DET, Delay of Game, 5 yards, enforced at DET 28 - No Play.
+3 & 12 on DET 23
+Sumamry: (10:46 - 4th) (Shotgun) J.Goff pass deep left to J.Reynolds to DET 41 for 18 yards (J.Williams) [L.Sneed].
+1 & 10 on DET 41
+Sumamry: (10:07 - 4th) J.Goff pass short right to B.Wright to DET 49 for 8 yards (L.Chenal, J.Reid). Penalty on KC-G.Karlaftis, Defensive Holding, declined.
+2 & 2 on DET 49
+Sumamry: (9:50 - 4th) D.Montgomery left tackle to 50 for 1 yard (D.Nnadi).
+3 & 1 on 50
+Sumamry: (9:11 - 4th) D.Montgomery right guard to KC 47 for 3 yards (T.McDuffie).
+1 & 10 on KC 47
+Sumamry: (8:31 - 4th) J.Goff pass short right to J.Reynolds to KC 14 for 33 yards (W.Gay).
+1 & 10 on KC 14
+Sumamry: (7:49 - 4th) D.Montgomery right end to KC 8 for 6 yards (L.Sneed).
+2 & 4 on KC 8
+Sumamry: (7:06 - 4th) D.Montgomery up the middle for 8 yards, TOUCHDOWN.R.Patterson extra point is GOOD, Center-S.Daly, Holder-J.Fox.
+Sumamry: (7:06 - 4th) Timeout at 07:06.
+===============
+Drive19
+Possession: Kansas City Chiefs
+Result: Punt
+KC: 20
+DET: 21
+Plays: 3
+Yards: 6
+Time: 1:59
+Sumamry: (7:06 - 4th) J.Fox kicks 65 yards from DET 35 to end zone, Touchback.
+1 & 10 on KC 25
+Sumamry: (7:06 - 4th) (Shotgun) P.Mahomes pass short left to J.Ross to KC 31 for 6 yards (J.Jacobs).
+2 & 4 on KC 31
+Sumamry: (6:32 - 4th) I.Pacheco right end to KC 34 for 3 yards (A.McNeill; A.Hutchinson).
+3 & 1 on KC 34
+Sumamry: (6:32 - 4th) (Shotgun) Direct snap to B.Bell.  R.Rice right end to KC 31 for -3 yards (J.Paschal).
+4 & 4 on KC 31
+Sumamry: (5:15 - 4th) T.Townsend punts 35 yards to DET 34, Center-J.Winchester, downed by KC-Ca.Jones.
+Sumamry: (5:07 - 4th) Timeout at 05:07.
+===============
+Drive20
+Possession: Detroit Lions
+Result: Downs
+KC: 20
+DET: 21
+Plays: 5
+Yards: 21
+Time: 2:37
+1 & 10 on DET 34
+Sumamry: (5:06 - 4th) PENALTY on DET-F.Ragnow, False Start, 5 yards, enforced at DET 34 - No Play.
+1 & 15 on DET 29
+Sumamry: (5:07 - 4th) (Shotgun) J.Gibbs right end pushed ob at DET 47 for 18 yards (M.Danna).
+1 & 10 on DET 47
+Sumamry: (4:31 - 4th) D.Montgomery left end to DET 49 for 2 yards (M.Dickerson).
+2 & 8 on DET 49
+Sumamry: (3:54 - 4th) D.Montgomery left end to KC 48 for 3 yards (M.Danna).
+3 & 5 on KC 48
+Sumamry: (3:14 - 4th) (Shotgun) D.Montgomery up the middle to KC 45 for 3 yards (F.Anudike-Uzomah, M.Edwards).
+4 & 2 on KC 45
+Sumamry: (2:33 - 4th) (Shotgun) J.Goff pass incomplete short right to J.Reynolds (J.Reid).
+===============
+Drive21
+Possession: Kansas City Chiefs
+Result: Downs
+KC: 20
+DET: 21
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on KC 45
+Sumamry: (2:30 - 4th) P.Mahomes pass incomplete deep right to K.Toney.
+2 & 10 on KC 45
+Sumamry: (2:25 - 4th) (Shotgun) P.Mahomes pass short right to S.Moore to DET 38 for 17 yards (C.Sutton) [C.Harris]. PENALTY on KC-D.Smith, Offensive Holding, 10 yards, enforced at KC 45 - No Play.
+2 & 20 on KC 35
+Sumamry: (2:19 - 4th) (Shotgun) P.Mahomes pass incomplete short middle to S.Moore (C.Gardner-Johnson).
+3 & 20 on KC 35
+Sumamry: (2:14 - 4th) (Shotgun) P.Mahomes pass incomplete deep right to R.Rice (C.Gardner-Johnson).
+4 & 20 on KC 35
+Sumamry: (2:09 - 4th) (Shotgun) PENALTY on KC-J.Taylor, False Start, 5 yards, enforced at KC 35 - No Play.
+4 & 25 on KC 30
+Sumamry: (2:09 - 4th) (Shotgun) P.Mahomes pass incomplete deep right to Ju.Watson [J.Cominsky].
+Sumamry: (2:00 - 4th) Two-Minute Warning
+===============
+Drive22
+Possession: Detroit Lions
+Result: End of Game
+KC: 20
+DET: 21
+Plays: 6
+Yards: 7
+Time: 2:0
+1 & 10 on KC 30
+Sumamry: (2:00 - 4th) D.Montgomery right guard to KC 25 for 5 yards (G.Karlaftis; T.McDuffie).
+Sumamry: (1:53 - 4th) Timeout #1 by KC at 01:53.
+2 & 5 on KC 25
+Sumamry: (1:53 - 4th) D.Montgomery right guard to KC 22 for 3 yards (N.Bolton, B.Cook).
+Sumamry: (1:47 - 4th) Timeout #2 by KC at 01:47.
+3 & 2 on KC 22
+Sumamry: (1:47 - 4th) D.Montgomery up the middle to KC 20 for 2 yards (L.Chenal).
+Sumamry: (1:42 - 4th) Timeout #3 by KC at 01:42.
+1 & 10 on KC 20
+Sumamry: (1:41 - 4th) J.Goff kneels to KC 21 for -1 yards.
+2 & 11 on KC 21
+Sumamry: (1:02 - 4th) J.Goff kneels to KC 22 for -1 yards.
+3 & 12 on KC 22
+Sumamry: (0:37 - 4th) J.Goff kneels to KC 23 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

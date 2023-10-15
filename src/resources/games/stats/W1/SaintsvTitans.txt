@@ -1,0 +1,545 @@
+Drive1
+Possession: New Orleans Saints
+Result: Fumble
+NO: 0
+TEN: 0
+Plays: 0
+Yards: 0
+Time: 0:4
+Sumamry: (15:00 - 1st) N.Folk kicks 63 yards from TEN 35 to NO 2. R.Shaheed to NO 21 for 19 yards (A.Hooker). FUMBLES (A.Hooker), ball out of bounds at NO 24. PENALTY on NO-A.Prentice, Offensive Holding, 10 yards, enforced at NO 20. Tennessee challenged the ball was inbounds ruling, and the play was REVERSED. N.Folk kicks 63 yards from TEN 35 to NO 2. R.Shaheed to NO 21 for 19 yards (A.Hooker). FUMBLES (A.Hooker), RECOVERED by TEN-A.Hooker at NO 24. Penalty on NO-A.Prentice, Offensive Holding, declined.
+===============
+Drive2
+Possession: Tennessee Titans
+Result: Field Goal
+NO: 0
+TEN: 3
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on NO 24
+Sumamry: (14:56 - 1st) PENALTY on TEN-T.Wesco, False Start, 5 yards, enforced at NO 24 - No Play.
+1 & 15 on NO 29
+Sumamry: (14:56 - 1st) (Shotgun) R.Tannehill pass incomplete short right to C.Okonkwo.
+2 & 15 on NO 29
+Sumamry: (14:53 - 1st) (Shotgun) R.Tannehill right end to NO 27 for 2 yards (C.Granderson).
+3 & 13 on NO 27
+Sumamry: (14:06 - 1st) (Shotgun) PENALTY on TEN-D.Hopkins, False Start, 5 yards, enforced at NO 27 - No Play.
+3 & 18 on NO 32
+Sumamry: (13:49 - 1st) (Shotgun) R.Tannehill pass incomplete short right to T.Spears [C.Granderson].
+4 & 18 on NO 32
+Sumamry: (13:40 - 1st) N.Folk 50 yard field goal is GOOD, Center-M.Cox, Holder-R.Stonehouse.
+===============
+Drive3
+Possession: New Orleans Saints
+Result: Field Goal
+NO: 3
+TEN: 3
+Plays: 9
+Yards: 67
+Time: 3:22
+Sumamry: (13:40 - 1st) N.Folk kicks 62 yards from TEN 35 to NO 3. R.Shaheed to NO 25 for 22 yards (M.Rice; O.Reese).
+1 & 10 on NO 25
+Sumamry: (13:35 - 1st) (Shotgun) D.Carr pass deep left to M.Thomas pushed ob at 50 for 25 yards (K.Fulton).
+1 & 10 on 50
+Sumamry: (13:15 - 1st) (No Huddle) D.Carr pass short right to J.Williams to TEN 45 for 5 yards (H.Landry).
+2 & 5 on TEN 45
+Sumamry: (12:42 - 1st) (Shotgun) J.Williams right guard to TEN 45 for no gain (D.Autry).
+3 & 5 on TEN 45
+Sumamry: (12:11 - 1st) (Shotgun) D.Carr pass short middle to M.Thomas to TEN 33 for 12 yards (S.Murphy-Bunting).
+1 & 10 on TEN 33
+Sumamry: (11:34 - 1st) (Shotgun) D.Carr pass deep right to R.Shaheed pushed ob at TEN 11 for 22 yards (K.Byard) [D.Autry].
+1 & 10 on TEN 11
+Sumamry: (11:13 - 1st) J.Williams right guard to TEN 8 for 3 yards (K.Peko; K.Byard).
+2 & 7 on TEN 8
+Sumamry: (10:32 - 1st) (Shotgun) D.Carr pass incomplete short right to M.Thomas.
+3 & 7 on TEN 8
+Sumamry: (10:25 - 1st) (Shotgun) D.Carr pass incomplete short middle to M.Thomas.
+4 & 7 on TEN 8
+Sumamry: (10:18 - 1st) B.Grupe 26 yard field goal is GOOD, Center-Z.Wood, Holder-L.Hedley.
+===============
+Drive4
+Possession: Tennessee Titans
+Result: Field Goal
+NO: 3
+TEN: 6
+Plays: 11
+Yards: 66
+Time: 7:11
+Sumamry: (10:18 - 1st) B.Grupe kicks 65 yards from NO 35 to end zone, Touchback.
+1 & 10 on TEN 25
+Sumamry: (10:18 - 1st) D.Henry left guard to TEN 31 for 6 yards (M.Lattimore).
+2 & 4 on TEN 31
+Sumamry: (9:41 - 1st) (Shotgun) D.Henry left guard to TEN 37 for 6 yards (P.Werner; T.Mathieu).
+1 & 10 on TEN 37
+Sumamry: (8:59 - 1st) (Shotgun) R.Tannehill sacked at TEN 37 for 0 yards (sack split by C.Jordan and C.Granderson).
+2 & 10 on TEN 37
+Sumamry: (8:16 - 1st) D.Henry left tackle to TEN 43 for 6 yards (P.Werner).
+3 & 4 on TEN 43
+Sumamry: (7:33 - 1st) (Shotgun) R.Tannehill pass short right to T.Spears to TEN 45 for 2 yards (P.Werner). PENALTY on NO-A.Taylor, Defensive Holding, 5 yards, enforced at TEN 43 - No Play.
+1 & 10 on TEN 48
+Sumamry: (7:11 - 1st) PENALTY on TEN-C.Okonkwo, False Start, 5 yards, enforced at TEN 48 - No Play.
+1 & 15 on TEN 43
+Sumamry: (6:47 - 1st) (Shotgun) R.Tannehill pass short middle to D.Hopkins to NO 48 for 9 yards (M.Lattimore).
+2 & 6 on NO 48
+Sumamry: (6:05 - 1st) D.Henry right end to NO 30 for 18 yards (D.Davis).
+1 & 10 on NO 30
+Sumamry: (5:20 - 1st) R.Tannehill pass short left to D.Hopkins to NO 15 for 15 yards (M.Maye).
+1 & 10 on NO 15
+Sumamry: (4:34 - 1st) (Shotgun) R.Tannehill pass incomplete short left to T.Spears.
+2 & 10 on NO 15
+Sumamry: (4:29 - 1st) (Shotgun) Direct snap to D.Henry.  D.Henry left end to NO 12 for 3 yards (T.Mathieu).
+3 & 7 on NO 12
+Sumamry: (4:29 - 1st) (Shotgun) R.Tannehill pass short right to N.Westbrook-Ikhine to NO 9 for 3 yards (A.Taylor) [T.Kpassagnon].
+4 & 4 on NO 9
+Sumamry: (3:07 - 1st) Nick Folk 27 Yd Field Goal 
+Sumamry: (3:07 - 1st) Timeout at 03:07.
+===============
+Drive5
+Possession: New Orleans Saints
+Result: Punt
+NO: 3
+TEN: 6
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (3:07 - 1st) N.Folk kicks 63 yards from TEN 35 to NO 2. R.Shaheed to NO 28 for 26 yards (A.Kendall).
+1 & 10 on NO 28
+Sumamry: (3:01 - 1st) (Shotgun) D.Carr pass short left to R.Shaheed to NO 27 for -1 yards (A.Hooker).
+2 & 11 on NO 27
+Sumamry: (2:25 - 1st) PENALTY on NO-C.Olave, False Start, 5 yards, enforced at NO 27 - No Play.
+2 & 16 on NO 22
+Sumamry: (2:10 - 1st) (Shotgun) D.Carr pass short left to J.Johnson to NO 26 for 4 yards (K.Fulton, A.Hooker).
+3 & 12 on NO 26
+Sumamry: (1:36 - 1st) (Shotgun) D.Carr pass incomplete deep left to C.Olave.
+4 & 12 on NO 26
+Sumamry: (1:30 - 1st) L.Hedley punts 51 yards to TEN 23, Center-Z.Wood, out of bounds.
+Sumamry: (1:22 - 1st) Timeout at 01:22.
+===============
+Drive6
+Possession: Tennessee Titans
+Result: Punt
+NO: 3
+TEN: 6
+Plays: 3
+Yards: 2
+Time: 1:22
+1 & 10 on TEN 23
+Sumamry: (1:22 - 1st) (Shotgun) R.Tannehill pass incomplete short left to N.Westbrook-Ikhine (M.Lattimore) [T.Kpassagnon].
+2 & 10 on TEN 23
+Sumamry: (1:18 - 1st) D.Henry left tackle to TEN 24 for 1 yard (M.Roach; P.Turner).
+3 & 9 on TEN 24
+Sumamry: (0:37 - 1st) (Shotgun) R.Tannehill scrambles left end pushed ob at TEN 25 for 1 yard (D.Davis).
+4 & 8 on TEN 25
+Sumamry: (0:01 - 1st) R.Stonehouse punts 62 yards to NO 13, Center-M.Cox. R.Shaheed ran ob at NO 13 for no gain.
+===============
+Drive7
+Possession: New Orleans Saints
+Result: Punt
+NO: 3
+TEN: 6
+Plays: 5
+Yards: 23
+Time: 3:16
+1 & 10 on NO 13
+Sumamry: (15:00 - 2nd) J.Williams left guard to NO 14 for 1 yard (T.Tart).
+2 & 9 on NO 14
+Sumamry: (14:27 - 2nd) (Shotgun) D.Carr pass short middle to C.Olave to NO 31 for 17 yards (E.Molden).
+1 & 10 on NO 31
+Sumamry: (13:50 - 2nd) J.Williams right end pushed ob at NO 37 for 6 yards (A.Hooker).
+2 & 4 on NO 37
+Sumamry: (13:15 - 2nd) D.Carr sacked at NO 31 for -6 yards (A.Key). TEN-K.Fulton was injured during the play. His return is Questionable.
+Sumamry: (12:42 - 2nd) Timeout at 12:42.
+3 & 10 on NO 31
+Sumamry: (12:38 - 2nd) (Shotgun) D.Carr pass short middle to J.Johnson to NO 36 for 5 yards (A.Al-Shaair) [D.Autry].
+4 & 5 on NO 36
+Sumamry: (11:55 - 2nd) L.Hedley punts 52 yards to TEN 12, Center-Z.Wood. K.Jackson to TEN 23 for 11 yards (T.Hill, D.Jackson).
+===============
+Drive8
+Possession: Tennessee Titans
+Result: Punt
+NO: 3
+TEN: 6
+Plays: 3
+Yards: 4
+Time: 1:50
+1 & 10 on TEN 23
+Sumamry: (11:44 - 2nd) (Shotgun) D.Henry left end to TEN 26 for 3 yards (D.Davis).
+2 & 7 on TEN 26
+Sumamry: (11:01 - 2nd) D.Henry right tackle to TEN 27 for 1 yard (C.Jordan; P.Werner).
+3 & 6 on TEN 27
+Sumamry: (10:18 - 2nd) (Shotgun) R.Tannehill pass incomplete short right to N.Westbrook-Ikhine (A.Taylor). NO-P.Turner was injured during the play. His return is Probable.
+Sumamry: (10:10 - 2nd) Timeout at 10:10.
+4 & 6 on TEN 27
+Sumamry: (10:01 - 2nd) R.Stonehouse punts 1 yard to TEN 28, Center-M.Cox, out of bounds.
+===============
+Drive9
+Possession: New Orleans Saints
+Result: Field Goal
+NO: 6
+TEN: 6
+Plays: 7
+Yards: 14
+Time: 2:17
+1 & 10 on TEN 28
+Sumamry: (9:54 - 2nd) D.Carr scrambles right tackle to TEN 21 for 7 yards (J.Gibbens).
+2 & 3 on TEN 21
+Sumamry: (9:07 - 2nd) (Shotgun) D.Carr pass short left to C.Olave to TEN 19 for 2 yards (J.Gibbens).
+3 & 1 on TEN 19
+Sumamry: (8:35 - 2nd) J.Williams left guard to TEN 14 for 5 yards (J.Simmons; J.Gibbens). INJURY UPDATE: Titans 26-K.Fulton, hamstring, QUESTIONABLE to return.
+1 & 10 on TEN 14
+Sumamry: (7:59 - 2nd) (Shotgun) D.Carr pass incomplete short right to R.Shaheed. New Orleans challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+Sumamry: (7:50 - 2nd) Timeout at 07:50.
+2 & 10 on TEN 14
+Sumamry: (7:50 - 2nd) (Shotgun) D.Carr pass incomplete short left to T.Hill.
+3 & 10 on TEN 14
+Sumamry: (7:44 - 2nd) (Shotgun) D.Carr pass incomplete short middle to M.Thomas (A.Key). Tennessee challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+4 & 10 on TEN 14
+Sumamry: (7:37 - 2nd) B.Grupe 33 yard field goal is GOOD, Center-Z.Wood, Holder-L.Hedley.
+Sumamry: (7:37 - 2nd) Timeout at 07:37.
+===============
+Drive10
+Possession: Tennessee Titans
+Result: Interception
+NO: 6
+TEN: 6
+Plays: 3
+Yards: 5
+Time: 1:1
+Sumamry: (7:37 - 2nd) B.Grupe kicks 65 yards from NO 35 to end zone, Touchback.
+1 & 10 on TEN 25
+Sumamry: (7:37 - 2nd) R.Tannehill pass incomplete deep left to D.Hopkins (M.Lattimore).
+2 & 10 on TEN 25
+Sumamry: (7:31 - 2nd) D.Henry right tackle to TEN 30 for 5 yards (D.Davis).
+3 & 5 on TEN 30
+Sumamry: (6:48 - 2nd) (Shotgun) R.Tannehill pass deep right intended for D.Hopkins INTERCEPTED by M.Lattimore [C.Granderson] at NO 41. M.Lattimore to NO 41 for no gain (D.Hopkins).
+===============
+Drive11
+Possession: New Orleans Saints
+Result: Punt
+NO: 6
+TEN: 6
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on NO 41
+Sumamry: (6:36 - 2nd) J.Williams right end to NO 43 for 2 yards (E.Molden).
+2 & 8 on NO 43
+Sumamry: (6:00 - 2nd) (Shotgun) D.Carr sacked at NO 36 for -7 yards (sack split by A.Key and D.Autry).
+3 & 15 on NO 36
+Sumamry: (5:17 - 2nd) (Shotgun) D.Carr sacked at NO 33 for -3 yards (J.Simmons).
+4 & 18 on NO 33
+Sumamry: (4:40 - 2nd) L.Hedley punts 49 yards to TEN 18, Center-Z.Wood. K.Jackson to TEN 30 for 12 yards (D.Jackson; Z.Wood).
+===============
+Drive12
+Possession: Tennessee Titans
+Result: Field Goal
+NO: 6
+TEN: 9
+Plays: 7
+Yards: 57
+Time: 2:49
+1 & 10 on TEN 30
+Sumamry: (4:29 - 2nd) R.Tannehill pass short left to D.Henry to NO 24 for 46 yards (M.Maye).
+1 & 10 on NO 24
+Sumamry: (3:43 - 2nd) T.Burks left end to NO 15 for 9 yards (M.Maye).
+2 & 1 on NO 15
+Sumamry: (3:01 - 2nd) D.Henry left tackle to NO 13 for 2 yards (P.Werner; M.Maye).
+1 & 10 on NO 13
+Sumamry: (2:16 - 2nd) (Shotgun) R.Tannehill pass incomplete short right to D.Hopkins (C.Jordan).
+2 & 10 on NO 13
+Sumamry: (2:12 - 2nd) D.Henry left end pushed ob at NO 11 for 2 yards (T.Mathieu; D.Davis). PENALTY on TEN-A.Brewer, Offensive Holding, 10 yards, enforced at NO 13 - No Play.
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+2 & 20 on NO 23
+Sumamry: (2:00 - 2nd) R.Tannehill pass short right to D.Henry to NO 13 for 10 yards (A.Taylor; P.Werner).
+Sumamry: (1:49 - 2nd) Timeout #2 by NO at 01:49.
+3 & 10 on NO 13
+Sumamry: (1:49 - 2nd) (Shotgun) R.Tannehill pass incomplete short right [B.Bresee].
+4 & 10 on NO 13
+Sumamry: (1:40 - 2nd) N.Folk 31 yard field goal is GOOD, Center-M.Cox, Holder-R.Stonehouse. Penalty on NO, Illegal Formation, declined.
+===============
+Drive13
+Possession: New Orleans Saints
+Result: Interception
+NO: 6
+TEN: 9
+Plays: 6
+Yards: 44
+Time: 1:10
+Sumamry: (1:40 - 2nd) N.Folk kicks 65 yards from TEN 35 to end zone, Touchback.
+1 & 10 on NO 25
+Sumamry: (1:40 - 2nd) (Shotgun) D.Carr pass short right to J.Johnson to TEN 48 for 27 yards (E.Molden, K.Byard) [H.Landry].
+1 & 10 on TEN 48
+Sumamry: (1:18 - 2nd) (No Huddle, Shotgun) D.Carr pass short middle to R.Shaheed to TEN 40 for 8 yards (K.Byard).
+2 & 2 on TEN 40
+Sumamry: (1:00 - 2nd) (No Huddle, Shotgun) D.Carr pass short right to C.Olave pushed ob at TEN 33 for 7 yards (K.Vildor). The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.
+1 & 10 on TEN 33
+Sumamry: (1:00 - 2nd) (Shotgun) D.Carr sacked at TEN 40 for -7 yards (D.Autry).
+Sumamry: (0:55 - 2nd) Timeout #3 by NO at 00:55.
+2 & 17 on TEN 40
+Sumamry: (0:55 - 2nd) (Shotgun) D.Carr pass short left to M.Thomas to TEN 31 for 9 yards (K.Byard).
+3 & 8 on TEN 31
+Sumamry: (0:37 - 2nd) (No Huddle, Shotgun) D.Carr pass deep middle intended for J.Johnson INTERCEPTED by A.Hooker at TEN 12. A.Hooker to TEN 22 for 10 yards (J.Johnson).
+===============
+Drive14
+Possession: Tennessee Titans
+Result: End of Half
+NO: 6
+TEN: 9
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on TEN 22
+Sumamry: (0:30 - 2nd) (Shotgun) R.Tannehill sacked at TEN 14 for -8 yards (sack split by B.Bresee and P.Werner).
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive15
+Possession: Tennessee Titans
+Result: Interception
+NO: 6
+TEN: 9
+Plays: 4
+Yards: 28
+Time: 2:5
+Sumamry: (15:00 - 3rd) B.Grupe kicks 65 yards from NO 35 to end zone, Touchback.
+1 & 10 on TEN 25
+Sumamry: (15:00 - 3rd) (Shotgun) R.Tannehill pass short left to D.Hopkins to TEN 29 for 4 yards (P.Werner).
+2 & 6 on TEN 29
+Sumamry: (14:26 - 3rd) D.Henry left tackle to TEN 36 for 7 yards (C.Jordan).
+1 & 10 on TEN 36
+Sumamry: (13:48 - 3rd) (Shotgun) T.Spears left end pushed ob at NO 47 for 17 yards (D.Davis).
+1 & 10 on NO 47
+Sumamry: (13:06 - 3rd) R.Tannehill pass deep left intended for C.Moore INTERCEPTED by M.Maye (I.Yiadom) at NO 1. M.Maye to NO 6 for 5 yards (C.Moore).
+Sumamry: (12:55 - 3rd) Timeout at 12:55.
+===============
+Drive16
+Possession: New Orleans Saints
+Result: Field Goal
+NO: 9
+TEN: 9
+Plays: 7
+Yards: 60
+Time: 3:30
+1 & 10 on NO 6
+Sumamry: (12:55 - 3rd) J.Williams right tackle to NO 10 for 4 yards (N.Jones; A.Al-Shaair).
+2 & 6 on NO 10
+Sumamry: (12:23 - 3rd) (Shotgun) J.Williams left guard to NO 13 for 3 yards (E.Molden; T.Tart).
+3 & 3 on NO 13
+Sumamry: (11:44 - 3rd) (Shotgun) D.Carr pass deep left to C.Olave pushed ob at TEN 42 for 45 yards (K.Byard).
+1 & 10 on TEN 42
+Sumamry: (11:04 - 3rd) (Shotgun) Direct snap to T.Hill.  T.Hill right guard to TEN 38 for 4 yards (J.Gibbens).
+2 & 6 on TEN 38
+Sumamry: (10:28 - 3rd) T.Jones right end to TEN 33 for 5 yards (S.Murphy-Bunting).
+3 & 1 on TEN 33
+Sumamry: (9:47 - 3rd) J.Williams right tackle to TEN 34 for -1 yards (J.Gibbens, A.Al-Shaair). Penalty on NO-E.McCoy, Offensive Holding, declined.
+4 & 2 on TEN 34
+Sumamry: (9:25 - 3rd) B.Grupe 52 yard field goal is GOOD, Center-Z.Wood, Holder-L.Hedley.
+Sumamry: (9:25 - 3rd) Timeout at 09:25.
+===============
+Drive17
+Possession: Tennessee Titans
+Result: Punt
+NO: 9
+TEN: 9
+Plays: 4
+Yards: 9
+Time: 2:10
+Sumamry: (9:25 - 3rd) B.Grupe kicks 65 yards from NO 35 to end zone, Touchback.
+1 & 10 on TEN 25
+Sumamry: (9:25 - 3rd) (Shotgun) R.Tannehill pass short middle to T.Burks to TEN 39 for 14 yards (P.Adebo).
+1 & 10 on TEN 39
+Sumamry: (8:48 - 3rd) (Shotgun) R.Tannehill pass short left to T.Burks to TEN 43 for 4 yards (M.Maye).
+2 & 6 on TEN 43
+Sumamry: (8:08 - 3rd) (Shotgun) R.Tannehill pass incomplete short middle to T.Burks.
+3 & 6 on TEN 43
+Sumamry: (8:04 - 3rd) (Shotgun) R.Tannehill sacked at TEN 34 for -9 yards (C.Granderson).
+4 & 15 on TEN 34
+Sumamry: (7:27 - 3rd) R.Stonehouse punts 44 yards to NO 22, Center-M.Cox. R.Shaheed ran ob at NO 45 for 23 yards (M.Rice). PENALTY on NO-L.Johnson, Offensive Holding, 10 yards, enforced at NO 28.
+Sumamry: (7:15 - 3rd) Timeout at 07:15.
+===============
+Drive18
+Possession: New Orleans Saints
+Result: Punt
+NO: 9
+TEN: 9
+Plays: 5
+Yards: 26
+Time: 2:37
+1 & 10 on NO 18
+Sumamry: (7:15 - 3rd) (Shotgun) J.Williams right guard to NO 19 for 1 yard (D.Autry).
+2 & 9 on NO 19
+Sumamry: (6:43 - 3rd) (Shotgun) D.Carr pass short left to M.Thomas to NO 26 for 7 yards (A.Al-Shaair).
+3 & 2 on NO 26
+Sumamry: (6:06 - 3rd) (Shotgun) D.Carr pass incomplete short left to J.Johnson (R.McCreary). PENALTY on TEN-A.Al-Shaair, Roughing the Passer, 15 yards, enforced at NO 26 - No Play.
+1 & 10 on NO 41
+Sumamry: (5:58 - 3rd) (Shotgun) D.Carr pass short right to C.Olave pushed ob at NO 47 for 6 yards (K.Byard).
+2 & 4 on NO 47
+Sumamry: (5:27 - 3rd) J.Williams left guard to NO 44 for -3 yards (T.Tart).
+3 & 7 on NO 44
+Sumamry: (4:50 - 3rd) (Shotgun) D.Carr pass incomplete short left to J.Johnson (A.Hooker).
+4 & 7 on NO 44
+Sumamry: (4:46 - 3rd) L.Hedley punts 45 yards to TEN 11, Center-Z.Wood. K.Jackson to TEN 11 for no gain (L.Johnson).
+Sumamry: (4:38 - 3rd) Timeout at 04:38.
+===============
+Drive19
+Possession: Tennessee Titans
+Result: Interception
+NO: 9
+TEN: 9
+Plays: 3
+Yards: 5
+Time: 1:30
+1 & 10 on TEN 11
+Sumamry: (4:38 - 3rd) (Shotgun) T.Spears right guard to TEN 13 for 2 yards (C.Granderson; T.Mathieu).
+2 & 8 on TEN 13
+Sumamry: (3:56 - 3rd) (Shotgun) R.Tannehill pass short right to D.Hopkins to TEN 16 for 3 yards (A.Taylor).
+3 & 5 on TEN 16
+Sumamry: (3:13 - 3rd) (Shotgun) R.Tannehill pass deep right intended for D.Hopkins INTERCEPTED by P.Adebo at TEN 33. P.Adebo pushed ob at TEN 33 for no gain (D.Hopkins).
+===============
+Drive20
+Possession: New Orleans Saints
+Result: Touchdown
+NO: 16
+TEN: 9
+Plays: 5
+Yards: 33
+Time: 1:45
+1 & 10 on TEN 33
+Sumamry: (3:08 - 3rd) (Shotgun) Direct snap to T.Hill.  T.Hill left end pushed ob at TEN 29 for 4 yards (T.Tart).
+2 & 6 on TEN 29
+Sumamry: (2:41 - 3rd) (Shotgun) D.Carr pass short right to C.Olave pushed ob at TEN 22 for 7 yards (E.Molden).
+1 & 10 on TEN 22
+Sumamry: (2:10 - 3rd) J.Williams right guard to TEN 19 for 3 yards (S.Murphy-Bunting).
+2 & 7 on TEN 19
+Sumamry: (1:33 - 3rd) D.Carr pass incomplete deep right to K.Kirkwood.
+3 & 7 on TEN 19
+Sumamry: (1:23 - 3rd) (Shotgun) D.Carr pass deep right to R.Shaheed for 19 yards, TOUCHDOWN.B.Grupe extra point is GOOD, Center-Z.Wood, Holder-L.Hedley.
+===============
+Drive21
+Possession: Tennessee Titans
+Result: Field Goal
+NO: 16
+TEN: 12
+Plays: 12
+Yards: 48
+Time: 5:11
+Sumamry: (1:23 - 3rd) B.Grupe kicks 65 yards from NO 35 to end zone, Touchback.
+1 & 10 on TEN 25
+Sumamry: (1:23 - 3rd) D.Henry left tackle to TEN 28 for 3 yards (T.Kpassagnon).
+2 & 7 on TEN 28
+Sumamry: (0:45 - 3rd) (Shotgun) PENALTY on TEN-T.Burks, False Start, 5 yards, enforced at TEN 28 - No Play.
+2 & 12 on TEN 23
+Sumamry: (0:25 - 3rd) (Shotgun) R.Tannehill scrambles up the middle to TEN 25 for 2 yards (M.Roach; D.Davis).
+3 & 10 on TEN 25
+Sumamry: (15:00 - 4th) (Shotgun) R.Tannehill pass deep middle to D.Hopkins to TEN 41 for 16 yards (P.Adebo).
+1 & 10 on TEN 41
+Sumamry: (14:20 - 4th) (Shotgun) R.Tannehill pass short right to D.Hopkins pushed ob at NO 47 for 12 yards (A.Taylor).
+1 & 10 on NO 47
+Sumamry: (13:43 - 4th) (Shotgun) R.Tannehill pass incomplete deep right to C.Okonkwo.
+2 & 10 on NO 47
+Sumamry: (13:37 - 4th) (Shotgun) R.Tannehill pass short middle to N.Westbrook-Ikhine to NO 37 for 10 yards (P.Werner).
+1 & 10 on NO 37
+Sumamry: (13:00 - 4th) D.Henry left guard to NO 33 for 4 yards (C.Jordan).
+2 & 6 on NO 33
+Sumamry: (12:17 - 4th) R.Tannehill pass incomplete short right to D.Hopkins.
+3 & 6 on NO 33
+Sumamry: (12:11 - 4th) (Shotgun) R.Tannehill pass incomplete short middle to N.Westbrook-Ikhine. NO-A.Taylor was injured during the play. His return is Probable.  PENALTY on NO-P.Adebo, Defensive Holding, 5 yards, enforced at NO 33 - No Play.
+Sumamry: (12:06 - 4th) Timeout at 12:06.
+1 & 10 on NO 28
+Sumamry: (12:06 - 4th) R.Tannehill pass incomplete short right to D.Henry (C.Jordan).
+2 & 10 on NO 28
+Sumamry: (12:01 - 4th) (Shotgun) R.Tannehill pass short left to T.Spears to NO 27 for 1 yard (T.Mathieu).
+3 & 9 on NO 27
+Sumamry: (11:20 - 4th) (Shotgun) R.Tannehill pass incomplete short right to D.Hopkins (U.Amadi).
+4 & 9 on NO 27
+Sumamry: (11:12 - 4th) N.Folk 45 yard field goal is GOOD, Center-M.Cox, Holder-R.Stonehouse.
+Sumamry: (11:12 - 4th) Timeout at 11:12.
+===============
+Drive22
+Possession: New Orleans Saints
+Result: Punt
+NO: 16
+TEN: 12
+Plays: 8
+Yards: 30
+Time: 4:30
+Sumamry: (11:12 - 4th) N.Folk kicks 68 yards from TEN 35 to NO -3. R.Shaheed to NO 13 for 16 yards (A.Kendall).
+1 & 10 on NO 13
+Sumamry: (11:09 - 4th) J.Williams right guard to NO 15 for 2 yards (D.Autry, E.Molden).
+2 & 8 on NO 15
+Sumamry: (10:34 - 4th) (Shotgun) D.Carr pass short middle to C.Olave to NO 28 for 13 yards (E.Molden).
+1 & 10 on NO 28
+Sumamry: (9:55 - 4th) (Shotgun) Direct snap to T.Hill.  T.Hill left end ran ob at NO 24 for -4 yards (J.Simmons).
+2 & 14 on NO 24
+Sumamry: (9:18 - 4th) (Shotgun) J.Williams right guard to NO 27 for 3 yards (T.Tart; A.Key).
+3 & 11 on NO 27
+Sumamry: (8:41 - 4th) (Shotgun) D.Carr pass short right to C.Olave pushed ob at NO 42 for 15 yards (S.Murphy-Bunting).
+1 & 10 on NO 42
+Sumamry: (8:03 - 4th) (Shotgun) J.Williams left guard to NO 46 for 4 yards (A.Key; A.Al-Shaair).
+2 & 6 on NO 46
+Sumamry: (7:29 - 4th) PENALTY on NO-R.Ramczyk, False Start, 5 yards, enforced at NO 46 - No Play.
+2 & 11 on NO 41
+Sumamry: (7:29 - 4th) (Shotgun) D.Carr pass short right to J.Williams to NO 43 for 2 yards (K.Byard; K.Peko). TEN-K.Peko was injured during the play.
+Sumamry: (7:15 - 4th) Timeout at 07:15.
+3 & 9 on NO 43
+Sumamry: (6:59 - 4th) (Shotgun) D.Carr pass incomplete deep right to C.Olave (E.Molden).
+4 & 9 on NO 43
+Sumamry: (6:51 - 4th) L.Hedley punts 44 yards to TEN 13, Center-Z.Wood. K.Jackson to TEN 27 for 14 yards (I.Yiadom, A.Prentice).
+===============
+Drive23
+Possession: Tennessee Titans
+Result: Field Goal
+NO: 16
+TEN: 15
+Plays: 9
+Yards: 62
+Time: 4:25
+1 & 10 on TEN 27
+Sumamry: (6:42 - 4th) (Shotgun) T.Spears left tackle to TEN 35 for 8 yards (M.Maye).
+2 & 2 on TEN 35
+Sumamry: (6:01 - 4th) R.Tannehill pass incomplete deep left to T.Spears.
+3 & 2 on TEN 35
+Sumamry: (5:53 - 4th) (Shotgun) R.Tannehill pass short right to N.Westbrook-Ikhine to NO 44 for 21 yards (D.Davis).
+1 & 10 on NO 44
+Sumamry: (5:16 - 4th) D.Henry left guard to NO 44 for no gain (D.Davis, C.Jordan).
+2 & 10 on NO 44
+Sumamry: (4:36 - 4th) (Shotgun) R.Tannehill pass short left to N.Westbrook-Ikhine to NO 20 for 24 yards (T.Mathieu).
+1 & 10 on NO 20
+Sumamry: (3:48 - 4th) (Shotgun) R.Tannehill pass incomplete short middle to C.Okonkwo. PENALTY on NO-M.Maye, Defensive Pass Interference, 5 yards, enforced at NO 20 - No Play.
+1 & 10 on NO 15
+Sumamry: (3:45 - 4th) D.Henry right end to NO 17 for -2 yards (D.Davis, A.Taylor).
+2 & 12 on NO 17
+Sumamry: (3:01 - 4th) (Shotgun) R.Tannehill pass incomplete short left to N.Westbrook-Ikhine (M.Lattimore).
+3 & 12 on NO 17
+Sumamry: (2:56 - 4th) (Shotgun) R.Tannehill pass short middle to D.Hopkins to NO 11 for 6 yards (D.Davis).
+4 & 6 on NO 11
+Sumamry: (2:17 - 4th) N.Folk 29 yard field goal is GOOD, Center-M.Cox, Holder-R.Stonehouse.
+===============
+Drive24
+Possession: New Orleans Saints
+Result: End of Game
+NO: 16
+TEN: 15
+Plays: 9
+Yards: 59
+Time: 2:17
+Sumamry: (2:17 - 4th) N.Folk kicks 63 yards from TEN 35 to NO 2. R.Shaheed to NO 29 for 27 yards (J.Gibbens; A.Kendall).
+1 & 10 on NO 29
+Sumamry: (2:12 - 4th) R.Shaheed left end to NO 41 for 12 yards (E.Molden). PENALTY on NO-K.Kirkwood, Offensive Holding, 10 yards, enforced at NO 34.
+1 & 15 on NO 24
+Sumamry: (2:05 - 4th) J.Williams right guard to NO 25 for 1 yard (J.Gibbens).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+2 & 14 on NO 25
+Sumamry: (2:00 - 4th) (Shotgun) D.Carr pass short left to M.Thomas to NO 33 for 8 yards (S.Murphy-Bunting; A.Hooker). TEN-A.Hooker was injured during the play.
+Sumamry: (1:55 - 4th) Timeout #1 by TEN at 01:55.
+3 & 6 on NO 33
+Sumamry: (1:55 - 4th) (Shotgun) D.Carr pass deep left to R.Shaheed ran ob at TEN 26 for 41 yards. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.
+1 & 10 on TEN 26
+Sumamry: (1:50 - 4th) J.Williams right guard to TEN 26 for no gain (A.Al-Shaair; J.Simmons).
+Sumamry: (1:46 - 4th) Timeout #2 by TEN at 01:46.
+2 & 10 on TEN 26
+Sumamry: (1:46 - 4th) R.Shaheed right end to TEN 20 for 6 yards (J.Simmons).
+Sumamry: (1:39 - 4th) Timeout #3 by TEN at 01:39.
+3 & 4 on TEN 20
+Sumamry: (1:39 - 4th) J.Williams right tackle to TEN 9 for 11 yards (K.Byard, S.Murphy-Bunting). FUMBLES (S.Murphy-Bunting), and recovers at TEN 9. J.Williams to TEN 9 for no gain (J.Gibbens).
+Sumamry: (0:00 - 4th) END GAME
+===============

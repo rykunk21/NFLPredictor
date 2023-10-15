@@ -1,0 +1,527 @@
+Drive1
+Possession: Minnesota Vikings
+Result: Punt
+MIN: 0
+TB: 0
+Plays: 3
+Yards: 3
+Time: 0:48
+Sumamry: (15:00 - 1st) J.Camarda kicks 65 yards from TB 35 to end zone, Touchback.
+1 & 10 on MIN 25
+Sumamry: (15:00 - 1st) (Shotgun) A.Mattison up the middle to MIN 33 for 8 yards (A.Winfield; D.White).
+2 & 2 on MIN 33
+Sumamry: (14:32 - 1st) (No Huddle) K.Cousins pass incomplete short left to J.Jefferson (A.Winfield) [A.Winfield].
+3 & 2 on MIN 33
+Sumamry: (14:27 - 1st) (Shotgun) PENALTY on MIN-B.O'Neill, False Start, 5 yards, enforced at MIN 33 - No Play.
+3 & 7 on MIN 28
+Sumamry: (14:27 - 1st) (Shotgun) K.Cousins pass incomplete short middle to J.Jefferson [C.Kancey].
+4 & 7 on MIN 28
+Sumamry: (14:23 - 1st) R.Wright punts 52 yards to TB 20, Center-A.DePaola. D.Thompkins to TB 33 for 13 yards (A.DePaola; D.Wonnum).
+===============
+Drive2
+Possession: Tampa Bay Buccaneers
+Result: Punt
+MIN: 0
+TB: 0
+Plays: 3
+Yards: 2
+Time: 0:36
+1 & 10 on TB 33
+Sumamry: (14:12 - 1st) (Shotgun) B.Mayfield pass incomplete short right to K.Kieft (D.Hunter).
+2 & 10 on TB 33
+Sumamry: (14:09 - 1st) B.Mayfield pass incomplete deep left to K.Kieft.
+3 & 10 on TB 33
+Sumamry: (14:04 - 1st) (Shotgun) B.Mayfield pass short right to R.White pushed ob at TB 35 for 2 yards (M.Blackmon). Penalty on TB-L.Goedeke, Offensive Holding, declined.
+4 & 8 on TB 35
+Sumamry: (13:45 - 1st) J.Camarda punts 53 yards to MIN 12, Center-Z.Triner. B.Powell to MIN 13 for 1 yard (Z.McCollum).
+Sumamry: (13:36 - 1st) Timeout at 13:36.
+===============
+Drive3
+Possession: Minnesota Vikings
+Result: Fumble
+MIN: 0
+TB: 0
+Plays: 9
+Yards: 60
+Time: 5:17
+1 & 10 on MIN 13
+Sumamry: (13:36 - 1st) A.Mattison up the middle to MIN 16 for 3 yards (D.White).
+2 & 7 on MIN 16
+Sumamry: (12:57 - 1st) (Shotgun) K.Cousins pass short right to J.Jefferson to MIN 24 for 8 yards (L.David, C.Davis).
+1 & 10 on MIN 24
+Sumamry: (12:12 - 1st) (Shotgun) K.Cousins pass short middle to C.Ham to MIN 25 for 1 yard (D.White).
+2 & 9 on MIN 25
+Sumamry: (11:32 - 1st) (Shotgun) K.Cousins pass deep left to J.Jefferson to TB 45 for 30 yards (R.Neal).
+1 & 10 on TB 45
+Sumamry: (10:33 - 1st) K.Cousins pass incomplete short left to C.Ham.
+2 & 10 on TB 45
+Sumamry: (10:29 - 1st) (Shotgun) K.Cousins pass short middle to T.Hockenson to TB 34 for 11 yards (A.Nelson; D.White).
+1 & 10 on TB 34
+Sumamry: (9:47 - 1st) K.Cousins pass short left to A.Mattison to TB 31 for 3 yards (L.David).
+2 & 7 on TB 31
+Sumamry: (9:09 - 1st) A.Mattison left end to TB 26 for 5 yards (A.Nelson).
+3 & 2 on TB 26
+Sumamry: (8:23 - 1st) K.Cousins FUMBLES (Aborted) at TB 26, touched at TB 27, RECOVERED by TB-J.Tryon at TB 24. J.Tryon to TB 25 for 1 yard.
+Sumamry: (8:19 - 1st) Timeout at 08:19.
+===============
+Drive4
+Possession: Tampa Bay Buccaneers
+Result: Punt
+MIN: 0
+TB: 0
+Plays: 5
+Yards: 14
+Time: 2:5
+1 & 10 on TB 25
+Sumamry: (8:17 - 1st) (Shotgun) R.White left guard to TB 29 for 4 yards (D.Hunter).
+2 & 6 on TB 29
+Sumamry: (7:42 - 1st) B.Mayfield pass short right to C.Godwin pushed ob at TB 35 for 6 yards (B.Murphy).
+1 & 10 on TB 35
+Sumamry: (7:11 - 1st) (No Huddle, Shotgun) B.Mayfield pass short left to C.Godwin to TB 39 for 4 yards (C.Bynum; D.Wonnum).
+2 & 6 on TB 39
+Sumamry: (6:32 - 1st) (Shotgun) B.Mayfield pass short middle to C.Otton to MIN 47 for 14 yards (A.Evans). FUMBLES (A.Evans), recovered by TB-T.Palmer at MIN 43. Minnesota challenged the pass completion ruling, and the play was REVERSED. (Shotgun) B.Mayfield pass incomplete short middle to C.Otton (A.Evans).
+Sumamry: (6:29 - 1st) Timeout at 06:29.
+3 & 6 on TB 39
+Sumamry: (6:29 - 1st) (Shotgun) B.Mayfield pass incomplete deep right to M.Evans.
+4 & 6 on TB 39
+Sumamry: (6:22 - 1st) J.Camarda punts 42 yards to MIN 19, Center-Z.Triner. B.Powell to MIN 26 for 7 yards (C.Gill).
+===============
+Drive5
+Possession: Minnesota Vikings
+Result: Fumble
+MIN: 0
+TB: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on MIN 26
+Sumamry: (6:14 - 1st) A.Mattison left guard to MIN 29 for 3 yards (J.Tryon, V.Vea).
+2 & 7 on MIN 29
+Sumamry: (5:44 - 1st) (No Huddle) K.Cousins pass short right to J.Oliver to MIN 30 for 1 yard (D.White).
+3 & 6 on MIN 30
+Sumamry: (5:04 - 1st) (Shotgun) K.Cousins sacked at MIN 21 for -9 yards (A.Winfield). FUMBLES (A.Winfield) [A.Winfield], touched at MIN 20, RECOVERED by TB-A.Winfield at MIN 18.
+===============
+Drive6
+Possession: Tampa Bay Buccaneers
+Result: Field Goal
+MIN: 0
+TB: 3
+Plays: 4
+Yards: 0
+Time: 1:35
+1 & 10 on MIN 18
+Sumamry: (4:58 - 1st) (Shotgun) B.Mayfield pass incomplete short middle to K.Kieft.
+2 & 10 on MIN 18
+Sumamry: (4:54 - 1st) R.White left guard to MIN 14 for 4 yards (J.Hicks; B.Asamoah).
+3 & 6 on MIN 14
+Sumamry: (4:10 - 1st) (Shotgun) B.Mayfield sacked at MIN 18 for -4 yards (D.Hunter).
+4 & 10 on MIN 18
+Sumamry: (3:23 - 1st) C.McLaughlin 36 yard field goal is GOOD, Center-Z.Triner, Holder-J.Camarda.
+Sumamry: (3:23 - 1st) Timeout at 03:23.
+===============
+Drive7
+Possession: Minnesota Vikings
+Result: Punt
+MIN: 0
+TB: 3
+Plays: 3
+Yards: 8
+Time: 2:18
+Sumamry: (3:23 - 1st) J.Camarda kicks 63 yards from TB 35 to MIN 2. T.Chandler to MIN 17 for 15 yards (Z.McCollum).
+1 & 10 on MIN 17
+Sumamry: (3:20 - 1st) (Shotgun) K.Cousins pass short left to C.Ham to MIN 23 for 6 yards (D.White, C.Davis).
+2 & 4 on MIN 23
+Sumamry: (2:39 - 1st) A.Mattison left end to MIN 25 for 2 yards (R.Neal, D.White).
+3 & 2 on MIN 25
+Sumamry: (1:56 - 1st) (Shotgun) K.Cousins pass short right to J.Addison to MIN 25 for no gain (C.Izien).
+4 & 2 on MIN 25
+Sumamry: (1:14 - 1st) R.Wright punts 55 yards to TB 20, Center-A.DePaola. D.Thompkins pushed ob at TB 20 for no gain (N.Thompson). PENALTY on TB-S.Dennis, Offensive Holding, 10 yards, enforced at TB 20.
+Sumamry: (1:05 - 1st) Timeout at 01:05.
+===============
+Drive8
+Possession: Tampa Bay Buccaneers
+Result: Punt
+MIN: 0
+TB: 3
+Plays: 3
+Yards: 7
+Time: 1:57
+1 & 10 on TB 10
+Sumamry: (1:05 - 1st) R.White left guard to TB 16 for 6 yards (C.Bynum).
+2 & 4 on TB 16
+Sumamry: (0:32 - 1st) (No Huddle) R.White right guard to TB 16 for no gain (J.Bullard, T.Dye).
+3 & 4 on TB 16
+Sumamry: (15:00 - 2nd) (Shotgun) R.White left end to TB 17 for 1 yard (C.Bynum).
+4 & 3 on TB 17
+Sumamry: (14:21 - 2nd) J.Camarda punts 63 yards to MIN 20, Center-Z.Triner. B.Powell to MIN 35 for 15 yards (K.Merriweather). PENALTY on MIN-J.Nailor, Offensive Holding, 10 yards, enforced at MIN 27.
+Sumamry: (14:08 - 2nd) Timeout at 14:08.
+===============
+Drive9
+Possession: Minnesota Vikings
+Result: Touchdown
+MIN: 7
+TB: 3
+Plays: 6
+Yards: 83
+Time: 2:53
+1 & 10 on MIN 17
+Sumamry: (14:08 - 2nd) K.Cousins pass deep middle to J.Jefferson to MIN 42 for 25 yards (A.Winfield).
+1 & 10 on MIN 42
+Sumamry: (13:32 - 2nd) T.Chandler left end to MIN 44 for 2 yards (D.White, J.Dean). TB-D.White was injured during the play.
+Sumamry: (13:07 - 2nd) Timeout at 13:07.
+2 & 8 on MIN 44
+Sumamry: (12:54 - 2nd) K.Cousins pass short left to T.Chandler to TB 38 for 18 yards (V.Vea).
+1 & 10 on TB 38
+Sumamry: (12:16 - 2nd) (No Huddle) T.Chandler right end to TB 41 for -3 yards (L.Hall).
+2 & 13 on TB 41
+Sumamry: (11:43 - 2nd) (Shotgun) K.Cousins pass short right to T.Hockenson to TB 39 for 2 yards (L.David).
+3 & 11 on TB 39
+Sumamry: (11:15 - 2nd) (No Huddle, Shotgun) K.Cousins pass deep middle to J.Addison for 39 yards, TOUCHDOWN. Penalty on TB-J.Dean, Illegal Contact, declined.G.Joseph extra point is GOOD, Center-A.DePaola, Holder-R.Wright.
+Sumamry: (11:15 - 2nd) Timeout at 11:15.
+===============
+Drive10
+Possession: Tampa Bay Buccaneers
+Result: Punt
+MIN: 7
+TB: 3
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (11:15 - 2nd) G.Joseph kicks 70 yards from MIN 35 to TB -5. D.Thompkins pushed ob at TB 18 for 23 yards (J.Metellus).
+1 & 10 on TB 18
+Sumamry: (11:11 - 2nd) S.Tucker left end to TB 23 for 5 yards (I.Pace, A.Evans).
+2 & 5 on TB 23
+Sumamry: (10:31 - 2nd) B.Mayfield pass incomplete short left.
+3 & 5 on TB 23
+Sumamry: (10:27 - 2nd) (Shotgun) B.Mayfield scrambles right end pushed ob at TB 24 for 1 yard (J.Metellus).
+4 & 4 on TB 24
+Sumamry: (9:49 - 2nd) (Punt formation) PENALTY on TB, Delay of Game, 5 yards, enforced at TB 24 - No Play.
+4 & 9 on TB 19
+Sumamry: (9:36 - 2nd) J.Camarda punts 50 yards to MIN 31, Center-Z.Triner, downed by TB-Z.Triner.
+Sumamry: (9:24 - 2nd) Timeout at 09:24.
+===============
+Drive11
+Possession: Minnesota Vikings
+Result: Field Goal
+MIN: 10
+TB: 3
+Plays: 9
+Yards: 62
+Time: 3:43
+1 & 10 on MIN 31
+Sumamry: (9:24 - 2nd) K.Cousins pass deep left to K.Osborn to 50 for 19 yards (J.Dean).
+1 & 10 on 50
+Sumamry: (8:54 - 2nd) (No Huddle) K.Cousins pass short left to J.Jefferson pushed ob at TB 45 for 5 yards (C.Davis).
+2 & 5 on TB 45
+Sumamry: (8:20 - 2nd) (Shotgun) A.Mattison left guard to TB 41 for 4 yards (S.Barrett).
+3 & 1 on TB 41
+Sumamry: (7:43 - 2nd) K.Cousins pass short right to J.Jefferson pushed ob at TB 19 for 22 yards (C.Davis).
+1 & 10 on TB 19
+Sumamry: (7:08 - 2nd) K.Cousins pass short left to J.Oliver pushed ob at TB 6 for 13 yards (A.Winfield; J.Dean).
+1 & 6 on TB 6
+Sumamry: (6:37 - 2nd) K.Cousins pass incomplete short left to K.Osborn.
+3 & 7 on TB 7
+Sumamry: (5:48 - 2nd) (Shotgun) K.Cousins pass incomplete short right to J.Addison [J.Tryon].
+Sumamry: (5:41 - 2nd) Timeout at 05:41.
+===============
+Drive12
+Possession: Tampa Bay Buccaneers
+Result: Punt
+MIN: 10
+TB: 3
+Plays: 3
+Yards: 5
+Time: 0:46
+Sumamry: (5:41 - 2nd) G.Joseph kicks 65 yards from MIN 35 to end zone, Touchback.
+1 & 10 on TB 25
+Sumamry: (5:41 - 2nd) R.White right tackle to TB 30 for 5 yards (D.Lowry).
+2 & 5 on TB 30
+Sumamry: (5:14 - 2nd) (No Huddle, Shotgun) B.Mayfield pass incomplete short left to T.Palmer.
+3 & 5 on TB 30
+Sumamry: (5:10 - 2nd) (No Huddle, Shotgun) B.Mayfield pass incomplete short right.
+4 & 5 on TB 30
+Sumamry: (5:04 - 2nd) J.Camarda punts 59 yards to MIN 11, Center-Z.Triner. B.Powell to MIN 14 for 3 yards (J.Hayes).
+===============
+Drive13
+Possession: Minnesota Vikings
+Result: Punt
+MIN: 10
+TB: 3
+Plays: 3
+Yards: 9
+Time: 2:16
+1 & 10 on MIN 14
+Sumamry: (4:55 - 2nd) T.Chandler left tackle to MIN 15 for 1 yard (S.Barrett; D.White).
+2 & 9 on MIN 15
+Sumamry: (4:19 - 2nd) K.Cousins pass short right to T.Hockenson to MIN 17 for 2 yards (S.Barrett).
+3 & 7 on MIN 17
+Sumamry: (3:32 - 2nd) (Shotgun) K.Cousins pass short left to K.Osborn to MIN 23 for 6 yards (R.Neal).
+4 & 1 on MIN 23
+Sumamry: (2:45 - 2nd) R.Wright punts 38 yards to TB 39, Center-A.DePaola, out of bounds.
+===============
+Drive14
+Possession: Tampa Bay Buccaneers
+Result: Touchdown
+MIN: 10
+TB: 10
+Plays: 7
+Yards: 61
+Time: 1:30
+1 & 10 on TB 39
+Sumamry: (2:39 - 2nd) R.White left end to TB 38 for -1 yards (D.Hunter, J.Hicks).
+2 & 11 on TB 38
+Sumamry: (2:13 - 2nd) (No Huddle, Shotgun) R.White up the middle to TB 42 for 4 yards (D.Lowry, D.Hunter).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+3 & 7 on TB 42
+Sumamry: (2:00 - 2nd) (Shotgun) PENALTY on MIN-P.Jones, Neutral Zone Infraction, 5 yards, enforced at TB 42 - No Play.
+3 & 2 on TB 47
+Sumamry: (2:00 - 2nd) (Shotgun) B.Mayfield pass short right to C.Godwin to MIN 39 for 14 yards (J.Metellus).
+1 & 10 on MIN 39
+Sumamry: (1:41 - 2nd) (No Huddle, Shotgun) B.Mayfield pass short left to M.Evans pushed ob at MIN 30 for 9 yards (J.Metellus).
+2 & 1 on MIN 30
+Sumamry: (1:37 - 2nd) (No Huddle, Shotgun) R.White right guard to MIN 28 for 2 yards (I.Pace, D.Hunter).
+1 & 10 on MIN 28
+Sumamry: (1:18 - 2nd) (No Huddle, Shotgun) B.Mayfield pass incomplete deep right to D.Thompkins (J.Metellus).
+2 & 10 on MIN 28
+Sumamry: (1:09 - 2nd) (Shotgun) B.Mayfield pass deep middle to M.Evans for 28 yards, TOUCHDOWN.C.McLaughlin extra point is GOOD, Center-Z.Triner, Holder-J.Camarda.
+===============
+Drive15
+Possession: Minnesota Vikings
+Result: Interception
+MIN: 10
+TB: 10
+Plays: 6
+Yards: 62
+Time: 0:53
+Sumamry: (1:09 - 2nd) J.Camarda kicks 65 yards from TB 35 to end zone, Touchback.
+1 & 10 on MIN 25
+Sumamry: (1:09 - 2nd) (Shotgun) K.Cousins pass incomplete deep right to J.Jefferson.
+2 & 10 on MIN 25
+Sumamry: (1:04 - 2nd) (Shotgun) K.Cousins pass short right to J.Jefferson pushed ob at MIN 31 for 6 yards (C.Davis).
+3 & 4 on MIN 31
+Sumamry: (1:00 - 2nd) (Shotgun) K.Cousins pass short right to T.Hockenson to MIN 36 for 5 yards (J.Dean).
+Sumamry: (0:54 - 2nd) Timeout #1 by MIN at 00:54.
+1 & 10 on MIN 36
+Sumamry: (0:53 - 2nd) (Shotgun) K.Cousins pass deep middle to J.Jefferson to TB 22 for 42 yards (A.Winfield).
+1 & 10 on TB 22
+Sumamry: (0:27 - 2nd) (No Huddle) K.Cousins pass short right to J.Addison to TB 13 for 9 yards (R.Neal).
+Sumamry: (0:23 - 2nd) Timeout #2 by MIN at 00:23.
+2 & 1 on TB 13
+Sumamry: (0:23 - 2nd) (Shotgun) K.Cousins pass short left intended for K.Osborn INTERCEPTED by C.Izien at TB 2. C.Izien to TB 16 for 14 yards (J.Jefferson).
+===============
+Drive16
+Possession: Tampa Bay Buccaneers
+Result: End of Half
+MIN: 10
+TB: 10
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on TB 16
+Sumamry: (0:15 - 2nd) (Shotgun) C.Edmonds right guard to TB 21 for 5 yards (D.Wonnum; H.Phillips).
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive17
+Possession: Tampa Bay Buccaneers
+Result: Touchdown
+MIN: 10
+TB: 17
+Plays: 16
+Yards: 75
+Time: 8:59
+Sumamry: (15:00 - 3rd) G.Joseph kicks 65 yards from MIN 35 to end zone, Touchback.
+1 & 10 on TB 25
+Sumamry: (15:00 - 3rd) R.White left tackle to TB 27 for 2 yards (H.Phillips).
+2 & 8 on TB 27
+Sumamry: (14:19 - 3rd) R.White right guard to TB 29 for 2 yards (H.Phillips; D.Wonnum).
+3 & 6 on TB 29
+Sumamry: (13:40 - 3rd) (Shotgun) B.Mayfield pass short right to M.Evans to TB 40 for 11 yards (H.Smith, C.Bynum).
+1 & 10 on TB 40
+Sumamry: (12:57 - 3rd) B.Mayfield pass short middle to R.White pushed ob at TB 48 for 8 yards (C.Bynum).
+2 & 2 on TB 48
+Sumamry: (12:20 - 3rd) (No Huddle) C.Edmonds up the middle to MIN 49 for 3 yards (H.Smith, C.Bynum).
+1 & 10 on MIN 49
+Sumamry: (11:35 - 3rd) B.Mayfield pass short left to S.Tucker to MIN 46 for 3 yards (I.Pace).
+2 & 7 on MIN 46
+Sumamry: (10:56 - 3rd) B.Mayfield pass short left to C.Otton to MIN 33 for 13 yards (H.Phillips, C.Bynum) [I.Pace].
+1 & 10 on MIN 33
+Sumamry: (10:12 - 3rd) (Shotgun) S.Tucker right tackle to MIN 32 for 1 yard (D.Hunter).
+2 & 9 on MIN 32
+Sumamry: (9:30 - 3rd) S.Tucker up the middle to MIN 29 for 3 yards (I.Pace, D.Hunter).
+3 & 6 on MIN 29
+Sumamry: (8:55 - 3rd) (Shotgun) B.Mayfield pass short left to D.Thompkins to MIN 21 for 8 yards (A.Evans, B.Murphy).
+1 & 10 on MIN 21
+Sumamry: (8:18 - 3rd) (Shotgun) B.Mayfield pass incomplete short left to M.Evans.
+2 & 10 on MIN 21
+Sumamry: (8:16 - 3rd) (Shotgun) B.Mayfield pass short middle to D.Thompkins to MIN 19 for 2 yards (J.Metellus).
+3 & 8 on MIN 19
+Sumamry: (7:33 - 3rd) (Shotgun) B.Mayfield pass short right to C.Otton to MIN 13 for 6 yards (C.Bynum).
+4 & 2 on MIN 13
+Sumamry: (6:47 - 3rd) C.McLaughlin 31 yard field goal is GOOD, NULLIFIED by Penalty, Center-Z.Triner, Holder-J.Camarda. PENALTY on MIN-J.Ward, Defensive Offside, 5 yards, enforced at MIN 13 - No Play.
+2 & 7 on MIN 7
+Sumamry: (6:09 - 3rd) B.Mayfield pass incomplete short right to C.Godwin.
+Sumamry: (6:01 - 3rd) Timeout at 06:01.
+===============
+Drive18
+Possession: Minnesota Vikings
+Result: Touchdown
+MIN: 17
+TB: 17
+Plays: 16
+Yards: 75
+Time: 7:24
+Sumamry: (6:01 - 3rd) J.Camarda kicks 65 yards from TB 35 to end zone, Touchback.
+1 & 10 on MIN 25
+Sumamry: (6:01 - 3rd) A.Mattison left guard to MIN 27 for 2 yards (V.Vea).
+2 & 8 on MIN 27
+Sumamry: (5:19 - 3rd) (Shotgun) K.Cousins pass short left to J.Jefferson to MIN 32 for 5 yards (R.Neal, L.David).
+3 & 3 on MIN 32
+Sumamry: (4:40 - 3rd) (Shotgun) K.Cousins pass short right to T.Hockenson to MIN 40 for 8 yards (C.Izien).
+1 & 10 on MIN 40
+Sumamry: (4:11 - 3rd) (No Huddle, Shotgun) A.Mattison up the middle to MIN 49 for 9 yards (A.Winfield, R.Neal).
+2 & 1 on MIN 49
+Sumamry: (3:50 - 3rd) (No Huddle) K.Cousins up the middle to TB 48 for 3 yards (D.White).
+1 & 10 on TB 48
+Sumamry: (3:16 - 3rd) K.Cousins pass short right to J.Oliver pushed ob at TB 30 for 18 yards (J.Dean).
+1 & 10 on TB 30
+Sumamry: (2:37 - 3rd) (Shotgun) K.Cousins sacked at TB 36 for -6 yards (A.Nelson).
+2 & 16 on TB 36
+Sumamry: (1:54 - 3rd) (Shotgun) K.Cousins pass short right to A.Mattison to TB 33 for 3 yards (M.Greene).
+3 & 13 on TB 33
+Sumamry: (1:29 - 3rd) (No Huddle, Shotgun) K.Cousins pass short left to J.Addison to TB 20 for 13 yards (C.Davis).
+1 & 10 on TB 20
+Sumamry: (0:56 - 3rd) (No Huddle) K.Cousins pass incomplete short middle to T.Hockenson [S.Barrett].
+2 & 10 on TB 20
+Sumamry: (0:52 - 3rd) (Shotgun) PENALTY on MIN-C.Darrisaw, False Start, 5 yards, enforced at TB 20 - No Play.
+2 & 15 on TB 25
+Sumamry: (0:50 - 3rd) (Shotgun) K.Cousins pass short middle to T.Hockenson to TB 11 for 14 yards (A.Winfield; L.David) [S.Barrett].
+3 & 1 on TB 11
+Sumamry: (0:09 - 3rd) A.Mattison up the middle to TB 9 for 2 yards (S.Barrett).
+1 & 9 on TB 9
+Sumamry: (15:00 - 4th) (Shotgun) K.Cousins pass incomplete short right to A.Mattison.
+Sumamry: (14:37 - 4th) Timeout at 14:37.
+Sumamry: (13:37 - 4th) Timeout at 13:37.
+===============
+Drive19
+Possession: Tampa Bay Buccaneers
+Result: Punt
+MIN: 17
+TB: 17
+Plays: 5
+Yards: 15
+Time: 2:26
+Sumamry: (13:37 - 4th) G.Joseph kicks 65 yards from MIN 35 to end zone, Touchback.
+1 & 10 on TB 25
+Sumamry: (13:37 - 4th) B.Mayfield pass short middle to S.Tucker to TB 31 for 6 yards (H.Smith).
+2 & 4 on TB 31
+Sumamry: (12:58 - 4th) S.Tucker left end to TB 35 for 4 yards (J.Metellus).
+1 & 10 on TB 35
+Sumamry: (12:17 - 4th) (Shotgun) S.Tucker left tackle to TB 37 for 2 yards (H.Phillips).
+2 & 8 on TB 37
+Sumamry: (11:38 - 4th) B.Mayfield pass incomplete short middle to M.Evans (H.Phillips).
+Sumamry: (11:34 - 4th) Timeout #1 by TB at 11:34.
+3 & 8 on TB 37
+Sumamry: (11:34 - 4th) (Shotgun) B.Mayfield scrambles left end ran ob at TB 40 for 3 yards (A.Evans). Penalty on TB-R.Hainsey, Offensive Holding, declined.
+4 & 5 on TB 40
+Sumamry: (11:21 - 4th) J.Camarda punts 60 yards to end zone, Center-Z.Triner, Touchback.
+Sumamry: (11:11 - 4th) Timeout at 11:11.
+===============
+Drive20
+Possession: Minnesota Vikings
+Result: Punt
+MIN: 17
+TB: 17
+Plays: 3
+Yards: 3
+Time: 1:15
+1 & 10 on MIN 20
+Sumamry: (11:11 - 4th) K.Cousins pass short left to T.Hockenson to MIN 17 for -3 yards (D.White) [A.Nelson].
+2 & 13 on MIN 17
+Sumamry: (10:33 - 4th) (Shotgun) K.Cousins pass short right to K.Osborn to MIN 23 for 6 yards (A.Winfield; C.Izien) [A.Nelson].
+3 & 7 on MIN 23
+Sumamry: (10:08 - 4th) (No Huddle, Shotgun) K.Cousins pass incomplete short right to K.Osborn.
+4 & 7 on MIN 23
+Sumamry: (10:03 - 4th) R.Wright punts 54 yards to TB 23, Center-A.DePaola. D.Thompkins to TB 23 for no gain (J.Nailor).
+Sumamry: (9:56 - 4th) Timeout at 09:56.
+===============
+Drive21
+Possession: Tampa Bay Buccaneers
+Result: Field Goal
+MIN: 17
+TB: 20
+Plays: 10
+Yards: 38
+Time: 4:46
+1 & 10 on TB 23
+Sumamry: (9:56 - 4th) (Shotgun) B.Mayfield pass short left to M.Evans to TB 29 for 6 yards (A.Evans, H.Smith).
+2 & 4 on TB 29
+Sumamry: (9:18 - 4th) R.White up the middle to TB 32 for 3 yards (H.Phillips).
+3 & 1 on TB 32
+Sumamry: (8:46 - 4th) (No Huddle) R.White up the middle to TB 32 for no gain (J.Bullard). Tampa Bay challenged the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)
+4 & 1 on TB 32
+Sumamry: (8:18 - 4th) B.Mayfield up the middle to TB 33 for 1 yard (H.Phillips).
+1 & 10 on TB 33
+Sumamry: (7:50 - 4th) (Shotgun) B.Mayfield right end to TB 38 for 5 yards (B.Murphy).
+2 & 5 on TB 38
+Sumamry: (7:09 - 4th) (Shotgun) B.Mayfield pass short right to C.Godwin to MIN 46 for 16 yards (B.Murphy; C.Bynum).
+1 & 10 on MIN 46
+Sumamry: (6:29 - 4th) (No Huddle, Shotgun) B.Mayfield pass short left to M.Evans to MIN 40 for 6 yards (A.Evans).
+2 & 4 on MIN 40
+Sumamry: (6:00 - 4th) (No Huddle, Shotgun) B.Mayfield pass incomplete deep left to M.Evans (A.Evans).
+3 & 4 on MIN 40
+Sumamry: (5:56 - 4th) (Shotgun) B.Mayfield pass short right to T.Palmer to MIN 39 for 1 yard (C.Bynum, B.Murphy).
+Sumamry: (5:15 - 4th) Timeout #1 by MIN at 05:15.
+4 & 3 on MIN 39
+Sumamry: (5:10 - 4th) C.McLaughlin 57 yard field goal is GOOD, Center-Z.Triner, Holder-J.Camarda.
+===============
+Drive22
+Possession: Minnesota Vikings
+Result: Punt
+MIN: 17
+TB: 20
+Plays: 3
+Yards: 3
+Time: 1:18
+Sumamry: (5:10 - 4th) J.Camarda kicks 65 yards from TB 35 to end zone, Touchback.
+1 & 10 on MIN 25
+Sumamry: (5:10 - 4th) K.Cousins pass short left to T.Hockenson to MIN 21 for -4 yards (L.David, L.Hall).
+2 & 14 on MIN 21
+Sumamry: (4:32 - 4th) (Shotgun) K.Cousins pass short left to J.Jefferson to MIN 28 for 7 yards (L.David).
+3 & 7 on MIN 28
+Sumamry: (4:07 - 4th) (No Huddle, Shotgun) K.Cousins pass incomplete short right to J.Addison (C.Davis).
+4 & 7 on MIN 28
+Sumamry: (3:52 - 4th) R.Wright punts 58 yards to TB 14, Center-A.DePaola. D.Thompkins to TB 30 for 16 yards (B.Asamoah).
+===============
+Drive23
+Possession: Tampa Bay Buccaneers
+Result: End of Game
+MIN: 17
+TB: 20
+Plays: 10
+Yards: 39
+Time: 3:52
+1 & 10 on TB 30
+Sumamry: (3:52 - 4th) R.White up the middle to TB 35 for 5 yards (I.Pace; D.Lowry). PENALTY on MIN-D.Lowry, Face Mask, 15 yards, enforced at TB 35.
+1 & 10 on 50
+Sumamry: (3:47 - 4th) B.Mayfield pass short right to M.Evans to MIN 44 for 6 yards (B.Murphy; J.Hicks).
+Sumamry: (3:44 - 4th) Timeout #2 by MIN at 03:44.
+2 & 4 on MIN 44
+Sumamry: (3:44 - 4th) R.White left guard to MIN 43 for 1 yard (K.Tonga; I.Pace).
+Sumamry: (3:39 - 4th) Timeout #3 by MIN at 03:39.
+3 & 3 on MIN 43
+Sumamry: (3:39 - 4th) B.Mayfield scrambles right end to MIN 39 for 4 yards (I.Pace).
+1 & 10 on MIN 39
+Sumamry: (2:52 - 4th) R.White right tackle to MIN 39 for no gain (H.Phillips; J.Bullard).
+2 & 10 on MIN 39
+Sumamry: (2:09 - 4th) R.Jarrett right end to MIN 39 for no gain (I.Pace).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+3 & 10 on MIN 39
+Sumamry: (2:00 - 4th) (Shotgun) B.Mayfield pass short right to C.Godwin ran ob at MIN 28 for 11 yards.
+1 & 10 on MIN 28
+Sumamry: (1:55 - 4th) B.Mayfield kneels to MIN 29 for -1 yards.
+2 & 11 on MIN 29
+Sumamry: (1:16 - 4th) B.Mayfield kneels to MIN 30 for -1 yards.
+3 & 12 on MIN 30
+Sumamry: (0:39 - 4th) B.Mayfield kneels to MIN 31 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

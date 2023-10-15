@@ -1,0 +1,506 @@
+Drive1
+Possession: Miami Dolphins
+Result: Fumble
+LAC: 0
+MIA: 0
+Plays: 5
+Yards: 69
+Time: 2:58
+Sumamry: (15:00 - 1st) C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback.
+1 & 10 on MIA 25
+Sumamry: (15:00 - 1st) T.Tagovailoa FUMBLES (Aborted) at MIA 23, and recovers at MIA 21. T.Tagovailoa to MIA 21 for no gain (J.Bosa). PENALTY on LAC-J.Bosa, Defensive Offside, 5 yards, enforced at MIA 25 - No Play.
+1 & 5 on MIA 30
+Sumamry: (14:40 - 1st) (Shotgun) T.Tagovailoa pass short left to T.Hill pushed ob at MIA 46 for 16 yards (A.Gilman).
+1 & 10 on MIA 46
+Sumamry: (14:07 - 1st) (Shotgun) T.Tagovailoa pass short middle to J.Waddle pushed ob at LAC 19 for 35 yards (J.Woods).
+1 & 10 on LAC 19
+Sumamry: (13:31 - 1st) (Shotgun) S.Ahmed left end to LAC 14 for 5 yards (M.Davis).
+2 & 5 on LAC 14
+Sumamry: (12:51 - 1st) (Shotgun) E.Ezukanma right end to LAC 2 for 12 yards (J.Bosa).
+Sumamry: (12:02 - 1st) Timeout at 12:02.
+===============
+Drive2
+Possession: Los Angeles Chargers
+Result: Touchdown
+LAC: 7
+MIA: 0
+Plays: 14
+Yards: 94
+Time: 7:23
+1 & 10 on LAC 6
+Sumamry: (12:02 - 1st) (Shotgun) A.Ekeler left tackle to LAC 12 for 6 yards (D.Elliott, J.Phillips).
+2 & 4 on LAC 12
+Sumamry: (11:25 - 1st) (Shotgun) J.Herbert pass incomplete short left to K.Allen.
+3 & 4 on LAC 12
+Sumamry: (11:20 - 1st) (Shotgun) J.Herbert scrambles up the middle to LAC 17 for 5 yards (D.Elliott).
+1 & 10 on LAC 17
+Sumamry: (10:39 - 1st) J.Kelley left guard to LAC 21 for 4 yards (J.Phillips).
+2 & 6 on LAC 21
+Sumamry: (9:58 - 1st) (Shotgun) J.Herbert pass deep left to K.Allen pushed ob at MIA 43 for 36 yards (D.Elliott).
+1 & 10 on MIA 43
+Sumamry: (9:23 - 1st) (Shotgun) A.Ekeler left tackle to MIA 37 for 6 yards (A.Van Ginkel).
+2 & 4 on MIA 37
+Sumamry: (8:48 - 1st) G.Everett right end to MIA 35 for 2 yards (E.Apple; J.Holland).
+3 & 2 on MIA 35
+Sumamry: (8:09 - 1st) J.Herbert scrambles right end ran ob at MIA 30 for 5 yards (A.Van Ginkel).
+1 & 10 on MIA 30
+Sumamry: (7:33 - 1st) (Shotgun) A.Ekeler up the middle to MIA 24 for 6 yards (J.Baker; J.Holland).
+2 & 4 on MIA 24
+Sumamry: (6:56 - 1st) (Shotgun) J.Kelley left tackle to MIA 18 for 6 yards (J.Baker).
+1 & 10 on MIA 18
+Sumamry: (6:17 - 1st) (Shotgun) J.Kelley up the middle to MIA 8 for 10 yards (D.Elliott).
+Sumamry: (4:39 - 1st) Timeout at 04:39.
+===============
+Drive3
+Possession: Miami Dolphins
+Result: Touchdown
+LAC: 7
+MIA: 7
+Plays: 9
+Yards: 75
+Time: 3:24
+Sumamry: (4:39 - 1st) C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback.
+1 & 10 on MIA 25
+Sumamry: (4:39 - 1st) (Shotgun) T.Tagovailoa pass incomplete deep left to T.Hill (J.Jackson).
+2 & 10 on MIA 25
+Sumamry: (4:33 - 1st) (Shotgun) T.Tagovailoa pass short middle to R.Cracraft to MIA 49 for 24 yards (J.Woods) [S.Joseph].
+1 & 10 on MIA 49
+Sumamry: (3:58 - 1st) R.Mostert left tackle to LAC 41 for 10 yards (J.Woods, A.Gilman).
+1 & 10 on LAC 41
+Sumamry: (3:16 - 1st) (Shotgun) R.Mostert right end to LAC 34 for 7 yards (M.Davis).
+2 & 3 on LAC 34
+Sumamry: (2:36 - 1st) (Shotgun) T.Tagovailoa pass incomplete deep left to D.Smythe.
+3 & 3 on LAC 34
+Sumamry: (2:31 - 1st) (Shotgun) E.Ezukanma left end pushed ob at LAC 27 for 7 yards (A.Gilman). PENALTY on MIA-C.Williams, Offensive Holding, 10 yards, enforced at LAC 29.
+3 & 8 on LAC 39
+Sumamry: (2:10 - 1st) (Shotgun) T.Tagovailoa pass short left to B.Berrios to LAC 28 for 11 yards (A.Samuel; M.Davis). PENALTY on LAC-J.Bosa, Face Mask, 14 yards, enforced at LAC 28.
+1 & 10 on LAC 14
+Sumamry: (1:43 - 1st) R.Mostert right guard to LAC 2 for 12 yards (A.Gilman).
+Sumamry: (1:15 - 1st) Timeout at 01:15.
+===============
+Drive4
+Possession: Los Angeles Chargers
+Result: Punt
+LAC: 7
+MIA: 7
+Plays: 3
+Yards: 3
+Time: 1:29
+Sumamry: (1:15 - 1st) J.Sanders kicks 65 yards from MIA 35 to end zone, Touchback.
+1 & 10 on LAC 25
+Sumamry: (1:15 - 1st) (Shotgun) J.Herbert pass short right to M.Williams to LAC 28 for 3 yards (J.Holland, K.Kohou).
+2 & 7 on LAC 28
+Sumamry: (0:39 - 1st) (Shotgun) J.Herbert pass short middle to D.Davis to LAC 33 for 5 yards (J.Phillips).
+3 & 2 on LAC 33
+Sumamry: (15:00 - 2nd) (Shotgun) PENALTY on LAC-Z.Johnson, False Start, 5 yards, enforced at LAC 33 - No Play.
+3 & 7 on LAC 28
+Sumamry: (15:00 - 2nd) (Shotgun) J.Herbert pass incomplete short right to J.Kelley.
+4 & 7 on LAC 28
+Sumamry: (14:54 - 2nd) J.Scott punts 49 yards to MIA 23, Center-J.Harris, fair catch by B.Berrios.
+Sumamry: (14:46 - 2nd) Timeout at 14:46.
+===============
+Drive5
+Possession: Miami Dolphins
+Result: Field Goal
+LAC: 7
+MIA: 10
+Plays: 8
+Yards: 72
+Time: 3:3
+1 & 10 on MIA 23
+Sumamry: (14:45 - 2nd) (Shotgun) T.Tagovailoa pass deep middle to T.Hill to LAC 48 for 29 yards (A.Gilman).
+1 & 10 on LAC 48
+Sumamry: (14:02 - 2nd) T.Tagovailoa pass deep left to T.Hill to LAC 20 for 28 yards (M.Davis).
+1 & 10 on LAC 20
+Sumamry: (13:19 - 2nd) R.Mostert up the middle to LAC 20 for no gain (E.Kendricks).
+2 & 10 on LAC 20
+Sumamry: (12:36 - 2nd) (Shotgun) T.Tagovailoa pass short left to A.Ingold to LAC 5 for 15 yards (J.Woods).
+3 & 5 on LAC 5
+Sumamry: (11:50 - 2nd) (Shotgun) T.Tagovailoa pass incomplete short left to D.Smythe (D.James).
+Sumamry: (11:43 - 2nd) Timeout at 11:43.
+===============
+Drive6
+Possession: Los Angeles Chargers
+Result: Touchdown
+LAC: 14
+MIA: 10
+Plays: 6
+Yards: 75
+Time: 2:36
+Sumamry: (11:43 - 2nd) J.Sanders kicks 65 yards from MIA 35 to end zone, Touchback.
+1 & 10 on LAC 25
+Sumamry: (11:42 - 2nd) (Shotgun) A.Ekeler right guard to LAC 29 for 4 yards (Z.Sieler; J.Phillips).
+2 & 6 on LAC 29
+Sumamry: (11:09 - 2nd) (Shotgun) J.Herbert pass short middle to A.Ekeler to LAC 36 for 7 yards (J.Baker).
+1 & 10 on LAC 36
+Sumamry: (10:27 - 2nd) A.Ekeler right guard to MIA 9 for 55 yards (J.Holland).
+Sumamry: (9:07 - 2nd) Timeout at 09:07.
+===============
+Drive7
+Possession: Miami Dolphins
+Result: Punt
+LAC: 14
+MIA: 10
+Plays: 3
+Yards: 8
+Time: 0:59
+Sumamry: (9:07 - 2nd) C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback.
+1 & 10 on MIA 25
+Sumamry: (9:07 - 2nd) (Shotgun) T.Tagovailoa pass incomplete deep right to J.Waddle (M.Davis).
+2 & 10 on MIA 25
+Sumamry: (9:01 - 2nd) (Shotgun) S.Ahmed up the middle to MIA 33 for 8 yards (K.Murray).
+3 & 2 on MIA 33
+Sumamry: (8:20 - 2nd) (Shotgun) T.Tagovailoa pass incomplete short middle to D.Smythe (E.Kendricks) [S.Joseph].
+4 & 2 on MIA 33
+Sumamry: (8:16 - 2nd) J.Bailey punts 38 yards to LAC 29, Center-B.Ferguson. D.Davis to LAC 32 for 3 yards (J.Bethel).
+Sumamry: (8:08 - 2nd) Timeout at 08:08.
+===============
+Drive8
+Possession: Los Angeles Chargers
+Result: Punt
+LAC: 14
+MIA: 10
+Plays: 3
+Yards: 6
+Time: 1:34
+1 & 10 on LAC 32
+Sumamry: (8:08 - 2nd) (Shotgun) J.Herbert pass short middle to K.Allen to LAC 39 for 7 yards (X.Howard). LAC-M.Williams was injured during the play.
+Sumamry: (8:01 - 2nd) Timeout at 08:01.
+2 & 3 on LAC 39
+Sumamry: (7:56 - 2nd) (Shotgun) J.Kelley right guard to LAC 40 for 1 yard (C.Wilkins).
+3 & 2 on LAC 40
+Sumamry: (7:21 - 2nd) (Shotgun) J.Herbert pass short middle to Q.Johnston to LAC 38 for -2 yards (B.Chubb, C.Wilkins).
+4 & 4 on LAC 38
+Sumamry: (6:44 - 2nd) J.Scott punts 62 yards to end zone, Center-J.Harris, Touchback.
+===============
+Drive9
+Possession: Miami Dolphins
+Result: Touchdown
+LAC: 14
+MIA: 17
+Plays: 12
+Yards: 80
+Time: 4:52
+1 & 10 on MIA 20
+Sumamry: (6:34 - 2nd) (Shotgun) T.Tagovailoa pass short left to D.Smythe to MIA 38 for 18 yards (A.Gilman, E.Kendricks).
+1 & 10 on MIA 38
+Sumamry: (5:51 - 2nd) (Shotgun) R.Mostert right end to MIA 39 for 1 yard (K.Mack).
+2 & 9 on MIA 39
+Sumamry: (5:07 - 2nd) (Shotgun) T.Tagovailoa pass deep left to D.Smythe to LAC 45 for 16 yards (A.Gilman, K.Murray).
+1 & 10 on LAC 45
+Sumamry: (4:21 - 2nd) PENALTY on MIA-I.Wynn, False Start, 5 yards, enforced at LAC 45 - No Play.
+1 & 15 on 50
+Sumamry: (4:00 - 2nd) (Shotgun) T.Tagovailoa pass short right to J.Waddle to LAC 42 for 8 yards (M.Davis).
+2 & 7 on LAC 42
+Sumamry: (3:18 - 2nd) (Shotgun) T.Tagovailoa pass incomplete short right to D.Smythe (M.Davis).
+Sumamry: (3:14 - 2nd) Timeout #1 by LAC at 03:14.
+3 & 7 on LAC 42
+Sumamry: (3:14 - 2nd) (Shotgun) T.Tagovailoa pass incomplete deep left to T.Hill (J.Jackson).
+4 & 7 on LAC 42
+Sumamry: (3:09 - 2nd) (Shotgun) T.Tagovailoa pass short left to D.Smythe pushed ob at LAC 32 for 10 yards (A.Samuel).
+1 & 10 on LAC 32
+Sumamry: (2:31 - 2nd) (Shotgun) T.Tagovailoa pass incomplete deep right to B.Berrios.
+2 & 10 on LAC 32
+Sumamry: (2:27 - 2nd) (Shotgun) T.Tagovailoa pass deep middle to T.Hill to LAC 13 for 19 yards (E.Kendricks).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+1 & 10 on LAC 13
+Sumamry: (2:00 - 2nd) (Shotgun) T.Tagovailoa pass short right to T.Hill ran ob at LAC 9 for 4 yards (A.Gilman).
+2 & 6 on LAC 9
+Sumamry: (1:55 - 2nd) (Shotgun) T.Tagovailoa pass short middle to T.Hill to LAC 1 for 8 yards (D.James).
+Sumamry: (1:47 - 2nd) Timeout #2 by LAC at 01:47.
+Sumamry: (1:42 - 2nd) Timeout at 01:42.
+===============
+Drive10
+Possession: Los Angeles Chargers
+Result: Field Goal
+LAC: 17
+MIA: 17
+Plays: 10
+Yards: 43
+Time: 1:33
+Sumamry: (1:42 - 2nd) J.Sanders kicks 65 yards from MIA 35 to end zone, Touchback.
+1 & 10 on LAC 25
+Sumamry: (1:42 - 2nd) (Shotgun) J.Herbert pass short left to J.Palmer to LAC 29 for 4 yards (K.Kohou).
+2 & 6 on LAC 29
+Sumamry: (1:26 - 2nd) (No Huddle, Shotgun) J.Herbert pass incomplete short right.
+3 & 6 on LAC 29
+Sumamry: (1:20 - 2nd) (Shotgun) J.Herbert pass short right to K.Allen to LAC 38 for 9 yards (J.Bethel, K.Kohou).
+1 & 10 on LAC 38
+Sumamry: (1:01 - 2nd) (No Huddle, Shotgun) J.Herbert pass short left to Q.Johnston pushed ob at LAC 49 for 11 yards (E.Apple).
+1 & 10 on LAC 49
+Sumamry: (0:57 - 2nd) (Shotgun) J.Herbert pass short right to A.Ekeler pushed ob at 50 for 1 yard (J.Bethel).
+2 & 9 on 50
+Sumamry: (0:51 - 2nd) (Shotgun) J.Herbert pass short middle to D.Parham to MIA 35 for 15 yards (K.Kohou).
+1 & 10 on MIA 35
+Sumamry: (0:31 - 2nd) (No Huddle, Shotgun) J.Herbert pass incomplete deep left to Q.Johnston.
+2 & 10 on MIA 35
+Sumamry: (0:28 - 2nd) (Shotgun) J.Herbert pass incomplete short right to G.Everett.
+3 & 10 on MIA 35
+Sumamry: (0:25 - 2nd) (Shotgun) J.Herbert scrambles right end to MIA 32 for 3 yards (D.Riley).
+Sumamry: (0:14 - 2nd) Timeout #1 by MIA at 00:14.
+4 & 7 on MIA 32
+Sumamry: (0:09 - 2nd) C.Dicker 50 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.
+===============
+Drive11
+Possession: Miami Dolphins
+Result: Field Goal
+LAC: 17
+MIA: 20
+Plays: 2
+Yards: 52
+Time: 0:9
+Sumamry: (0:09 - 2nd) C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback.
+1 & 10 on MIA 25
+Sumamry: (0:09 - 2nd) (Shotgun) T.Tagovailoa pass deep right to J.Waddle ran ob at MIA 47 for 22 yards (M.Davis).
+1 & 10 on MIA 47
+Sumamry: (0:02 - 2nd) (Shotgun) T.Tagovailoa pass incomplete deep left to E.Ezukanma. PENALTY on LAC-J.Jackson, Defensive Pass Interference, 30 yards, enforced at MIA 47 - No Play.
+1 & 10 on LAC 23
+Sumamry: (0:00 - 2nd) J.Sanders 41 yard field goal is GOOD, Center-B.Ferguson, Holder-J.Bailey.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive12
+Possession: Los Angeles Chargers
+Result: Touchdown
+LAC: 24
+MIA: 20
+Plays: 11
+Yards: 75
+Time: 5:41
+Sumamry: (15:00 - 3rd) J.Sanders kicks 65 yards from MIA 35 to end zone, Touchback.
+1 & 10 on LAC 25
+Sumamry: (15:00 - 3rd) (Shotgun) A.Ekeler left guard to LAC 33 for 8 yards (J.Holland, D.Elliott).
+2 & 2 on LAC 33
+Sumamry: (14:39 - 3rd) (No Huddle, Shotgun) J.Herbert scrambles up the middle to LAC 37 for 4 yards (J.Phillips).
+1 & 10 on LAC 37
+Sumamry: (13:58 - 3rd) (Shotgun) J.Herbert pass incomplete deep right to K.Allen.
+2 & 10 on LAC 37
+Sumamry: (13:52 - 3rd) (Shotgun) J.Kelley left tackle to LAC 45 for 8 yards (D.Elliott).
+3 & 2 on LAC 45
+Sumamry: (13:18 - 3rd) (No Huddle, Shotgun) J.Kelley left guard to LAC 48 for 3 yards (B.Chubb).
+1 & 10 on LAC 48
+Sumamry: (12:39 - 3rd) J.Kelley right end to MIA 47 for 5 yards (K.Kohou; E.Ogbah).
+2 & 5 on MIA 47
+Sumamry: (11:59 - 3rd) (Shotgun) J.Kelley right end to MIA 33 for 14 yards (D.Elliott).
+1 & 10 on MIA 33
+Sumamry: (11:19 - 3rd) (Shotgun) A.Ekeler up the middle to MIA 22 for 11 yards (J.Holland; J.Phillips).
+1 & 10 on MIA 22
+Sumamry: (10:46 - 3rd) A.Ekeler right tackle to MIA 18 for 4 yards (J.Baker, R.Davis).
+2 & 6 on MIA 18
+Sumamry: (10:04 - 3rd) (Shotgun) J.Herbert pass incomplete deep right to K.Allen [J.Phillips]. PENALTY on MIA-X.Howard, Defensive Pass Interference, 13 yards, enforced at MIA 18 - No Play.
+Sumamry: (9:19 - 3rd) Timeout at 09:19.
+===============
+Drive13
+Possession: Miami Dolphins
+Result: Interception
+LAC: 24
+MIA: 20
+Plays: 9
+Yards: 49
+Time: 4:48
+Sumamry: (9:19 - 3rd) C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback.
+1 & 10 on MIA 25
+Sumamry: (9:19 - 3rd) R.Mostert up the middle to MIA 28 for 3 yards (K.Mack).
+2 & 7 on MIA 28
+Sumamry: (8:39 - 3rd) T.Tagovailoa scrambles up the middle to MIA 35 for 7 yards (E.Kendricks).
+1 & 10 on MIA 35
+Sumamry: (7:57 - 3rd) R.Mostert left end to MIA 32 for -3 yards (D.James).
+2 & 13 on MIA 32
+Sumamry: (7:13 - 3rd) (Shotgun) T.Tagovailoa pass deep middle to T.Hill ran ob at LAC 38 for 30 yards (A.Gilman).
+1 & 10 on LAC 38
+Sumamry: (6:32 - 3rd) (Shotgun) R.Mostert up the middle to LAC 37 for 1 yard (D.James).
+2 & 9 on LAC 37
+Sumamry: (5:53 - 3rd) (Shotgun) T.Tagovailoa pass short middle to J.Waddle to LAC 24 for 13 yards (A.Gilman; E.Kendricks).
+1 & 10 on LAC 24
+Sumamry: (5:28 - 3rd) S.Ahmed left guard to LAC 26 for -2 yards (T.Tuipulotu).
+2 & 12 on LAC 26
+Sumamry: (4:44 - 3rd) (Shotgun) T.Tagovailoa pass incomplete short middle to R.Cracraft.
+3 & 12 on LAC 26
+Sumamry: (4:39 - 3rd) (Shotgun) T.Tagovailoa pass deep left intended for B.Berrios INTERCEPTED by J.Jackson at LAC -5. J.Jackson pushed ob at LAC 4 for 9 yards (J.Waddle).
+Sumamry: (4:31 - 3rd) Timeout at 04:31.
+===============
+Drive14
+Possession: Los Angeles Chargers
+Result: Punt
+LAC: 24
+MIA: 20
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on LAC 4
+Sumamry: (4:30 - 3rd) (Shotgun) J.Herbert pass short left to M.Williams to LAC 5 for 1 yard (K.Kohou, D.Elliott).
+2 & 9 on LAC 5
+Sumamry: (3:53 - 3rd) (Shotgun) J.Herbert pass short right to K.Allen pushed ob at LAC 13 for 8 yards (K.Kohou).
+3 & 1 on LAC 13
+Sumamry: (3:13 - 3rd) (Shotgun) J.Herbert sacked at LAC 1 for -12 yards (K.Kohou).
+4 & 13 on LAC 1
+Sumamry: (2:25 - 3rd) J.Scott punts 34 yards to LAC 35, Center-J.Harris, fair catch by B.Berrios.
+Sumamry: (2:18 - 3rd) Timeout at 02:18.
+===============
+Drive15
+Possession: Miami Dolphins
+Result: Touchdown
+LAC: 24
+MIA: 27
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on LAC 35
+Sumamry: (2:12 - 3rd) (Shotgun) T.Tagovailoa pass deep right to T.Hill for 35 yards, TOUCHDOWN.J.Sanders extra point is GOOD, Center-B.Ferguson, Holder-J.Bailey.
+Sumamry: (2:12 - 3rd) Timeout at 02:12.
+===============
+Drive16
+Possession: Los Angeles Chargers
+Result: Touchdown
+LAC: 31
+MIA: 27
+Plays: 10
+Yards: 75
+Time: 3:12
+Sumamry: (2:12 - 3rd) J.Sanders kicks 65 yards from MIA 35 to end zone, Touchback.
+1 & 10 on LAC 25
+Sumamry: (2:12 - 3rd) J.Herbert pass incomplete short right to K.Allen (X.Howard).
+2 & 10 on LAC 25
+Sumamry: (2:07 - 3rd) (Shotgun) J.Herbert pass short right to A.Ekeler pushed ob at MIA 40 for 35 yards (D.Elliott).
+1 & 10 on MIA 40
+Sumamry: (1:45 - 3rd) (No Huddle, Shotgun) A.Ekeler right guard to MIA 35 for 5 yards (J.Phillips).
+2 & 5 on MIA 35
+Sumamry: (1:11 - 3rd) (No Huddle, Shotgun) A.Ekeler right tackle to MIA 30 for 5 yards (X.Howard).
+1 & 10 on MIA 30
+Sumamry: (0:31 - 3rd) (Shotgun) J.Herbert pass short left to G.Everett to MIA 19 for 11 yards (D.Elliott).
+1 & 10 on MIA 19
+Sumamry: (0:11 - 3rd) (No Huddle, Shotgun) J.Kelley right guard to MIA 17 for 2 yards (J.Holland).
+2 & 8 on MIA 17
+Sumamry: (15:00 - 4th) (Shotgun) J.Kelley right tackle to MIA 10 for 7 yards (A.Van Ginkel, X.Howard).
+3 & 1 on MIA 10
+Sumamry: (14:42 - 4th) (No Huddle, Shotgun) J.Kelley right tackle to MIA 7 for 3 yards (J.Baker).
+Sumamry: (14:00 - 4th) Timeout at 14:00.
+===============
+Drive17
+Possession: Miami Dolphins
+Result: Field Goal
+LAC: 31
+MIA: 30
+Plays: 9
+Yards: 48
+Time: 3:57
+Sumamry: (14:00 - 4th) C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback.
+1 & 10 on MIA 25
+Sumamry: (14:00 - 4th) (Shotgun) T.Tagovailoa pass incomplete short middle to S.Ahmed (A.Johnson).
+2 & 10 on MIA 25
+Sumamry: (13:56 - 4th) (Shotgun) T.Tagovailoa FUMBLES (Aborted) at MIA 20, and recovers at MIA 20.
+3 & 15 on MIA 20
+Sumamry: (13:04 - 4th) (Shotgun) T.Tagovailoa pass deep left to B.Berrios ran ob at MIA 36 for 16 yards. Penalty on LAC-M.Davis, Defensive Holding, declined.
+1 & 10 on MIA 36
+Sumamry: (12:43 - 4th) (Shotgun) T.Tagovailoa pass short left to A.Ingold to LAC 45 for 19 yards (T.Tuipulotu, E.Kendricks).
+1 & 10 on LAC 45
+Sumamry: (12:00 - 4th) (Shotgun) T.Tagovailoa pass short middle to B.Berrios to LAC 30 for 15 yards (E.Kendricks). Los Angeles Chargers challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+1 & 10 on LAC 30
+Sumamry: (11:38 - 4th) (Shotgun) T.Tagovailoa pass short left to T.Hill to LAC 35 for -5 yards (N.Williams).
+2 & 15 on LAC 35
+Sumamry: (10:54 - 4th) (Shotgun) T.Tagovailoa pass incomplete short right to T.Hill.
+3 & 15 on LAC 35
+Sumamry: (10:50 - 4th) (Shotgun) T.Tagovailoa pass short middle to R.Mostert to LAC 27 for 8 yards (A.Gilman).
+4 & 7 on LAC 27
+Sumamry: (10:03 - 4th) J.Sanders 45 yard field goal is GOOD, Center-B.Ferguson, Holder-J.Bailey.
+Sumamry: (10:03 - 4th) Timeout at 10:03.
+===============
+Drive18
+Possession: Los Angeles Chargers
+Result: Field Goal
+LAC: 34
+MIA: 30
+Plays: 13
+Yards: 68
+Time: 6:10
+Sumamry: (10:03 - 4th) J.Sanders kicks 65 yards from MIA 35 to end zone, Touchback.
+1 & 10 on LAC 25
+Sumamry: (10:03 - 4th) (Shotgun) J.Herbert pass short left to K.Allen pushed ob at LAC 33 for 8 yards (J.Holland).
+2 & 2 on LAC 33
+Sumamry: (10:03 - 4th) (Shotgun) K.Allen right end to LAC 35 for 2 yards (J.Holland).
+1 & 10 on LAC 35
+Sumamry: (8:55 - 4th) J.Kelley left end to LAC 40 for 5 yards (E.Apple, B.Chubb).
+2 & 5 on LAC 40
+Sumamry: (8:21 - 4th) (Shotgun) J.Kelley up the middle to LAC 44 for 4 yards (J.Phillips, D.Elliott).
+3 & 1 on LAC 44
+Sumamry: (7:45 - 4th) J.Kelley left guard to LAC 47 for 3 yards (Z.Sieler).
+1 & 10 on LAC 47
+Sumamry: (7:23 - 4th) (No Huddle, Shotgun) J.Herbert pass incomplete short right to K.Allen. PENALTY on LAC, Illegal Shift, 5 yards, enforced at LAC 47 - No Play.
+1 & 15 on LAC 42
+Sumamry: (7:18 - 4th) (Shotgun) A.Ekeler up the middle to LAC 45 for 3 yards (J.Phillips, J.Holland).
+2 & 12 on LAC 45
+Sumamry: (6:41 - 4th) (No Huddle, Shotgun) J.Herbert pass incomplete deep left to A.Ekeler.
+3 & 12 on LAC 45
+Sumamry: (6:36 - 4th) (Shotgun) J.Herbert pass deep left to M.Williams to MIA 31 for 24 yards (J.Holland, D.Elliott).
+1 & 10 on MIA 31
+Sumamry: (5:51 - 4th) (Shotgun) J.Kelley left end pushed ob at MIA 17 for 14 yards (X.Howard).
+1 & 10 on MIA 17
+Sumamry: (5:15 - 4th) (Shotgun) J.Herbert pass incomplete deep left to K.Allen. PENALTY on MIA-X.Howard, Illegal Contact, 5 yards, enforced at MIA 17 - No Play.
+1 & 10 on MIA 12
+Sumamry: (5:10 - 4th) (Shotgun) A.Ekeler right guard to MIA 11 for 1 yard (A.Van Ginkel, J.Phillips).
+2 & 9 on MIA 11
+Sumamry: (4:25 - 4th) (Shotgun) J.Herbert pass short right to A.Ekeler to MIA 7 for 4 yards (X.Howard, D.Elliott).
+3 & 5 on MIA 7
+Sumamry: (4:02 - 4th) (No Huddle, Shotgun) J.Herbert pass incomplete short middle to M.Williams [J.Phillips].
+4 & 5 on MIA 7
+Sumamry: (3:53 - 4th) C.Dicker 25 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.
+Sumamry: (3:53 - 4th) Timeout at 03:53.
+===============
+Drive19
+Possession: Miami Dolphins
+Result: Touchdown
+LAC: 34
+MIA: 36
+Plays: 8
+Yards: 75
+Time: 2:8
+Sumamry: (3:53 - 4th) C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback.
+1 & 10 on MIA 25
+Sumamry: (3:53 - 4th) (Shotgun) T.Tagovailoa pass incomplete short left to S.Ahmed (D.James).
+2 & 10 on MIA 25
+Sumamry: (3:50 - 4th) (Shotgun) T.Tagovailoa pass short right to S.Ahmed to MIA 26 for 1 yard (J.Taylor). FUMBLES (J.Taylor), RECOVERED by LAC-K.Murray at MIA 24. K.Murray for 24 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) T.Tagovailoa pass incomplete short right to S.Ahmed (J.Taylor).
+3 & 10 on MIA 25
+Sumamry: (3:47 - 4th) (Shotgun) T.Tagovailoa pass deep right to T.Hill to LAC 28 for 47 yards (D.James).
+1 & 10 on LAC 28
+Sumamry: (3:01 - 4th) (Shotgun) R.Mostert up the middle to LAC 24 for 4 yards (K.Murray).
+2 & 6 on LAC 24
+Sumamry: (2:18 - 4th) (Shotgun) T.Tagovailoa pass short middle to R.Cracraft to LAC 9 for 15 yards (D.James).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+1 & 9 on LAC 9
+Sumamry: (2:00 - 4th) (Shotgun) T.Tagovailoa pass incomplete short middle to R.Cracraft.
+===============
+Drive20
+Possession: Los Angeles Chargers
+Result: Downs
+LAC: 34
+MIA: 36
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (1:45 - 4th) J.Sanders kicks 65 yards from MIA 35 to end zone, Touchback.
+1 & 10 on LAC 25
+Sumamry: (1:45 - 4th) (Shotgun) J.Herbert pass short right to G.Everett pushed ob at LAC 35 for 10 yards (K.Kohou).
+1 & 10 on LAC 35
+Sumamry: (1:38 - 4th) (Shotgun) J.Herbert pass incomplete short right. PENALTY on LAC-J.Herbert, Intentional Grounding, 11 yards, enforced at LAC 35.
+2 & 21 on LAC 24
+Sumamry: (1:18 - 4th) (Shotgun) J.Herbert sacked at LAC 16 for -8 yards (Z.Sieler).
+Sumamry: (1:09 - 4th) Timeout #2 by LAC at 01:09.
+3 & 29 on LAC 16
+Sumamry: (1:08 - 4th) (Shotgun) J.Herbert pass deep right to M.Williams to LAC 33 for 17 yards (J.Holland).
+Sumamry: (1:01 - 4th) Timeout #3 by LAC at 01:01.
+4 & 12 on LAC 33
+Sumamry: (1:01 - 4th) (Shotgun) J.Herbert sacked at LAC 24 for -9 yards (sack split by J.Phillips and J.Bethel).
+===============
+Drive21
+Possession: Miami Dolphins
+Result: End of Game
+LAC: 34
+MIA: 36
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on LAC 24
+Sumamry: (0:54 - 4th) T.Tagovailoa kneels to LAC 25 for -1 yards.
+2 & 11 on LAC 25
+Sumamry: (0:34 - 4th) T.Tagovailoa kneels to LAC 26 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

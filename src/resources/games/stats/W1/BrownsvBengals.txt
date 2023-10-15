@@ -1,0 +1,594 @@
+Drive1
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 0
+CIN: 0
+Plays: 6
+Yards: 16
+Time: 2:55
+Sumamry: (15:00 - 1st) D.Hopkins kicks 57 yards from CLV 35 to CIN 8. C.Evans to CIN 35 for 27 yards (D.Hopkins).
+1 & 10 on CIN 35
+Sumamry: (14:55 - 1st) (Shotgun) J.Burrow pass incomplete short left to T.Higgins (Z.Smith) [Z.Smith].
+2 & 10 on CIN 35
+Sumamry: (14:51 - 1st) (Shotgun) J.Burrow pass short right to J.Mixon to CIN 36 for 1 yard (R.McLeod).
+3 & 9 on CIN 36
+Sumamry: (14:11 - 1st) (Shotgun) J.Burrow pass short left to J.Chase pushed ob at CIN 48 for 12 yards (G.Newsome).
+1 & 10 on CIN 48
+Sumamry: (13:34 - 1st) (Shotgun) J.Burrow pass incomplete deep left to J.Chase.
+2 & 10 on CIN 48
+Sumamry: (13:30 - 1st) (Shotgun) C.Evans right guard to CLV 47 for 5 yards (G.Delpit).
+3 & 5 on CLE 47
+Sumamry: (12:52 - 1st) (Shotgun) J.Burrow sacked at CLV 49 for -2 yards (O.Okoronkwo).
+4 & 7 on CLE 49
+Sumamry: (12:11 - 1st) B.Robbins punts 35 yards to CLV 14, Center-C.Adomitis, fair catch by D.Peoples-Jones.
+Sumamry: (12:05 - 1st) Timeout at 12:05.
+===============
+Drive2
+Possession: Cleveland Browns
+Result: Punt
+CLE: 0
+CIN: 0
+Plays: 6
+Yards: 14
+Time: 3:35
+1 & 10 on CLE 14
+Sumamry: (12:05 - 1st) N.Chubb left guard to CLV 17 for 3 yards (S.Hubbard).
+2 & 7 on CLE 17
+Sumamry: (11:32 - 1st) (No Huddle, Shotgun) D.Watson pass incomplete deep middle to A.Cooper.
+3 & 7 on CLE 17
+Sumamry: (11:26 - 1st) (Shotgun) D.Watson scrambles right tackle to CLV 29 for 12 yards (M.Hilton).
+1 & 10 on CLE 29
+Sumamry: (10:44 - 1st) (Shotgun) D.Watson sacked at CLV 22 for -7 yards (G.Pratt).
+2 & 17 on CLE 22
+Sumamry: (10:01 - 1st) (Shotgun) D.Watson pass short left to N.Chubb to CLV 28 for 6 yards (M.Hilton; L.Wilson).
+3 & 11 on CLE 28
+Sumamry: (9:18 - 1st) (Shotgun) D.Watson sacked at CLV 28 for 0 yards (B.Hill).
+4 & 11 on CLE 28
+Sumamry: (8:40 - 1st) C.Bojorquez punts 66 yards to CIN 6, Center-C.Hughlett. C.Jones to CIN 14 for 8 yards (M.Ford).
+Sumamry: (8:30 - 1st) Timeout at 08:30.
+===============
+Drive3
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 0
+CIN: 0
+Plays: 3
+Yards: 4
+Time: 1:31
+1 & 10 on CIN 14
+Sumamry: (8:30 - 1st) (Shotgun) J.Mixon left guard to CIN 17 for 3 yards (O.Okoronkwo).
+2 & 7 on CIN 17
+Sumamry: (7:56 - 1st) (Shotgun) J.Burrow pass short right to J.Mixon to CIN 23 for 6 yards (S.Takitaki).
+3 & 1 on CIN 23
+Sumamry: (7:13 - 1st) (Shotgun) J.Burrow pass incomplete short right to I.Smith.
+4 & 1 on CIN 23
+Sumamry: (7:10 - 1st) (Punt formation) PENALTY on CIN-A.Davis-Gaither, False Start, 5 yards, enforced at CIN 23 - No Play.
+4 & 6 on CIN 18
+Sumamry: (7:10 - 1st) B.Robbins punts 45 yards to CLV 37, Center-C.Adomitis. D.Peoples-Jones to CLV 41 for 4 yards (M.Bailey, J.Battle).
+Sumamry: (6:59 - 1st) Timeout at 06:59.
+===============
+Drive4
+Possession: Cleveland Browns
+Result: Fumble
+CLE: 0
+CIN: 0
+Plays: 7
+Yards: 43
+Time: 3:24
+1 & 10 on CLE 41
+Sumamry: (6:59 - 1st) N.Chubb left tackle to CLV 41 for no gain (Z.Carter).
+2 & 10 on CLE 41
+Sumamry: (6:24 - 1st) D.Watson pass short right to N.Chubb to CIN 49 for 10 yards (G.Pratt).
+1 & 10 on CIN 49
+Sumamry: (5:49 - 1st) N.Chubb left tackle to CIN 43 for 6 yards (S.Hubbard; N.Scott).
+2 & 4 on CIN 43
+Sumamry: (5:13 - 1st) (Shotgun) Direct snap to N.Chubb.  D.Watson pass incomplete deep right to M.Goodwin.
+3 & 4 on CIN 43
+Sumamry: (5:06 - 1st) (Shotgun) N.Chubb left tackle to CIN 26 for 17 yards (C.Awuzie).
+1 & 10 on CIN 26
+Sumamry: (4:28 - 1st) D.Watson scrambles right end to CIN 21 for 5 yards (S.Hubbard).
+2 & 5 on CIN 21
+Sumamry: (3:44 - 1st) (Shotgun) D.Watson to CIN 25 for -4 yards. FUMBLES, and recovers at CIN 25. D.Watson to CIN 24 for 1 yard. Handoff to J.Ford to CIN 16 for 8 yards (G.Pratt; N.Scott). FUMBLES (G.Pratt), RECOVERED by CIN-C.Awuzie at CIN 13. C.Awuzie to CIN 13 for no gain (E.Moore).
+Sumamry: (3:35 - 1st) Timeout at 03:35.
+===============
+Drive5
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 0
+CIN: 0
+Plays: 3
+Yards: 9
+Time: 1:26
+1 & 10 on CIN 13
+Sumamry: (3:35 - 1st) (Shotgun) J.Mixon right tackle to CIN 16 for 3 yards (S.Takitaki; D.Ward).
+2 & 7 on CIN 16
+Sumamry: (3:03 - 1st) (Shotgun) J.Burrow pass incomplete short right to I.Smith.
+3 & 7 on CIN 16
+Sumamry: (2:57 - 1st) (Shotgun) J.Burrow pass short middle to T.Boyd to CIN 22 for 6 yards (G.Delpit).
+4 & 1 on CIN 22
+Sumamry: (2:17 - 1st) B.Robbins punts 41 yards to CLV 37, Center-C.Adomitis. D.Peoples-Jones to CLV 43 for 6 yards (M.Wilcox).
+Sumamry: (2:09 - 1st) Timeout at 02:09.
+===============
+Drive6
+Possession: Cleveland Browns
+Result: Field Goal
+CLE: 3
+CIN: 0
+Plays: 7
+Yards: 33
+Time: 2:54
+1 & 10 on CLE 43
+Sumamry: (2:08 - 1st) (Shotgun) D.Watson pass short left to N.Chubb to 50 for 7 yards (C.Sample).
+2 & 3 on 50
+Sumamry: (1:32 - 1st) N.Chubb right guard to CIN 44 for 6 yards (L.Wilson, N.Scott).
+1 & 10 on CIN 44
+Sumamry: (0:58 - 1st) (Shotgun) D.Watson pass deep right to A.Cooper to CIN 24 for 20 yards (L.Wilson). CLV-A.Cooper was injured during the play. His return is Probable.
+1 & 10 on CIN 24
+Sumamry: (0:19 - 1st) (Shotgun) D.Watson scrambles left end ran ob at CIN 22 for 2 yards (G.Pratt).
+2 & 8 on CIN 22
+Sumamry: (15:00 - 2nd) (Shotgun) D.Watson pass short right to N.Chubb to CIN 24 for -2 yards (L.Wilson, S.Hubbard).
+3 & 10 on CIN 24
+Sumamry: (14:23 - 2nd) (Shotgun) D.Watson pass incomplete short left to E.Moore.
+4 & 10 on CIN 24
+Sumamry: (14:15 - 2nd) D.Hopkins 42 yard field goal is GOOD, Center-C.Hughlett, Holder-C.Bojorquez.
+Sumamry: (14:15 - 2nd) Timeout at 14:15.
+===============
+Drive7
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 3
+CIN: 0
+Plays: 3
+Yards: 2
+Time: 0:58
+Sumamry: (14:15 - 2nd) D.Hopkins kicks 66 yards from CLV 35 to CIN -1. C.Evans to CIN 17 for 18 yards (M.Adams; P.Strong).
+1 & 10 on CIN 17
+Sumamry: (14:11 - 2nd) (Shotgun) J.Burrow pass incomplete short left to J.Mixon.
+2 & 10 on CIN 17
+Sumamry: (14:07 - 2nd) (Shotgun) J.Burrow pass incomplete short right to T.Boyd (G.Newsome).
+3 & 10 on CIN 17
+Sumamry: (14:03 - 2nd) (Shotgun) PENALTY on CIN, Delay of Game, 5 yards, enforced at CIN 17 - No Play.
+3 & 15 on CIN 12
+Sumamry: (14:04 - 2nd) (Shotgun) C.Evans left guard to CIN 19 for 7 yards (G.Delpit; Z.Smith).
+4 & 8 on CIN 19
+Sumamry: (13:24 - 2nd) B.Robbins punts 37 yards to CLV 44, Center-C.Adomitis, out of bounds.
+===============
+Drive8
+Possession: Cleveland Browns
+Result: Punt
+CLE: 3
+CIN: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on CLE 44
+Sumamry: (13:17 - 2nd) J.Hudson reported in as eligible.  J.Ford left guard to CIN 47 for 9 yards (D.Hill). PENALTY on CLV-J.Bitonio, Offensive Holding, 10 yards, enforced at CLV 47.
+1 & 17 on CLE 37
+Sumamry: (12:57 - 2nd) (Shotgun) D.Watson pass short right to A.Cooper pushed ob at CLV 43 for 6 yards (C.Taylor-Britt).
+2 & 11 on CLE 43
+Sumamry: (12:17 - 2nd) (Shotgun) D.Watson pass incomplete short left to A.Cooper (T.Hendrickson). CLV-J.Conklin was injured during the play. He is Out.
+Sumamry: (12:13 - 2nd) Timeout at 12:13.
+3 & 11 on CLE 43
+Sumamry: (12:13 - 2nd) (Shotgun) D.Watson pass incomplete deep right to M.Goodwin (C.Taylor-Britt).
+4 & 11 on CLE 43
+Sumamry: (12:05 - 2nd) C.Bojorquez punts 36 yards to CIN 21, Center-C.Hughlett, out of bounds.
+===============
+Drive9
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 3
+CIN: 0
+Plays: 5
+Yards: 41
+Time: 3:20
+1 & 10 on CIN 21
+Sumamry: (11:59 - 2nd) (Shotgun) J.Mixon left guard to CIN 33 for 12 yards (G.Newsome; R.McLeod).
+1 & 10 on CIN 33
+Sumamry: (11:17 - 2nd) (Shotgun) J.Mixon right guard ran ob at CLV 45 for 22 yards (G.Delpit).
+1 & 10 on CLE 45
+Sumamry: (10:39 - 2nd) (Shotgun) T.Williams left guard to CLV 43 for 2 yards (M.Emerson).
+2 & 8 on CLE 43
+Sumamry: (9:54 - 2nd) (Shotgun) T.Williams right guard to CLV 38 for 5 yards (G.Delpit).
+3 & 3 on CLE 38
+Sumamry: (8:52 - 2nd) (Shotgun) J.Burrow pass incomplete deep right to T.Higgins.
+4 & 3 on CLE 38
+Sumamry: (8:47 - 2nd) B.Robbins punts 38 yards to end zone, Center-C.Adomitis, Touchback.
+Sumamry: (8:39 - 2nd) Timeout at 08:39.
+===============
+Drive10
+Possession: Cleveland Browns
+Result: Punt
+CLE: 3
+CIN: 0
+Plays: 5
+Yards: 15
+Time: 2:58
+1 & 10 on CLE 20
+Sumamry: (8:39 - 2nd) D.Watson pass short left to D.Njoku to CLV 29 for 9 yards (N.Scott).
+2 & 1 on CLE 29
+Sumamry: (8:02 - 2nd) N.Chubb left tackle to CLV 31 for 2 yards (C.Sample, S.Hubbard).
+1 & 10 on CLE 31
+Sumamry: (7:22 - 2nd) N.Chubb left guard to CLV 39 for 8 yards (D.Turner).
+2 & 2 on CLE 39
+Sumamry: (6:45 - 2nd) D.Watson pass incomplete deep right to D.Peoples-Jones.
+3 & 2 on CLE 39
+Sumamry: (6:40 - 2nd) (Shotgun) N.Chubb right guard to CLV 40 for 1 yard (D.Reader).
+4 & 1 on CLE 40
+Sumamry: (6:40 - 2nd) (Run formation) PENALTY on CLV, Delay of Game, 5 yards, enforced at CLV 40 - No Play.
+4 & 6 on CLE 35
+Sumamry: (5:55 - 2nd) C.Bojorquez punts 56 yards to CIN 9, Center-C.Hughlett. C.Jones to CIN 10 for 1 yard (C.Mitchell). PENALTY on CIN-J.Davis, Unnecessary Roughness, 5 yards, enforced at CIN 10.
+===============
+Drive11
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 3
+CIN: 0
+Plays: 3
+Yards: 9
+Time: 1:36
+1 & 10 on CIN 5
+Sumamry: (5:41 - 2nd) (Shotgun) J.Mixon up the middle to CIN 7 for 2 yards (G.Newsome; D.Tomlinson).
+2 & 8 on CIN 7
+Sumamry: (4:58 - 2nd) (Shotgun) J.Burrow pass short right to J.Chase pushed ob at CIN 14 for 7 yards (J.Owusu-Koramoah).
+3 & 1 on CIN 14
+Sumamry: (4:18 - 2nd) (Shotgun) J.Mixon left guard to CIN 14 for no gain (J.Owusu-Koramoah). Penalty on CIN, Illegal Shift, declined.
+4 & 1 on CIN 14
+Sumamry: (4:12 - 2nd) B.Robbins punts 54 yards to CLV 32, Center-C.Adomitis, fair catch by D.Peoples-Jones.
+===============
+Drive12
+Possession: Cleveland Browns
+Result: Punt
+CLE: 3
+CIN: 0
+Plays: 4
+Yards: 14
+Time: 1:58
+1 & 10 on CLE 32
+Sumamry: (4:04 - 2nd) (Shotgun) N.Chubb left guard to CLV 45 for 13 yards (C.Taylor-Britt; N.Scott).
+1 & 10 on CLE 45
+Sumamry: (3:41 - 2nd) (No Huddle, Shotgun) N.Chubb right tackle to CLV 46 for 1 yard (M.Hilton; G.Pratt).
+2 & 9 on CLE 46
+Sumamry: (3:05 - 2nd) (No Huddle, Shotgun) J.Ford right tackle to CLV 46 for no gain (S.Hubbard).
+3 & 9 on CLE 46
+Sumamry: (2:19 - 2nd) (Shotgun) D.Watson pass incomplete deep right to A.Cooper [B.Hill].
+4 & 9 on CLE 46
+Sumamry: (2:14 - 2nd) C.Bojorquez punts 33 yards to CIN 21, Center-C.Hughlett, out of bounds.
+===============
+Drive13
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 3
+CIN: 0
+Plays: 3
+Yards: 2
+Time: 0:31
+1 & 10 on CIN 21
+Sumamry: (2:07 - 2nd) (Shotgun) J.Mixon left tackle to CIN 24 for 3 yards (M.Hurst; A.Wright).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+2 & 7 on CIN 24
+Sumamry: (2:00 - 2nd) (Shotgun) J.Burrow pass short right to J.Chase pushed ob at CIN 27 for 3 yards (G.Newsome). PENALTY on CIN, Illegal Formation, 5 yards, enforced at CIN 24 - No Play.
+2 & 12 on CIN 19
+Sumamry: (1:54 - 2nd) (Shotgun) J.Burrow pass short right to T.Boyd ran ob at CIN 23 for 4 yards.
+3 & 8 on CIN 23
+Sumamry: (1:48 - 2nd) (Shotgun) J.Burrow pass incomplete deep left to T.Higgins [Z.Smith].
+4 & 8 on CIN 23
+Sumamry: (1:43 - 2nd) B.Robbins punts 44 yards to CLV 33, Center-C.Adomitis, fair catch by D.Peoples-Jones.
+===============
+Drive14
+Possession: Cleveland Browns
+Result: Touchdown
+CLE: 10
+CIN: 0
+Plays: 9
+Yards: 67
+Time: 1:19
+1 & 10 on CLE 33
+Sumamry: (1:36 - 2nd) (Shotgun) E.Moore right end to CIN 48 for 19 yards (C.Taylor-Britt).
+1 & 10 on CIN 48
+Sumamry: (0:56 - 2nd) (No Huddle, Shotgun) D.Watson pass incomplete short right to Dav.Bell.
+2 & 10 on CIN 48
+Sumamry: (0:49 - 2nd) (Shotgun) D.Watson pass incomplete short right to E.Moore [D.Reader].
+Sumamry: (0:45 - 2nd) Timeout #1 by CLV at 00:45.
+3 & 10 on CIN 48
+Sumamry: (0:45 - 2nd) (Shotgun) D.Watson pass short left to A.Cooper to CIN 37 for 11 yards.
+1 & 10 on CIN 37
+Sumamry: (0:41 - 2nd) (Shotgun) D.Watson pass short right to D.Peoples-Jones pushed ob at CIN 25 for 12 yards (C.Awuzie).
+1 & 10 on CIN 25
+Sumamry: (0:36 - 2nd) (Shotgun) J.Ford right guard to CIN 19 for 6 yards (G.Pratt, T.Hendrickson).
+Sumamry: (0:31 - 2nd) Timeout #2 by CLV at 00:31.
+2 & 4 on CIN 19
+Sumamry: (0:31 - 2nd) (Shotgun) D.Watson pass short left to E.Moore to CIN 13 for 6 yards (L.Wilson).
+Sumamry: (0:26 - 2nd) Timeout #3 by CLV at 00:26.
+Sumamry: (0:26 - 2nd) Timeout #1 by CIN at 00:26.
+1 & 10 on CIN 13
+Sumamry: (0:26 - 2nd) (Shotgun) D.Watson pass incomplete short left to A.Cooper.
+2 & 10 on CIN 13
+Sumamry: (0:17 - 2nd) (Shotgun) D.Watson left end for 13 yards, TOUCHDOWN.D.Hopkins extra point is GOOD, Center-C.Hughlett, Holder-C.Bojorquez.
+===============
+Drive15
+Possession: Cincinnati Bengals
+Result: End of Half
+CLE: 10
+CIN: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (0:17 - 2nd) D.Hopkins kicks 65 yards from CLV 35 to end zone, Touchback.
+1 & 10 on CIN 25
+Sumamry: (0:17 - 2nd) J.Burrow kneels to CIN 24 for -1 yards.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive16
+Possession: Cleveland Browns
+Result: Punt
+CLE: 10
+CIN: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (15:00 - 3rd) E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback.
+1 & 10 on CLE 25
+Sumamry: (15:00 - 3rd) (Shotgun) N.Chubb right guard to CLV 27 for 2 yards (N.Scott; T.Hendrickson).
+2 & 8 on CLE 27
+Sumamry: (14:23 - 3rd) (Shotgun) D.Watson sacked at CLV 24 for -3 yards (T.Hendrickson).
+3 & 11 on CLE 24
+Sumamry: (13:41 - 3rd) (Shotgun) D.Watson pass incomplete short right to E.Moore.
+4 & 11 on CLE 24
+Sumamry: (13:36 - 3rd) C.Bojorquez punts 30 yards to CIN 46, Center-C.Hughlett, out of bounds.
+Sumamry: (13:30 - 3rd) Timeout at 13:30.
+===============
+Drive17
+Possession: Cincinnati Bengals
+Result: Field Goal
+CLE: 10
+CIN: 3
+Plays: 6
+Yards: 30
+Time: 1:46
+1 & 10 on CIN 46
+Sumamry: (13:28 - 3rd) (Shotgun) J.Mixon right tackle pushed ob at 50 for 4 yards (R.McLeod).
+2 & 6 on 50
+Sumamry: (12:51 - 3rd) (Shotgun) J.Burrow pass incomplete short right to T.Higgins.
+3 & 6 on 50
+Sumamry: (12:48 - 3rd) (Shotgun) J.Burrow pass incomplete deep right to J.Chase. PENALTY on CLV-D.Ward, Defensive Pass Interference, 18 yards, enforced at 50 - No Play.
+1 & 10 on CLE 32
+Sumamry: (12:43 - 3rd) (Shotgun) J.Burrow pass incomplete deep left to T.Higgins [Z.Smith].
+2 & 10 on CLE 32
+Sumamry: (12:37 - 3rd) (Shotgun) J.Burrow pass incomplete short left to J.Mixon [M.Garrett].
+3 & 10 on CLE 32
+Sumamry: (12:33 - 3rd) (Shotgun) J.Burrow pass short right to I.Smith to CLV 24 for 8 yards (D.Ward).
+4 & 2 on CLE 24
+Sumamry: (11:44 - 3rd) E.McPherson 42 yard field goal is GOOD, Center-C.Adomitis, Holder-B.Robbins.
+Sumamry: (11:44 - 3rd) Timeout at 11:44.
+===============
+Drive18
+Possession: Cleveland Browns
+Result: Interception
+CLE: 10
+CIN: 3
+Plays: 3
+Yards: 34
+Time: 2:2
+Sumamry: (11:44 - 3rd) E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback.
+1 & 10 on CLE 25
+Sumamry: (11:44 - 3rd) D.Watson pass deep left to E.Moore to CIN 42 for 33 yards (D.Hill).
+1 & 10 on CIN 42
+Sumamry: (11:05 - 3rd) N.Harris reported in as eligible.  N.Chubb left guard to CIN 41 for 1 yard (D.Reader). PENALTY on CLV, Illegal Formation, 5 yards, enforced at CIN 42 - No Play.
+1 & 15 on CIN 47
+Sumamry: (10:36 - 3rd) (Shotgun) N.Chubb right tackle to CIN 41 for 6 yards (C.Sample; N.Scott).
+2 & 9 on CIN 41
+Sumamry: (9:53 - 3rd) (Shotgun) D.Watson pass short left intended for E.Moore INTERCEPTED by D.Hill (Z.Carter) at CIN 30. D.Hill pushed ob at 50 for 20 yards (J.Wills). Penalty on CLV-W.Teller, Offensive Holding, declined.
+Sumamry: (9:42 - 3rd) Timeout at 09:42.
+===============
+Drive19
+Possession: Cincinnati Bengals
+Result: Missed FG
+CLE: 10
+CIN: 3
+Plays: 7
+Yards: 17
+Time: 2:49
+1 & 10 on 50
+Sumamry: (9:42 - 3rd) (Shotgun) J.Mixon right guard to CIN 47 for -3 yards (S.Harris).
+2 & 13 on CIN 47
+Sumamry: (9:02 - 3rd) (Shotgun) J.Burrow pass short right to J.Mixon to CLV 43 for 10 yards (D.Ward).
+3 & 3 on CLE 43
+Sumamry: (8:20 - 3rd) (Shotgun) J.Burrow pass short right to J.Chase pushed ob at CLV 39 for 4 yards (D.Ward) [M.Garrett].
+1 & 10 on CLE 39
+Sumamry: (7:47 - 3rd) (Shotgun) J.Burrow pass incomplete short left [Z.Smith].
+2 & 10 on CLE 39
+Sumamry: (7:44 - 3rd) (Shotgun) J.Mixon right guard to CLV 33 for 6 yards (S.Harris).
+3 & 4 on CLE 33
+Sumamry: (7:02 - 3rd) (Shotgun) J.Burrow pass incomplete deep right to T.Higgins (G.Delpit).
+4 & 4 on CLE 33
+Sumamry: (6:57 - 3rd) E.McPherson 51 yard field goal is No Good, Wide Right, Center-C.Adomitis, Holder-B.Robbins.
+Sumamry: (6:53 - 3rd) Timeout at 06:53.
+===============
+Drive20
+Possession: Cleveland Browns
+Result: Field Goal
+CLE: 13
+CIN: 3
+Plays: 9
+Yards: 43
+Time: 4:32
+1 & 10 on CLE 41
+Sumamry: (6:53 - 3rd) N.Chubb right tackle to CIN 49 for 10 yards (N.Scott; L.Wilson).
+1 & 10 on CIN 49
+Sumamry: (6:31 - 3rd) E.Moore right end to CIN 49 for no gain (N.Scott).
+2 & 10 on CIN 49
+Sumamry: (5:59 - 3rd) (Shotgun) D.Watson right guard to CIN 36 for 13 yards (N.Scott).
+1 & 10 on CIN 36
+Sumamry: (5:19 - 3rd) N.Chubb right tackle to CIN 34 for 2 yards (B.Hill).
+2 & 8 on CIN 34
+Sumamry: (4:36 - 3rd) N.Chubb right guard to CIN 21 for 13 yards (C.Awuzie).
+1 & 10 on CIN 21
+Sumamry: (3:50 - 3rd) J.Hudson reported in as eligible.  N.Chubb right tackle to CIN 20 for 1 yard (G.Pratt, S.Hubbard).
+2 & 9 on CIN 20
+Sumamry: (3:12 - 3rd) (Shotgun) D.Watson pass incomplete short left to D.Njoku (D.Reader).
+3 & 9 on CIN 20
+Sumamry: (3:08 - 3rd) (Shotgun) D.Watson pass short left to E.Moore to CIN 16 for 4 yards (D.Turner).
+4 & 5 on CIN 16
+Sumamry: (2:21 - 3rd) D.Hopkins 34 yard field goal is GOOD, Center-C.Hughlett, Holder-C.Bojorquez.
+===============
+Drive21
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 13
+CIN: 3
+Plays: 5
+Yards: 17
+Time: 2:27
+Sumamry: (2:21 - 3rd) D.Hopkins kicks 65 yards from CLV 35 to end zone, Touchback.
+1 & 10 on CIN 25
+Sumamry: (2:21 - 3rd) (Shotgun) J.Mixon right guard to CIN 27 for 2 yards (S.Harris, J.Elliott).
+2 & 8 on CIN 27
+Sumamry: (1:42 - 3rd) (Shotgun) J.Burrow pass short right to J.Chase pushed ob at CIN 37 for 10 yards (G.Delpit).
+1 & 10 on CIN 37
+Sumamry: (1:06 - 3rd) (Shotgun) J.Chase left end to CIN 39 for 2 yards (S.Takitaki; J.Owusu-Koramoah).
+2 & 8 on CIN 39
+Sumamry: (0:26 - 3rd) (Shotgun) J.Burrow pass incomplete deep left to T.Higgins.
+3 & 8 on CIN 39
+Sumamry: (0:21 - 3rd) (Shotgun) J.Burrow pass short right to I.Smith to CIN 42 for 3 yards (G.Delpit). CLV-G.Delpit was injured during the play. His return is Probable.
+4 & 5 on CIN 42
+Sumamry: (15:00 - 4th) B.Robbins punts 22 yards to CLV 36, Center-C.Adomitis, out of bounds.
+===============
+Drive22
+Possession: Cleveland Browns
+Result: Field Goal
+CLE: 16
+CIN: 3
+Plays: 6
+Yards: 39
+Time: 3:25
+1 & 10 on CLE 36
+Sumamry: (14:54 - 4th) D.Watson pass short right to D.Njoku to CIN 49 for 15 yards (N.Scott).
+1 & 10 on CIN 49
+Sumamry: (14:15 - 4th) J.Ford left tackle to CIN 32 for 17 yards (D.Hill).
+1 & 10 on CIN 32
+Sumamry: (13:40 - 4th) J.Ford left tackle to CIN 29 for 3 yards (L.Wilson).
+2 & 7 on CIN 29
+Sumamry: (12:58 - 4th) J.Ford right guard to CIN 27 for 2 yards (D.Reader; Z.Carter).
+3 & 5 on CIN 27
+Sumamry: (12:20 - 4th) D.Watson pass short right to H.Bryant to CIN 25 for 2 yards (L.Wilson).
+4 & 3 on CIN 25
+Sumamry: (11:29 - 4th) D.Hopkins 43 yard field goal is GOOD, Center-C.Hughlett, Holder-C.Bojorquez.
+===============
+Drive23
+Possession: Cincinnati Bengals
+Result: Downs
+CLE: 16
+CIN: 3
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (11:29 - 4th) D.Hopkins kicks 65 yards from CLV 35 to end zone, Touchback.
+1 & 10 on CIN 25
+Sumamry: (11:29 - 4th) (Shotgun) J.Burrow pass incomplete short right to T.Higgins.
+2 & 10 on CIN 25
+Sumamry: (11:24 - 4th) (Shotgun) J.Burrow pass incomplete short right to J.Chase [G.Delpit].
+3 & 10 on CIN 25
+Sumamry: (11:20 - 4th) (Shotgun) J.Burrow pass short left to I.Smith to CIN 31 for 6 yards (O.Okoronkwo; G.Newsome).
+4 & 4 on CIN 31
+Sumamry: (10:32 - 4th) (Shotgun) J.Burrow sacked at CIN 18 for -13 yards (M.Garrett).
+===============
+Drive24
+Possession: Cleveland Browns
+Result: Touchdown
+CLE: 24
+CIN: 3
+Plays: 3
+Yards: 18
+Time: 1:16
+1 & 10 on CIN 18
+Sumamry: (10:27 - 4th) N.Chubb left tackle pushed ob at CIN 7 for 11 yards (J.Tupou).
+Sumamry: (9:11 - 4th) Timeout at 09:11.
+===============
+Drive25
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 24
+CIN: 3
+Plays: 3
+Yards: 5
+Time: 1:34
+Sumamry: (9:11 - 4th) D.Hopkins kicks 65 yards from CLV 35 to end zone, Touchback.
+1 & 10 on CIN 25
+Sumamry: (9:10 - 4th) (Shotgun) J.Burrow pass short right to J.Chase to CIN 31 for 6 yards (G.Newsome; A.Walker).
+2 & 4 on CIN 31
+Sumamry: (8:32 - 4th) (Shotgun) J.Burrow pass incomplete deep left to J.Chase.
+3 & 4 on CIN 31
+Sumamry: (8:27 - 4th) (Shotgun) J.Burrow pass short right to C.Evans to CIN 30 for -1 yards (G.Delpit).
+4 & 5 on CIN 30
+Sumamry: (7:48 - 4th) B.Robbins punts 52 yards to CLV 18, Center-C.Adomitis. D.Peoples-Jones to CLV 23 for 5 yards (C.Adomitis).
+===============
+Drive26
+Possession: Cleveland Browns
+Result: Punt
+CLE: 24
+CIN: 3
+Plays: 3
+Yards: 2
+Time: 2:22
+1 & 10 on CLE 23
+Sumamry: (7:37 - 4th) J.Hudson reported in as eligible.  J.Ford left tackle to CLV 25 for 2 yards (G.Pratt; C.Sample).
+2 & 8 on CLE 25
+Sumamry: (6:54 - 4th) J.Ford left tackle to CLV 26 for 1 yard (D.Reader).
+3 & 7 on CLE 26
+Sumamry: (6:09 - 4th) J.Ford left tackle to CLV 25 for -1 yards (G.Pratt, S.Hubbard).
+4 & 8 on CLE 25
+Sumamry: (5:24 - 4th) C.Bojorquez punts 57 yards to CIN 18, Center-C.Hughlett. C.Jones to CIN 33 for 15 yards (M.Adams). PENALTY on CLV-C.Mitchell, Player Out of Bounds on Kick, 5 yards, enforced at CIN 33.
+===============
+Drive27
+Possession: Cincinnati Bengals
+Result: Punt
+CLE: 24
+CIN: 3
+Plays: 3
+Yards: 2
+Time: 1:34
+1 & 10 on CIN 38
+Sumamry: (5:08 - 4th) (Shotgun) J.Mixon right guard to CIN 39 for 1 yard (M.Garrett).
+2 & 9 on CIN 39
+Sumamry: (4:33 - 4th) (Shotgun) J.Mixon right guard to CIN 40 for 1 yard (Z.Smith; R.McLeod).
+3 & 8 on CIN 40
+Sumamry: (3:52 - 4th) (Shotgun) J.Browning pass incomplete short right to J.Chase (D.Ward) [M.Garrett].
+4 & 8 on CIN 40
+Sumamry: (3:46 - 4th) B.Robbins punts 41 yards to CLV 19, Center-C.Adomitis, fair catch by D.Peoples-Jones.
+===============
+Drive28
+Possession: Cleveland Browns
+Result: Punt
+CLE: 24
+CIN: 3
+Plays: 6
+Yards: 10
+Time: 3:17
+1 & 10 on CLE 19
+Sumamry: (3:41 - 4th) J.Ford left tackle to CLV 20 for 1 yard (C.Sample; B.Hill).
+2 & 9 on CLE 20
+Sumamry: (2:59 - 4th) (Shotgun) J.Ford right guard to CLV 22 for 2 yards (C.Sample; M.Hilton).
+3 & 7 on CLE 22
+Sumamry: (2:17 - 4th) D.Watson pass short left to J.Akins ran ob at CLV 34 for 12 yards (G.Pratt).
+1 & 10 on CLE 34
+Sumamry: (2:09 - 4th) J.Ford right tackle to CLV 36 for 2 yards (J.Tufele).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+2 & 8 on CLE 36
+Sumamry: (2:00 - 4th) J.Ford left tackle to CLV 33 for -3 yards (D.Hill).
+3 & 11 on CLE 33
+Sumamry: (1:17 - 4th) J.Ford right guard to CLV 29 for -4 yards (D.Hill, G.Pratt).
+4 & 15 on CLE 29
+Sumamry: (0:32 - 4th) C.Bojorquez punts 53 yards to CIN 18, Center-C.Hughlett, fair catch by C.Jones.
+===============
+Drive29
+Possession: Cincinnati Bengals
+Result: End of Game
+CLE: 24
+CIN: 3
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on CIN 18
+Sumamry: (0:24 - 4th) J.Browning kneels to CIN 17 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

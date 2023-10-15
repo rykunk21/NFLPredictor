@@ -1,8 +1,6 @@
-*.egg-info/
-env
+pyvenv.cfg
 .vscode
-__pycache__
-**/*.pyc
-pyproject.toml
-setup.py
+env/
+/__pycache__
 datasets
+**.pkl

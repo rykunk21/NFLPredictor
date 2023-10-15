@@ -1,0 +1,594 @@
+Drive1
+Possession: Indianapolis Colts
+Result: Punt
+IND: 0
+JAX: 0
+Plays: 3
+Yards: 0
+Time: 1:25
+Sumamry: (15:00 - 1st) B.McManus kicks 65 yards from JAX 35 to end zone, Touchback.
+1 & 10 on IND 25
+Sumamry: (15:00 - 1st) (Shotgun) A.Richardson pass short right to J.Downs to IND 27 for 2 yards (A.Cisco; T.Herndon).
+2 & 8 on IND 27
+Sumamry: (14:30 - 1st) (Shotgun) A.Richardson pass incomplete short right to A.Ogletree.
+3 & 8 on IND 27
+Sumamry: (14:26 - 1st) (Shotgun) A.Richardson sacked at IND 25 for -2 yards (J.Allen).
+4 & 10 on IND 25
+Sumamry: (13:35 - 1st) R.Sanchez punts 38 yards to JAX 37, Center-L.Rhodes, out of bounds.
+===============
+Drive2
+Possession: Jacksonville Jaguars
+Result: Punt
+IND: 0
+JAX: 0
+Plays: 3
+Yards: 6
+Time: 0:53
+1 & 10 on JAX 37
+Sumamry: (13:35 - 1st) (Shotgun) T.Lawrence pass incomplete short middle to Z.Jones (Z.Franklin).
+2 & 10 on JAX 37
+Sumamry: (13:32 - 1st) (Shotgun) T.Lawrence pass short right to E.Engram to JAX 43 for 6 yards (S.Leonard).
+3 & 4 on JAX 43
+Sumamry: (12:56 - 1st) (Shotgun) T.Lawrence pass incomplete short right to C.Ridley.
+4 & 4 on JAX 43
+Sumamry: (12:42 - 1st) L.Cooke punts 51 yards to IND 6, Center-R.Matiscik, downed by JAX-D.Thomas.
+Sumamry: (12:42 - 1st) Timeout at 12:42.
+===============
+Drive3
+Possession: Indianapolis Colts
+Result: Punt
+IND: 0
+JAX: 0
+Plays: 3
+Yards: 9
+Time: 2:17
+1 & 10 on IND 6
+Sumamry: (12:42 - 1st) (Shotgun) D.Jackson up the middle to IND 8 for 2 yards (J.Allen, T.Walker).
+2 & 8 on IND 8
+Sumamry: (12:06 - 1st) (Shotgun) A.Richardson pass short left to J.Downs to IND 14 for 6 yards (Ty.Campbell).
+3 & 2 on IND 14
+Sumamry: (11:25 - 1st) (Shotgun) D.Jackson up the middle to IND 15 for 1 yard (A.Cisco).
+4 & 1 on IND 15
+Sumamry: (10:25 - 1st) R.Sanchez punts 46 yards to JAX 39, Center-L.Rhodes, out of bounds.
+Sumamry: (10:25 - 1st) Timeout at 10:25.
+===============
+Drive4
+Possession: Jacksonville Jaguars
+Result: Touchdown
+IND: 0
+JAX: 7
+Plays: 9
+Yards: 61
+Time: 5:7
+1 & 10 on JAX 39
+Sumamry: (10:25 - 1st) T.Etienne up the middle to JAX 39 for no gain (G.Stewart).
+2 & 10 on JAX 39
+Sumamry: (9:46 - 1st) (Shotgun) T.Lawrence pass short right to C.Kirk ran ob at JAX 48 for 9 yards.
+3 & 1 on JAX 48
+Sumamry: (9:11 - 1st) (Shotgun) T.Lawrence right end to IND 49 for 3 yards (D.Buckner).
+1 & 10 on IND 49
+Sumamry: (8:32 - 1st) T.Lawrence pass deep left to C.Ridley to IND 25 for 24 yards (D.Flowers).
+1 & 10 on IND 25
+Sumamry: (8:05 - 1st) (No Huddle, Shotgun) T.Lawrence pass short right to C.Ridley to IND 20 for 5 yards (K.Moore).
+2 & 5 on IND 20
+Sumamry: (7:30 - 1st) (Shotgun) T.Etienne up the middle to IND 12 for 8 yards (Z.Franklin, J.Blackmon).
+1 & 10 on IND 12
+Sumamry: (6:52 - 1st) (Shotgun) J.Agnew left end to IND 12 for no gain (Z.Franklin).
+2 & 10 on IND 12
+Sumamry: (6:14 - 1st) (Shotgun) T.Lawrence pass short right to C.Ridley to IND 9 for 3 yards (K.Paye, Z.Franklin).
+3 & 7 on IND 9
+Sumamry: (5:18 - 1st) (Shotgun) T.Lawrence pass short left to C.Ridley for 9 yards, TOUCHDOWN.B.McManus extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke.
+Sumamry: (5:18 - 1st) Timeout at 05:18.
+===============
+Drive5
+Possession: Indianapolis Colts
+Result: Touchdown
+IND: 7
+JAX: 7
+Plays: 11
+Yards: 75
+Time: 5:21
+Sumamry: (5:18 - 1st) B.McManus kicks 65 yards from JAX 35 to end zone, Touchback.
+1 & 10 on IND 25
+Sumamry: (5:18 - 1st) (Shotgun) D.Jackson up the middle to IND 26 for 1 yard (F.Oluokun).
+2 & 9 on IND 26
+Sumamry: (4:41 - 1st) (Shotgun) A.Richardson pass short right to K.Granson to IND 37 for 11 yards (R.Jenkins, A.Cisco).
+1 & 10 on IND 37
+Sumamry: (4:11 - 1st) (No Huddle, Shotgun) D.Jackson right end to IND 37 for no gain (T.Walker; J.Ledbetter).
+2 & 10 on IND 37
+Sumamry: (3:33 - 1st) (Shotgun) A.Richardson pass short right to D.Jackson to IND 45 for 8 yards (J.Allen).
+3 & 2 on IND 45
+Sumamry: (2:53 - 1st) (Shotgun) A.Richardson pass short right to K.Granson ran ob at JAX 48 for 7 yards.
+1 & 10 on JAX 48
+Sumamry: (2:17 - 1st) (Shotgun) A.Richardson left end to JAX 36 for 12 yards (F.Oluokun).
+1 & 10 on JAX 36
+Sumamry: (1:48 - 1st) (No Huddle, Shotgun) D.Jackson right tackle to JAX 35 for 1 yard (T.Walker).
+2 & 9 on JAX 35
+Sumamry: (1:09 - 1st) (Shotgun) A.Richardson pass short middle to J.Downs to JAX 13 for 22 yards (R.Jenkins) [F.Oluokun].
+1 & 10 on JAX 13
+Sumamry: (0:44 - 1st) (No Huddle, Shotgun) D.Jackson up the middle to JAX 6 for 7 yards (T.Walker).
+2 & 3 on JAX 6
+Sumamry: (0:21 - 1st) (No Huddle, Shotgun) D.Jackson left guard to JAX 2 for 4 yards (R.Robertson-Harris, T.Walker).
+Sumamry: (14:57 - 2nd) Timeout at 14:57.
+===============
+Drive6
+Possession: Jacksonville Jaguars
+Result: Interception
+IND: 7
+JAX: 7
+Plays: 4
+Yards: 33
+Time: 1:49
+Sumamry: (14:57 - 2nd) M.Gay kicks 65 yards from IND 35 to end zone, Touchback.
+1 & 10 on JAX 25
+Sumamry: (14:57 - 2nd) (Shotgun) T.Etienne left end to JAX 33 for 8 yards (D.Flowers).
+2 & 2 on JAX 47
+Sumamry: (14:15 - 2nd) T.Lawrence pass short right to C.Ridley to JAX 47 for 14 yards (R.Thomas, E.Speed). FUMBLES (E.Speed), RECOVERED by IND-E.Speed at IND 49. E.Speed ran ob at IND 49 for no gain. The Replay Official reviewed the ball was inbounds ruling, and the play was REVERSED. T.Lawrence pass short right to C.Ridley to JAX 47 for 14 yards (R.Thomas, E.Speed). FUMBLES (E.Speed), ball out of bounds at IND 49. IND-K.Moore was injured during the play. IND-D.Flowers was injured during the play.
+Sumamry: (14:05 - 2nd) Timeout at 14:05.
+1 & 10 on JAX 47
+Sumamry: (13:47 - 2nd) (Shotgun) T.Etienne up the middle to IND 47 for 6 yards (Z.Franklin; E.Speed). PENALTY on IND-G.Stewart, Defensive Holding, 5 yards, enforced at IND 47.
+1 & 10 on IND 42
+Sumamry: (13:08 - 2nd) T.Lawrence pass short right intended for T.Bigsby INTERCEPTED by T.Brown [G.Stewart] at IND 41. T.Brown to JAX 25 for 34 yards (T.Bigsby). Penalty on JAX-T.Bigsby, Illegal Formation, declined.
+===============
+Drive7
+Possession: Indianapolis Colts
+Result: Downs
+IND: 7
+JAX: 7
+Plays: 4
+Yards: 9
+Time: 1:13
+1 & 10 on JAX 25
+Sumamry: (13:08 - 2nd) (Shotgun) A.Richardson left end pushed ob at JAX 22 for 3 yards (A.Cisco).
+2 & 7 on JAX 22
+Sumamry: (12:45 - 2nd) (No Huddle, Shotgun) A.Richardson left end pushed ob at JAX 18 for 4 yards (F.Oluokun).
+3 & 3 on JAX 18
+Sumamry: (12:16 - 2nd) (Shotgun) D.Jackson up the middle to JAX 16 for 2 yards (F.Fatukasi).
+4 & 1 on JAX 16
+Sumamry: (11:58 - 2nd) (No Huddle) A.Richardson up the middle to JAX 16 for no gain (R.Robertson-Harris).
+Sumamry: (11:55 - 2nd) Timeout at 11:55.
+===============
+Drive8
+Possession: Jacksonville Jaguars
+Result: Punt
+IND: 7
+JAX: 7
+Plays: 3
+Yards: 4
+Time: 1:39
+1 & 10 on JAX 16
+Sumamry: (11:55 - 2nd) (Shotgun) T.Bigsby right tackle to JAX 19 for 3 yards (K.Moore).
+2 & 7 on JAX 19
+Sumamry: (11:38 - 2nd) (No Huddle, Shotgun) T.Bigsby up the middle to JAX 22 for 3 yards (Z.Franklin; K.Paye).
+3 & 4 on JAX 22
+Sumamry: (11:01 - 2nd) (Shotgun) T.Bigsby up the middle to JAX 20 for -2 yards (D.Buckner).
+4 & 6 on JAX 20
+Sumamry: (10:16 - 2nd) L.Cooke punts 44 yards to IND 36, Center-R.Matiscik. I.McKenzie to JAX 48 for 16 yards (C.Johnson).
+Sumamry: (10:16 - 2nd) Timeout at 10:16.
+===============
+Drive9
+Possession: Indianapolis Colts
+Result: Downs
+IND: 7
+JAX: 7
+Plays: 4
+Yards: 6
+Time: 1:25
+1 & 10 on JAX 48
+Sumamry: (10:16 - 2nd) (Shotgun) A.Richardson scrambles right end ran ob at JAX 44 for 4 yards (R.Jenkins).
+2 & 6 on JAX 44
+Sumamry: (9:44 - 2nd) (Shotgun) A.Richardson pass incomplete short left to J.Downs (T.Herndon).
+3 & 6 on JAX 44
+Sumamry: (9:44 - 2nd) (Shotgun) PENALTY on IND-A.Pierce, False Start, 5 yards, enforced at JAX 44 - No Play.
+3 & 11 on JAX 49
+Sumamry: (9:40 - 2nd) (Shotgun) A.Richardson pass short right to D.Jackson to JAX 42 for 7 yards (Ty.Campbell, F.Oluokun).
+4 & 4 on JAX 42
+Sumamry: (8:55 - 2nd) (Shotgun) A.Richardson pass incomplete short right to M.Pittman (A.Gotsis).
+Sumamry: (8:51 - 2nd) Timeout at 08:51.
+===============
+Drive10
+Possession: Jacksonville Jaguars
+Result: Touchdown
+IND: 7
+JAX: 14
+Plays: 7
+Yards: 57
+Time: 3:55
+1 & 10 on JAX 43
+Sumamry: (8:51 - 2nd) T.Lawrence pass short right to T.Etienne to JAX 48 for 5 yards (J.Blackmon, S.Leonard).
+2 & 5 on JAX 48
+Sumamry: (8:15 - 2nd) (Shotgun) T.Etienne right guard to IND 48 for 4 yards (Z.Franklin).
+3 & 1 on IND 48
+Sumamry: (7:40 - 2nd) T.Bigsby right tackle to IND 47 for 1 yard (G.Stewart).
+1 & 10 on IND 47
+Sumamry: (7:03 - 2nd) (Shotgun) T.Etienne right guard to IND 45 for 2 yards (E.Speed).
+2 & 8 on IND 45
+Sumamry: (6:26 - 2nd) (Shotgun) T.Lawrence pass short right to C.Ridley ran ob at IND 16 for 29 yards (R.Thomas).
+1 & 10 on IND 16
+Sumamry: (5:47 - 2nd) J.Agnew left end to IND 18 for -2 yards (S.Ebukam).
+2 & 12 on IND 18
+Sumamry: (4:56 - 2nd) (Shotgun) T.Lawrence pass deep right to Z.Jones for 18 yards, TOUCHDOWN.B.McManus extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke.
+Sumamry: (4:56 - 2nd) Timeout at 04:56.
+===============
+Drive11
+Possession: Indianapolis Colts
+Result: Fumble
+IND: 7
+JAX: 14
+Plays: 3
+Yards: 41
+Time: 0:47
+Sumamry: (4:56 - 2nd) B.McManus kicks 60 yards from JAX 35 to IND 5. D.Flowers to IND 24 for 19 yards (D.Thomas).
+1 & 10 on IND 24
+Sumamry: (4:50 - 2nd) (Shotgun) A.Richardson pass incomplete deep right to M.Alie-Cox.
+2 & 10 on IND 24
+Sumamry: (4:43 - 2nd) (Shotgun) A.Richardson pass short middle to A.Ogletree to IND 44 for 20 yards (A.Cisco). PENALTY on JAX-A.Cisco, Unnecessary Roughness, 15 yards, enforced at IND 44.
+1 & 10 on JAX 41
+Sumamry: (4:09 - 2nd) (Shotgun) A.Richardson pass short middle to D.Jackson to JAX 35 for 6 yards (A.Cisco, F.Oluokun). FUMBLES (A.Cisco), RECOVERED by JAX-A.Blackson at JAX 32.
+===============
+Drive12
+Possession: Jacksonville Jaguars
+Result: Punt
+IND: 7
+JAX: 14
+Plays: 6
+Yards: 25
+Time: 3:6
+1 & 10 on JAX 32
+Sumamry: (4:09 - 2nd) (Shotgun) T.Lawrence pass short left to E.Engram to JAX 40 for 8 yards (T.Bryan).
+2 & 2 on JAX 40
+Sumamry: (3:29 - 2nd) (Shotgun) T.Etienne left tackle to JAX 44 for 4 yards (J.Blackmon, D.Flowers).
+1 & 10 on JAX 44
+Sumamry: (2:55 - 2nd) (Shotgun) T.Lawrence pass short middle to Z.Jones to IND 44 for 12 yards (D.Flowers).
+1 & 10 on IND 44
+Sumamry: (2:19 - 2nd) (Shotgun) T.Lawrence pass short right to C.Ridley to IND 36 for 8 yards (K.Moore).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+2 & 2 on IND 36
+Sumamry: (2:00 - 2nd) D.Johnson up the middle to IND 40 for -4 yards (S.Leonard).
+Sumamry: (1:15 - 2nd) Timeout #1 by JAX at 01:15.
+3 & 6 on IND 40
+Sumamry: (1:15 - 2nd) (Shotgun) T.Lawrence sacked at IND 43 for -3 yards (K.Paye).
+Sumamry: (1:09 - 2nd) Timeout #1 by IND at 01:09.
+4 & 9 on IND 43
+Sumamry: (1:03 - 2nd) L.Cooke punts 35 yards to IND 8, Center-R.Matiscik, fair catch by I.McKenzie.
+===============
+Drive13
+Possession: Indianapolis Colts
+Result: End of Half
+IND: 7
+JAX: 14
+Plays: 3
+Yards: 6
+Time: 1:3
+1 & 10 on IND 8
+Sumamry: (1:03 - 2nd) (Shotgun) A.Richardson pass short middle to E.Hull to IND 14 for 6 yards (F.Oluokun, D.Lloyd).
+2 & 4 on IND 14
+Sumamry: (0:43 - 2nd) (No Huddle, Shotgun) A.Richardson pass short middle to A.Pierce to IND 19 for 5 yards (Ty.Campbell).
+Sumamry: (0:34 - 2nd) Timeout #2 by IND at 00:34.
+1 & 10 on IND 19
+Sumamry: (0:34 - 2nd) (Shotgun) A.Richardson sacked at IND 14 for -5 yards (T.Walker).
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive14
+Possession: Jacksonville Jaguars
+Result: Punt
+IND: 7
+JAX: 14
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (15:00 - 3rd) M.Gay kicks 69 yards from IND 35 to JAX -4. J.Agnew to JAX 16 for 20 yards (G.Stuard).
+1 & 10 on JAX 16
+Sumamry: (14:56 - 3rd) T.Etienne up the middle to JAX 15 for -1 yards (K.Paye).
+2 & 11 on JAX 15
+Sumamry: (14:19 - 3rd) (Shotgun) T.Lawrence pass incomplete short right to C.Ridley.
+3 & 11 on JAX 15
+Sumamry: (14:15 - 3rd) (Shotgun) T.Lawrence pass incomplete short left to Z.Jones [D.Buckner]. JAX-B.Scherff was injured during the play. He is Out.
+Sumamry: (14:11 - 3rd) Timeout at 14:11.
+4 & 11 on JAX 15
+Sumamry: (14:00 - 3rd) L.Cooke punts 52 yards to IND 33, Center-R.Matiscik. I.McKenzie to IND 37 for 4 yards (R.Matiscik).
+===============
+Drive15
+Possession: Indianapolis Colts
+Result: Touchdown
+IND: 14
+JAX: 14
+Plays: 6
+Yards: 63
+Time: 2:35
+1 & 10 on IND 37
+Sumamry: (14:00 - 3rd) (No Huddle, Shotgun) A.Richardson pass short middle to M.Pittman to JAX 47 for 16 yards (Ty.Campbell).
+1 & 10 on JAX 47
+Sumamry: (13:38 - 3rd) (No Huddle, Shotgun) A.Richardson pass short right to E.Hull to JAX 47 for no gain (D.Lloyd). PENALTY on JAX-D.Lloyd, Unnecessary Roughness, 15 yards, enforced at JAX 47 - No Play.
+1 & 10 on JAX 32
+Sumamry: (13:25 - 3rd) (Shotgun) A.Richardson up the middle to JAX 29 for 3 yards (F.Fatukasi).
+2 & 7 on JAX 29
+Sumamry: (12:49 - 3rd) (Shotgun) A.Richardson pass short right to M.Pittman to JAX 21 for 8 yards (A.Cisco).
+1 & 10 on JAX 21
+Sumamry: (12:28 - 3rd) (No Huddle, Shotgun) E.Hull right end to JAX 10 for 11 yards (A.Cisco). IND-E.Hull was injured during the play. His return is Questionable.  PENALTY on IND-W.Fries, Illegal Blindside Block, 15 yards, enforced at JAX 20.
+1 & 24 on JAX 35
+Sumamry: (12:13 - 3rd) A.Richardson pass short left to D.Jackson to JAX 39 for -4 yards (A.Gotsis, J.Allen).
+2 & 28 on JAX 39
+Sumamry: (11:25 - 3rd) (Shotgun) A.Richardson pass short left to M.Pittman for 39 yards, TOUCHDOWN.M.Gay extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez.
+Sumamry: (11:25 - 3rd) Timeout at 11:25.
+===============
+Drive16
+Possession: Jacksonville Jaguars
+Result: Field Goal
+IND: 14
+JAX: 17
+Plays: 8
+Yards: 48
+Time: 2:54
+Sumamry: (11:25 - 3rd) M.Gay kicks 65 yards from IND 35 to end zone, Touchback.
+1 & 10 on JAX 25
+Sumamry: (11:25 - 3rd) (Shotgun) T.Lawrence pass short right to C.Ridley pushed ob at JAX 34 for 9 yards (D.Baker).
+2 & 1 on JAX 34
+Sumamry: (10:57 - 3rd) (Shotgun) T.Etienne up the middle to JAX 40 for 6 yards (Z.Franklin).
+1 & 10 on JAX 40
+Sumamry: (10:21 - 3rd) (Shotgun) T.Lawrence pass incomplete short right to C.Kirk.
+2 & 10 on JAX 40
+Sumamry: (10:17 - 3rd) (Shotgun) T.Lawrence pass deep right to E.Engram pushed ob at IND 34 for 26 yards (D.Baker).
+1 & 10 on IND 34
+Sumamry: (10:03 - 3rd) (No Huddle, Shotgun) T.Lawrence pass short right to Z.Jones ran ob at IND 28 for 6 yards (D.Baker).
+2 & 4 on IND 28
+Sumamry: (9:48 - 3rd) (No Huddle, Shotgun) T.Etienne up the middle to IND 25 for 3 yards (D.Buckner).
+3 & 1 on IND 25
+Sumamry: (9:11 - 3rd) (Shotgun) T.Etienne left end to IND 27 for -2 yards (E.Speed, D.Buckner).
+4 & 3 on IND 27
+Sumamry: (8:31 - 3rd) B.McManus 45 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.
+Sumamry: (8:31 - 3rd) Timeout at 08:31.
+===============
+Drive17
+Possession: Indianapolis Colts
+Result: Punt
+IND: 14
+JAX: 17
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (8:31 - 3rd) B.McManus kicks 65 yards from JAX 35 to end zone, Touchback.
+1 & 10 on IND 25
+Sumamry: (8:31 - 3rd) A.Richardson sacked ob at IND 25 for 0 yards (J.Allen).
+2 & 10 on IND 25
+Sumamry: (7:58 - 3rd) (Shotgun) A.Richardson sacked ob at IND 24 for -1 yards (J.Allen).
+3 & 11 on IND 24
+Sumamry: (7:16 - 3rd) (Shotgun) A.Richardson pass short right to D.Jackson to IND 21 for -3 yards (R.Jenkins) [F.Fatukasi].
+4 & 14 on IND 21
+Sumamry: (6:28 - 3rd) R.Sanchez punts 37 yards to JAX 42, Center-L.Rhodes, downed by IND-G.Stuard.
+Sumamry: (6:28 - 3rd) Timeout at 06:28.
+===============
+Drive18
+Possession: Jacksonville Jaguars
+Result: Downs
+IND: 14
+JAX: 17
+Plays: 4
+Yards: 9
+Time: 2:3
+1 & 10 on JAX 42
+Sumamry: (6:28 - 3rd) (Shotgun) T.Lawrence pass short right to T.Etienne to JAX 45 for 3 yards (Z.Franklin; S.Leonard).
+2 & 7 on JAX 45
+Sumamry: (5:46 - 3rd) (Shotgun) T.Etienne right tackle to JAX 47 for 2 yards (T.Bryan, J.Martin).
+3 & 5 on JAX 47
+Sumamry: (5:05 - 3rd) (Shotgun) T.Lawrence pass short right to T.Etienne pushed ob at IND 49 for 4 yards (J.Blackmon, D.Baker).
+4 & 1 on IND 49
+Sumamry: (4:29 - 3rd) (Shotgun) T.Lawrence pass short left to E.Engram to IND 49 for no gain (E.Speed, Z.Franklin).
+===============
+Drive19
+Possession: Indianapolis Colts
+Result: Fumble
+IND: 14
+JAX: 17
+Plays: 4
+Yards: 7
+Time: 1:15
+1 & 10 on IND 49
+Sumamry: (4:25 - 3rd) (Shotgun) D.Jackson left guard to 50 for 1 yard (A.Gotsis, R.Robertson-Harris).
+2 & 9 on 50
+Sumamry: (3:52 - 3rd) (Shotgun) A.Richardson pass incomplete short middle to D.Jackson.
+3 & 9 on 50
+Sumamry: (3:48 - 3rd) (Shotgun) A.Richardson pass short right to M.Pittman to JAX 42 for 8 yards (Ty.Campbell).
+Sumamry: (3:19 - 3rd) Timeout #1 by IND at 03:19.
+4 & 1 on JAX 42
+Sumamry: (3:16 - 3rd) D.Jackson right end to JAX 44 for -2 yards (Ty.Campbell). FUMBLES (Ty.Campbell), touched at JAX 44, RECOVERED by JAX-D.Lloyd at JAX 46.
+===============
+Drive20
+Possession: Jacksonville Jaguars
+Result: Fumble Return Touchdown
+IND: 21
+JAX: 17
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on JAX 46
+Sumamry: (3:10 - 3rd) T.Lawrence pass deep right to C.Ridley to IND 30 for 24 yards (K.Moore). PENALTY on JAX-W.Little, Offensive Holding, 10 yards, enforced at JAX 46 - No Play.
+1 & 20 on JAX 36
+Sumamry: (2:27 - 3rd) DeForest Buckner 26 Yd Fumble Return (Matt Gay Kick)
+===============
+Drive21
+Possession: Jacksonville Jaguars
+Result: Punt
+IND: 21
+JAX: 17
+Plays: 3
+Yards: 7
+Time: 1:24
+Sumamry: (2:27 - 3rd) M.Gay kicks 65 yards from IND 35 to end zone, Touchback.
+1 & 10 on JAX 25
+Sumamry: (2:27 - 3rd) (Shotgun) T.Lawrence pass short middle to T.Etienne to JAX 30 for 5 yards (Z.Franklin, S.Leonard).
+2 & 5 on JAX 30
+Sumamry: (1:51 - 3rd) (Shotgun) T.Etienne left guard to JAX 32 for 2 yards (T.Bryan; Z.Franklin).
+3 & 3 on JAX 32
+Sumamry: (1:14 - 3rd) (Shotgun) T.Lawrence pass incomplete short right to C.Kirk (D.Odeyingbo).
+4 & 3 on JAX 32
+Sumamry: (1:03 - 3rd) L.Cooke punts 41 yards to IND 27, Center-R.Matiscik, fair catch by I.McKenzie.
+===============
+Drive22
+Possession: Indianapolis Colts
+Result: Punt
+IND: 21
+JAX: 17
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on IND 27
+Sumamry: (1:03 - 3rd) (Shotgun) D.Jackson right end pushed ob at IND 43 for 16 yards (A.Cisco). PENALTY on IND-M.Pittman, Offensive Holding, 10 yards, enforced at IND 27 - No Play.
+1 & 20 on IND 17
+Sumamry: (0:37 - 3rd) (Shotgun) A.Richardson pass incomplete short right to A.Pierce.
+2 & 20 on IND 17
+Sumamry: (0:34 - 3rd) (Shotgun) J.Funk up the middle to IND 24 for 7 yards (D.Lloyd; F.Oluokun).
+3 & 13 on IND 24
+Sumamry: (15:00 - 4th) (Shotgun) A.Richardson pass incomplete deep middle to K.Granson.
+4 & 13 on IND 24
+Sumamry: (14:47 - 4th) R.Sanchez punts 43 yards to JAX 33, Center-L.Rhodes. J.Agnew pushed ob at JAX 43 for 10 yards (N.Cross).
+===============
+Drive23
+Possession: Jacksonville Jaguars
+Result: Downs
+IND: 21
+JAX: 17
+Plays: 4
+Yards: 9
+Time: 1:55
+1 & 10 on JAX 43
+Sumamry: (14:47 - 4th) (Shotgun) T.Etienne right guard to JAX 48 for 5 yards (E.Johnson).
+2 & 5 on JAX 48
+Sumamry: (14:11 - 4th) (Shotgun) T.Bigsby left guard to IND 49 for 3 yards (Z.Franklin; S.Leonard).
+3 & 2 on IND 49
+Sumamry: (13:32 - 4th) T.Lawrence up the middle to IND 48 for 1 yard (Z.Franklin).
+4 & 1 on IND 48
+Sumamry: (12:52 - 4th) B.Hance reported in as eligible.  T.Lawrence up the middle to IND 48 for no gain (Z.Franklin).
+Sumamry: (12:52 - 4th) Timeout at 12:52.
+===============
+Drive24
+Possession: Indianapolis Colts
+Result: Punt
+IND: 21
+JAX: 17
+Plays: 3
+Yards: 2
+Time: 2:6
+1 & 10 on IND 48
+Sumamry: (12:52 - 4th) (Shotgun) D.Jackson up the middle to IND 48 for no gain (R.Robertson-Harris; F.Fatukasi).
+2 & 10 on IND 48
+Sumamry: (12:15 - 4th) (Shotgun) D.Jackson right tackle to IND 45 for -3 yards (J.Allen).
+3 & 13 on IND 45
+Sumamry: (11:31 - 4th) (Shotgun) A.Richardson pass short middle to M.Pittman to IND 49 for 4 yards (Dari.Williams). PENALTY on JAX-T.Walker, Defensive Offside, 5 yards, enforced at IND 45 - No Play.
+3 & 8 on 50
+Sumamry: (11:05 - 4th) A.Richardson pass incomplete short middle to J.Downs.
+4 & 8 on 50
+Sumamry: (10:46 - 4th) R.Sanchez punts 44 yards to JAX 6, Center-L.Rhodes. J.Agnew to IND 46 for 48 yards (N.Cross).
+===============
+Drive25
+Possession: Jacksonville Jaguars
+Result: Touchdown
+IND: 21
+JAX: 24
+Plays: 10
+Yards: 46
+Time: 5:32
+1 & 10 on IND 46
+Sumamry: (10:46 - 4th) (Shotgun) T.Lawrence scrambles up the middle to IND 35 for 11 yards (Z.Franklin; S.Leonard).
+1 & 10 on IND 35
+Sumamry: (10:08 - 4th) (Shotgun) T.Etienne up the middle to IND 32 for 3 yards (G.Stewart).
+2 & 7 on IND 32
+Sumamry: (9:29 - 4th) (Shotgun) T.Lawrence pass short right to E.Engram to IND 23 for 9 yards (S.Leonard).
+1 & 10 on IND 23
+Sumamry: (8:54 - 4th) (Shotgun) T.Etienne up the middle to IND 25 for -2 yards (G.Stewart).
+2 & 12 on IND 25
+Sumamry: (8:15 - 4th) (Shotgun) T.Lawrence pass incomplete deep left to C.Ridley.
+3 & 12 on IND 25
+Sumamry: (8:11 - 4th) (Shotgun) T.Lawrence pass short left to T.Etienne to IND 15 for 10 yards (S.Ebukam).
+4 & 2 on IND 15
+Sumamry: (7:26 - 4th) (Shotgun) T.Lawrence pass short right to Z.Jones to IND 11 for 4 yards (Z.Franklin).
+1 & 10 on IND 11
+Sumamry: (6:44 - 4th) (Shotgun) T.Lawrence up the middle to IND 5 for 6 yards (Z.Franklin).
+2 & 4 on IND 5
+Sumamry: (6:02 - 4th) T.Bigsby left tackle to IND 1 for 4 yards (E.Johnson; J.Blackmon).
+Sumamry: (5:14 - 4th) Timeout at 05:14.
+===============
+Drive26
+Possession: Indianapolis Colts
+Result: Interception
+IND: 21
+JAX: 24
+Plays: 2
+Yards: 0
+Time: 0:14
+Sumamry: (5:14 - 4th) B.McManus kicks 65 yards from JAX 35 to end zone, Touchback.
+1 & 10 on IND 25
+Sumamry: (5:14 - 4th) (Shotgun) A.Richardson pass incomplete short right to K.Granson.
+2 & 10 on IND 25
+Sumamry: (5:00 - 4th) (Shotgun) A.Richardson pass deep left intended for M.Alie-Cox INTERCEPTED by Ty.Campbell at IND 44. Ty.Campbell to IND 44 for no gain (M.Pittman).
+===============
+Drive27
+Possession: Jacksonville Jaguars
+Result: Touchdown
+IND: 21
+JAX: 31
+Plays: 3
+Yards: 44
+Time: 0:52
+1 & 10 on IND 44
+Sumamry: (5:00 - 4th) (Shotgun) T.Etienne up the middle to IND 41 for 3 yards (D.Buckner; D.Flowers).
+2 & 7 on IND 41
+Sumamry: (4:21 - 4th) (Shotgun) T.Lawrence pass short left to Z.Jones pushed ob at IND 26 for 15 yards (R.Thomas).
+1 & 10 on IND 26
+Sumamry: (4:08 - 4th) T.Etienne left tackle for 26 yards, TOUCHDOWN.B.McManus extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke.
+===============
+Drive28
+Possession: Indianapolis Colts
+Result: Downs
+IND: 21
+JAX: 31
+Plays: 17
+Yards: 74
+Time: 3:23
+Sumamry: (4:08 - 4th) B.McManus kicks 65 yards from JAX 35 to end zone, Touchback.
+1 & 10 on IND 25
+Sumamry: (4:08 - 4th) (Shotgun) J.Funk right tackle to IND 28 for 3 yards (J.Allen; F.Oluokun).
+2 & 7 on IND 28
+Sumamry: (3:50 - 4th) (No Huddle, Shotgun) A.Richardson pass short middle to K.Granson to IND 42 for 14 yards (R.Jenkins).
+1 & 10 on IND 42
+Sumamry: (3:30 - 4th) (No Huddle, Shotgun) A.Richardson pass incomplete deep middle to M.Pittman [J.Allen].
+2 & 10 on IND 42
+Sumamry: (3:24 - 4th) (Shotgun) A.Richardson pass short right to J.Funk pushed ob at JAX 46 for 12 yards (F.Oluokun).
+1 & 10 on JAX 46
+Sumamry: (3:19 - 4th) (Shotgun) A.Richardson scrambles right end pushed ob at JAX 41 for 5 yards (F.Oluokun).
+2 & 5 on JAX 41
+Sumamry: (3:12 - 4th) (Shotgun) A.Richardson pass short right to M.Pittman to JAX 37 for 4 yards (Dari.Williams).
+3 & 1 on JAX 37
+Sumamry: (2:46 - 4th) (No Huddle, Shotgun) A.Richardson pass short middle to M.Pittman to JAX 28 for 9 yards (A.Cisco).
+1 & 10 on JAX 28
+Sumamry: (2:20 - 4th) (No Huddle, Shotgun) A.Richardson pass short right to M.Pittman to JAX 20 for 8 yards (D.Lloyd).
+2 & 2 on JAX 20
+Sumamry: (2:04 - 4th) (No Huddle, Shotgun) A.Richardson pass short right to K.Granson ran ob at JAX 13 for 7 yards.
+Sumamry: (1:59 - 4th) Two-Minute Warning
+1 & 10 on JAX 13
+Sumamry: (1:59 - 4th) (Shotgun) A.Richardson pass incomplete short right to A.Pierce (Dari.Williams).
+2 & 10 on JAX 13
+Sumamry: (1:55 - 4th) (Shotgun) A.Richardson pass incomplete short right to J.Downs [T.Herndon].
+3 & 10 on JAX 13
+Sumamry: (1:51 - 4th) (Shotgun) A.Richardson pass short middle to M.Pittman to JAX 8 for 5 yards (F.Oluokun).
+4 & 5 on JAX 8
+Sumamry: (1:28 - 4th) (No Huddle, Shotgun) A.Richardson scrambles right guard to JAX 3 for 5 yards (J.Allen).
+Sumamry: (0:59 - 4th) Timeout #2 by IND at 00:59.
+Sumamry: (0:52 - 4th) Timeout #3 by IND at 00:52.
+4 & 1 on JAX 1
+Sumamry: (0:45 - 4th) (Shotgun) G.Minshew pass incomplete short right to M.Pittman (F.Oluokun).
+===============
+Drive29
+Possession: Jacksonville Jaguars
+Result: End of Game
+IND: 21
+JAX: 31
+Plays: 2
+Yards: 0
+Time: 0:45
+1 & 10 on JAX 1
+Sumamry: (0:45 - 4th) T.Lawrence up the middle to JAX 2 for 1 yard (G.Stewart; D.Buckner).
+2 & 9 on JAX 2
+Sumamry: (0:10 - 4th) T.Lawrence kneels to JAX 1 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

@@ -1,0 +1,577 @@
+Drive1
+Possession: Philadelphia Eagles
+Result: Field Goal
+NE: 0
+PHI: 3
+Plays: 14
+Yards: 61
+Time: 7:18
+Sumamry: (15:00 - 1st) C.Ryland kicks 65 yards from NE 35 to end zone, Touchback.
+1 & 10 on PHI 25
+Sumamry: (14:51 - 1st) (Shotgun) J.Hurts pass short left to K.Gainwell to PHI 31 for 6 yards (J.Peppers; Ja.Tavai).
+2 & 4 on PHI 31
+Sumamry: (14:17 - 1st) (Shotgun) J.Hurts FUMBLES (Aborted) at PHI 24, and recovers at PHI 20. PENALTY on NE-D.Wise, Defensive Offside, 5 yards, enforced at PHI 31 - No Play.
+1 & 10 on PHI 36
+Sumamry: (13:48 - 1st) (Shotgun) K.Gainwell left guard to NE 48 for 16 yards (M.Mapu).
+1 & 10 on NE 48
+Sumamry: (13:07 - 1st) (Shotgun) J.Hurts pass short middle to K.Gainwell to NE 40 for 8 yards (J.Bentley; M.Mapu).
+2 & 2 on NE 40
+Sumamry: (12:22 - 1st) (Shotgun) K.Gainwell right tackle to NE 39 for 1 yard (J.Bentley).
+3 & 1 on NE 39
+Sumamry: (11:57 - 1st) (No Huddle, Shotgun) K.Gainwell up the middle to NE 34 for 5 yards (D.Wise).
+1 & 10 on NE 34
+Sumamry: (11:29 - 1st) (No Huddle, Shotgun) J.Hurts pass short left to Q.Watkins pushed ob at NE 26 for 8 yards (M.Bryant).
+2 & 2 on NE 26
+Sumamry: (11:12 - 1st) (No Huddle, Shotgun) K.Gainwell left guard to NE 22 for 4 yards (D.Ekuale).
+1 & 10 on NE 22
+Sumamry: (10:43 - 1st) (No Huddle, Shotgun) J.Hurts left end to NE 23 for -1 yards (J.Bentley).
+2 & 11 on NE 23
+Sumamry: (10:03 - 1st) (Shotgun) J.Hurts pass incomplete deep left. Thrown away from outside the pocket.
+3 & 11 on NE 23
+Sumamry: (9:56 - 1st) (Shotgun) J.Hurts left guard pushed ob at NE 9 for 14 yards (J.Mills).
+Sumamry: (9:41 - 1st) Timeout #1 by NE at 09:41.
+Sumamry: (7:42 - 1st) Timeout at 07:42.
+===============
+Drive2
+Possession: New England Patriots
+Result: Interception Touchdown
+NE: 0
+PHI: 10
+Plays: 7
+Yards: 34
+Time: 2:46
+Sumamry: (7:36 - 1st) J.Elliott kicks 60 yards from PHI 35 to NE 5. T.Montgomery to NE 24 for 19 yards (N.Smith).
+1 & 10 on NE 24
+Sumamry: (7:30 - 1st) (Shotgun) R.Stevenson left guard to NE 26 for 2 yards (M.Williams; H.Reddick).
+2 & 8 on NE 26
+Sumamry: (6:47 - 1st) (Shotgun) M.Jones pass short middle to H.Henry to NE 35 for 9 yards (J.Evans; A.Maddox).
+1 & 10 on NE 35
+Sumamry: (6:29 - 1st) (No Huddle, Shotgun) T.Montgomery right tackle to NE 42 for 7 yards (R.Blankenship; D.Slay).
+2 & 3 on NE 42
+Sumamry: (6:01 - 1st) (Shotgun) E.Elliott right end pushed ob at PHI 47 for 11 yards (R.Blankenship).
+1 & 10 on PHI 47
+Sumamry: (5:28 - 1st) (Shotgun) M.Jones pass short left to D.Douglas to PHI 42 for 5 yards (A.Maddox).
+2 & 5 on PHI 42
+Sumamry: (5:14 - 1st) (No Huddle, Shotgun) M.Jones pass incomplete short middle to D.Douglas.
+3 & 5 on PHI 42
+Sumamry: (4:56 - 1st) (Shotgun) M.Jones pass short right intended for K.Bourne INTERCEPTED by D.Slay at PHI 30. D.Slay for 70 yards, TOUCHDOWN.J.Elliott extra point is GOOD, Center-R.Lovato, Holder-A.Siposs.
+Sumamry: (4:56 - 1st) Timeout at 04:56.
+===============
+Drive3
+Possession: New England Patriots
+Result: Fumble
+NE: 0
+PHI: 10
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (4:56 - 1st) J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.
+1 & 10 on NE 25
+Sumamry: (4:48 - 1st) (Shotgun) M.Jones pass short left to E.Elliott to NE 25 for no gain (J.Davis). FUMBLES (J.Davis), RECOVERED by PHI-Z.Cunningham at NE 26.
+===============
+Drive4
+Possession: Philadelphia Eagles
+Result: Touchdown
+NE: 0
+PHI: 16
+Plays: 4
+Yards: 26
+Time: 2:9
+1 & 10 on NE 26
+Sumamry: (4:41 - 1st) (Shotgun) K.Gainwell up the middle to NE 21 for 5 yards (D.Wise; Ma.Jones).
+2 & 5 on NE 21
+Sumamry: (4:03 - 1st) (Shotgun) J.Hurts pass short left to A.Brown ran ob at NE 12 for 9 yards.
+1 & 10 on NE 12
+Sumamry: (3:40 - 1st) (No Huddle, Shotgun) K.Gainwell up the middle to NE 10 for 2 yards (D.Godchaux; J.Bentley).
+2 & 8 on NE 10
+Sumamry: (2:59 - 1st) (Shotgun) J.Hurts sacked at NE 14 for -4 yards (D.Wise). PENALTY on NE-K.Dugger, Defensive Holding, 5 yards, enforced at NE 10 - No Play.
+Sumamry: (2:39 - 1st) Timeout at 02:39.
+===============
+Drive5
+Possession: New England Patriots
+Result: Punt
+NE: 0
+PHI: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (2:32 - 1st) J.Elliott kicks 64 yards from PHI 35 to NE 1. T.Montgomery pushed ob at NE 44 for 43 yards (K.Ringo).
+1 & 10 on NE 44
+Sumamry: (2:25 - 1st) R.Stevenson left tackle to NE 45 for 1 yard (D.Barnett; M.Williams).
+2 & 9 on NE 45
+Sumamry: (2:03 - 1st) (No Huddle, Shotgun) M.Jones pass incomplete short left to J.Smith-Schuster (J.Bradberry).
+3 & 9 on NE 45
+Sumamry: (1:56 - 1st) (Shotgun) M.Jones pass incomplete short left to K.Bourne (R.Blankenship).
+4 & 9 on NE 45
+Sumamry: (1:49 - 1st) B.Baringer punts 39 yards to PHI 16, Center-J.Cardona, out of bounds.
+Sumamry: (1:49 - 1st) Timeout at 01:49.
+===============
+Drive6
+Possession: Philadelphia Eagles
+Result: Punt
+NE: 0
+PHI: 16
+Plays: 3
+Yards: 2
+Time: 2:1
+1 & 10 on PHI 16
+Sumamry: (1:39 - 1st) (Shotgun) J.Hurts pass short right to D.Swift to PHI 16 for no gain (J.Peppers).
+2 & 10 on PHI 16
+Sumamry: (0:59 - 1st) (Shotgun) J.Hurts sacked ob at PHI 16 for 0 yards (J.Uche).
+3 & 10 on PHI 16
+Sumamry: (0:15 - 1st) (Shotgun) J.Hurts pass short middle to A.Brown to PHI 18 for 2 yards (M.Bryant).
+4 & 8 on PHI 18
+Sumamry: (14:48 - 2nd) A.Siposs punts 50 yards to NE 32, Center-R.Lovato. Ma.Jones pushed ob at PHI 47 for 21 yards (R.Blankenship).
+===============
+Drive7
+Possession: New England Patriots
+Result: Punt
+NE: 0
+PHI: 16
+Plays: 3
+Yards: 3
+Time: 1:26
+1 & 10 on PHI 47
+Sumamry: (14:35 - 2nd) (Shotgun) M.Jones pass short left to E.Elliott to PHI 43 for 4 yards (J.Bradberry).
+2 & 6 on PHI 43
+Sumamry: (14:01 - 2nd) (Shotgun) R.Stevenson left guard to PHI 44 for -1 yards (J.Davis, N.Dean).
+3 & 7 on PHI 44
+Sumamry: (13:29 - 2nd) (Shotgun) M.Jones pass incomplete short left to K.Bourne (A.Maddox).
+Sumamry: (13:29 - 2nd) Timeout #1 by PHI at 13:29.
+4 & 7 on PHI 44
+Sumamry: (13:22 - 2nd) B.Baringer punts 36 yards to PHI 8, Center-J.Cardona, fair catch by B.Covey.
+Sumamry: (13:22 - 2nd) Timeout at 13:22.
+===============
+Drive8
+Possession: Philadelphia Eagles
+Result: Punt
+NE: 0
+PHI: 16
+Plays: 3
+Yards: 3
+Time: 1:33
+1 & 10 on PHI 8
+Sumamry: (13:16 - 2nd) (Shotgun) K.Gainwell up the middle to PHI 9 for 1 yard (A.Phillips, L.Guy).
+2 & 9 on PHI 9
+Sumamry: (12:41 - 2nd) (Shotgun) J.Hurts pass incomplete deep right. thrown away from outside the pocket
+3 & 9 on PHI 9
+Sumamry: (12:26 - 2nd) (Shotgun) J.Hurts pass short right to D.Smith to PHI 11 for 2 yards (M.Judon).
+4 & 7 on PHI 11
+Sumamry: (11:49 - 2nd) A.Siposs punts 46 yards to NE 43, Center-R.Lovato. Ma.Jones to NE 43 for no gain (S.Brown).
+Sumamry: (11:49 - 2nd) Timeout at 11:49.
+===============
+Drive9
+Possession: New England Patriots
+Result: Punt
+NE: 0
+PHI: 16
+Plays: 3
+Yards: 5
+Time: 1:19
+1 & 10 on NE 43
+Sumamry: (11:42 - 2nd) (Shotgun) E.Elliott left end to NE 42 for -1 yards (D.Barnett).
+2 & 11 on NE 42
+Sumamry: (11:10 - 2nd) (Shotgun) M.Jones pass short middle to K.Bourne to NE 48 for 6 yards (R.Blankenship).
+3 & 5 on NE 48
+Sumamry: (10:42 - 2nd) (Shotgun) M.Jones pass incomplete short right to J.Smith-Schuster.
+4 & 5 on NE 48
+Sumamry: (10:30 - 2nd) B.Baringer punts 43 yards to PHI 9, Center-J.Cardona. B.Covey to PHI 14 for 5 yards (M.Wilson).
+Sumamry: (10:30 - 2nd) Timeout at 10:30.
+===============
+Drive10
+Possession: Philadelphia Eagles
+Result: Punt
+NE: 0
+PHI: 16
+Plays: 3
+Yards: 3
+Time: 1:8
+1 & 10 on PHI 14
+Sumamry: (10:23 - 2nd) (Shotgun) J.Hurts pass incomplete short right. thrown away from outside the pocket
+2 & 10 on PHI 14
+Sumamry: (10:14 - 2nd) (Shotgun) J.Hurts right end to PHI 14 for no gain (M.Judon).
+3 & 10 on PHI 14
+Sumamry: (9:35 - 2nd) (Shotgun) B.Scott up the middle to PHI 17 for 3 yards (J.Bentley; C.Barmore). Penalty on PHI-J.Mailata, Illegal Formation, declined.
+4 & 7 on PHI 17
+Sumamry: (9:22 - 2nd) A.Siposs punts 54 yards to NE 29, Center-R.Lovato. Ma.Jones to NE 29 for no gain (J.Jobe). FUMBLES (J.Jobe), ball out of bounds at NE 29.
+Sumamry: (9:22 - 2nd) Timeout at 09:22.
+===============
+Drive11
+Possession: New England Patriots
+Result: Touchdown
+NE: 7
+PHI: 16
+Plays: 10
+Yards: 71
+Time: 4:48
+1 & 10 on NE 29
+Sumamry: (9:15 - 2nd) R.Stevenson up the middle to NE 32 for 3 yards (N.Dean).
+2 & 7 on NE 32
+Sumamry: (8:35 - 2nd) (Shotgun) M.Jones pass short right to K.Bourne to NE 33 for 1 yard (N.Dean; J.Evans).
+3 & 6 on NE 33
+Sumamry: (7:53 - 2nd) (Shotgun) M.Jones pass short left to M.Gesicki to NE 42 for 9 yards (N.Dean).
+1 & 10 on NE 42
+Sumamry: (7:31 - 2nd) (Shotgun) M.Jones pass incomplete deep right to K.Bourne (D.Slay).
+2 & 10 on NE 42
+Sumamry: (7:21 - 2nd) (Shotgun) M.Jones pass short middle to E.Elliott to NE 42 for no gain (Z.Cunningham).
+3 & 10 on NE 42
+Sumamry: (6:42 - 2nd) (Shotgun) M.Jones pass short middle to J.Smith-Schuster to PHI 43 for 15 yards (R.Blankenship). PHI-R.Blankenship was injured during the play.
+1 & 10 on PHI 43
+Sumamry: (6:08 - 2nd) (Shotgun) M.Jones pass deep right to D.Douglas ran ob at PHI 20 for 23 yards.
+1 & 10 on PHI 20
+Sumamry: (5:33 - 2nd) (No Huddle, Shotgun) M.Jones pass short middle to T.Montgomery to PHI 9 for 11 yards (Z.Cunningham).
+===============
+Drive12
+Possession: Philadelphia Eagles
+Result: Punt
+NE: 7
+PHI: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (4:34 - 2nd) C.Ryland kicks 65 yards from NE 35 to end zone, Touchback.
+1 & 10 on PHI 25
+Sumamry: (4:23 - 2nd) (Shotgun) J.Hurts right tackle to PHI 28 for 3 yards (J.Peppers; C.Gonzalez).
+2 & 7 on PHI 28
+Sumamry: (3:47 - 2nd) (No Huddle, Shotgun) J.Hurts pass short middle to A.Brown to PHI 40 for 12 yards (C.Gonzalez). PENALTY on PHI-J.Stoll, Chop Block, 14 yards, enforced at PHI 28 - No Play.
+2 & 21 on PHI 14
+Sumamry: (3:24 - 2nd) (Shotgun) J.Hurts pass short right to A.Brown to PHI 21 for 7 yards (C.Gonzalez).
+3 & 14 on PHI 21
+Sumamry: (2:47 - 2nd) (Shotgun) J.Hurts pass incomplete short middle to D.Swift [J.Uche].
+4 & 14 on PHI 21
+Sumamry: (2:39 - 2nd) A.Siposs punts 52 yards to NE 27, Center-R.Lovato, fair catch by Ma.Jones. PENALTY on PHI-P.Johnson, Ineligible Downfield Kick, 5 yards, enforced at PHI 21 - No Play.
+4 & 19 on PHI 16
+Sumamry: (2:33 - 2nd) A.Siposs punts 47 yards to NE 37, Center-R.Lovato, fair catch by Ma.Jones.
+===============
+Drive13
+Possession: New England Patriots
+Result: Touchdown
+NE: 14
+PHI: 16
+Plays: 6
+Yards: 63
+Time: 2:8
+1 & 10 on NE 37
+Sumamry: (2:27 - 2nd) (Shotgun) M.Jones pass short right to T.Montgomery pushed ob at NE 35 for -2 yards (B.Graham).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+2 & 12 on NE 35
+Sumamry: (1:51 - 2nd) (Shotgun) M.Jones pass short middle to H.Henry to NE 48 for 13 yards (J.Evans).
+1 & 10 on NE 48
+Sumamry: (1:13 - 2nd) (Shotgun) M.Jones pass short middle to H.Henry to PHI 39 for 13 yards (J.Evans).
+1 & 10 on PHI 39
+Sumamry: (1:01 - 2nd) (No Huddle, Shotgun) PENALTY on PHI-J.Sweat, Neutral Zone Infraction, 5 yards, enforced at PHI 39 - No Play.
+1 & 5 on PHI 34
+Sumamry: (0:52 - 2nd) (Shotgun) M.Jones scrambles left end to PHI 26 for 8 yards (R.Blankenship).
+1 & 10 on PHI 26
+Sumamry: (0:30 - 2nd) (No Huddle, Shotgun) M.Jones pass short right to J.Smith-Schuster pushed ob at PHI 19 for 7 yards (A.Maddox).
+2 & 3 on PHI 19
+Sumamry: (0:25 - 2nd) (Shotgun) M.Jones pass deep middle to K.Bourne for 19 yards, TOUCHDOWN.C.Ryland extra point is GOOD, Center-J.Cardona, Holder-B.Baringer.
+===============
+Drive14
+Possession: Philadelphia Eagles
+Result: End of Half
+NE: 14
+PHI: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (0:25 - 2nd) C.Ryland kicks 65 yards from NE 35 to end zone, Touchback.
+1 & 10 on PHI 25
+Sumamry: (0:20 - 2nd) (Shotgun) K.Gainwell up the middle to PHI 28 for 3 yards (K.Dugger; D.Ekuale).
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive15
+Possession: New England Patriots
+Result: Punt
+NE: 14
+PHI: 16
+Plays: 3
+Yards: 6
+Time: 1:17
+Sumamry: (15:00 - 3rd) J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.
+1 & 10 on NE 25
+Sumamry: (14:54 - 3rd) (Shotgun) R.Stevenson up the middle to NE 26 for 1 yard (N.Dean, J.Davis).
+2 & 9 on NE 26
+Sumamry: (14:39 - 3rd) (No Huddle, Shotgun) M.Jones pass short middle to R.Stevenson to NE 31 for 5 yards (J.Bradberry; Z.Cunningham).
+3 & 4 on NE 31
+Sumamry: (13:58 - 3rd) (Shotgun) M.Jones pass incomplete deep left to K.Boutte.
+4 & 4 on NE 31
+Sumamry: (13:43 - 3rd) B.Baringer punts 65 yards to PHI 4, Center-J.Cardona. B.Covey to PHI 29 for 25 yards (B.Schooler; K.Dugger).
+Sumamry: (13:43 - 3rd) Timeout at 13:43.
+===============
+Drive16
+Possession: Philadelphia Eagles
+Result: Field Goal
+NE: 14
+PHI: 19
+Plays: 10
+Yards: 33
+Time: 4:55
+1 & 10 on PHI 29
+Sumamry: (13:33 - 3rd) (Shotgun) J.Hurts pass short middle to A.Brown to PHI 44 for 15 yards (J.Peppers).
+1 & 10 on PHI 44
+Sumamry: (13:09 - 3rd) (No Huddle, Shotgun) J.Hurts scrambles right end ran ob at PHI 49 for 5 yards (M.Bryant).
+2 & 5 on PHI 49
+Sumamry: (12:23 - 3rd) (Shotgun) J.Hurts pass short right to D.Smith to NE 49 for 2 yards (A.Phillips).
+3 & 3 on NE 49
+Sumamry: (11:44 - 3rd) (Shotgun) K.Gainwell up the middle to NE 42 for 7 yards (Ja.Tavai; D.Wise).
+1 & 10 on NE 42
+Sumamry: (11:15 - 3rd) (No Huddle, Shotgun) J.Hurts pass short right to K.Gainwell to NE 40 for 2 yards (Ja.Tavai).
+2 & 8 on NE 40
+Sumamry: (10:34 - 3rd) (Shotgun) J.Hurts pass short right to Q.Watkins ran ob at NE 31 for 9 yards (K.Dugger; C.Gonzalez).
+1 & 10 on NE 31
+Sumamry: (10:09 - 3rd) (No Huddle, Shotgun) J.Hurts scrambles left end to NE 26 for 5 yards (Jo.Jones). PENALTY on PHI-J.Mailata, Offensive Holding, 10 yards, enforced at NE 31 - No Play.
+1 & 20 on NE 41
+Sumamry: (9:50 - 3rd) (Shotgun) J.Hurts pass incomplete deep left to D.Smith (J.Peppers).
+2 & 20 on NE 41
+Sumamry: (9:39 - 3rd) (Shotgun) J.Hurts pass incomplete short right to A.Brown (K.White).
+3 & 20 on NE 41
+Sumamry: (9:30 - 3rd) (Shotgun) K.Gainwell right end to NE 38 for 3 yards (C.Gonzalez).
+Sumamry: (8:52 - 3rd) Timeout #1 by PHI at 08:52.
+4 & 17 on NE 38
+Sumamry: (8:48 - 3rd) J.Elliott 56 yard field goal is GOOD, Center-R.Lovato, Holder-A.Siposs.
+Sumamry: (8:48 - 3rd) Timeout at 08:48.
+===============
+Drive17
+Possession: New England Patriots
+Result: Punt
+NE: 14
+PHI: 19
+Plays: 13
+Yards: 32
+Time: 6:5
+Sumamry: (8:48 - 3rd) J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.
+1 & 10 on NE 25
+Sumamry: (8:39 - 3rd) E.Elliott left end to NE 32 for 7 yards (R.Blankenship).
+2 & 3 on NE 32
+Sumamry: (8:05 - 3rd) E.Elliott left tackle to NE 36 for 4 yards (J.Sweat; F.Cox).
+1 & 10 on NE 36
+Sumamry: (7:27 - 3rd) (Shotgun) M.Jones pass short right to J.Smith-Schuster to NE 42 for 6 yards (D.Slay; N.Dean).
+2 & 4 on NE 42
+Sumamry: (6:59 - 3rd) (No Huddle, Shotgun) M.Jones pass incomplete short middle to J.Smith-Schuster [B.Graham].
+3 & 4 on NE 42
+Sumamry: (6:50 - 3rd) (Shotgun) M.Jones pass short left to K.Bourne to PHI 40 for 18 yards (R.Blankenship).
+1 & 10 on PHI 40
+Sumamry: (6:26 - 3rd) (No Huddle, Shotgun) R.Stevenson left tackle to PHI 35 for 5 yards (M.Tuipulotu).
+2 & 5 on PHI 35
+Sumamry: (5:53 - 3rd) (Shotgun) M.Jones pass short left to E.Elliott to PHI 31 for 4 yards (M.Tuipulotu, R.Blankenship).
+3 & 1 on PHI 31
+Sumamry: (5:24 - 3rd) E.Elliott up the middle to PHI 28 for 3 yards (C.Elliss).
+1 & 10 on PHI 28
+Sumamry: (4:58 - 3rd) (No Huddle, Shotgun) R.Stevenson up the middle to PHI 27 for 1 yard (N.Dean, M.Tuipulotu).
+2 & 9 on PHI 27
+Sumamry: (4:19 - 3rd) R.Stevenson up the middle to PHI 17 for 10 yards (J.Evans). PENALTY on NE-H.Henry, Offensive Holding, 10 yards, enforced at PHI 25.
+2 & 17 on PHI 35
+Sumamry: (4:03 - 3rd) (Shotgun) M.Jones pass incomplete deep left to K.Boutte (R.Blankenship).
+3 & 17 on PHI 35
+Sumamry: (3:53 - 3rd) (Shotgun) M.Jones pass short left to E.Elliott to PHI 29 for 6 yards (R.Blankenship). PENALTY on NE-A.Mafi, Offensive Holding, 10 yards, enforced at PHI 29.
+3 & 21 on PHI 39
+Sumamry: (3:37 - 3rd) (Shotgun) M.Jones pass short right to D.Douglas to PHI 43 for -4 yards (A.Maddox).
+4 & 25 on PHI 43
+Sumamry: (2:43 - 3rd) B.Baringer punts 43 yards to end zone, Center-J.Cardona, Touchback.
+Sumamry: (2:43 - 3rd) Timeout at 02:43.
+===============
+Drive18
+Possession: Philadelphia Eagles
+Result: Field Goal
+NE: 14
+PHI: 22
+Plays: 11
+Yards: 50
+Time: 4:22
+1 & 10 on PHI 20
+Sumamry: (2:33 - 3rd) (Shotgun) J.Hurts pass short left to D.Smith to PHI 23 for 3 yards (M.Bryant).
+2 & 7 on PHI 23
+Sumamry: (1:54 - 3rd) (Shotgun) J.Hurts pass short right to K.Gainwell to PHI 27 for 4 yards (M.Bryant; J.Bentley).
+3 & 3 on PHI 27
+Sumamry: (1:09 - 3rd) (Shotgun) J.Hurts scrambles right end to PHI 32 for 5 yards (M.Bryant).
+1 & 10 on PHI 32
+Sumamry: (0:36 - 3rd) (Shotgun) J.Hurts pass short right to D.Smith ran ob at PHI 41 for 9 yards.
+2 & 1 on PHI 41
+Sumamry: (0:02 - 3rd) (No Huddle, Shotgun) J.Hurts pass short right to D.Smith to NE 46 for 13 yards (M.Mapu, J.Bentley).
+1 & 10 on NE 46
+Sumamry: (14:53 - 4th) (Shotgun) J.Hurts pass incomplete deep right to A.Brown.
+2 & 10 on NE 46
+Sumamry: (14:45 - 4th) (Shotgun) J.Hurts pass short right to D.Smith to NE 33 for 13 yards (K.Dugger).
+1 & 10 on NE 33
+Sumamry: (14:14 - 4th) (No Huddle, Shotgun) J.Hurts pass incomplete deep right to D.Smith.
+2 & 10 on NE 33
+Sumamry: (14:02 - 4th) (Shotgun) D.Swift left tackle to NE 30 for 3 yards (D.Wise).
+3 & 7 on NE 30
+Sumamry: (13:26 - 4th) (Shotgun) J.Hurts pass incomplete short left to D.Goedert.
+4 & 7 on NE 30
+Sumamry: (13:21 - 4th) J.Elliott 48 yard field goal is GOOD, Center-R.Lovato, Holder-A.Siposs. Kick deflected in off right upright.
+Sumamry: (13:21 - 4th) Timeout at 13:21.
+===============
+Drive19
+Possession: New England Patriots
+Result: Downs
+NE: 14
+PHI: 22
+Plays: 10
+Yards: 58
+Time: 3:49
+Sumamry: (13:21 - 4th) J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.
+1 & 10 on NE 25
+Sumamry: (13:15 - 4th) (Shotgun) M.Jones pass short left to M.Gesicki pushed ob at NE 35 for 10 yards (J.Bradberry).
+1 & 10 on NE 35
+Sumamry: (12:40 - 4th) (Shotgun) M.Jones pass short middle to R.Stevenson to NE 47 for 12 yards (C.Elliss). PENALTY on PHI-M.Williams, Roughing the Passer, 15 yards, enforced at NE 47.
+1 & 10 on PHI 38
+Sumamry: (12:26 - 4th) M.Jones pass incomplete deep right to T.Montgomery [F.Cox].
+2 & 10 on PHI 38
+Sumamry: (12:23 - 4th) M.Jones pass incomplete short left to E.Elliott (J.Sweat).
+3 & 10 on PHI 38
+Sumamry: (12:17 - 4th) (Shotgun) M.Jones pass short left to R.Stevenson to PHI 36 for 2 yards (R.Blankenship).
+4 & 8 on PHI 36
+Sumamry: (11:31 - 4th) (Shotgun) M.Jones pass short middle to H.Henry to PHI 24 for 12 yards (C.Elliss).
+1 & 10 on PHI 24
+Sumamry: (11:16 - 4th) (No Huddle, Shotgun) M.Jones pass short right to J.Smith-Schuster to PHI 19 for 5 yards (D.Slay).
+2 & 5 on PHI 19
+Sumamry: (10:43 - 4th) (No Huddle, Shotgun) R.Stevenson right guard to PHI 17 for 2 yards (M.Williams).
+3 & 3 on PHI 17
+Sumamry: (10:07 - 4th) (Shotgun) E.Elliott right guard to PHI 17 for no gain (F.Cox).
+4 & 3 on PHI 17
+Sumamry: (9:32 - 4th) (Shotgun) M.Jones pass incomplete short right to E.Elliott [H.Reddick].
+Sumamry: (9:32 - 4th) Timeout at 09:32.
+===============
+Drive20
+Possession: Philadelphia Eagles
+Result: Field Goal
+NE: 14
+PHI: 25
+Plays: 7
+Yards: 50
+Time: 3:59
+1 & 10 on PHI 17
+Sumamry: (9:16 - 4th) (Shotgun) J.Hurts pass deep right to A.Brown pushed ob at NE 35 for 48 yards (Jo.Jones) [Ja.Tavai]. New England challenged the pass completion ruling, and the play was REVERSED. (Shotgun) J.Hurts pass incomplete deep right to A.Brown (Jo.Jones) [Ja.Tavai].
+2 & 10 on PHI 17
+Sumamry: (9:15 - 4th) (Shotgun) J.Hurts pass short left to A.Brown pushed ob at PHI 40 for 23 yards (C.Gonzalez).
+1 & 10 on PHI 40
+Sumamry: (8:29 - 4th) (Shotgun) J.Hurts pass short middle to A.Brown to NE 45 for 15 yards (K.Dugger).
+1 & 10 on NE 45
+Sumamry: (8:05 - 4th) (No Huddle, Shotgun) J.Hurts pass short right to A.Brown to NE 43 for 2 yards (K.Dugger, D.Wise). PENALTY on NE-D.Wise, Defensive Holding, 5 yards, enforced at NE 45 - No Play.
+1 & 10 on NE 40
+Sumamry: (7:35 - 4th) (Shotgun) J.Hurts sacked at NE 48 for -8 yards (C.Gonzalez).
+Sumamry: (6:59 - 4th) Timeout #2 by PHI at 06:59.
+2 & 18 on NE 48
+Sumamry: (6:43 - 4th) (Shotgun) J.Hurts pass short left to B.Scott to NE 41 for 7 yards (Jo.Jones, A.Phillips).
+3 & 11 on NE 41
+Sumamry: (6:08 - 4th) (Shotgun) J.Hurts pass short middle to A.Brown to NE 33 for 8 yards (C.Gonzalez).
+4 & 3 on NE 33
+Sumamry: (5:33 - 4th) J.Elliott 51 yard field goal is GOOD, Center-R.Lovato, Holder-A.Siposs.
+===============
+Drive21
+Possession: New England Patriots
+Result: Touchdown
+NE: 20
+PHI: 25
+Plays: 6
+Yards: 75
+Time: 1:56
+Sumamry: (5:33 - 4th) J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback.
+1 & 10 on NE 25
+Sumamry: (5:27 - 4th) (Shotgun) M.Jones pass incomplete deep right to D.Douglas.
+2 & 10 on NE 25
+Sumamry: (5:15 - 4th) (Shotgun) M.Jones pass short left to R.Stevenson to PHI 43 for 32 yards (J.Evans; A.Maddox).
+1 & 10 on PHI 43
+Sumamry: (4:50 - 4th) (No Huddle, Shotgun) R.Stevenson up the middle to PHI 38 for 5 yards (J.Davis).
+2 & 5 on PHI 38
+Sumamry: (4:25 - 4th) (No Huddle, Shotgun) M.Jones pass deep middle to D.Douglas to PHI 22 for 16 yards (Z.Cunningham).
+1 & 10 on PHI 22
+Sumamry: (4:00 - 4th) (No Huddle, Shotgun) M.Jones pass short middle to R.Stevenson to PHI 11 for 11 yards (A.Maddox).
+1 & 10 on PHI 11
+Sumamry: (3:37 - 4th) Kendrick Bourne Pass From Mac Jones for 11 Yds TWO-POINT CONVERSION ATTEMPT. M.Jones pass to M.Gesicki is incomplete. ATTEMPT FAILS.
+===============
+Drive22
+Possession: Philadelphia Eagles
+Result: Fumble
+NE: 20
+PHI: 25
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (3:35 - 4th) C.Ryland kicks 49 yards from NE 35 to PHI 16. Q.Watkins ran ob at PHI 27 for 11 yards (A.Phillips).
+1 & 10 on PHI 27
+Sumamry: (3:28 - 4th) (Shotgun) J.Hurts left tackle to PHI 35 for 8 yards (J.Peppers). FUMBLES (J.Peppers), RECOVERED by NE-Ma.Jones at PHI 41.
+===============
+Drive23
+Possession: New England Patriots
+Result: Downs
+NE: 20
+PHI: 25
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on PHI 41
+Sumamry: (3:20 - 4th) (Shotgun) E.Elliott left guard to PHI 36 for 5 yards (J.Davis; F.Cox). PHI-F.Cox was injured during the play.
+2 & 5 on PHI 36
+Sumamry: (2:50 - 4th) (Shotgun) M.Jones sacked at PHI 43 for -7 yards (sack split by J.Davis and J.Sweat).
+3 & 12 on PHI 43
+Sumamry: (2:24 - 4th) (Shotgun) M.Jones pass incomplete deep middle to K.Bourne (D.Slay) [M.Williams].
+4 & 12 on PHI 43
+Sumamry: (2:24 - 4th) (Shotgun) PENALTY on NE, Delay of Game, 5 yards, enforced at PHI 43 - No Play.
+Sumamry: (2:24 - 4th) Timeout #3 by PHI at 02:24.
+4 & 17 on PHI 48
+Sumamry: (2:17 - 4th) (Shotgun) M.Jones pass incomplete short right to H.Henry.
+===============
+Drive24
+Possession: Philadelphia Eagles
+Result: Downs
+NE: 20
+PHI: 25
+Plays: 4
+Yards: 8
+Time: 0:23
+1 & 10 on PHI 48
+Sumamry: (2:15 - 4th) K.Gainwell left end to NE 49 for 3 yards (J.Peppers; J.Bentley).
+Sumamry: (2:15 - 4th) Timeout #1 by NE at 02:15.
+2 & 7 on NE 49
+Sumamry: (2:09 - 4th) K.Gainwell right guard to NE 48 for 1 yard (L.Guy, M.Wilson).
+Sumamry: (2:09 - 4th) Timeout #2 by NE at 02:09.
+3 & 6 on NE 48
+Sumamry: (2:00 - 4th) (Shotgun) J.Hurts left tackle to NE 44 for 4 yards (C.Barmore).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+4 & 2 on NE 44
+Sumamry: (1:57 - 4th) (Shotgun) J.Hurts pass incomplete short middle to D.Smith (C.Gonzalez) [M.Judon].
+===============
+Drive25
+Possession: New England Patriots
+Result: Downs
+NE: 20
+PHI: 25
+Plays: 9
+Yards: 36
+Time: 1:32
+1 & 10 on NE 44
+Sumamry: (1:48 - 4th) (Shotgun) M.Jones pass short left to K.Bourne to PHI 47 for 9 yards (T.Edmunds; J.Bradberry). PHI-J.Bradberry was injured during the play.
+Sumamry: (1:43 - 4th) Timeout #4 by PHI at 01:43.
+2 & 1 on PHI 47
+Sumamry: (1:35 - 4th) (Shotgun) M.Jones pass incomplete short right to D.Douglas (A.Maddox).
+3 & 1 on PHI 47
+Sumamry: (1:28 - 4th) (Shotgun) R.Stevenson up the middle to PHI 43 for 4 yards (J.Evans).
+1 & 10 on PHI 43
+Sumamry: (1:10 - 4th) (No Huddle, Shotgun) M.Jones scrambles left end pushed ob at PHI 36 for 7 yards (T.Edmunds).
+2 & 3 on PHI 36
+Sumamry: (1:02 - 4th) (Shotgun) M.Jones pass short right to M.Gesicki ran ob at PHI 19 for 17 yards (T.Edmunds). NE 10-Mac Jones 5th career 300-yard game.
+1 & 10 on PHI 19
+Sumamry: (0:58 - 4th) (Shotgun) M.Jones pass incomplete deep left to K.Boutte.
+2 & 10 on PHI 19
+Sumamry: (0:51 - 4th) (Shotgun) M.Jones sacked at PHI 22 for -3 yards (J.Carter).
+Sumamry: (0:51 - 4th) Timeout #3 by NE at 00:51.
+3 & 13 on PHI 22
+Sumamry: (0:51 - 4th) (Shotgun) M.Jones pass short left to R.Stevenson to PHI 20 for 2 yards (C.Elliss; R.Blankenship).
+4 & 11 on PHI 20
+Sumamry: (0:27 - 4th) (No Huddle, Shotgun) M.Jones pass short left to K.Boutte pushed ob at PHI 8 for 12 yards (J.Jobe). The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) M.Jones pass incomplete short left to K.Boutte (J.Jobe).
+===============
+Drive26
+Possession: Philadelphia Eagles
+Result: End of Game
+NE: 20
+PHI: 25
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on PHI 20
+Sumamry: (0:20 - 4th) J.Hurts kneels to PHI 19 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

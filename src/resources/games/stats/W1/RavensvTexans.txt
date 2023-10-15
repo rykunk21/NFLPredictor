@@ -1,0 +1,530 @@
+Drive1
+Possession: Baltimore Ravens
+Result: Punt
+BAL: 0
+HOU: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (15:00 - 1st) K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback.
+Sumamry: (15:00 - 1st) K.Fairbairn kicks 67 yards from HST 35 to BLT -2. D.Duvernay to BLT 28 for 30 yards (E.Murray). PENALTY on BLT-G.Stone, Illegal Block Above the Waist, 8 yards, enforced at BLT 16.
+1 & 10 on BAL 8
+Sumamry: (14:51 - 1st) (Shotgun) J.Dobbins left tackle to BLT 12 for 4 yards (W.Anderson; M.Collins).
+2 & 6 on BAL 12
+Sumamry: (14:22 - 1st) L.Jackson pass short right to I.Likely to BLT 16 for 4 yards (D.Stingley).
+3 & 2 on BAL 16
+Sumamry: (13:44 - 1st) (Shotgun) L.Jackson sacked at BLT 9 for -7 yards (J.Greenard).
+4 & 9 on BAL 9
+Sumamry: (13:00 - 1st) J.Stout punts 67 yards to HST 24, Center-T.Ott. N.Dell to HST 38 for 14 yards (B.Stephens; D.Phillips).
+===============
+Drive2
+Possession: Houston Texans
+Result: Downs
+BAL: 0
+HOU: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on HOU 38
+Sumamry: (12:45 - 1st) D.Pierce up the middle to HST 42 for 4 yards (B.Washington, P.Queen).
+2 & 6 on HOU 42
+Sumamry: (12:14 - 1st) (Shotgun) C.Stroud pass short middle to C.Stroud to HST 42 for no gain (K.Hamilton).
+3 & 6 on HOU 42
+Sumamry: (11:41 - 1st) (Shotgun) C.Stroud pass short right to D.Pierce to HST 42 for no gain (R.Darby).
+4 & 6 on HOU 42
+Sumamry: (11:05 - 1st) T.Zentner punts 43 yards to BLT 15, Center-J.Weeks, fair catch by D.Duvernay. PENALTY on BLT-A.Washington, Running Into the Kicker, 5 yards, enforced at HST 42 - No Play.
+4 & 1 on HOU 47
+Sumamry: (10:59 - 1st) (Shotgun) C.Stroud sacked at HST 36 for -11 yards (P.Queen).
+Sumamry: (10:53 - 1st) Timeout at 10:53.
+===============
+Drive3
+Possession: Baltimore Ravens
+Result: Interception
+BAL: 0
+HOU: 0
+Plays: 6
+Yards: 20
+Time: 3:33
+1 & 10 on HOU 36
+Sumamry: (10:53 - 1st) (Shotgun) L.Jackson scrambles up the middle to HST 28 for 8 yards (E.Murray).
+2 & 2 on HOU 28
+Sumamry: (10:15 - 1st) (Shotgun) L.Jackson pass short right to Z.Flowers to HST 28 for no gain (J.Pitre, H.To'oTo'o).
+3 & 2 on HOU 28
+Sumamry: (9:51 - 1st) (No Huddle, Shotgun) L.Jackson pass short left to Z.Flowers to HST 20 for 8 yards (E.Murray).
+1 & 10 on HOU 20
+Sumamry: (9:05 - 1st) J.Hill right guard to HST 20 for no gain (D.Perryman).
+2 & 10 on HOU 20
+Sumamry: (9:05 - 1st) (Shotgun) PENALTY on BLT-M.Moses, False Start, 5 yards, enforced at HST 20 - No Play.
+2 & 15 on HOU 25
+Sumamry: (8:07 - 1st) (Shotgun) L.Jackson pass short left to R.Bateman to HST 16 for 9 yards (T.Thomas) [D.Horton].
+3 & 6 on HOU 16
+Sumamry: (7:25 - 1st) (Shotgun) L.Jackson pass short left intended for Z.Flowers INTERCEPTED by S.Nelson [W.Anderson] at HST 15. S.Nelson to HST 15 for no gain (Z.Flowers).
+Sumamry: (7:20 - 1st) Timeout at 07:20.
+===============
+Drive4
+Possession: Houston Texans
+Result: Punt
+BAL: 0
+HOU: 0
+Plays: 3
+Yards: 4
+Time: 1:52
+1 & 10 on HOU 15
+Sumamry: (7:20 - 1st) (Shotgun) C.Stroud pass incomplete short right to D.Schultz.
+2 & 10 on HOU 15
+Sumamry: (7:16 - 1st) D.Pierce left end pushed ob at HST 22 for 7 yards (B.Stephens).
+Sumamry: (6:39 - 1st) Timeout #1 by HST at 06:39.
+3 & 3 on HOU 22
+Sumamry: (6:39 - 1st) (Shotgun) C.Stroud pass short left to N.Dell ran ob at HST 31 for 9 yards. PENALTY on HST-L.Tunsil, Offensive Holding, 10 yards, enforced at HST 22 - No Play.
+3 & 13 on HOU 12
+Sumamry: (6:10 - 1st) (Shotgun) C.Stroud pass short right to N.Brown to HST 19 for 7 yards (A.Washington; R.Smith).
+4 & 6 on HOU 19
+Sumamry: (5:28 - 1st) T.Zentner punts 39 yards to BLT 42, Center-J.Weeks, out of bounds.
+Sumamry: (5:28 - 1st) Timeout at 05:28.
+===============
+Drive5
+Possession: Baltimore Ravens
+Result: Touchdown
+BAL: 7
+HOU: 0
+Plays: 9
+Yards: 58
+Time: 4:28
+1 & 10 on BAL 42
+Sumamry: (5:28 - 1st) (Shotgun) Z.Flowers right end pushed ob at BLT 48 for 6 yards (D.Stingley).
+2 & 4 on BAL 48
+Sumamry: (4:55 - 1st) (Shotgun) J.Dobbins left guard to HST 49 for 3 yards (H.To'oTo'o, D.Perryman).
+3 & 1 on HOU 49
+Sumamry: (4:33 - 1st) (No Huddle) L.Jackson up the middle to HST 48 for 1 yard (D.Perryman).
+1 & 10 on HOU 48
+Sumamry: (4:00 - 1st) (Shotgun) L.Jackson scrambles right end to HST 37 for 11 yards (S.Rankins).
+1 & 10 on HOU 37
+Sumamry: (3:10 - 1st) (Shotgun) L.Jackson left tackle to HST 33 for 4 yards (C.Littleton). PENALTY on BLT-G.Edwards, Illegal Motion, 5 yards, enforced at HST 37 - No Play.
+1 & 15 on HOU 42
+Sumamry: (2:57 - 1st) (Shotgun) L.Jackson pass short right to J.Dobbins pushed ob at HST 32 for 10 yards (D.Perryman; T.Thomas).
+2 & 5 on HOU 32
+Sumamry: (2:18 - 1st) (Shotgun) J.Dobbins right guard to HST 32 for no gain (H.Ridgeway; D.Perryman).
+3 & 5 on HOU 32
+Sumamry: (1:39 - 1st) (Shotgun) L.Jackson pass deep left to Z.Flowers pushed ob at HST 11 for 21 yards (J.Pitre).
+1 & 10 on HOU 11
+Sumamry: (1:20 - 1st) (No Huddle, Shotgun) Z.Flowers right end to HST 8 for 3 yards (D.Perryman). PENALTY on HST-J.Pitre, Low Block, 4 yards, enforced at HST 8.
+Sumamry: (1:00 - 1st) Timeout at 01:00.
+===============
+Drive6
+Possession: Houston Texans
+Result: Punt
+BAL: 7
+HOU: 0
+Plays: 3
+Yards: 2
+Time: 1:7
+Sumamry: (1:00 - 1st) J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback.
+1 & 10 on HOU 25
+Sumamry: (0:59 - 1st) D.Singletary left guard to HST 28 for 3 yards (D.Ojabo, M.Pierce).
+2 & 7 on HOU 28
+Sumamry: (0:15 - 1st) C.Stroud pass incomplete deep left to N.Collins [O.Oweh].
+3 & 7 on HOU 28
+Sumamry: (0:11 - 1st) (Shotgun) C.Stroud pass short right to D.Schultz to HST 27 for -1 yards (R.Smith, A.Washington).
+4 & 8 on HOU 27
+Sumamry: (14:59 - 2nd) T.Zentner punts 41 yards to BLT 32, Center-J.Weeks, fair catch by D.Duvernay.
+===============
+Drive7
+Possession: Baltimore Ravens
+Result: Punt
+BAL: 7
+HOU: 0
+Plays: 3
+Yards: 12
+Time: 2:3
+1 & 10 on BAL 32
+Sumamry: (14:53 - 2nd) (Shotgun) L.Jackson pass incomplete deep left to O.Beckham. PENALTY on HST-S.Nelson, Defensive Pass Interference, 26 yards, enforced at BLT 32 - No Play.
+1 & 10 on HOU 42
+Sumamry: (14:47 - 2nd) (Shotgun) J.Dobbins right tackle to HST 40 for 2 yards (H.Ridgeway; D.Perryman).
+2 & 8 on HOU 40
+Sumamry: (14:10 - 2nd) (Shotgun) L.Jackson pass short right to J.Dobbins pushed ob at HST 34 for 6 yards (C.Harris). PENALTY on BLT-R.Stanley, Illegal Use of Hands, 10 yards, enforced at HST 40 - No Play.
+2 & 18 on 50
+Sumamry: (13:43 - 2nd) (Shotgun) L.Jackson pass short left to R.Bateman to HST 42 for 8 yards (T.Thomas, S.Nelson).
+3 & 10 on HOU 42
+Sumamry: (13:03 - 2nd) (Shotgun) L.Jackson pass incomplete short right [J.Pitre]. PENALTY on BLT-L.Jackson, Intentional Grounding, 14 yards, enforced at HST 42.
+4 & 24 on BAL 44
+Sumamry: (12:58 - 2nd) J.Stout punts 50 yards to HST 6, Center-T.Ott. R.Woods to HST 16 for 10 yards (D.Phillips).
+Sumamry: (12:50 - 2nd) Timeout at 12:50.
+===============
+Drive8
+Possession: Houston Texans
+Result: Field Goal
+BAL: 7
+HOU: 3
+Plays: 15
+Yards: 67
+Time: 8:54
+1 & 10 on HOU 16
+Sumamry: (12:50 - 2nd) D.Pierce left tackle to HST 21 for 5 yards (P.Queen).
+2 & 5 on HOU 21
+Sumamry: (12:14 - 2nd) C.Stroud scrambles right end to HST 24 for 3 yards (M.Harrison).
+3 & 2 on HOU 24
+Sumamry: (11:47 - 2nd) (No Huddle, Shotgun) C.Stroud pass short middle to R.Woods to HST 37 for 13 yards (M.Williams).
+1 & 10 on HOU 37
+Sumamry: (11:11 - 2nd) (Shotgun) D.Pierce right guard to HST 42 for 5 yards (M.Williams).
+2 & 5 on HOU 42
+Sumamry: (10:33 - 2nd) (Shotgun) C.Stroud pass incomplete deep middle to N.Collins (M.Williams).
+Sumamry: (10:24 - 2nd) Timeout #2 by HST at 10:24.
+3 & 5 on HOU 42
+Sumamry: (10:23 - 2nd) (Shotgun) C.Stroud pass short right to R.Woods to HST 47 for 5 yards (R.Smith) [O.Oweh].
+1 & 10 on HOU 47
+Sumamry: (9:41 - 2nd) C.Stroud pass short left to D.Schultz to BLT 48 for 5 yards (M.Harrison; M.Williams).
+2 & 5 on BAL 48
+Sumamry: (8:55 - 2nd) (Shotgun) C.Stroud scrambles left tackle to BLT 47 for 1 yard (R.Smith).
+Sumamry: (8:12 - 2nd) Timeout #3 by HST at 08:12.
+3 & 4 on BAL 47
+Sumamry: (8:12 - 2nd) (Shotgun) C.Stroud pass short right to R.Woods to BLT 40 for 7 yards (P.Queen; R.Darby).
+1 & 10 on BAL 40
+Sumamry: (7:33 - 2nd) (Shotgun) C.Stroud pass short right to N.Collins to BLT 35 for 5 yards (K.Hamilton).
+2 & 5 on BAL 35
+Sumamry: (6:49 - 2nd) C.Stroud pass short middle to N.Collins to BLT 21 for 14 yards (M.Williams).
+1 & 10 on BAL 21
+Sumamry: (6:10 - 2nd) D.Pierce left guard to BLT 20 for 1 yard (R.Smith; B.Stephens).
+2 & 9 on BAL 20
+Sumamry: (5:26 - 2nd) D.Pierce left tackle to BLT 16 for 4 yards (T.Jones).
+3 & 5 on BAL 16
+Sumamry: (4:45 - 2nd) (Shotgun) N.Brown right end to BLT 17 for -1 yards (R.Darby, O.Oweh).
+4 & 6 on BAL 17
+Sumamry: (3:56 - 2nd) K.Fairbairn 35 yard field goal is GOOD, Center-J.Weeks, Holder-T.Zentner.
+Sumamry: (3:56 - 2nd) Timeout at 03:56.
+===============
+Drive9
+Possession: Baltimore Ravens
+Result: Punt
+BAL: 7
+HOU: 3
+Plays: 5
+Yards: 14
+Time: 2:2
+Sumamry: (3:56 - 2nd) K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback.
+1 & 10 on BAL 25
+Sumamry: (3:56 - 2nd) (Shotgun) J.Dobbins right guard to BLT 29 for 4 yards (C.Harris).
+2 & 6 on BAL 29
+Sumamry: (3:21 - 2nd) (Shotgun) L.Jackson scrambles right guard to BLT 43 for 14 yards (C.Harris; T.Thomas).
+1 & 10 on BAL 43
+Sumamry: (2:49 - 2nd) (No Huddle, Shotgun) L.Jackson pass incomplete short middle to J.Dobbins [M.Collins].
+2 & 10 on BAL 43
+Sumamry: (2:45 - 2nd) (Shotgun) L.Jackson scrambles right end to BLT 44 for 1 yard (J.Greenard).
+3 & 9 on BAL 44
+Sumamry: (2:04 - 2nd) (Shotgun) L.Jackson pass incomplete short right to O.Beckham.
+4 & 9 on BAL 44
+Sumamry: (2:01 - 2nd) (Punt formation) PENALTY on BLT-I.Likely, False Start, 5 yards, enforced at BLT 44 - No Play.
+4 & 14 on BAL 39
+Sumamry: (2:01 - 2nd) J.Stout punts 49 yards to HST 12, Center-T.Ott, fair catch by N.Dell.
+Sumamry: (1:54 - 2nd) Two-Minute Warning
+===============
+Drive10
+Possession: Houston Texans
+Result: Field Goal
+BAL: 7
+HOU: 6
+Plays: 11
+Yards: 68
+Time: 1:54
+1 & 10 on HOU 12
+Sumamry: (1:54 - 2nd) (Shotgun) D.Singletary left guard to HST 16 for 4 yards (J.Madubuike; M.Pierce). PENALTY on BLT-J.Madubuike, Face Mask, 15 yards, enforced at HST 16.
+1 & 10 on HOU 31
+Sumamry: (1:47 - 2nd) (Shotgun) D.Singletary right end to HST 33 for 2 yards (O.Oweh, R.Smith).
+2 & 8 on HOU 33
+Sumamry: (1:12 - 2nd) D.Singletary right guard to HST 34 for 1 yard (J.Clowney).
+Sumamry: (1:08 - 2nd) Timeout #1 by BLT at 01:08.
+3 & 7 on HOU 34
+Sumamry: (1:08 - 2nd) (Shotgun) C.Stroud pass short right to N.Dell to HST 44 for 10 yards (R.Darby).
+1 & 10 on HOU 44
+Sumamry: (0:46 - 2nd) (No Huddle, Shotgun) C.Stroud pass short left to R.Woods pushed ob at BLT 37 for 19 yards (A.Washington).
+1 & 10 on BAL 37
+Sumamry: (0:40 - 2nd) (Shotgun) C.Stroud pass incomplete deep right to N.Collins.
+2 & 10 on BAL 37
+Sumamry: (0:35 - 2nd) (Shotgun) C.Stroud pass incomplete short left to M.Boone.
+3 & 10 on BAL 37
+Sumamry: (0:31 - 2nd) (Shotgun) PENALTY on HST-L.Tunsil, False Start, 5 yards, enforced at BLT 37 - No Play.
+3 & 15 on BAL 42
+Sumamry: (0:31 - 2nd) (Shotgun) C.Stroud pass incomplete deep right to N.Dell. PENALTY on BLT-T.Jones, Roughing the Passer, 15 yards, enforced at BLT 42 - No Play.
+Sumamry: (0:25 - 2nd) Timeout #2 by BLT at 00:25.
+Sumamry: (0:25 - 2nd) Timeout at 00:25.
+1 & 10 on BAL 27
+Sumamry: (0:25 - 2nd) (Shotgun) C.Stroud pass incomplete short right to N.Collins.
+2 & 10 on BAL 27
+Sumamry: (0:19 - 2nd) (Shotgun) C.Stroud pass short middle to R.Woods to BLT 20 for 7 yards (B.Stephens).
+3 & 3 on BAL 20
+Sumamry: (0:19 - 2nd) (No Huddle) C.Stroud spiked the ball to stop the clock.
+4 & 3 on BAL 20
+Sumamry: (0:00 - 2nd) K.Fairbairn 38 yard field goal is GOOD, Center-J.Weeks, Holder-T.Zentner.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive11
+Possession: Houston Texans
+Result: Punt
+BAL: 7
+HOU: 6
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (15:00 - 3rd) J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback.
+1 & 10 on HOU 25
+Sumamry: (15:00 - 3rd) C.Stroud sacked at HST 14 for -11 yards (J.Madubuike).
+2 & 21 on HOU 14
+Sumamry: (14:12 - 3rd) C.Stroud pass incomplete short right to D.Pierce [O.Oweh].
+3 & 21 on HOU 14
+Sumamry: (14:05 - 3rd) (Shotgun) C.Stroud pass short left to D.Pierce to HST 23 for 9 yards (B.Stephens; P.Queen). Penalty on HST, Illegal Shift, declined.
+4 & 12 on HOU 23
+Sumamry: (13:50 - 3rd) T.Zentner punts 48 yards to BLT 29, Center-J.Weeks, out of bounds.
+Sumamry: (13:42 - 3rd) Timeout at 13:42.
+===============
+Drive12
+Possession: Baltimore Ravens
+Result: Touchdown
+BAL: 15
+HOU: 6
+Plays: 8
+Yards: 71
+Time: 3:47
+1 & 10 on BAL 29
+Sumamry: (13:42 - 3rd) L.Jackson pass deep right to Z.Flowers ran ob at BLT 49 for 20 yards (D.Stingley).
+1 & 10 on BAL 49
+Sumamry: (13:12 - 3rd) (Shotgun) J.Dobbins left guard to 50 for 1 yard (C.Harris).
+2 & 9 on 50
+Sumamry: (12:36 - 3rd) (Shotgun) J.Dobbins right end to HST 46 for 4 yards (W.Anderson, M.Stewart).
+Sumamry: (11:54 - 3rd) Timeout #1 by BLT at 11:54.
+3 & 5 on HOU 46
+Sumamry: (11:54 - 3rd) (Shotgun) L.Jackson pass short left to Z.Flowers ran ob at HST 27 for 19 yards (S.Griffin).
+1 & 10 on HOU 27
+Sumamry: (11:46 - 3rd) (No Huddle, Shotgun) L.Jackson pass short middle to R.Bateman to HST 9 for 18 yards (D.Perryman; E.Murray).
+Sumamry: (9:55 - 3rd) Timeout at 09:55.
+===============
+Drive13
+Possession: Houston Texans
+Result: Downs
+BAL: 15
+HOU: 6
+Plays: 5
+Yards: 17
+Time: 2:20
+Sumamry: (9:55 - 3rd) J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback.
+1 & 10 on HOU 25
+Sumamry: (9:55 - 3rd) D.Pierce right end to HST 28 for 3 yards (R.Smith, P.Queen). PENALTY on BLT-J.Madubuike, Defensive Holding, 5 yards, enforced at HST 28.
+1 & 10 on HOU 33
+Sumamry: (9:35 - 3rd) D.Pierce right guard to HST 37 for 4 yards (O.Oweh).
+2 & 6 on HOU 37
+Sumamry: (8:59 - 3rd) C.Stroud pass short right to A.Beck to HST 36 for -1 yards (M.Harrison). PENALTY on HST-J.Jones, Offensive Holding, 10 yards, enforced at HST 37 - No Play.
+2 & 16 on HOU 27
+Sumamry: (8:33 - 3rd) (Shotgun) C.Stroud pass incomplete short right to R.Woods [J.Clowney].
+3 & 16 on HOU 27
+Sumamry: (8:30 - 3rd) (Shotgun) C.Stroud pass short middle to N.Collins to HST 42 for 15 yards (R.Darby).
+4 & 1 on HOU 42
+Sumamry: (7:40 - 3rd) D.Pierce right tackle to HST 42 for no gain (R.Smith, M.Pierce).
+Sumamry: (7:35 - 3rd) Timeout at 07:35.
+===============
+Drive14
+Possession: Baltimore Ravens
+Result: Touchdown
+BAL: 22
+HOU: 6
+Plays: 5
+Yards: 42
+Time: 2:14
+1 & 10 on HOU 42
+Sumamry: (7:35 - 3rd) (Shotgun) G.Edwards right guard to HST 39 for 3 yards (W.Anderson).
+2 & 7 on HOU 39
+Sumamry: (6:58 - 3rd) (Shotgun) G.Edwards right guard to HST 26 for 13 yards (D.Perryman).
+1 & 10 on HOU 26
+Sumamry: (6:33 - 3rd) (No Huddle, Shotgun) L.Jackson scrambles right end to HST 20 for 6 yards (T.Thomas). FUMBLES (T.Thomas), recovered by BLT-K.Zeitler at HST 23. HST-H.Ridgeway was injured during the play.
+2 & 7 on HOU 23
+Sumamry: (6:06 - 3rd) (Shotgun) L.Jackson pass incomplete deep right to O.Beckham. PENALTY on HST-D.Stingley, Defensive Pass Interference, 17 yards, enforced at HST 23 - No Play.
+Sumamry: (5:21 - 3rd) Timeout at 05:21.
+===============
+Drive15
+Possession: Houston Texans
+Result: Punt
+BAL: 22
+HOU: 6
+Plays: 7
+Yards: 27
+Time: 3:44
+Sumamry: (5:21 - 3rd) J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback.
+Sumamry: (5:21 - 3rd) Timeout #1 by HST at 05:21.
+1 & 10 on HOU 25
+Sumamry: (5:21 - 3rd) (Shotgun) D.Singletary left guard to HST 26 for 1 yard (R.Smith; P.Queen).
+2 & 9 on HOU 26
+Sumamry: (4:45 - 3rd) (Shotgun) C.Stroud pass short left to N.Brown pushed ob at HST 33 for 7 yards (R.Smith).
+3 & 2 on HOU 33
+Sumamry: (4:24 - 3rd) (No Huddle, Shotgun) C.Stroud pass short middle to N.Collins to HST 47 for 14 yards (A.Washington).
+1 & 10 on HOU 47
+Sumamry: (4:00 - 3rd) (No Huddle, Shotgun) C.Stroud pass short left to N.Dell to BLT 42 for 11 yards (B.Stephens).
+1 & 10 on BAL 42
+Sumamry: (3:21 - 3rd) (Shotgun) D.Singletary left guard to BLT 38 for 4 yards (D.Ojabo).
+2 & 6 on BAL 38
+Sumamry: (2:43 - 3rd) D.Singletary right end to BLT 38 for no gain (R.Darby).
+3 & 6 on BAL 38
+Sumamry: (2:20 - 3rd) (No Huddle, Shotgun) C.Stroud pass short left to R.Woods to BLT 29 for 9 yards (B.Stephens). PENALTY on HST-J.Jones, Offensive Holding, 10 yards, enforced at BLT 38 - No Play.
+3 & 16 on BAL 48
+Sumamry: (1:51 - 3rd) (Shotgun) C.Stroud pass incomplete deep middle to R.Woods (P.Queen).
+4 & 16 on BAL 48
+Sumamry: (1:44 - 3rd) T.Zentner punts 48 yards to end zone, Center-J.Weeks, Touchback.
+===============
+Drive16
+Possession: Baltimore Ravens
+Result: Fumble
+BAL: 22
+HOU: 6
+Plays: 4
+Yards: 10
+Time: 1:11
+1 & 10 on BAL 20
+Sumamry: (1:37 - 3rd) L.Jackson pass incomplete short middle to C.Kolar.
+2 & 10 on BAL 20
+Sumamry: (1:30 - 3rd) (Shotgun) J.Hill right guard to BLT 23 for 3 yards (S.Nelson).
+3 & 7 on BAL 23
+Sumamry: (0:53 - 3rd) (Shotgun) L.Jackson pass short left to O.Beckham ran ob at BLT 31 for 8 yards.
+1 & 10 on BAL 31
+Sumamry: (0:31 - 3rd) (No Huddle, Shotgun) L.Jackson sacked at BLT 26 for -5 yards. FUMBLES, touched at BLT 30, RECOVERED by HST-M.Stewart at BLT 32.
+===============
+Drive17
+Possession: Houston Texans
+Result: Field Goal
+BAL: 22
+HOU: 9
+Plays: 6
+Yards: 14
+Time: 1:39
+1 & 10 on BAL 32
+Sumamry: (0:26 - 3rd) (Shotgun) D.Pierce right end to BLT 28 for 4 yards (R.Smith).
+2 & 6 on BAL 28
+Sumamry: (0:00 - 3rd) (No Huddle) C.Stroud pass short right to T.Quitoriano pushed ob at BLT 17 for 11 yards (R.Smith; K.Hamilton). PENALTY on BLT-J.Madubuike, Face Mask, 9 yards, enforced at BLT 17.
+2 & 19 on BAL 19
+Sumamry: (15:00 - 4th) (Shotgun) C.Stroud pass incomplete short left to D.Schultz (A.Washington).
+Sumamry: (13:47 - 4th) Timeout at 13:47.
+===============
+Drive18
+Possession: Baltimore Ravens
+Result: Punt
+BAL: 22
+HOU: 9
+Plays: 6
+Yards: 12
+Time: 3:33
+Sumamry: (13:47 - 4th) K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback.
+1 & 10 on BAL 25
+Sumamry: (13:47 - 4th) (Shotgun) G.Edwards right guard to BLT 27 for 2 yards (D.Perryman, C.Littleton).
+2 & 8 on BAL 27
+Sumamry: (13:09 - 4th) (Shotgun) PENALTY on BLT-R.Stanley, False Start, 5 yards, enforced at BLT 27 - No Play.
+2 & 13 on BAL 22
+Sumamry: (13:08 - 4th) (Shotgun) G.Edwards left guard to BLT 26 for 4 yards (M.Collins).
+3 & 9 on BAL 26
+Sumamry: (12:29 - 4th) (Shotgun) L.Jackson pass short left to Z.Flowers to BLT 43 for 17 yards (T.Thomas). BLT-R.Stanley was injured during the play.
+Sumamry: (12:17 - 4th) Timeout at 12:17.
+1 & 10 on BAL 43
+Sumamry: (11:46 - 4th) (Shotgun) J.Hill up the middle to BLT 43 for no gain (J.Greenard).
+2 & 10 on BAL 43
+Sumamry: (11:11 - 4th) (Shotgun) L.Jackson sacked at BLT 43 for 0 yards (C.Harris).
+3 & 10 on BAL 43
+Sumamry: (10:36 - 4th) (Shotgun) L.Jackson sacked at BLT 37 for -6 yards (W.Anderson). Penalty on BLT-M.Moses, Offensive Holding, declined.
+4 & 16 on BAL 37
+Sumamry: (10:21 - 4th) J.Stout punts 43 yards to HST 20, Center-T.Ott, fair catch by N.Dell.
+===============
+Drive19
+Possession: Houston Texans
+Result: Fumble
+BAL: 22
+HOU: 9
+Plays: 4
+Yards: 22
+Time: 1:14
+1 & 10 on HOU 20
+Sumamry: (10:14 - 4th) (Shotgun) D.Pierce right guard to HST 21 for 1 yard (P.Queen; R.Smith).
+2 & 9 on HOU 21
+Sumamry: (9:35 - 4th) (Shotgun) C.Stroud pass incomplete short left to N.Collins.
+3 & 9 on HOU 21
+Sumamry: (9:30 - 4th) (Shotgun) C.Stroud pass short middle to N.Collins to HST 47 for 26 yards (R.Darby, G.Stone). HST-G.Fant was injured during the play.
+Sumamry: (9:20 - 4th) Timeout at 09:20.
+1 & 10 on HOU 47
+Sumamry: (9:09 - 4th) (Shotgun) C.Stroud sacked at HST 38 for -9 yards (D.Ojabo). FUMBLES (D.Ojabo) [D.Ojabo], RECOVERED by BLT-M.Pierce at HST 42.
+===============
+Drive20
+Possession: Baltimore Ravens
+Result: Field Goal
+BAL: 25
+HOU: 9
+Plays: 7
+Yards: 21
+Time: 4:50
+1 & 10 on HOU 42
+Sumamry: (9:00 - 4th) G.Edwards left guard to HST 42 for no gain (W.Anderson, J.Greenard).
+2 & 10 on HOU 42
+Sumamry: (8:15 - 4th) (Shotgun) G.Edwards left tackle to HST 38 for 4 yards (T.Thomas).
+3 & 6 on HOU 38
+Sumamry: (7:31 - 4th) (Shotgun) L.Jackson pass deep left to O.Beckham to HST 9 for 29 yards (S.Griffin).
+===============
+Drive21
+Possession: Houston Texans
+Result: Downs
+BAL: 25
+HOU: 9
+Plays: 8
+Yards: 27
+Time: 2:9
+Sumamry: (4:10 - 4th) J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback.
+1 & 10 on HOU 25
+Sumamry: (4:10 - 4th) (Shotgun) C.Stroud pass short left to N.Brown to HST 31 for 6 yards (A.Washington; B.Stephens) [B.Washington].
+2 & 4 on HOU 31
+Sumamry: (3:42 - 4th) (No Huddle) C.Stroud pass incomplete deep middle to R.Woods. Houston challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)
+3 & 4 on HOU 31
+Sumamry: (3:39 - 4th) (Shotgun) C.Stroud pass short left to N.Dell to HST 44 for 13 yards (B.Stephens).
+1 & 10 on HOU 44
+Sumamry: (3:17 - 4th) (No Huddle, Shotgun) C.Stroud scrambles up the middle to BLT 45 for 11 yards (R.Smith; P.Queen).
+1 & 10 on BAL 45
+Sumamry: (2:53 - 4th) (No Huddle, Shotgun) C.Stroud pass incomplete short right to R.Woods (R.Darby).
+2 & 10 on BAL 45
+Sumamry: (2:49 - 4th) (Shotgun) C.Stroud sacked at HST 47 for -8 yards (A.Washington).
+3 & 18 on HOU 47
+Sumamry: (2:11 - 4th) (Shotgun) C.Stroud scrambles left end pushed ob at BLT 48 for 5 yards (B.Stephens).
+4 & 13 on BAL 48
+Sumamry: (2:04 - 4th) (Shotgun) C.Stroud pass incomplete short right to N.Brown.
+===============
+Drive22
+Possession: Baltimore Ravens
+Result: Punt
+BAL: 25
+HOU: 9
+Plays: 3
+Yards: 2
+Time: 1:3
+1 & 10 on BAL 48
+Sumamry: (2:01 - 4th) G.Edwards left end to HST 49 for 3 yards (M.Stewart; C.Harris).
+Sumamry: (1:54 - 4th) Two-Minute Warning
+2 & 7 on HOU 49
+Sumamry: (1:54 - 4th) (Shotgun) G.Edwards up the middle to HST 46 for 3 yards (C.Harris, W.Anderson).
+Sumamry: (1:49 - 4th) Timeout #3 by HST at 01:49.
+Sumamry: (1:49 - 4th) Timeout #2 by BLT at 01:49.
+3 & 4 on HOU 46
+Sumamry: (1:48 - 4th) (Shotgun) J.Hill left end to 50 for -4 yards (D.Perryman).
+Sumamry: (1:04 - 4th) Timeout #3 by BLT at 01:04.
+4 & 8 on 50
+Sumamry: (1:04 - 4th) J.Stout punts 40 yards to HST 10, Center-T.Ott, fair catch by R.Woods.
+===============
+Drive23
+Possession: Houston Texans
+Result: End of Game
+BAL: 25
+HOU: 9
+Plays: 6
+Yards: 33
+Time: 0:58
+1 & 10 on HOU 10
+Sumamry: (0:58 - 4th) (Shotgun) C.Stroud pass short right to M.Boone ran ob at HST 15 for 5 yards (P.Queen).
+2 & 5 on HOU 15
+Sumamry: (0:53 - 4th) (Shotgun) C.Stroud pass short left to X.Hutchinson to HST 24 for 9 yards (P.Queen; R.Smith).
+1 & 10 on HOU 24
+Sumamry: (0:33 - 4th) (No Huddle, Shotgun) C.Stroud pass short left to N.Collins to HST 30 for 6 yards (B.Stephens).
+2 & 4 on HOU 30
+Sumamry: (0:16 - 4th) (No Huddle, Shotgun) C.Stroud pass short left to M.Boone to HST 31 for 1 yard (B.Stephens).
+3 & 3 on HOU 31
+Sumamry: (0:10 - 4th) (Shotgun) C.Stroud pass incomplete short left to N.Dell.
+4 & 3 on HOU 31
+Sumamry: (0:08 - 4th) (Shotgun) C.Stroud pass short left to M.Boone pushed ob at HST 43 for 12 yards (G.Stone).
+Sumamry: (0:00 - 4th) END GAME
+===============

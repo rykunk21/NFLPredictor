@@ -1,0 +1,533 @@
+Drive1
+Possession: Atlanta Falcons
+Result: Punt
+ATL: 0
+CAR: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (15:00 - 1st) E.Pineiro kicks 65 yards from CAR 35 to end zone, Touchback.
+1 & 10 on ATL 25
+Sumamry: (15:00 - 1st) (Shotgun) D.Ridder pass short right to D.Ridder to ATL 19 for -6 yards (J.Houston).
+2 & 16 on ATL 19
+Sumamry: (14:22 - 1st) B.Robinson left tackle to ATL 27 for 8 yards (J.Chinn).
+3 & 8 on ATL 27
+Sumamry: (13:44 - 1st) (Shotgun) D.Ridder sacked at ATL 20 for -7 yards (B.Burns). FUMBLES (B.Burns), and recovers at ATL 19.
+4 & 16 on ATL 19
+Sumamry: (13:02 - 1st) B.Pinion punts 31 yards to 50, Center-L.McCullough, out of bounds. PENALTY on CAR-S.Franklin, Offensive Holding, 10 yards, enforced at 50.
+===============
+Drive2
+Possession: Carolina Panthers
+Result: Downs
+ATL: 0
+CAR: 0
+Plays: 11
+Yards: 48
+Time: 6:54
+1 & 10 on CAR 40
+Sumamry: (13:02 - 1st) (Shotgun) M.Sanders left tackle to CAR 44 for 4 yards (G.Jarrett).
+2 & 6 on CAR 44
+Sumamry: (12:16 - 1st) (Shotgun) B.Young pass short middle to T.Marshall to ATL 44 for 12 yards (J.Bates, A.Terrell).
+1 & 10 on ATL 44
+Sumamry: (11:39 - 1st) (Shotgun) M.Sanders right guard to ATL 35 for 9 yards (J.Bates; K.Elliss).
+2 & 1 on ATL 35
+Sumamry: (10:54 - 1st) (Shotgun) C.Hubbard right tackle to ATL 33 for 2 yards (A.Terrell).
+1 & 10 on ATL 33
+Sumamry: (10:16 - 1st) (Shotgun) B.Young to ATL 38 for -5 yards. FUMBLES, and recovers at ATL 36. B.Young to ATL 36 for no gain (T.Andersen).
+2 & 13 on ATL 36
+Sumamry: (9:34 - 1st) (Shotgun) B.Young pass short right to L.Shenault to ATL 34 for 2 yards (J.Bates).
+3 & 11 on ATL 34
+Sumamry: (8:58 - 1st) (Shotgun) B.Young pass short left to L.Shenault to ATL 20 for 14 yards (R.Grant; T.Flowers).
+1 & 10 on ATL 20
+Sumamry: (8:16 - 1st) (Shotgun) C.Hubbard left guard to ATL 15 for 5 yards (R.Grant; J.Bates).
+2 & 5 on ATL 15
+Sumamry: (7:35 - 1st) (Shotgun) M.Sanders right tackle to ATL 11 for 4 yards (K.Elliss; A.Ebiketie).
+3 & 1 on ATL 11
+Sumamry: (6:54 - 1st) (Shotgun) L.Shenault left guard to ATL 11 for no gain (R.Grant; B.Dupree).
+4 & 1 on ATL 11
+Sumamry: (6:14 - 1st) (Shotgun) C.Hubbard left tackle to ATL 12 for -1 yards (D.Onyemata, B.Dupree).
+===============
+Drive3
+Possession: Atlanta Falcons
+Result: Punt
+ATL: 0
+CAR: 0
+Plays: 5
+Yards: 36
+Time: 3:21
+1 & 10 on ATL 12
+Sumamry: (6:08 - 1st) (Shotgun) T.Allgeier right end to ATL 31 for 19 yards (J.Chinn).
+1 & 10 on ATL 31
+Sumamry: (5:28 - 1st) (Shotgun) T.Allgeier left tackle to CAR 47 for 22 yards (V.Bell).
+1 & 10 on CAR 47
+Sumamry: (4:56 - 1st) (No Huddle, Shotgun) T.Allgeier right tackle to CAR 43 for 4 yards (B.Burns).
+2 & 6 on CAR 43
+Sumamry: (4:13 - 1st) (Shotgun) D.Ridder sacked at CAR 46 for -3 yards (sack split by B.Burns and F.Luvu).
+3 & 9 on CAR 46
+Sumamry: (3:29 - 1st) (Shotgun) D.Ridder pass short right to B.Robinson to ATL 48 for -6 yards (B.Burns).
+4 & 15 on ATL 48
+Sumamry: (2:52 - 1st) B.Pinion punts 38 yards to CAR 14, Center-L.McCullough, fair catch by I.Smith-Marsette.
+===============
+Drive4
+Possession: Carolina Panthers
+Result: Interception
+ATL: 0
+CAR: 0
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on CAR 14
+Sumamry: (2:47 - 1st) (Shotgun) B.Young pass short right to A.Thielen to CAR 20 for 6 yards (R.Grant). PENALTY on CAR-A.Thielen, Offensive Pass Interference, 7 yards, enforced at CAR 14 - No Play.
+1 & 17 on CAR 7
+Sumamry: (2:16 - 1st) (Shotgun) PENALTY on CAR, Delay of Game, 4 yards, enforced at CAR 7 - No Play.
+1 & 21 on CAR 3
+Sumamry: (1:50 - 1st) (Shotgun) M.Sanders right guard to CAR 8 for 5 yards (J.Bates; T.Graham).
+2 & 16 on CAR 8
+Sumamry: (1:10 - 1st) (Shotgun) B.Young pass short middle intended for H.Hurst INTERCEPTED by J.Bates at CAR 20. J.Bates to CAR 17 for 3 yards (J.Mingo).
+===============
+Drive5
+Possession: Atlanta Falcons
+Result: Touchdown
+ATL: 7
+CAR: 0
+Plays: 3
+Yards: 17
+Time: 1:7
+1 & 10 on CAR 17
+Sumamry: (1:01 - 1st) (Shotgun) D.Ridder pass short middle to B.Robinson pushed ob at CAR 16 for 1 yard (X.Woods, J.Horn).
+2 & 9 on CAR 16
+Sumamry: (0:28 - 1st) (Shotgun) B.Robinson left tackle to CAR 11 for 5 yards (B.Burns).
+3 & 4 on CAR 11
+Sumamry: (14:54 - 2nd) (Shotgun) D.Ridder pass short right to B.Robinson for 11 yards, TOUCHDOWN.Y.Koo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion.
+Sumamry: (14:54 - 2nd) Timeout at 14:54.
+===============
+Drive6
+Possession: Carolina Panthers
+Result: Punt
+ATL: 7
+CAR: 0
+Plays: 3
+Yards: 7
+Time: 0:53
+Sumamry: (14:54 - 2nd) B.Pinion kicks 65 yards from ATL 35 to end zone, Touchback.
+1 & 10 on CAR 25
+Sumamry: (14:54 - 2nd) (Shotgun) B.Young pass incomplete short right.
+Sumamry: (14:52 - 2nd) Timeout #1 by CAR at 14:52.
+2 & 10 on CAR 25
+Sumamry: (14:52 - 2nd) (Shotgun) B.Young pass incomplete deep right to H.Hurst (R.Grant).
+3 & 10 on CAR 25
+Sumamry: (14:46 - 2nd) (Shotgun) B.Young pass short left to C.Hubbard pushed ob at CAR 32 for 7 yards (T.Andersen).
+4 & 3 on CAR 32
+Sumamry: (14:09 - 2nd) J.Hekker punts 53 yards to ATL 15, Center-J.Jansen, fair catch by D.Alford.
+Sumamry: (14:01 - 2nd) Timeout at 14:01.
+===============
+Drive7
+Possession: Atlanta Falcons
+Result: Punt
+ATL: 7
+CAR: 0
+Plays: 3
+Yards: 9
+Time: 1:34
+1 & 10 on ATL 15
+Sumamry: (14:00 - 2nd) (Shotgun) D.Ridder pass incomplete short left to D.London.
+2 & 10 on ATL 15
+Sumamry: (13:57 - 2nd) (No Huddle, Shotgun) D.Ridder sacked at ATL 15 for 0 yards (sack split by F.Luvu and S.Tuttle).
+3 & 10 on ATL 15
+Sumamry: (13:57 - 2nd) (No Huddle, Shotgun) PENALTY on CAR, Defensive Too Many Men on Field, 5 yards, enforced at ATL 15 - No Play.
+3 & 5 on ATL 20
+Sumamry: (13:09 - 2nd) (Shotgun) D.Ridder pass short right to K.Pitts to ATL 46 for 26 yards (V.Bell). PENALTY on ATL-D.London, Illegal Shift, 5 yards, enforced at ATL 20 - No Play.
+3 & 10 on ATL 15
+Sumamry: (12:58 - 2nd) (Shotgun) D.Ridder pass short right to M.Hollins to ATL 24 for 9 yards (F.Luvu). Carolina challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)
+Sumamry: (12:35 - 2nd) Timeout at 12:35.
+4 & 1 on ATL 24
+Sumamry: (12:35 - 2nd) B.Pinion punts 51 yards to CAR 25, Center-L.McCullough, out of bounds.
+===============
+Drive8
+Possession: Carolina Panthers
+Result: Touchdown
+ATL: 7
+CAR: 7
+Plays: 12
+Yards: 75
+Time: 7:18
+1 & 10 on CAR 25
+Sumamry: (12:27 - 2nd) (Shotgun) M.Sanders right tackle to CAR 28 for 3 yards (Z.Harrison; T.Andersen).
+2 & 7 on CAR 28
+Sumamry: (11:47 - 2nd) (Shotgun) L.Shenault left end to CAR 33 for 5 yards (J.Bates).
+3 & 2 on CAR 33
+Sumamry: (11:04 - 2nd) (Shotgun) B.Young pass short middle to H.Hurst to CAR 44 for 11 yards (T.Flowers, J.Bates).
+1 & 10 on CAR 44
+Sumamry: (10:27 - 2nd) (Shotgun) M.Sanders right end to CAR 46 for 2 yards (B.Dupree; T.Andersen).
+2 & 8 on CAR 46
+Sumamry: (9:46 - 2nd) (Shotgun) B.Young pass short middle to T.Marshall to ATL 43 for 11 yards (D.Alford, T.Andersen).
+1 & 10 on ATL 43
+Sumamry: (9:04 - 2nd) (Shotgun) M.Sanders right end to ATL 44 for -1 yards (A.Terrell).
+2 & 11 on ATL 44
+Sumamry: (8:28 - 2nd) (Shotgun) B.Young pass short left to A.Thielen to ATL 41 for 3 yards (D.Alford).
+3 & 8 on ATL 41
+Sumamry: (7:48 - 2nd) (Shotgun) B.Young pass short left to J.Mingo pushed ob at ATL 32 for 9 yards (T.Flowers).
+1 & 10 on ATL 32
+Sumamry: (7:06 - 2nd) C.Hubbard left tackle to ATL 20 for 12 yards (R.Grant; T.Flowers).
+1 & 10 on ATL 20
+Sumamry: (6:23 - 2nd) (Shotgun) B.Young pass short left to H.Hurst to ATL 6 for 14 yards (R.Grant).
+Sumamry: (5:09 - 2nd) Timeout at 05:09.
+===============
+Drive9
+Possession: Atlanta Falcons
+Result: Punt
+ATL: 7
+CAR: 7
+Plays: 4
+Yards: 5
+Time: 3:21
+Sumamry: (5:09 - 2nd) E.Pineiro kicks 65 yards from CAR 35 to end zone, Touchback.
+1 & 10 on ATL 25
+Sumamry: (5:07 - 2nd) B.Robinson right guard to ATL 35 for 10 yards (J.Chinn; X.Woods).
+1 & 10 on ATL 35
+Sumamry: (4:24 - 2nd) B.Robinson right end to ATL 37 for 2 yards (N.Thurman).
+2 & 8 on ATL 37
+Sumamry: (4:24 - 2nd) PENALTY on ATL-J.Smith, False Start, 5 yards, enforced at ATL 37 - No Play.
+2 & 13 on ATL 32
+Sumamry: (3:23 - 2nd) (Shotgun) D.Ridder scrambles right end pushed ob at ATL 37 for 5 yards (F.Luvu). PENALTY on ATL-K.McGary, Offensive Holding, 10 yards, enforced at ATL 32 - No Play.
+2 & 23 on ATL 22
+Sumamry: (2:52 - 2nd) D.Ridder pass short middle to M.Hollins to ATL 33 for 11 yards (S.Thompson). CAR-J.Horn was injured during the play. He is Out.
+Sumamry: (2:40 - 2nd) Timeout at 02:40.
+3 & 12 on ATL 33
+Sumamry: (2:39 - 2nd) (Shotgun) D.Ridder pass short right to B.Robinson to ATL 30 for -3 yards (T.Hill).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+4 & 15 on ATL 30
+Sumamry: (2:00 - 2nd) B.Pinion punts 58 yards to CAR 12, Center-L.McCullough. I.Smith-Marsette to CAR 17 for 5 yards (K.Smith; T.Davis).
+===============
+Drive10
+Possession: Carolina Panthers
+Result: Punt
+ATL: 7
+CAR: 7
+Plays: 3
+Yards: 0
+Time: 0:24
+1 & 10 on CAR 17
+Sumamry: (1:48 - 2nd) (Shotgun) B.Young pass incomplete deep left to T.Marshall [D.Onyemata].
+2 & 10 on CAR 17
+Sumamry: (1:44 - 2nd) (Shotgun) B.Young pass incomplete short right to J.Mingo.
+3 & 10 on CAR 17
+Sumamry: (1:39 - 2nd) (Shotgun) B.Young pass incomplete deep middle to J.Mingo.
+4 & 10 on CAR 17
+Sumamry: (1:34 - 2nd) J.Hekker punts 55 yards to ATL 28, Center-J.Jansen. D.Alford to ATL 28 for no gain (S.Franklin).
+===============
+Drive11
+Possession: Atlanta Falcons
+Result: End of Half
+ATL: 7
+CAR: 7
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on ATL 28
+Sumamry: (1:22 - 2nd) (Shotgun) D.Ridder pass incomplete short right to M.Hollins [F.Luvu].
+2 & 10 on ATL 28
+Sumamry: (1:13 - 2nd) (Shotgun) B.Robinson left end to ATL 32 for 4 yards (Der.Brown).
+3 & 6 on ATL 32
+Sumamry: (0:41 - 2nd) (No Huddle, Shotgun) D.Ridder pass short left to B.Robinson to ATL 39 for 7 yards (C.Henderson).
+Sumamry: (0:34 - 2nd) Timeout #1 by ATL at 00:34.
+1 & 10 on ATL 39
+Sumamry: (0:34 - 2nd) (Shotgun) D.Ridder sacked at ATL 26 for -13 yards (Der.Brown).
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive12
+Possession: Carolina Panthers
+Result: Field Goal
+ATL: 7
+CAR: 10
+Plays: 9
+Yards: 50
+Time: 4:14
+Sumamry: (15:00 - 3rd) B.Pinion kicks 65 yards from ATL 35 to end zone, Touchback.
+1 & 10 on CAR 25
+Sumamry: (15:00 - 3rd) (Shotgun) B.Young pass short right to G.Ricci to CAR 27 for 2 yards (A.Terrell).
+2 & 8 on CAR 27
+Sumamry: (14:19 - 3rd) (Shotgun) C.Hubbard left tackle to CAR 38 for 11 yards (J.Bates).
+1 & 10 on CAR 38
+Sumamry: (13:37 - 3rd) (Shotgun) B.Young pass short right to H.Hurst ran ob at CAR 41 for 3 yards.
+2 & 7 on CAR 41
+Sumamry: (13:31 - 3rd) (Shotgun) M.Sanders left end pushed ob at ATL 49 for 10 yards (T.Flowers; K.Elliss).
+1 & 10 on ATL 49
+Sumamry: (12:58 - 3rd) (Shotgun) B.Young scrambles right end ran ob at ATL 33 for 16 yards (J.Bates).
+1 & 10 on ATL 33
+Sumamry: (12:17 - 3rd) (Shotgun) M.Sanders left end to ATL 33 for no gain (D.Alford; A.Huggins).
+2 & 10 on ATL 33
+Sumamry: (11:37 - 3rd) (Shotgun) B.Young pass incomplete short right.
+3 & 10 on ATL 33
+Sumamry: (11:30 - 3rd) (Shotgun) B.Young pass short right to J.Mingo to ATL 25 for 8 yards (D.Alford).
+4 & 2 on ATL 25
+Sumamry: (10:46 - 3rd) E.Pineiro 43 yard field goal is GOOD, Center-J.Jansen, Holder-J.Hekker.
+Sumamry: (10:46 - 3rd) Timeout at 10:46.
+===============
+Drive13
+Possession: Atlanta Falcons
+Result: Punt
+ATL: 7
+CAR: 10
+Plays: 3
+Yards: 7
+Time: 1:12
+Sumamry: (10:46 - 3rd) E.Pineiro kicks 65 yards from CAR 35 to end zone, Touchback.
+1 & 10 on ATL 25
+Sumamry: (10:46 - 3rd) (Shotgun) T.Allgeier right end pushed ob at ATL 25 for no gain (J.Chinn).
+2 & 10 on ATL 25
+Sumamry: (10:24 - 3rd) (Shotgun) D.Ridder pass incomplete short middle to K.Pitts.
+3 & 10 on ATL 25
+Sumamry: (10:21 - 3rd) (Shotgun) D.Ridder pass short right to T.Allgeier pushed ob at ATL 32 for 7 yards (F.Luvu).
+4 & 3 on ATL 32
+Sumamry: (9:34 - 3rd) B.Pinion punts 60 yards to CAR 8, Center-L.McCullough. I.Smith-Marsette pushed ob at CAR 21 for 13 yards (S.Miller).
+Sumamry: (9:34 - 3rd) Timeout at 09:34.
+===============
+Drive14
+Possession: Carolina Panthers
+Result: Interception
+ATL: 7
+CAR: 10
+Plays: 5
+Yards: 19
+Time: 2:56
+1 & 10 on CAR 21
+Sumamry: (9:34 - 3rd) M.Sanders left tackle to CAR 30 for 9 yards (T.Flowers; D.Alford).
+2 & 1 on CAR 30
+Sumamry: (8:56 - 3rd) (Shotgun) C.Hubbard left tackle to CAR 36 for 6 yards (K.Elliss).
+1 & 10 on CAR 36
+Sumamry: (8:17 - 3rd) (Shotgun) B.Young pass short middle to M.Sanders to CAR 39 for 3 yards (K.Elliss).
+2 & 7 on CAR 39
+Sumamry: (7:33 - 3rd) (Shotgun) C.Hubbard right guard to CAR 40 for 1 yard (T.Andersen; D.Onyemata).
+3 & 6 on CAR 40
+Sumamry: (6:48 - 3rd) (Shotgun) B.Young pass short middle intended for T.Marshall INTERCEPTED by J.Bates at ATL 49. J.Bates to ATL 49 for no gain (T.Marshall). PENALTY on CAR-I.Thomas, Unnecessary Roughness, 15 yards, enforced at ATL 49.
+===============
+Drive15
+Possession: Atlanta Falcons
+Result: Field Goal
+ATL: 10
+CAR: 10
+Plays: 4
+Yards: 5
+Time: 1:46
+1 & 10 on CAR 36
+Sumamry: (6:38 - 3rd) (Shotgun) B.Robinson right tackle to CAR 27 for 9 yards (S.Thompson, J.Chinn).
+2 & 1 on CAR 27
+Sumamry: (6:14 - 3rd) (No Huddle) B.Robinson left end to CAR 31 for -4 yards (D.Williams).
+3 & 5 on CAR 31
+Sumamry: (5:37 - 3rd) (Shotgun) B.Robinson left end to CAR 31 for no gain (D.Williams; J.Houston).
+4 & 5 on CAR 31
+Sumamry: (4:52 - 3rd) Y.Koo 49 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion.
+Sumamry: (4:52 - 3rd) Timeout at 04:52.
+===============
+Drive16
+Possession: Carolina Panthers
+Result: Fumble
+ATL: 10
+CAR: 10
+Plays: 4
+Yards: 36
+Time: 2:28
+Sumamry: (4:52 - 3rd) B.Pinion kicks 65 yards from ATL 35 to end zone, Touchback.
+1 & 10 on CAR 25
+Sumamry: (4:51 - 3rd) C.Hubbard right guard to CAR 46 for 21 yards (T.Flowers).
+1 & 10 on CAR 46
+Sumamry: (4:11 - 3rd) (Shotgun) M.Sanders right tackle to CAR 45 for -1 yards (G.Jarrett; T.Andersen).
+2 & 11 on CAR 45
+Sumamry: (3:33 - 3rd) (Shotgun) B.Young pass short right to C.Hubbard to CAR 47 for 2 yards (T.Andersen).
+3 & 9 on CAR 47
+Sumamry: (2:58 - 3rd) (No Huddle, Shotgun) B.Young pass incomplete short left to T.Marshall. PENALTY on ATL-T.Flowers, Defensive Pass Interference, 9 yards, enforced at CAR 47 - No Play.
+1 & 10 on ATL 44
+Sumamry: (2:54 - 3rd) (Shotgun) M.Sanders right end to ATL 40 for 4 yards (J.Bates). PENALTY on CAR-J.Mingo, Illegal Formation, 5 yards, enforced at ATL 44 - No Play.
+1 & 15 on ATL 49
+Sumamry: (2:29 - 3rd) (Shotgun) M.Sanders right guard to ATL 39 for 10 yards (R.Grant; D.Alford). Atlanta challenged the runner was down by contact ruling, and the play was REVERSED. (Shotgun) M.Sanders right guard to ATL 39 for 10 yards (D.Alford, J.Bates). FUMBLES (J.Bates), RECOVERED by ATL-L.Carter at ATL 39.
+===============
+Drive17
+Possession: Atlanta Falcons
+Result: Touchdown
+ATL: 17
+CAR: 10
+Plays: 7
+Yards: 61
+Time: 3:12
+1 & 10 on ATL 39
+Sumamry: (2:24 - 3rd) (Shotgun) T.Allgeier right tackle to CAR 49 for 12 yards (D.Jackson, J.Chinn).
+1 & 10 on CAR 49
+Sumamry: (1:45 - 3rd) (Shotgun) T.Allgeier right guard to CAR 47 for 2 yards (Der.Brown, S.Thompson).
+2 & 8 on CAR 47
+Sumamry: (1:18 - 3rd) (No Huddle, Shotgun) D.Ridder pass short right to K.Pitts pushed ob at CAR 37 for 10 yards (C.Henderson).
+1 & 10 on CAR 37
+Sumamry: (0:53 - 3rd) (No Huddle, Shotgun) D.Ridder pass short left to T.Allgeier to CAR 25 for 12 yards (Der.Brown).
+1 & 10 on CAR 25
+Sumamry: (0:12 - 3rd) B.Robinson left tackle to CAR 4 for 21 yards (F.Luvu, V.Bell).
+===============
+Drive18
+Possession: Carolina Panthers
+Result: Punt
+ATL: 17
+CAR: 10
+Plays: 6
+Yards: 4
+Time: 3:15
+Sumamry: (14:12 - 4th) B.Pinion kicks 60 yards from ATL 40 to end zone, Touchback.
+1 & 10 on CAR 25
+Sumamry: (14:12 - 4th) (Shotgun) M.Sanders right guard to CAR 27 for 2 yards (C.Campbell, D.Onyemata).
+2 & 8 on CAR 27
+Sumamry: (13:34 - 4th) (Shotgun) B.Young pass short left to M.Sanders ran ob at CAR 34 for 7 yards (T.Flowers).
+3 & 1 on CAR 34
+Sumamry: (13:09 - 4th) (No Huddle, Shotgun) M.Sanders right guard to CAR 36 for 2 yards (D.Onyemata, T.Andersen).
+1 & 10 on CAR 36
+Sumamry: (12:25 - 4th) (Shotgun) B.Young pass incomplete deep right to T.Marshall [G.Jarrett].
+2 & 10 on CAR 36
+Sumamry: (12:19 - 4th) (Shotgun) M.Sanders right guard to CAR 41 for 5 yards (Z.Harrison).
+3 & 5 on CAR 41
+Sumamry: (12:19 - 4th) (Shotgun) PENALTY on CAR-I.Ekwonu, False Start, 5 yards, enforced at CAR 41 - No Play.
+3 & 10 on CAR 36
+Sumamry: (11:42 - 4th) (Shotgun) B.Young sacked at CAR 29 for -7 yards (sack split by T.Andersen and G.Jarrett).
+4 & 17 on CAR 29
+Sumamry: (11:02 - 4th) J.Hekker punts 36 yards to ATL 35, Center-J.Jansen, out of bounds.
+Sumamry: (10:57 - 4th) Timeout at 10:57.
+===============
+Drive19
+Possession: Atlanta Falcons
+Result: Punt
+ATL: 17
+CAR: 10
+Plays: 3
+Yards: 5
+Time: 2:41
+1 & 10 on ATL 35
+Sumamry: (10:57 - 4th) B.Robinson right end to ATL 49 for 14 yards (F.Luvu). FUMBLES (F.Luvu), recovered by ATL-K.McGary at CAR 48. K.McGary to CAR 48 for no gain (B.Burns). PENALTY on ATL-C.Lindstrom, Offensive Holding, 10 yards, enforced at ATL 35 - No Play.
+1 & 20 on ATL 25
+Sumamry: (10:29 - 4th) (Shotgun) D.Ridder pass short right to T.Allgeier to ATL 25 for no gain (S.Thompson).
+2 & 20 on ATL 25
+Sumamry: (9:57 - 4th) (No Huddle, Shotgun) T.Allgeier right tackle to ATL 23 for -2 yards (Der.Brown, B.Burns).
+3 & 22 on ATL 23
+Sumamry: (9:11 - 4th) (Shotgun) D.Ridder pass short right to B.Robinson to ATL 40 for 17 yards (Der.Brown).
+4 & 5 on ATL 40
+Sumamry: (8:30 - 4th) B.Pinion punts 55 yards to CAR 5, Center-L.McCullough. I.Smith-Marsette to CAR 1 for -4 yards (P.Hesse). Penalty on ATL-P.Hesse, Horse Collar Tackle, offsetting. Penalty on CAR-T.Hill, Unnecessary Roughness, offsetting.
+Sumamry: (8:16 - 4th) Timeout at 08:16.
+===============
+Drive20
+Possession: Carolina Panthers
+Result: Punt
+ATL: 17
+CAR: 10
+Plays: 3
+Yards: 2
+Time: 1:7
+1 & 10 on CAR 1
+Sumamry: (8:16 - 4th) (Shotgun) B.Young pass incomplete deep left to J.Mingo.
+2 & 10 on CAR 1
+Sumamry: (8:10 - 4th) (Shotgun) M.Sanders right guard to CAR 3 for 2 yards (A.Huggins; Z.Harrison).
+3 & 8 on CAR 3
+Sumamry: (7:25 - 4th) (Shotgun) B.Young pass incomplete short right to T.Marshall.
+4 & 8 on CAR 3
+Sumamry: (7:21 - 4th) J.Hekker punts 53 yards to ATL 44, Center-J.Jansen, downed by CAR-L.Shenault.
+===============
+Drive21
+Possession: Atlanta Falcons
+Result: Touchdown
+ATL: 24
+CAR: 10
+Plays: 6
+Yards: 56
+Time: 2:21
+1 & 10 on ATL 44
+Sumamry: (7:09 - 4th) T.Allgeier left end to ATL 45 for 1 yard (F.Luvu; N.Thurman).
+2 & 9 on ATL 45
+Sumamry: (6:29 - 4th) (Shotgun) D.Ridder pass short right to M.Hollins to CAR 44 for 11 yards (C.Henderson).
+1 & 10 on CAR 44
+Sumamry: (5:47 - 4th) T.Allgeier left tackle to CAR 41 for 3 yards (D.Williams, Der.Brown).
+2 & 7 on CAR 41
+Sumamry: (5:03 - 4th) (Shotgun) D.Ridder pass deep right to K.Pitts to CAR 7 for 34 yards (V.Bell). Penalty on CAR-C.Henderson, Defensive Pass Interference, declined.
+Sumamry: (4:52 - 4th) Timeout #1 by CAR at 04:52.
+===============
+Drive22
+Possession: Carolina Panthers
+Result: Punt
+ATL: 24
+CAR: 10
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (4:48 - 4th) B.Pinion kicks 65 yards from ATL 35 to end zone, Touchback.
+1 & 10 on CAR 25
+Sumamry: (4:48 - 4th) (Shotgun) B.Young pass incomplete short left to M.Sanders.
+2 & 10 on CAR 25
+Sumamry: (4:42 - 4th) (No Huddle, Shotgun) B.Young pass incomplete deep right. ATL-J.Bates was injured during the play.
+3 & 10 on CAR 25
+Sumamry: (4:33 - 4th) (Shotgun) B.Young sacked at CAR 13 for -12 yards (L.Carter).
+Sumamry: (4:01 - 4th) Timeout #1 by ATL at 04:01.
+4 & 22 on CAR 13
+Sumamry: (4:00 - 4th) J.Hekker punts 69 yards to ATL 18, Center-J.Jansen. S.Miller pushed ob at ATL 22 for 4 yards (T.Tremble).
+===============
+Drive23
+Possession: Atlanta Falcons
+Result: Punt
+ATL: 24
+CAR: 10
+Plays: 3
+Yards: 4
+Time: 1:8
+1 & 10 on ATL 22
+Sumamry: (3:47 - 4th) B.Robinson left tackle to ATL 23 for 1 yard (S.Tuttle; N.Thurman).
+Sumamry: (3:41 - 4th) Timeout #2 by CAR at 03:41.
+2 & 9 on ATL 23
+Sumamry: (3:37 - 4th) (Shotgun) T.Allgeier right guard to ATL 26 for 3 yards (S.Tuttle; J.Chinn).
+Sumamry: (3:36 - 4th) Timeout #3 by CAR at 03:36.
+3 & 6 on ATL 26
+Sumamry: (3:34 - 4th) T.Allgeier left tackle to ATL 26 for no gain (F.Luvu; S.Thompson).
+4 & 6 on ATL 26
+Sumamry: (2:53 - 4th) B.Pinion punts 44 yards to CAR 30, Center-L.McCullough, downed by ATL-T.Davis.
+===============
+Drive24
+Possession: Carolina Panthers
+Result: Downs
+ATL: 24
+CAR: 10
+Plays: 12
+Yards: 40
+Time: 2:25
+1 & 10 on CAR 30
+Sumamry: (2:37 - 4th) (Shotgun) B.Young pass incomplete short left.
+2 & 10 on CAR 30
+Sumamry: (2:33 - 4th) (Shotgun) B.Young pass short middle to M.Sanders pushed ob at CAR 41 for 11 yards (K.Elliss).
+1 & 10 on CAR 41
+Sumamry: (2:25 - 4th) (Shotgun) B.Young pass short left to H.Hurst ran ob at 50 for 9 yards.
+2 & 1 on 50
+Sumamry: (2:19 - 4th) (Shotgun) C.Hubbard left guard to ATL 47 for 3 yards (K.Elliss).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+1 & 10 on ATL 47
+Sumamry: (2:00 - 4th) (Shotgun) B.Young sacked at CAR 45 for -8 yards (D.Onyemata). FUMBLES (D.Onyemata) [D.Onyemata], recovered by CAR-M.Sanders at CAR 45. The Replay Official reviewed the fumble ruling, and the play was REVERSED. (Shotgun) B.Young pass incomplete short left to M.Sanders (D.Onyemata) [D.Onyemata].
+2 & 10 on ATL 47
+Sumamry: (1:57 - 4th) (Shotgun) B.Young pass short left to J.Mingo to ATL 42 for 5 yards (T.Flowers). PENALTY on ATL-T.Andersen, Defensive Holding, 4 yards, enforced at ATL 47 - No Play.
+1 & 10 on ATL 43
+Sumamry: (1:52 - 4th) (Shotgun) B.Young pass short left to M.Sanders to ATL 38 for 5 yards (K.Elliss).
+2 & 5 on ATL 38
+Sumamry: (1:27 - 4th) (No Huddle, Shotgun) B.Young pass incomplete short right [A.Ebiketie].
+3 & 5 on ATL 38
+Sumamry: (1:23 - 4th) (Shotgun) B.Young pass short middle to A.Thielen to ATL 29 for 9 yards (R.Grant).
+1 & 10 on ATL 29
+Sumamry: (0:59 - 4th) (No Huddle, Shotgun) B.Young pass incomplete short right.
+2 & 10 on ATL 29
+Sumamry: (0:56 - 4th) (Shotgun) B.Young pass incomplete short left to C.Hubbard. PENALTY on CAR-I.Smith-Marsette, Offensive Pass Interference, 10 yards, enforced at ATL 29 - No Play.
+2 & 20 on ATL 39
+Sumamry: (0:51 - 4th) (Shotgun) M.Sanders right guard to ATL 34 for 5 yards (K.Elliss).
+3 & 15 on ATL 34
+Sumamry: (0:28 - 4th) (No Huddle, Shotgun) B.Young pass incomplete deep right.
+4 & 15 on ATL 34
+Sumamry: (0:14 - 4th) (Shotgun) B.Young scrambles right tackle to ATL 30 for 4 yards (R.Grant).
+===============
+Drive25
+Possession: Atlanta Falcons
+Result: End of Game
+ATL: 24
+CAR: 10
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on ATL 30
+Sumamry: (0:14 - 4th) D.Ridder kneels to ATL 29 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

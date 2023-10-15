@@ -1,0 +1,547 @@
+Drive1
+Possession: Washington Commanders
+Result: Punt
+WSH: 0
+ARI: 0
+Plays: 8
+Yards: 26
+Time: 4:1
+Sumamry: (15:00 - 1st) M.Prater kicks 65 yards from ARZ 35 to end zone, Touchback.
+1 & 10 on WSH 25
+Sumamry: (15:00 - 1st) (Shotgun) B.Robinson right tackle to WAS 28 for 3 yards (J.Ledbetter).
+2 & 7 on WSH 28
+Sumamry: (14:30 - 1st) (Shotgun) S.Howell pass short right to J.Dotson to WAS 34 for 6 yards (K.Clark, J.Woods).
+3 & 1 on WSH 34
+Sumamry: (13:55 - 1st) C.Rodriguez left guard to WAS 36 for 2 yards (C.Thomas; Z.Collins).
+1 & 10 on WSH 36
+Sumamry: (13:16 - 1st) (Shotgun) S.Howell pass incomplete short middle to L.Thomas.
+2 & 10 on WSH 36
+Sumamry: (13:12 - 1st) S.Howell pass short middle to J.Dotson to WAS 48 for 12 yards (K.Clark).
+1 & 10 on WSH 48
+Sumamry: (12:34 - 1st) (Shotgun) S.Howell pass short left to C.Samuel to WAS 49 for 1 yard (J.Thompson).
+2 & 9 on WSH 49
+Sumamry: (11:55 - 1st) (Shotgun) S.Howell pass incomplete short left to L.Thomas (K.Wallace).
+3 & 9 on WSH 49
+Sumamry: (11:51 - 1st) (Shotgun) S.Howell pass short right to C.Samuel to ARZ 49 for 2 yards (K.Wallace).
+4 & 7 on ARI 49
+Sumamry: (10:59 - 1st) T.Way punts 42 yards to ARZ 7, Center-C.Cheeseman, downed by WAS-J.Martin. PENALTY on WAS-C.Holmes, Illegal Block Above the Waist, 10 yards, enforced at ARZ 7.
+Sumamry: (10:59 - 1st) Timeout at 10:59.
+===============
+Drive2
+Possession: Arizona Cardinals
+Result: Punt
+WSH: 0
+ARI: 0
+Plays: 6
+Yards: 13
+Time: 3:24
+1 & 10 on ARI 17
+Sumamry: (10:59 - 1st) J.Conner left end pushed ob at ARZ 16 for -1 yards (J.Davis, K.Curl).
+2 & 11 on ARI 16
+Sumamry: (10:28 - 1st) J.Conner left guard to ARZ 22 for 6 yards (B.St-Juste).
+3 & 5 on ARI 22
+Sumamry: (9:51 - 1st) (Shotgun) J.Dobbs pass short middle to Z.Ertz to ARZ 28 for 6 yards (K.Curl).
+1 & 10 on ARI 28
+Sumamry: (9:12 - 1st) J.Dobbs pass incomplete short left to Z.Pascal.
+2 & 10 on ARI 28
+Sumamry: (9:08 - 1st) J.Dobbs pass short left to Z.Ertz to ARZ 25 for -3 yards (D.Forrest; J.Smith-Williams).
+3 & 13 on ARI 25
+Sumamry: (8:28 - 1st) (Shotgun) J.Conner right guard to ARZ 30 for 5 yards (K.Curl).
+4 & 8 on ARI 30
+Sumamry: (7:35 - 1st) N.Cooney punts 51 yards to WAS 19, Center-A.Brewer. J.Crowder pushed ob at WAS 29 for 10 yards (V.Dimukeje). PENALTY on WAS-J.Martin, Illegal Block Above the Waist, 9 yards, enforced at WAS 18.
+Sumamry: (7:35 - 1st) Timeout at 07:35.
+===============
+Drive3
+Possession: Washington Commanders
+Result: Touchdown
+WSH: 7
+ARI: 0
+Plays: 6
+Yards: 91
+Time: 3:20
+1 & 10 on WSH 9
+Sumamry: (7:35 - 1st) (Shotgun) S.Howell sacked at WAS 9 for 0 yards (C.Thomas). PENALTY on ARZ-K.White, Lowering the Head to Make Forcible Contact, 15 yards, enforced at WAS 9 - No Play.
+Sumamry: (7:29 - 1st) Timeout at 07:29.
+1 & 10 on WSH 24
+Sumamry: (7:11 - 1st) (Shotgun) S.Howell pass short middle to L.Thomas to WAS 30 for 6 yards (Ma.Wilson).
+2 & 4 on WSH 30
+Sumamry: (6:40 - 1st) A.Gibson right tackle to WAS 33 for 3 yards (K.White).
+3 & 1 on WSH 33
+Sumamry: (6:09 - 1st) (Shotgun) S.Howell pass short right to J.Dotson pushed ob at WAS 36 for 3 yards (J.Thompson). PENALTY on ARZ-J.Thompson, Lowering the Head to Make Forcible Contact, 15 yards, enforced at WAS 36.
+1 & 10 on ARI 49
+Sumamry: (5:47 - 1st) (Shotgun) B.Robinson right end to 50 for -1 yards (K.Strong).
+2 & 11 on 50
+Sumamry: (5:08 - 1st) (Shotgun) S.Howell pass incomplete deep left to T.McLaurin. PENALTY on ARZ-Ma.Wilson, Defensive Pass Interference, 37 yards, enforced at 50 - No Play.
+1 & 10 on ARI 13
+Sumamry: (5:02 - 1st) (Shotgun) C.Samuel left tackle to ARZ 7 for 6 yards (K.White; K.Wallace).
+2 & 4 on ARI 7
+Sumamry: (4:15 - 1st) (Shotgun) S.Howell pass short left to B.Robinson for 7 yards, TOUCHDOWN.J.Slye extra point is GOOD, Center-C.Cheeseman, Holder-T.Way.
+Sumamry: (4:15 - 1st) Timeout at 04:15.
+===============
+Drive4
+Possession: Arizona Cardinals
+Result: Field Goal
+WSH: 7
+ARI: 3
+Plays: 8
+Yards: 64
+Time: 3:22
+Sumamry: (4:15 - 1st) J.Slye kicks 65 yards from WAS 35 to end zone, Touchback.
+1 & 10 on ARI 25
+Sumamry: (4:15 - 1st) (Shotgun) R.Moore left end ran ob at ARZ 29 for 4 yards (E.Forbes).
+2 & 6 on ARI 29
+Sumamry: (3:45 - 1st) (Shotgun) M.Brown right end to WAS 42 for 29 yards (D.Forrest).
+1 & 10 on WSH 42
+Sumamry: (3:01 - 1st) (Shotgun) J.Dobbs pass short right to J.Conner to WAS 43 for -1 yards (M.Sweat, J.Smith-Williams).
+2 & 11 on WSH 43
+Sumamry: (2:16 - 1st) (Shotgun) J.Dobbs pass short right to R.Moore pushed ob at WAS 12 for 31 yards (E.Forbes). Penalty on WAS-K.Fuller, Illegal Use of Hands, declined.
+Sumamry: (1:43 - 1st) Timeout #1 by ARZ at 01:43.
+1 & 10 on WSH 12
+Sumamry: (1:43 - 1st) (Shotgun) J.Dobbs pass incomplete short middle to Z.Ertz.
+2 & 10 on WSH 12
+Sumamry: (1:38 - 1st) (Shotgun) J.Dobbs right end to WAS 11 for 1 yard (J.Davis).
+3 & 9 on WSH 11
+Sumamry: (1:00 - 1st) (Shotgun) J.Dobbs pass incomplete short middle to Z.Ertz (K.Curl).
+4 & 9 on WSH 11
+Sumamry: (0:53 - 1st) M.Prater 28 yard field goal is GOOD, Center-A.Brewer, Holder-N.Cooney.
+Sumamry: (0:53 - 1st) Timeout at 00:53.
+===============
+Drive5
+Possession: Washington Commanders
+Result: Interception
+WSH: 7
+ARI: 3
+Plays: 2
+Yards: 4
+Time: 1:7
+Sumamry: (0:53 - 1st) M.Prater kicks 65 yards from ARZ 35 to end zone, Touchback.
+1 & 10 on WSH 25
+Sumamry: (0:53 - 1st) (Shotgun) S.Howell sacked ob at WAS 24 for -1 yards (L.Fotu).
+2 & 11 on WSH 24
+Sumamry: (0:16 - 1st) (Shotgun) S.Howell pass short right to L.Thomas pushed ob at WAS 35 for 11 yards (K.Clark). PENALTY on WAS-J.Bates, Offensive Pass Interference, 10 yards, enforced at WAS 24 - No Play.
+2 & 21 on WSH 14
+Sumamry: (15:00 - 2nd) (Shotgun) S.Howell pass incomplete short right to L.Thomas. PENALTY on ARZ-J.Ledbetter, Roughing the Passer, 15 yards, enforced at WAS 14 - No Play.
+1 & 10 on WSH 29
+Sumamry: (14:46 - 2nd) S.Howell pass short left intended for J.Dotson INTERCEPTED by Z.Collins (K.Strong) at WAS 38. Z.Collins to WAS 37 for 1 yard (T.McLaurin).
+===============
+Drive6
+Possession: Arizona Cardinals
+Result: Field Goal
+WSH: 7
+ARI: 6
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on WSH 37
+Sumamry: (14:46 - 2nd) (Shotgun) J.Dobbs pass short middle to Z.Ertz to WAS 33 for 4 yards (C.Barton).
+2 & 6 on WSH 33
+Sumamry: (14:08 - 2nd) K.Ingram right end to WAS 36 for -3 yards (D.Payne, C.Toohill).
+3 & 9 on WSH 36
+Sumamry: (13:34 - 2nd) (Shotgun) J.Dobbs pass incomplete short left to M.Brown.
+4 & 9 on WSH 36
+Sumamry: (13:26 - 2nd) M.Prater 54 yard field goal is GOOD, Center-A.Brewer, Holder-N.Cooney.
+Sumamry: (13:26 - 2nd) Timeout at 13:26.
+===============
+Drive7
+Possession: Washington Commanders
+Result: Fumble
+WSH: 7
+ARI: 6
+Plays: 8
+Yards: 59
+Time: 4:35
+Sumamry: (13:26 - 2nd) M.Prater kicks 65 yards from ARZ 35 to end zone, Touchback.
+1 & 10 on WSH 25
+Sumamry: (13:26 - 2nd) (Shotgun) B.Robinson left guard to WAS 31 for 6 yards (Z.Collins; K.Wallace).
+2 & 4 on WSH 31
+Sumamry: (12:48 - 2nd) (Shotgun) B.Robinson left tackle to WAS 36 for 5 yards (C.Watkins; J.Thompson). ARZ-K.Strong was injured during the play.
+1 & 10 on WSH 36
+Sumamry: (12:15 - 2nd) S.Howell scrambles left end to WAS 41 for 5 yards (K.White).
+2 & 5 on WSH 41
+Sumamry: (11:31 - 2nd) A.Gibson right guard to WAS 44 for 3 yards (K.Barnes; J.Ledbetter).
+3 & 2 on WSH 44
+Sumamry: (10:47 - 2nd) (Shotgun) S.Howell pass short middle to T.McLaurin to ARZ 37 for 19 yards (B.Baker). ARZ-J.Thompson was injured during the play.
+1 & 10 on ARI 37
+Sumamry: (10:09 - 2nd) (Shotgun) S.Howell pass short left to C.Samuel to ARZ 36 for 1 yard (Ma.Wilson).
+2 & 9 on ARI 36
+Sumamry: (9:36 - 2nd) (Shotgun) S.Howell pass deep right to C.Turner to ARZ 19 for 17 yards (Ma.Wilson).
+1 & 10 on ARI 19
+Sumamry: (8:38 - 2nd) (Shotgun) A.Gibson up the middle to ARZ 16 for 3 yards (V.Dimukeje; K.White). FUMBLES (V.Dimukeje), RECOVERED by ARZ-Z.Collins at ARZ 16.
+Sumamry: (8:51 - 2nd) Timeout at 08:51.
+===============
+Drive8
+Possession: Arizona Cardinals
+Result: Punt
+WSH: 7
+ARI: 6
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on ARI 16
+Sumamry: (8:51 - 2nd) (Shotgun) J.Conner left tackle to ARZ 18 for 2 yards (J.Davis).
+2 & 8 on ARI 18
+Sumamry: (8:14 - 2nd) J.Dobbs pass short right to M.Brown to ARZ 22 for 4 yards (D.Payne). PENALTY on ARZ-H.Froholdt, Ineligible Downfield Pass, 5 yards, enforced at ARZ 18 - No Play.
+2 & 13 on ARI 13
+Sumamry: (7:43 - 2nd) (Shotgun) J.Conner right guard to ARZ 19 for 6 yards (J.Davis; C.Barton).
+3 & 7 on ARI 19
+Sumamry: (7:02 - 2nd) (Shotgun) J.Dobbs sacked at ARZ 15 for -4 yards (sack split by M.Sweat and A.Anderson).
+4 & 11 on ARI 15
+Sumamry: (6:24 - 2nd) N.Cooney punts 34 yards to ARZ 49, Center-A.Brewer, out of bounds.
+Sumamry: (6:17 - 2nd) Timeout at 06:17.
+===============
+Drive9
+Possession: Washington Commanders
+Result: Punt
+WSH: 7
+ARI: 6
+Plays: 4
+Yards: 4
+Time: 1:50
+1 & 10 on ARI 49
+Sumamry: (6:17 - 2nd) (Shotgun) S.Howell pass short left to T.McLaurin pushed ob at ARZ 37 for 12 yards (D.Gardeck, Ma.Wilson).
+1 & 10 on ARI 37
+Sumamry: (5:49 - 2nd) (Shotgun) S.Howell sacked at ARZ 37 for 0 yards (J.Ledbetter).
+2 & 10 on ARI 37
+Sumamry: (5:11 - 2nd) (Shotgun) S.Howell pass incomplete deep middle to T.McLaurin.
+3 & 10 on ARI 37
+Sumamry: (5:06 - 2nd) (Shotgun) S.Howell sacked at ARZ 45 for -8 yards (D.Gardeck).
+4 & 18 on ARI 45
+Sumamry: (4:27 - 2nd) T.Way punts 33 yards to ARZ 12, Center-C.Cheeseman, fair catch by G.Dortch.
+===============
+Drive10
+Possession: Arizona Cardinals
+Result: Punt
+WSH: 7
+ARI: 6
+Plays: 6
+Yards: 25
+Time: 2:58
+1 & 10 on ARI 12
+Sumamry: (4:27 - 2nd) (Shotgun) J.Conner left end to ARZ 16 for 4 yards (P.Butler; K.Fuller).
+2 & 6 on ARI 16
+Sumamry: (3:47 - 2nd) J.Dobbs pass short middle to T.McBride pushed ob at ARZ 26 for 10 yards (P.Butler).
+1 & 10 on ARI 26
+Sumamry: (3:13 - 2nd) J.Dobbs pass short left to T.McBride pushed ob at ARZ 39 for 13 yards (D.Forrest) [J.Smith-Williams].
+1 & 10 on ARI 39
+Sumamry: (2:36 - 2nd) (Shotgun) Direct snap to K.Ingram.  K.Ingram up the middle to ARZ 36 for -3 yards (C.Toohill).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+2 & 13 on ARI 36
+Sumamry: (2:00 - 2nd) (Shotgun) J.Dobbs pass short left to Z.Ertz to ARZ 39 for 3 yards (K.Curl).
+Sumamry: (1:55 - 2nd) Timeout #1 by WAS at 01:55.
+3 & 10 on ARI 39
+Sumamry: (1:55 - 2nd) (Shotgun) J.Dobbs scrambles left end pushed ob at ARZ 47 for 8 yards (D.Forrest). PENALTY on ARZ-D.Humphries, Offensive Holding, 10 yards, enforced at ARZ 39 - No Play.
+3 & 20 on ARI 29
+Sumamry: (1:46 - 2nd) (Shotgun) R.Moore right end to ARZ 37 for 8 yards (K.Fuller).
+Sumamry: (1:41 - 2nd) Timeout #2 by WAS at 01:41.
+4 & 12 on ARI 37
+Sumamry: (1:29 - 2nd) N.Cooney punts 56 yards to WAS 7, Center-A.Brewer. J.Crowder to WAS 12 for 5 yards (C.Matthew).
+===============
+Drive11
+Possession: Washington Commanders
+Result: Fumble Touchdown
+WSH: 7
+ARI: 13
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on WSH 12
+Sumamry: (1:28 - 2nd) (Shotgun) S.Howell pass short middle to J.Dotson to WAS 26 for 14 yards (B.Baker).
+1 & 10 on WSH 26
+Sumamry: (1:09 - 2nd) (No Huddle, Shotgun) S.Howell pass incomplete short left to T.McLaurin (Ma.Wilson).
+2 & 10 on WSH 26
+Sumamry: (1:05 - 2nd) (Shotgun) S.Howell pass incomplete short middle to L.Thomas (J.Woods).
+3 & 10 on WSH 26
+Sumamry: (0:55 - 2nd) (Shotgun) S.Howell sacked at WAS 12 for -14 yards (D.Gardeck). FUMBLES (D.Gardeck) [D.Gardeck], RECOVERED by ARZ-C.Thomas at WAS 2. C.Thomas for 2 yards, TOUCHDOWN.M.Prater extra point is GOOD, Center-A.Brewer, Holder-N.Cooney.
+===============
+Drive12
+Possession: Washington Commanders
+Result: Field Goal
+WSH: 10
+ARI: 13
+Plays: 7
+Yards: 69
+Time: 0:55
+Sumamry: (0:55 - 2nd) M.Prater kicks 67 yards from ARZ 35 to WAS -2. A.Gibson to WAS 19 for 21 yards (A.Hamilton; K.Boyd).
+1 & 10 on WSH 19
+Sumamry: (0:49 - 2nd) (Shotgun) S.Howell pass short left to C.Samuel to WAS 37 for 18 yards (B.Baker, K.Wallace).
+1 & 10 on WSH 37
+Sumamry: (0:29 - 2nd) (No Huddle, Shotgun) S.Howell pass incomplete deep right to J.Dotson.
+2 & 10 on WSH 37
+Sumamry: (0:25 - 2nd) (Shotgun) S.Howell pass short left to L.Thomas to ARZ 44 for 19 yards (K.Wallace).
+Sumamry: (0:19 - 2nd) Timeout #3 by WAS at 00:19.
+1 & 10 on ARI 44
+Sumamry: (0:19 - 2nd) (Shotgun) S.Howell pass incomplete short middle to C.Turner (K.Wallace).
+2 & 10 on ARI 44
+Sumamry: (0:14 - 2nd) (Shotgun) S.Howell pass deep left to C.Samuel pushed ob at ARZ 12 for 32 yards (J.Thompson).
+1 & 10 on ARI 12
+Sumamry: (0:08 - 2nd) (Shotgun) S.Howell pass incomplete short right [D.Gardeck].
+2 & 10 on ARI 12
+Sumamry: (0:00 - 2nd) J.Slye 30 yard field goal is GOOD, Center-C.Cheeseman, Holder-T.Way. Penalty on ARZ-B.Baker, Neutral Zone Infraction, declined.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive13
+Possession: Arizona Cardinals
+Result: Field Goal
+WSH: 10
+ARI: 16
+Plays: 11
+Yards: 56
+Time: 4:51
+Sumamry: (15:00 - 3rd) J.Slye kicks 65 yards from WAS 35 to end zone, Touchback.
+1 & 10 on ARI 25
+Sumamry: (15:00 - 3rd) (Shotgun) J.Dobbs pass short left to M.Brown ran ob at ARZ 36 for 11 yards (B.St-Juste).
+1 & 10 on ARI 36
+Sumamry: (14:29 - 3rd) (Shotgun) J.Conner left tackle to ARZ 42 for 6 yards (J.Davis).
+2 & 4 on ARI 42
+Sumamry: (14:06 - 3rd) J.Dobbs pass deep right to Mi.Wilson to WAS 43 for 15 yards (B.St-Juste).
+1 & 10 on WSH 43
+Sumamry: (13:29 - 3rd) (No Huddle, Shotgun) J.Dobbs pass short middle to Z.Ertz to WAS 38 for 5 yards (C.Barton).
+2 & 5 on WSH 38
+Sumamry: (12:52 - 3rd) (Shotgun) J.Dobbs pass incomplete short middle to Z.Ertz (P.Butler) [J.Allen].
+3 & 5 on WSH 38
+Sumamry: (12:49 - 3rd) (Shotgun) J.Dobbs pass short right to M.Brown to WAS 29 for 9 yards (K.Fuller).
+1 & 10 on WSH 29
+Sumamry: (12:19 - 3rd) (Shotgun) J.Dobbs pass short right to J.Conner to WAS 18 for 11 yards (K.Curl; J.Ridgeway).
+1 & 10 on WSH 18
+Sumamry: (11:41 - 3rd) (Shotgun) J.Dobbs pass short left to R.Moore to WAS 17 for 1 yard (K.Fuller; B.St-Juste).
+2 & 9 on WSH 17
+Sumamry: (10:58 - 3rd) J.Dobbs pass short middle to J.Conner to WAS 19 for -2 yards (A.Anderson).
+3 & 11 on WSH 19
+Sumamry: (10:16 - 3rd) (Shotgun) J.Dobbs pass incomplete short left to M.Brown.
+4 & 11 on WSH 19
+Sumamry: (10:09 - 3rd) M.Prater 37 yard field goal is GOOD, Center-A.Brewer, Holder-N.Cooney.
+Sumamry: (10:09 - 3rd) Timeout at 10:09.
+Sumamry: (10:09 - 3rd) Timeout at 10:09.
+===============
+Drive14
+Possession: Washington Commanders
+Result: Punt
+WSH: 10
+ARI: 16
+Plays: 7
+Yards: 0
+Time: 4:47
+Sumamry: (10:09 - 3rd) M.Prater kicks 65 yards from ARZ 35 to end zone, Touchback.
+1 & 10 on WSH 25
+Sumamry: (10:08 - 3rd) (Shotgun) S.Howell pass short middle to L.Thomas to WAS 31 for 6 yards (K.Wallace).
+2 & 4 on WSH 31
+Sumamry: (9:39 - 3rd) (Shotgun) B.Robinson right guard to WAS 36 for 5 yards (K.White; J.Thompson).
+1 & 10 on WSH 36
+Sumamry: (9:04 - 3rd) (Shotgun) S.Howell pass short left to J.Dotson to WAS 41 for 5 yards (K.Clark).
+2 & 5 on WSH 41
+Sumamry: (8:29 - 3rd) (Shotgun) B.Robinson left guard to WAS 47 for 6 yards (L.Collier).
+1 & 10 on WSH 47
+Sumamry: (7:56 - 3rd) (Shotgun) B.Robinson left tackle to WAS 48 for 1 yard (J.Luketa).
+2 & 9 on WSH 48
+Sumamry: (7:21 - 3rd) (Shotgun) S.Howell sacked at WAS 42 for -6 yards (C.Watkins).
+3 & 15 on WSH 42
+Sumamry: (6:37 - 3rd) (Shotgun) S.Howell scrambles left end to ARZ 49 for 9 yards (K.White). PENALTY on WAS-S.Charles, Offensive Holding, 10 yards, enforced at WAS 42 - No Play.
+3 & 25 on WSH 32
+Sumamry: (6:12 - 3rd) (Shotgun) S.Howell sacked at WAS 25 for -7 yards (V.Dimukeje).
+4 & 32 on WSH 25
+Sumamry: (5:22 - 3rd) T.Way punts 58 yards to ARZ 17, Center-C.Cheeseman. G.Dortch to ARZ 25 for 8 yards (J.Reaves).
+Sumamry: (5:22 - 3rd) Timeout at 05:22.
+===============
+Drive15
+Possession: Arizona Cardinals
+Result: Punt
+WSH: 10
+ARI: 16
+Plays: 4
+Yards: 14
+Time: 2:28
+1 & 10 on ARI 25
+Sumamry: (5:22 - 3rd) J.Conner left end to ARZ 37 for 12 yards (P.Butler; K.Fuller).
+1 & 10 on ARI 37
+Sumamry: (4:44 - 3rd) J.Conner right tackle to ARZ 42 for 5 yards (K.Curl).
+2 & 5 on ARI 42
+Sumamry: (4:07 - 3rd) PENALTY on ARZ-T.McBride, False Start, 5 yards, enforced at ARZ 42 - No Play.
+2 & 10 on ARI 37
+Sumamry: (3:46 - 3rd) J.Conner left tackle to ARZ 39 for 2 yards (C.Toohill).
+3 & 8 on ARI 39
+Sumamry: (3:08 - 3rd) (Shotgun) J.Dobbs pass incomplete short right to Z.Ertz [J.Allen].
+4 & 8 on ARI 39
+Sumamry: (2:54 - 3rd) N.Cooney punts 41 yards to WAS 20, Center-A.Brewer. J.Crowder to WAS 25 for 5 yards (Z.Pascal).
+Sumamry: (2:54 - 3rd) Timeout at 02:54.
+===============
+Drive16
+Possession: Washington Commanders
+Result: Punt
+WSH: 10
+ARI: 16
+Plays: 3
+Yards: 2
+Time: 1:26
+1 & 10 on WSH 25
+Sumamry: (2:54 - 3rd) (Shotgun) S.Howell scrambles right end to WAS 28 for 3 yards (B.Baker). PENALTY on WAS-A.Wylie, Offensive Holding, 10 yards, enforced at WAS 25 - No Play.
+1 & 20 on WSH 15
+Sumamry: (2:27 - 3rd) (Shotgun) S.Howell pass incomplete short left to B.Robinson.
+2 & 20 on WSH 15
+Sumamry: (2:22 - 3rd) (Shotgun) S.Howell pass incomplete short right to L.Thomas (C.Thomas).
+3 & 20 on WSH 15
+Sumamry: (2:19 - 3rd) (Shotgun) S.Howell pass short right to L.Thomas to WAS 27 for 12 yards (Ma.Wilson, J.Woods).
+4 & 8 on WSH 27
+Sumamry: (1:28 - 3rd) T.Way punts 41 yards to ARZ 32, Center-C.Cheeseman. G.Dortch to ARZ 40 for 8 yards (J.Reaves).
+Sumamry: (1:28 - 3rd) Timeout at 01:28.
+===============
+Drive17
+Possession: Arizona Cardinals
+Result: Fumble
+WSH: 10
+ARI: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on ARI 40
+Sumamry: (1:28 - 3rd) K.Ingram right tackle to ARZ 39 for -1 yards (D.Payne).
+2 & 11 on ARI 39
+Sumamry: (0:53 - 3rd) (Shotgun) J.Dobbs up the middle to ARZ 35 for -4 yards (J.Allen).
+3 & 15 on ARI 35
+Sumamry: (0:02 - 3rd) (Shotgun) J.Dobbs sacked at ARZ 25 for -10 yards (M.Sweat). FUMBLES (M.Sweat), RECOVERED by WAS-D.Payne at ARZ 29.
+===============
+Drive18
+Possession: Washington Commanders
+Result: Touchdown
+WSH: 17
+ARI: 16
+Plays: 7
+Yards: 29
+Time: 3:14
+1 & 10 on ARI 29
+Sumamry: (0:00 - 3rd) (Shotgun) B.Robinson up the middle to ARZ 25 for 4 yards (L.Collier).
+2 & 6 on ARI 25
+Sumamry: (15:00 - 4th) (Shotgun) B.Robinson left guard to ARZ 18 for 7 yards (J.Luketa).
+1 & 10 on ARI 18
+Sumamry: (14:29 - 4th) B.Robinson right tackle to ARZ 11 for 7 yards (J.Luketa).
+2 & 3 on ARI 11
+Sumamry: (13:38 - 4th) (Shotgun) B.Robinson left guard to ARZ 8 for 3 yards (K.White).
+Sumamry: (11:48 - 4th) Timeout at 11:48.
+===============
+Drive19
+Possession: Arizona Cardinals
+Result: Punt
+WSH: 17
+ARI: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (11:48 - 4th) J.Slye kicks 65 yards from WAS 35 to end zone, Touchback.
+1 & 10 on ARI 25
+Sumamry: (11:48 - 4th) (Shotgun) J.Conner left end to ARZ 24 for -1 yards (M.Sweat).
+2 & 11 on ARI 24
+Sumamry: (11:14 - 4th) (Shotgun) J.Dobbs pass short left to J.Conner to ARZ 22 for -2 yards (K.Curl).
+3 & 13 on ARI 22
+Sumamry: (10:33 - 4th) (Shotgun) J.Dobbs pass short right to R.Moore to ARZ 23 for 1 yard (J.Smith-Williams).
+4 & 12 on ARI 23
+Sumamry: (9:47 - 4th) N.Cooney punts 53 yards to WAS 24, Center-A.Brewer, fair catch by J.Crowder.
+Sumamry: (9:47 - 4th) Timeout at 09:47.
+===============
+Drive20
+Possession: Washington Commanders
+Result: Punt
+WSH: 17
+ARI: 16
+Plays: 3
+Yards: 9
+Time: 2:10
+1 & 10 on WSH 24
+Sumamry: (9:47 - 4th) B.Robinson right tackle to WAS 26 for 2 yards (K.Barnes, J.Ledbetter).
+2 & 8 on WSH 26
+Sumamry: (9:09 - 4th) (Shotgun) B.Robinson left end to WAS 23 for -3 yards (K.White).
+3 & 11 on WSH 23
+Sumamry: (8:24 - 4th) (Shotgun) S.Howell pass short left to A.Gibson to WAS 33 for 10 yards (K.Wallace; B.Baker). Washington challenged the short of the line to gain ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)
+4 & 1 on WSH 33
+Sumamry: (7:37 - 4th) T.Way punts 59 yards to ARZ 8, Center-C.Cheeseman. G.Dortch to ARZ 21 for 13 yards (J.Reaves; D.Mayo).
+===============
+Drive21
+Possession: Arizona Cardinals
+Result: Fumble
+WSH: 17
+ARI: 16
+Plays: 7
+Yards: 17
+Time: 2:59
+1 & 10 on ARI 21
+Sumamry: (7:37 - 4th) J.Dobbs pass incomplete deep left to Mi.Wilson.
+2 & 10 on ARI 21
+Sumamry: (7:30 - 4th) (Shotgun) J.Conner left guard to ARZ 29 for 8 yards (C.Barton, D.Forrest).
+3 & 2 on ARI 29
+Sumamry: (6:54 - 4th) J.Conner left tackle to ARZ 34 for 5 yards (J.Allen).
+1 & 10 on ARI 34
+Sumamry: (6:14 - 4th) K.Ingram right end pushed ob at ARZ 31 for -3 yards (E.Forbes).
+2 & 13 on ARI 31
+Sumamry: (5:39 - 4th) (Shotgun) K.Ingram right end to ARZ 37 for 6 yards (D.Forrest; J.Davis).
+3 & 7 on ARI 37
+Sumamry: (4:57 - 4th) (Shotgun) J.Dobbs pass short right to M.Brown ran ob at ARZ 45 for 8 yards.
+1 & 10 on ARI 45
+Sumamry: (4:53 - 4th) J.Dobbs pass short right to G.Swaim pushed ob at WAS 39 for 16 yards (B.St-Juste). PENALTY on ARZ-W.Hernandez, Ineligible Downfield Pass, 5 yards, enforced at ARZ 45 - No Play.
+1 & 15 on ARI 40
+Sumamry: (4:38 - 4th) J.Dobbs FUMBLES (Aborted) at ARZ 38, and recovers at ARZ 37. J.Dobbs to ARZ 37 for no gain (M.Sweat). FUMBLES (M.Sweat), touched at ARZ 38, RECOVERED by WAS-A.Anderson at ARZ 37. PENALTY on ARZ-P.Johnson, Unsportsmanlike Conduct, 15 yards, enforced at ARZ 37.
+===============
+Drive22
+Possession: Washington Commanders
+Result: Field Goal
+WSH: 20
+ARI: 16
+Plays: 4
+Yards: 7
+Time: 2:15
+1 & 10 on ARI 22
+Sumamry: (4:38 - 4th) (Shotgun) B.Robinson left guard to ARZ 21 for 1 yard (J.Ledbetter).
+2 & 9 on ARI 21
+Sumamry: (3:54 - 4th) B.Robinson left end to ARZ 18 for 3 yards (K.Strong, K.White).
+3 & 6 on ARI 18
+Sumamry: (3:09 - 4th) (Shotgun) B.Robinson left tackle to ARZ 15 for 3 yards (J.Ledbetter; C.Watkins).
+4 & 3 on ARI 15
+Sumamry: (2:23 - 4th) J.Slye 33 yard field goal is GOOD, Center-C.Cheeseman, Holder-T.Way.
+===============
+Drive23
+Possession: Arizona Cardinals
+Result: Downs
+WSH: 20
+ARI: 16
+Plays: 6
+Yards: 12
+Time: 1:13
+Sumamry: (2:23 - 4th) J.Slye kicks 65 yards from WAS 35 to end zone, Touchback.
+1 & 10 on ARI 25
+Sumamry: (2:23 - 4th) (Shotgun) J.Dobbs pass short left to Mi.Wilson to ARZ 29 for 4 yards (K.Fuller).
+2 & 6 on ARI 29
+Sumamry: (2:04 - 4th) (No Huddle, Shotgun) J.Dobbs pass incomplete short middle to Z.Ertz (K.Curl). PENALTY on WAS, Defensive Too Many Men on Field, 5 yards, enforced at ARZ 29 - No Play.
+2 & 1 on ARI 34
+Sumamry: (2:02 - 4th) (Shotgun) J.Conner left end to ARZ 37 for 3 yards (K.Curl).
+Sumamry: (1:57 - 4th) Two-Minute Warning
+1 & 10 on ARI 37
+Sumamry: (1:56 - 4th) (Shotgun) J.Dobbs pass short left to J.Conner to ARZ 39 for 2 yards (K.Curl).
+2 & 8 on ARI 39
+Sumamry: (1:29 - 4th) (No Huddle, Shotgun) J.Dobbs sacked at ARZ 31 for -8 yards (J.Allen).
+Sumamry: (1:22 - 4th) Timeout #1 by ARZ at 01:22.
+3 & 16 on ARI 31
+Sumamry: (1:21 - 4th) (Shotgun) J.Dobbs pass short right to Z.Ertz pushed ob at ARZ 37 for 6 yards (K.Curl).
+4 & 10 on ARI 37
+Sumamry: (1:15 - 4th) (Shotgun) J.Dobbs pass incomplete short right to Mi.Wilson (E.Forbes).
+===============
+Drive24
+Possession: Washington Commanders
+Result: Punt
+WSH: 20
+ARI: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on ARI 36
+Sumamry: (1:10 - 4th) B.Robinson left guard to ARZ 34 for 2 yards (K.White).
+Sumamry: (1:06 - 4th) Timeout #2 by ARZ at 01:06.
+2 & 8 on ARI 34
+Sumamry: (1:06 - 4th) B.Robinson up the middle to ARZ 32 for 2 yards (C.Watkins).
+Sumamry: (1:00 - 4th) Timeout #3 by ARZ at 01:00.
+3 & 6 on ARI 32
+Sumamry: (0:59 - 4th) (Shotgun) B.Robinson left end to ARZ 25 for 7 yards (Ma.Wilson). PENALTY on WAS-J.Bates, Offensive Holding, 10 yards, enforced at ARZ 29.
+3 & 13 on ARI 39
+Sumamry: (0:52 - 4th) (Shotgun) C.Rodriguez up the middle to ARZ 36 for 3 yards (D.Gardeck; B.Baker).
+4 & 10 on ARI 36
+Sumamry: (0:05 - 4th) (Punt formation) PENALTY on WAS, Delay of Game, 5 yards, enforced at ARZ 36 - No Play.
+4 & 15 on ARI 41
+Sumamry: (0:07 - 4th) T.Way punts 33 yards to ARZ 8, Center-C.Cheeseman. G.Dortch to ARZ 3 for -5 yards (D.Brown, C.Holmes).
+Sumamry: (0:00 - 4th) END GAME
+===============

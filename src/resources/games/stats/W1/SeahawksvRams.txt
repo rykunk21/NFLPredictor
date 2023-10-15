@@ -1,0 +1,477 @@
+Drive1
+Possession: Seattle Seahawks
+Result: Field Goal
+SEA: 3
+LAR: 0
+Plays: 12
+Yards: 57
+Time: 5:8
+Sumamry: (15:00 - 1st) E.Evans kicks 65 yards from LA 35 to end zone, Touchback.
+1 & 10 on SEA 25
+Sumamry: (15:00 - 1st) (Shotgun) G.Smith pass short right to T.Lockett to SEA 30 for 5 yards (A.Witherspoon).
+2 & 5 on SEA 30
+Sumamry: (14:33 - 1st) (No Huddle, Shotgun) K.Walker left guard to SEA 34 for 4 yards (J.Williams, R.Yeast).
+3 & 1 on SEA 34
+Sumamry: (14:09 - 1st) (No Huddle, Shotgun) G.Smith pass short left to T.Lockett pushed ob at SEA 39 for 5 yards (B.Young).
+1 & 10 on SEA 39
+Sumamry: (13:44 - 1st) K.Walker left guard to SEA 44 for 5 yards (E.Jones; C.Rozeboom).
+2 & 5 on SEA 44
+Sumamry: (13:08 - 1st) (Shotgun) K.Walker left guard to SEA 47 for 3 yards (C.Rozeboom).
+3 & 2 on SEA 47
+Sumamry: (12:29 - 1st) (Shotgun) G.Smith pass deep right to D.Metcalf to LA 25 for 28 yards (J.Fuller).
+1 & 10 on LAR 25
+Sumamry: (11:50 - 1st) (No Huddle, Shotgun) K.Walker right guard to LA 22 for 3 yards (J.Fuller, J.Williams).
+2 & 7 on LAR 22
+Sumamry: (11:22 - 1st) (No Huddle, Shotgun) G.Smith pass incomplete short right [Z.VanValkenburg].
+3 & 7 on LAR 22
+Sumamry: (11:17 - 1st) (Shotgun) G.Smith pass incomplete short left to T.Lockett. PENALTY on LA-C.Durant, Defensive Pass Interference, 10 yards, enforced at LA 22 - No Play.
+1 & 10 on LAR 12
+Sumamry: (11:13 - 1st) K.Walker right tackle to LA 12 for no gain (E.Jones; A.Donald).
+2 & 10 on LAR 12
+Sumamry: (10:33 - 1st) (Shotgun) G.Smith pass short right to K.Walker to LA 18 for -6 yards (E.Jones).
+3 & 16 on LAR 18
+Sumamry: (10:04 - 1st) (No Huddle, Shotgun) G.Smith pass incomplete deep left to T.Lockett (D.Kendrick).
+4 & 16 on LAR 18
+Sumamry: (9:52 - 1st) J.Myers 36 yard field goal is GOOD, Center-C.Stoll, Holder-M.Dickson.
+Sumamry: (9:52 - 1st) Timeout at 09:52.
+===============
+Drive2
+Possession: Los Angeles Rams
+Result: Touchdown
+SEA: 3
+LAR: 7
+Plays: 16
+Yards: 75
+Time: 9:13
+Sumamry: (9:52 - 1st) J.Myers kicks 65 yards from SEA 35 to end zone, Touchback.
+1 & 10 on LAR 25
+Sumamry: (9:52 - 1st) C.Akers right tackle to LA 25 for no gain (B.Wagner, D.Jones).
+2 & 10 on LAR 25
+Sumamry: (9:12 - 1st) (Shotgun) K.Williams right tackle to LA 31 for 6 yards (J.Love).
+3 & 4 on LAR 31
+Sumamry: (8:32 - 1st) (Shotgun) M.Stafford pass short middle to T.Higbee to LA 38 for 7 yards (J.Brooks).
+1 & 10 on LAR 38
+Sumamry: (7:49 - 1st) C.Akers right tackle to 50 for 12 yards (J.Brooks; Ja.Reed).
+1 & 10 on 50
+Sumamry: (7:19 - 1st) (No Huddle) C.Akers left guard to SEA 48 for 2 yards (Ja.Reed).
+2 & 8 on SEA 48
+Sumamry: (6:35 - 1st) K.Williams left guard to SEA 44 for 4 yards (B.Wagner).
+Sumamry: (5:51 - 1st) Timeout #1 by LA at 05:51.
+3 & 4 on SEA 44
+Sumamry: (5:51 - 1st) (Shotgun) K.Williams right guard to SEA 35 for 9 yards (C.Bryant, Q.Diggs).
+1 & 10 on SEA 35
+Sumamry: (5:16 - 1st) M.Stafford pass incomplete short right [C.Bryant].
+2 & 10 on SEA 35
+Sumamry: (5:13 - 1st) (Shotgun) M.Stafford pass incomplete short right to P.Nacua.
+3 & 10 on SEA 35
+Sumamry: (5:10 - 1st) (Shotgun) M.Stafford pass short middle to V.Jefferson to SEA 25 for 10 yards (J.Love).
+1 & 10 on SEA 25
+Sumamry: (4:24 - 1st) C.Akers left end to SEA 29 for -4 yards (U.Nwosu).
+2 & 14 on SEA 29
+Sumamry: (3:40 - 1st) (Shotgun) M.Stafford pass short left to P.Nacua to SEA 19 for 10 yards (J.Love, T.Woolen).
+3 & 4 on SEA 19
+Sumamry: (2:55 - 1st) (Shotgun) M.Stafford pass short middle to T.Higbee to SEA 7 for 12 yards (C.Bryant).
+Sumamry: (0:39 - 1st) Timeout at 00:39.
+===============
+Drive3
+Possession: Seattle Seahawks
+Result: Touchdown
+SEA: 10
+LAR: 7
+Plays: 12
+Yards: 75
+Time: 6:23
+Sumamry: (0:39 - 1st) E.Evans kicks 65 yards from LA 35 to end zone, Touchback.
+1 & 10 on SEA 25
+Sumamry: (0:39 - 1st) (Shotgun) G.Smith pass short left to J.Smith-Njigba to SEA 26 for 1 yard (D.Kendrick).
+2 & 9 on SEA 26
+Sumamry: (15:00 - 2nd) (Shotgun) G.Smith pass short middle to W.Dissly to SEA 36 for 10 yards (A.Donald) [C.Durant].
+1 & 10 on SEA 36
+Sumamry: (14:16 - 2nd) (Shotgun) G.Smith pass short left to D.Metcalf to SEA 45 for 9 yards (E.Jones; C.Rozeboom).
+2 & 1 on SEA 45
+Sumamry: (13:37 - 2nd) (Shotgun) K.Walker left end pushed ob at LA 42 for 13 yards (R.Yeast).
+1 & 10 on LAR 42
+Sumamry: (13:04 - 2nd) (Shotgun) G.Smith pass incomplete short left. Penalty on SEA-P.Haynes, Offensive Holding, offsetting, enforced at LA 42 - No Play. Penalty on LA-A.Donald, Roughing the Passer, offsetting.
+1 & 10 on LAR 42
+Sumamry: (13:04 - 2nd) (Shotgun) Direct snap to D.Dallas.  G.Smith scrambles right end ran ob at LA 36 for 6 yards (M.Hoecht).
+2 & 4 on LAR 36
+Sumamry: (12:14 - 2nd) (Shotgun) G.Smith pass short middle to K.Walker to LA 32 for 4 yards (C.Rozeboom).
+1 & 10 on LAR 32
+Sumamry: (11:39 - 2nd) (Shotgun) G.Smith pass short right to K.Walker to LA 26 for 6 yards (E.Brown; J.Fuller).
+2 & 4 on LAR 26
+Sumamry: (11:00 - 2nd) K.Walker right end pushed ob at LA 21 for 5 yards (A.Witherspoon).
+1 & 10 on LAR 21
+Sumamry: (10:32 - 2nd) (Shotgun) G.Smith pass incomplete deep right to T.Lockett.
+2 & 10 on LAR 21
+Sumamry: (10:27 - 2nd) (Shotgun) G.Smith pass short middle to J.Smith-Njigba to LA 11 for 10 yards (C.Rozeboom).
+1 & 10 on LAR 11
+Sumamry: (10:00 - 2nd) (No Huddle, Shotgun) Z.Charbonnet right guard to LA 10 for 1 yard (K.Turner; E.Jones).
+2 & 9 on LAR 10
+Sumamry: (9:16 - 2nd) (Shotgun) G.Smith pass short left to D.Metcalf for 10 yards, TOUCHDOWN.J.Myers extra point is GOOD, Center-C.Stoll, Holder-M.Dickson.
+Sumamry: (9:16 - 2nd) Timeout at 09:16.
+===============
+Drive4
+Possession: Los Angeles Rams
+Result: Punt
+SEA: 10
+LAR: 7
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (9:16 - 2nd) J.Myers kicks 65 yards from SEA 35 to end zone, Touchback. PENALTY on SEA-D.Hall, Offside on Free Kick, 5 yards, enforced at LA 25.
+1 & 10 on LAR 30
+Sumamry: (9:16 - 2nd) M.Stafford pass incomplete deep right to T.Atwell. PENALTY on LA-A.Jackson, Face Mask, 15 yards, enforced at LA 30 - No Play.
+1 & 25 on LAR 15
+Sumamry: (9:11 - 2nd) (Shotgun) PENALTY on LA, Delay of Game, 5 yards, enforced at LA 15 - No Play.
+1 & 30 on LAR 10
+Sumamry: (9:11 - 2nd) (Shotgun) K.Williams left guard to LA 10 for no gain (U.Nwosu; B.Wagner).
+2 & 30 on LAR 10
+Sumamry: (8:32 - 2nd) K.Williams left tackle to LA 12 for 2 yards (B.Mafe).
+3 & 28 on LAR 12
+Sumamry: (7:52 - 2nd) (Shotgun) M.Stafford pass short left to P.Nacua to LA 24 for 12 yards (C.Bryant).
+4 & 16 on LAR 24
+Sumamry: (7:15 - 2nd) E.Evans punts 45 yards to SEA 31, Center-A.Ward. D.Dallas pushed ob at SEA 49 for 18 yards (B.Skowronek).
+Sumamry: (7:04 - 2nd) Timeout at 07:04.
+===============
+Drive5
+Possession: Seattle Seahawks
+Result: Field Goal
+SEA: 13
+LAR: 7
+Plays: 6
+Yards: 28
+Time: 2:46
+1 & 10 on SEA 49
+Sumamry: (7:04 - 2nd) (Shotgun) G.Smith pass short middle to W.Dissly to LA 44 for 7 yards (J.Fuller).
+2 & 3 on LAR 44
+Sumamry: (6:30 - 2nd) (Shotgun) K.Walker right guard pushed ob at LA 29 for 15 yards (B.Young).
+1 & 10 on LAR 29
+Sumamry: (5:50 - 2nd) (Shotgun) K.Walker left end to LA 24 for 5 yards (D.Kendrick).
+2 & 5 on LAR 24
+Sumamry: (5:08 - 2nd) (Shotgun) Z.Charbonnet right guard to LA 23 for 1 yard (A.Donald, B.Brown).
+3 & 4 on LAR 23
+Sumamry: (4:26 - 2nd) (Shotgun) G.Smith pass incomplete short middle to J.Smith-Njigba.
+4 & 4 on LAR 23
+Sumamry: (4:18 - 2nd) J.Myers 42 yard field goal is GOOD, Center-C.Stoll, Holder-M.Dickson.
+Sumamry: (4:18 - 2nd) Timeout at 04:18.
+===============
+Drive6
+Possession: Los Angeles Rams
+Result: Blocked FG
+SEA: 13
+LAR: 7
+Plays: 7
+Yards: 37
+Time: 2:33
+Sumamry: (4:18 - 2nd) J.Myers kicks 61 yards from SEA 35 to LA 4, fair catch by R.Rivers.
+1 & 10 on LAR 25
+Sumamry: (4:18 - 2nd) (Shotgun) M.Stafford pass incomplete short middle to P.Nacua.
+2 & 10 on LAR 25
+Sumamry: (4:12 - 2nd) (Shotgun) M.Stafford pass short middle to P.Nacua to LA 38 for 13 yards (B.Wagner).
+1 & 10 on LAR 38
+Sumamry: (3:34 - 2nd) M.Stafford pass short right to B.Hopkins to SEA 41 for 21 yards (D.Bush).
+1 & 10 on SEA 41
+Sumamry: (2:48 - 2nd) K.Williams left guard to SEA 38 for 3 yards (B.Wagner; D.Hall).
+2 & 7 on SEA 38
+Sumamry: (2:04 - 2nd) (Shotgun) M.Stafford pass incomplete deep middle to T.Atwell.
+Sumamry: (1:59 - 2nd) Two-Minute Warning
+3 & 7 on SEA 38
+Sumamry: (1:59 - 2nd) (Shotgun) M.Stafford pass incomplete deep left to T.Atwell.
+4 & 7 on SEA 38
+Sumamry: (1:54 - 2nd) B.Maher 57 yard field goal is BLOCKED (Ja.Reed), Center-A.Ward, Holder-E.Evans, RECOVERED by SEA-M.Jackson at SEA 48. M.Jackson to LA 42 for 10 yards (T.Anchrum).
+===============
+Drive7
+Possession: Seattle Seahawks
+Result: Missed FG
+SEA: 13
+LAR: 7
+Plays: 5
+Yards: 21
+Time: 1:14
+1 & 10 on LAR 42
+Sumamry: (1:45 - 2nd) (Shotgun) G.Smith pass incomplete short middle to D.Metcalf. PENALTY on LA-M.Hoecht, Defensive Pass Interference, 3 yards, enforced at LA 42 - No Play.
+1 & 10 on LAR 39
+Sumamry: (1:42 - 2nd) (No Huddle, Shotgun) G.Smith pass short left to D.Dallas pushed ob at LA 25 for 14 yards (D.Kendrick).
+1 & 10 on LAR 25
+Sumamry: (1:36 - 2nd) (No Huddle, Shotgun) D.Dallas right guard to LA 20 for 5 yards (C.Rozeboom; J.Fuller).
+2 & 5 on LAR 20
+Sumamry: (1:14 - 2nd) (No Huddle, Shotgun) D.Dallas left guard to LA 21 for -1 yards (E.Jones).
+3 & 6 on LAR 21
+Sumamry: (0:39 - 2nd) (No Huddle, Shotgun) G.Smith pass incomplete short right.
+4 & 6 on LAR 21
+Sumamry: (0:36 - 2nd) J.Myers 39 yard field goal is No Good, Hit Right Upright, Center-C.Stoll, Holder-M.Dickson.
+Sumamry: (0:31 - 2nd) Timeout at 00:31.
+===============
+Drive8
+Possession: Los Angeles Rams
+Result: Missed FG
+SEA: 13
+LAR: 7
+Plays: 6
+Yards: 33
+Time: 0:31
+1 & 10 on LAR 29
+Sumamry: (0:31 - 2nd) (Shotgun) M.Stafford pass incomplete deep middle to P.Nacua.
+2 & 10 on LAR 29
+Sumamry: (0:25 - 2nd) (Shotgun) M.Stafford pass incomplete short middle to P.Nacua.
+3 & 10 on LAR 29
+Sumamry: (0:22 - 2nd) (Shotgun) M.Stafford pass short middle to T.Atwell to LA 40 for 11 yards (A.Burns).
+Sumamry: (0:16 - 2nd) Timeout #2 by LA at 00:16.
+1 & 10 on LAR 40
+Sumamry: (0:16 - 2nd) (Shotgun) M.Stafford pass short middle to P.Nacua to SEA 40 for 20 yards (T.Brown; B.Wagner).
+Sumamry: (0:10 - 2nd) Timeout #3 by LA at 00:10.
+1 & 10 on SEA 40
+Sumamry: (0:10 - 2nd) (Shotgun) M.Stafford pass short left to V.Jefferson to SEA 43 for -3 yards. Lateral to K.Williams ran ob at SEA 38 for 5 yards (B.Wagner).
+2 & 8 on SEA 38
+Sumamry: (0:10 - 2nd) B.Maher 56 yard field goal is No Good, Wide Right, Center-A.Ward, Holder-E.Evans.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive9
+Possession: Los Angeles Rams
+Result: Touchdown
+SEA: 13
+LAR: 14
+Plays: 10
+Yards: 76
+Time: 6:4
+Sumamry: (15:00 - 3rd) J.Myers kicks 49 yards from SEA 35 to LA 16. K.Williams to LA 24 for 8 yards (J.Rhattigan, D.Thomas).
+1 & 10 on LAR 24
+Sumamry: (14:57 - 3rd) C.Akers right end to LA 30 for 6 yards (T.Brown).
+2 & 4 on LAR 30
+Sumamry: (14:17 - 3rd) C.Akers left guard to LA 30 for no gain (B.Mafe, J.Brooks).
+3 & 4 on LAR 30
+Sumamry: (13:34 - 3rd) (Shotgun) M.Stafford pass short middle to P.Nacua to LA 35 for 5 yards (T.Woolen).
+1 & 10 on LAR 35
+Sumamry: (12:57 - 3rd) (Shotgun) M.Stafford pass incomplete deep left to V.Jefferson.
+2 & 10 on LAR 35
+Sumamry: (12:50 - 3rd) (Shotgun) M.Stafford pass short middle to P.Nacua to LA 46 for 11 yards (B.Wagner; J.Brooks).
+1 & 10 on LAR 46
+Sumamry: (12:06 - 3rd) C.Akers left end to LA 40 for -6 yards (B.Mafe).
+2 & 16 on LAR 40
+Sumamry: (11:21 - 3rd) (Shotgun) M.Stafford pass short middle to V.Jefferson to LA 48 for 8 yards (T.Brown).
+3 & 8 on LAR 48
+Sumamry: (10:35 - 3rd) (Shotgun) M.Stafford pass deep right to T.Atwell to SEA 8 for 44 yards (T.Brown).
+Sumamry: (8:56 - 3rd) Timeout at 08:56.
+===============
+Drive10
+Possession: Seattle Seahawks
+Result: Punt
+SEA: 13
+LAR: 14
+Plays: 3
+Yards: 5
+Time: 1:3
+Sumamry: (8:56 - 3rd) E.Evans kicks 65 yards from LA 35 to end zone, Touchback. PENALTY on LA-B.Skowronek, Offside on Free Kick, 5 yards, enforced at SEA 25.
+1 & 10 on SEA 30
+Sumamry: (8:55 - 3rd) K.Walker left tackle to SEA 35 for 5 yards (C.Durant).
+2 & 5 on SEA 35
+Sumamry: (8:13 - 3rd) (Shotgun) G.Smith pass incomplete short left to C.Parkinson.
+3 & 5 on SEA 35
+Sumamry: (8:08 - 3rd) (Shotgun) G.Smith pass incomplete short left to J.Smith-Njigba.
+4 & 5 on SEA 35
+Sumamry: (8:04 - 3rd) M.Dickson punts 65 yards to end zone, Center-C.Stoll, Touchback.
+Sumamry: (7:53 - 3rd) Timeout at 07:53.
+===============
+Drive11
+Possession: Los Angeles Rams
+Result: Field Goal
+SEA: 13
+LAR: 17
+Plays: 9
+Yards: 60
+Time: 5:14
+1 & 10 on LAR 20
+Sumamry: (7:53 - 3rd) M.Stafford pass short right to T.Atwell pushed ob at LA 34 for 14 yards (J.Brooks).
+1 & 10 on LAR 34
+Sumamry: (7:17 - 3rd) C.Akers up the middle to LA 34 for no gain (M.Morris; J.Love).
+Sumamry: (6:31 - 3rd) Timeout #1 by LA at 06:31.
+2 & 10 on LAR 34
+Sumamry: (6:31 - 3rd) (Shotgun) M.Stafford pass short middle to P.Nacua to LA 44 for 10 yards (M.Jackson; B.Wagner).
+1 & 10 on LAR 44
+Sumamry: (5:47 - 3rd) (Shotgun) C.Akers left guard to LA 46 for 2 yards (C.Bryant).
+2 & 8 on LAR 46
+Sumamry: (4:55 - 3rd) (Shotgun) M.Stafford pass deep left to T.Higbee to SEA 24 for 30 yards (J.Love).
+1 & 10 on SEA 24
+Sumamry: (4:09 - 3rd) K.Williams right guard to SEA 20 for 4 yards (C.Bryant).
+2 & 6 on SEA 20
+Sumamry: (3:31 - 3rd) (Shotgun) K.Williams right guard to SEA 20 for no gain (Ja.Reed).
+3 & 6 on SEA 20
+Sumamry: (2:48 - 3rd) (Shotgun) M.Stafford pass incomplete deep right to K.Williams.
+4 & 6 on SEA 20
+Sumamry: (2:39 - 3rd) B.Maher 38 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.
+Sumamry: (2:39 - 3rd) Timeout at 02:39.
+===============
+Drive12
+Possession: Seattle Seahawks
+Result: Punt
+SEA: 13
+LAR: 17
+Plays: 4
+Yards: 10
+Time: 1:35
+Sumamry: (2:39 - 3rd) E.Evans kicks 65 yards from LA 35 to end zone, Touchback.
+1 & 10 on SEA 25
+Sumamry: (2:39 - 3rd) (Shotgun) G.Smith pass short right to K.Walker to SEA 24 for -1 yards (E.Jones).
+2 & 11 on SEA 24
+Sumamry: (2:08 - 3rd) (No Huddle, Shotgun) G.Smith pass incomplete short left to T.Lockett. PENALTY on LA-D.Kendrick, Defensive Pass Interference, 5 yards, enforced at SEA 24 - No Play.
+1 & 10 on SEA 29
+Sumamry: (2:04 - 3rd) K.Walker left tackle to SEA 29 for no gain (E.Jones). SEA-T.Lockett was injured during the play.
+Sumamry: (1:48 - 3rd) Timeout at 01:48.
+2 & 10 on SEA 29
+Sumamry: (1:42 - 3rd) (Shotgun) K.Walker right guard to SEA 35 for 6 yards (J.Fuller; M.Hoecht).
+3 & 4 on SEA 35
+Sumamry: (1:17 - 3rd) (No Huddle, Shotgun) G.Smith pass incomplete deep left to D.Metcalf.
+4 & 4 on SEA 35
+Sumamry: (1:12 - 3rd) M.Dickson punts 44 yards to LA 21, Center-C.Stoll, out of bounds.
+===============
+Drive13
+Possession: Los Angeles Rams
+Result: Touchdown
+SEA: 13
+LAR: 24
+Plays: 14
+Yards: 79
+Time: 6:19
+1 & 10 on LAR 21
+Sumamry: (1:04 - 3rd) M.Stafford pass incomplete short left to B.Hopkins.
+2 & 10 on LAR 21
+Sumamry: (1:00 - 3rd) (Shotgun) M.Stafford scrambles up the middle to LA 30 for 9 yards (B.Wagner).
+3 & 1 on LAR 30
+Sumamry: (0:16 - 3rd) M.Stafford right guard to LA 32 for 2 yards (B.Wagner).
+1 & 10 on LAR 32
+Sumamry: (14:59 - 4th) M.Stafford pass short middle to P.Nacua to LA 33 for 1 yard (C.Bryant; B.Wagner).
+2 & 9 on LAR 33
+Sumamry: (14:31 - 4th) (No Huddle, Shotgun) M.Stafford pass short middle to T.Atwell to LA 48 for 15 yards (C.Bryant).
+1 & 10 on LAR 48
+Sumamry: (13:48 - 4th) (Shotgun) M.Stafford pass deep middle to T.Atwell to SEA 31 for 21 yards (J.Love).
+1 & 10 on SEA 31
+Sumamry: (13:05 - 4th) (Shotgun) K.Williams up the middle to SEA 26 for 5 yards (B.Mafe).
+2 & 5 on SEA 26
+Sumamry: (12:38 - 4th) (No Huddle) M.Stafford pass short left to T.Atwell ran ob at SEA 12 for 14 yards (J.Love).
+1 & 10 on SEA 12
+Sumamry: (11:59 - 4th) K.Williams right tackle to SEA 13 for -1 yards (B.Wagner).
+2 & 11 on SEA 13
+Sumamry: (11:20 - 4th) (Shotgun) M.Stafford pass incomplete short right to K.Williams.
+3 & 11 on SEA 13
+Sumamry: (11:16 - 4th) (Shotgun) M.Stafford pass incomplete short middle to P.Nacua (T.Woolen). PENALTY on SEA-T.Brown, Illegal Use of Hands, 5 yards, enforced at SEA 13 - No Play.
+3 & 1 on SEA 1
+Sumamry: (9:54 - 4th) M.Stafford pass incomplete short right to B.Skowronek (J.Love).
+Sumamry: (9:45 - 4th) Timeout at 09:45.
+===============
+Drive14
+Possession: Seattle Seahawks
+Result: Punt
+SEA: 13
+LAR: 24
+Plays: 3
+Yards: 2
+Time: 0:36
+Sumamry: (9:45 - 4th) E.Evans kicks 65 yards from LA 35 to end zone, Touchback.
+1 & 10 on SEA 25
+Sumamry: (9:45 - 4th) (Shotgun) G.Smith pass short left to J.Smith-Njigba pushed ob at SEA 27 for 2 yards (B.Young).
+2 & 8 on SEA 27
+Sumamry: (9:27 - 4th) (No Huddle, Shotgun) G.Smith pass incomplete short left to D.Metcalf.
+3 & 8 on SEA 27
+Sumamry: (9:23 - 4th) (No Huddle, Shotgun) G.Smith pass incomplete short right to K.Walker [B.Young].
+4 & 8 on SEA 27
+Sumamry: (9:19 - 4th) M.Dickson punts 73 yards to end zone, Center-C.Stoll, Touchback. PENALTY on SEA, Illegal Formation, 5 yards, enforced at LA 20.
+Sumamry: (9:09 - 4th) Timeout at 09:09.
+===============
+Drive15
+Possession: Los Angeles Rams
+Result: Field Goal
+SEA: 13
+LAR: 27
+Plays: 9
+Yards: 40
+Time: 4:12
+1 & 10 on LAR 25
+Sumamry: (9:09 - 4th) C.Akers right tackle to LA 21 for -4 yards (U.Nwosu).
+2 & 14 on LAR 21
+Sumamry: (8:32 - 4th) (Shotgun) M.Stafford pass short left to V.Jefferson to LA 27 for 6 yards (C.Bryant).
+3 & 8 on LAR 27
+Sumamry: (7:50 - 4th) (Shotgun) M.Stafford pass deep right to P.Nacua ran ob at LA 48 for 21 yards [Ja.Reed]. SEA-U.Nwosu was injured during the play.
+1 & 10 on LAR 48
+Sumamry: (7:26 - 4th) C.Akers left guard to SEA 46 for 6 yards (D.Taylor, J.Brooks).
+2 & 4 on SEA 46
+Sumamry: (6:44 - 4th) C.Akers left tackle to SEA 40 for 6 yards (Q.Diggs; C.Bryant).
+1 & 10 on SEA 40
+Sumamry: (5:58 - 4th) M.Stafford pass incomplete deep right to B.Skowronek.
+2 & 10 on SEA 40
+Sumamry: (5:52 - 4th) (Shotgun) K.Williams left guard to SEA 35 for 5 yards (B.Wagner, Q.Diggs).
+3 & 5 on SEA 35
+Sumamry: (5:07 - 4th) (Shotgun) M.Stafford pass incomplete deep left to P.Nacua.
+4 & 5 on SEA 35
+Sumamry: (4:57 - 4th) B.Maher 54 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.
+===============
+Drive16
+Possession: Seattle Seahawks
+Result: Punt
+SEA: 13
+LAR: 27
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (4:57 - 4th) E.Evans kicks 64 yards from LA 35 to SEA 1. D.Dallas to SEA 35 for 34 yards (T.Reeder).
+1 & 10 on SEA 35
+Sumamry: (4:51 - 4th) (Shotgun) G.Smith pass short left to C.Parkinson to SEA 43 for 8 yards (Q.Lake, J.Fuller). LA-A.Witherspoon was injured during the play.
+2 & 2 on SEA 43
+Sumamry: (4:51 - 4th) PENALTY on SEA-D.Metcalf, Taunting, 15 yards, enforced at SEA 43 - No Play.
+2 & 17 on SEA 28
+Sumamry: (4:35 - 4th) (Shotgun) G.Smith sacked at SEA 19 for -9 yards (sack split by K.Turner and B.Young).
+3 & 26 on SEA 19
+Sumamry: (4:08 - 4th) (No Huddle, Shotgun) G.Smith sacked at SEA 11 for -8 yards (sack split by M.Hoecht and A.Donald).
+4 & 34 on SEA 11
+Sumamry: (3:27 - 4th) M.Dickson punts 54 yards to LA 35, Center-C.Stoll. K.Williams to LA 42 for 7 yards (D.Hall; C.Stoll).
+===============
+Drive17
+Possession: Los Angeles Rams
+Result: Field Goal
+SEA: 13
+LAR: 30
+Plays: 9
+Yards: 32
+Time: 3:5
+1 & 10 on LAR 42
+Sumamry: (3:16 - 4th) C.Akers right tackle to LA 43 for 1 yard (B.Wagner).
+2 & 9 on LAR 43
+Sumamry: (2:31 - 4th) C.Akers right tackle to LA 42 for -1 yards (M.Morris). PENALTY on SEA-Q.Diggs, Unnecessary Roughness, 15 yards, enforced at LA 42.
+1 & 10 on SEA 43
+Sumamry: (2:26 - 4th) C.Akers left tackle to SEA 43 for no gain (B.Mafe; B.Wagner).
+Sumamry: (2:22 - 4th) Timeout #1 by SEA at 02:22.
+2 & 10 on SEA 43
+Sumamry: (2:22 - 4th) PENALTY on SEA-Ja.Reed, Encroachment, 5 yards, enforced at SEA 43 - No Play.
+2 & 5 on SEA 38
+Sumamry: (2:22 - 4th) C.Akers right end to SEA 36 for 2 yards (J.Love).
+Sumamry: (2:15 - 4th) Timeout #2 by SEA at 02:15.
+Sumamry: (2:00 - 4th) Two-Minute Warning
+3 & 3 on SEA 36
+Sumamry: (2:15 - 4th) C.Akers right tackle to SEA 30 for 6 yards (J.Brooks; J.Love).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+1 & 10 on SEA 30
+Sumamry: (2:00 - 4th) PENALTY on SEA-D.Jones, Encroachment, 5 yards, enforced at SEA 30 - No Play.
+1 & 5 on SEA 25
+Sumamry: (2:00 - 4th) C.Akers left tackle to SEA 27 for -2 yards (J.Brooks; B.Wagner).
+Sumamry: (1:47 - 4th) Timeout #3 by SEA at 01:47.
+2 & 7 on SEA 27
+Sumamry: (1:47 - 4th) C.Akers right tackle to SEA 27 for no gain (B.Wagner; D.Jones).
+Sumamry: (1:01 - 4th) Timeout #2 by LA at 01:01.
+3 & 7 on SEA 27
+Sumamry: (1:01 - 4th) (Shotgun) C.Akers right tackle to SEA 26 for 1 yard (B.Wagner; J.Brooks).
+Sumamry: (0:15 - 4th) Timeout #3 by LA at 00:15.
+4 & 6 on SEA 26
+Sumamry: (0:11 - 4th) B.Maher 45 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.
+===============
+Drive18
+Possession: Seattle Seahawks
+Result: End of Game
+SEA: 13
+LAR: 30
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (0:11 - 4th) B.Maher kicks 46 yards from LA 35 to SEA 19. C.Parkinson to SEA 35 for 16 yards (J.Hummel; J.Johnson).
+1 & 10 on SEA 35
+Sumamry: (0:05 - 4th) (Shotgun) Z.Charbonnet right guard to SEA 44 for 9 yards (J.Fuller; E.Jones).
+Sumamry: (0:00 - 4th) END GAME
+===============

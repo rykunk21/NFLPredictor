@@ -1,0 +1,520 @@
+Drive1
+Possession: Chicago Bears
+Result: Downs
+CHI: 0
+GB: 0
+Plays: 6
+Yards: 28
+Time: 3:29
+Sumamry: (15:00 - 1st) A.Carlson kicks 64 yards from GB 35 to CHI 1. T.Scott to CHI 23 for 22 yards (K.Nixon). PENALTY on CHI-D.Gates, Unnecessary Roughness, 11 yards, enforced at CHI 23.
+1 & 10 on CHI 12
+Sumamry: (14:54 - 1st) K.Herbert left guard to CHI 12 for no gain (P.Smith).
+2 & 10 on CHI 12
+Sumamry: (14:23 - 1st) (Shotgun) J.Fields pass short middle to K.Herbert pushed ob at CHI 31 for 19 yards (J.Alexander).
+1 & 10 on CHI 31
+Sumamry: (13:41 - 1st) (Shotgun) J.Fields pass short left to T.Scott to CHI 36 for 5 yards (R.Douglas, P.Smith).
+2 & 5 on CHI 36
+Sumamry: (12:55 - 1st) (Shotgun) K.Herbert right tackle to CHI 40 for 4 yards (K.Enagbare).
+3 & 1 on CHI 40
+Sumamry: (12:15 - 1st) (Shotgun) Direct snap to C.Kmet.  C.Kmet up the middle to CHI 40 for no gain (P.Smith).
+4 & 1 on CHI 40
+Sumamry: (11:31 - 1st) J.Fields up the middle to CHI 40 for no gain (P.Smith). Official measurement
+Sumamry: (11:31 - 1st) Timeout at 11:31.
+===============
+Drive2
+Possession: Green Bay Packers
+Result: Touchdown
+CHI: 0
+GB: 7
+Plays: 11
+Yards: 40
+Time: 5:23
+1 & 10 on CHI 40
+Sumamry: (11:30 - 1st) A.Jones left tackle to CHI 41 for -1 yards (D.Walker).
+2 & 11 on CHI 41
+Sumamry: (10:56 - 1st) (Shotgun) J.Reed left end to CHI 43 for -2 yards (T.Stevenson). Lateral from QB
+Sumamry: (10:11 - 1st) Timeout #1 by GB at 10:11.
+3 & 13 on CHI 43
+Sumamry: (10:11 - 1st) (Shotgun) J.Love pass short right to R.Doubs to CHI 30 for 13 yards (K.Gordon). Officials Measurement
+1 & 10 on CHI 30
+Sumamry: (9:29 - 1st) (No Huddle, Shotgun) A.Jones right end to CHI 23 for 7 yards (J.Brisker; T.Edwards).
+2 & 3 on CHI 23
+Sumamry: (8:51 - 1st) (Shotgun) A.Jones left guard pushed ob at CHI 20 for 3 yards (J.Sanborn).
+1 & 10 on CHI 20
+Sumamry: (8:18 - 1st) (Shotgun) A.Jones right tackle to CHI 12 for 8 yards (Y.Ngakoue).
+2 & 2 on CHI 12
+Sumamry: (7:34 - 1st) J.Love pass incomplete short left to D.Wicks.
+3 & 2 on CHI 12
+Sumamry: (7:12 - 1st) (Shotgun) A.Jones right end to CHI 5 for 7 yards (J.Brisker). CHI-J.Brisker was injured during the play.
+Sumamry: (7:12 - 1st) Timeout at 07:12.
+2 & 8 on CHI 8
+Sumamry: (6:17 - 1st) J.Love pass incomplete short middle to A.Jones.
+Sumamry: (6:08 - 1st) Timeout at 06:08.
+===============
+Drive3
+Possession: Chicago Bears
+Result: Field Goal
+CHI: 3
+GB: 7
+Plays: 7
+Yards: 38
+Time: 4:4
+Sumamry: (6:08 - 1st) A.Carlson kicks 64 yards from GB 35 to CHI 1. T.Scott pushed ob at CHI 34 for 33 yards (I.McDuffie).
+1 & 10 on CHI 34
+Sumamry: (6:01 - 1st) (Shotgun) J.Fields pass deep right to D.Mooney to GB 43 for 23 yards (D.Savage).
+1 & 10 on GB 43
+Sumamry: (5:18 - 1st) (Shotgun) K.Herbert right end to GB 45 for -2 yards (Q.Walker, J.Hollins).
+2 & 12 on GB 45
+Sumamry: (4:38 - 1st) (Shotgun) J.Fields pass short left to K.Herbert pushed ob at GB 31 for 14 yards (K.Nixon).
+1 & 10 on GB 31
+Sumamry: (4:01 - 1st) (No Huddle, Shotgun) PENALTY on CHI-B.Jones, False Start, 5 yards, enforced at GB 31 - No Play.
+1 & 15 on GB 36
+Sumamry: (3:41 - 1st) (Shotgun) PENALTY on CHI-B.Jones, False Start, 5 yards, enforced at GB 36 - No Play.
+1 & 20 on GB 41
+Sumamry: (3:20 - 1st) (Shotgun) J.Fields scrambles left end pushed ob at GB 33 for 8 yards (J.Alexander). Penalty on CHI-C.Claypool, Unnecessary Roughness, offsetting. Penalty on GB-T.Slaton, Unnecessary Roughness, offsetting.
+2 & 12 on GB 33
+Sumamry: (2:49 - 1st) (Shotgun) J.Fields pass short left to D.Foreman pushed ob at GB 28 for 5 yards (D.Campbell).
+3 & 7 on GB 28
+Sumamry: (2:12 - 1st) (Shotgun) J.Fields pass incomplete short right to C.Claypool (K.Enagbare).
+4 & 7 on GB 28
+Sumamry: (2:04 - 1st) C.Santos 47 yard field goal is GOOD, Center-P.Scales, Holder-T.Gill.
+Sumamry: (2:04 - 1st) Timeout at 02:04.
+===============
+Drive4
+Possession: Green Bay Packers
+Result: Punt
+CHI: 3
+GB: 7
+Plays: 3
+Yards: 4
+Time: 1:32
+Sumamry: (2:04 - 1st) C.Santos kicks 65 yards from CHI 35 to end zone, Touchback.
+1 & 10 on GB 25
+Sumamry: (2:04 - 1st) (Shotgun) J.Love pass incomplete short middle to M.Heath [A.Billings].
+2 & 10 on GB 25
+Sumamry: (2:00 - 1st) (Shotgun) A.Dillon left end to GB 20 for -5 yards (Y.Ngakoue).
+3 & 15 on GB 20
+Sumamry: (1:19 - 1st) (No Huddle, Shotgun) J.Love pass short middle to L.Musgrave to GB 29 for 9 yards (T.Edmunds, E.Jackson).
+4 & 6 on GB 29
+Sumamry: (0:32 - 1st) D.Whelan punts 42 yards to CHI 29, Center-M.Orzech. T.Taylor to CHI 37 for 8 yards (I.Gaines).
+===============
+Drive5
+Possession: Chicago Bears
+Result: Field Goal
+CHI: 6
+GB: 7
+Plays: 12
+Yards: 52
+Time: 6:32
+1 & 10 on CHI 37
+Sumamry: (0:32 - 1st) (Shotgun) D.Foreman left end to CHI 30 for -7 yards (D.Savage).
+2 & 17 on CHI 30
+Sumamry: (15:00 - 2nd) (Shotgun) J.Fields scrambles left guard to CHI 38 for 8 yards (D.Savage). PENALTY on GB-J.Alexander, Illegal Contact, 5 yards, enforced at CHI 38.
+1 & 10 on CHI 43
+Sumamry: (14:33 - 2nd) (Shotgun) D.Foreman left tackle to CHI 46 for 3 yards (J.Hollins; D.Savage).
+2 & 7 on CHI 46
+Sumamry: (14:00 - 2nd) (Shotgun) D.Foreman right end to CHI 46 for no gain (K.Nixon, R.Ford).
+3 & 7 on CHI 46
+Sumamry: (13:21 - 2nd) (Shotgun) J.Fields scrambles right end to GB 44 for 10 yards (P.Smith).
+1 & 10 on GB 44
+Sumamry: (12:34 - 2nd) D.Foreman left tackle to GB 33 for 11 yards (R.Douglas; Q.Walker).
+1 & 10 on GB 33
+Sumamry: (11:55 - 2nd) (Shotgun) J.Fields pass short left to D.Moore to GB 22 for 11 yards (D.Campbell).
+1 & 10 on GB 22
+Sumamry: (11:18 - 2nd) (Shotgun) J.Fields pass short middle to D.Moore to GB 8 for 14 yards (D.Savage; K.Nixon) [K.Clark].
+3 & 11 on GB 11
+Sumamry: (9:08 - 2nd) (Shotgun) J.Fields pass incomplete short right to C.Kmet (R.Douglas).
+Sumamry: (9:00 - 2nd) Timeout at 09:00.
+===============
+Drive6
+Possession: Green Bay Packers
+Result: Punt
+CHI: 6
+GB: 7
+Plays: 3
+Yards: 8
+Time: 1:44
+Sumamry: (9:00 - 2nd) C.Santos kicks 69 yards from CHI 35 to GB -4. K.Nixon to GB 24 for 28 yards (T.Stevenson).
+1 & 10 on GB 24
+Sumamry: (8:53 - 2nd) J.Love pass short left to R.Doubs pushed ob at GB 25 for 1 yard (T.Stevenson).
+2 & 9 on GB 25
+Sumamry: (8:13 - 2nd) (Shotgun) A.Dillon right guard to GB 32 for 7 yards (T.Edwards; J.Sanborn).
+3 & 2 on GB 32
+Sumamry: (7:31 - 2nd) (Shotgun) J.Love pass incomplete short left to J.Reed (K.Gordon).
+4 & 2 on GB 32
+Sumamry: (7:26 - 2nd) D.Whelan punts 68 yards to end zone, Center-M.Orzech, Touchback.
+Sumamry: (7:16 - 2nd) Timeout at 07:16.
+===============
+Drive7
+Possession: Chicago Bears
+Result: Punt
+CHI: 6
+GB: 7
+Plays: 3
+Yards: 0
+Time: 1:48
+1 & 10 on CHI 20
+Sumamry: (7:16 - 2nd) K.Herbert right guard to CHI 20 for no gain (R.Douglas).
+2 & 10 on CHI 20
+Sumamry: (6:37 - 2nd) (Shotgun) J.Fields scrambles left end pushed ob at CHI 26 for 6 yards (D.Campbell). PENALTY on CHI-B.Jones, Offensive Holding, 10 yards, enforced at CHI 20 - No Play.
+2 & 20 on CHI 10
+Sumamry: (6:15 - 2nd) (Shotgun) J.Fields pass incomplete short right to K.Blasingame.
+3 & 20 on CHI 10
+Sumamry: (6:09 - 2nd) (Shotgun) J.Fields scrambles left guard to CHI 20 for 10 yards (R.Douglas).
+4 & 10 on CHI 20
+Sumamry: (5:28 - 2nd) T.Gill punts 53 yards to GB 27, Center-P.Scales. J.Reed to GB 31 for 4 yards (J.Blackwell).
+Sumamry: (5:28 - 2nd) Timeout at 05:28.
+===============
+Drive8
+Possession: Green Bay Packers
+Result: Punt
+CHI: 6
+GB: 7
+Plays: 6
+Yards: 21
+Time: 3:16
+1 & 10 on GB 31
+Sumamry: (5:27 - 2nd) (Shotgun) R.Walker reported in as eligible.  J.Love pass incomplete short right to A.Dillon.
+2 & 10 on GB 31
+Sumamry: (5:22 - 2nd) (Shotgun) J.Love pass short middle to L.Musgrave to GB 35 for 4 yards (T.Edmunds, T.Edwards).
+3 & 6 on GB 35
+Sumamry: (4:42 - 2nd) (Shotgun) J.Love pass short middle to S.Toure to CHI 49 for 16 yards (J.Brisker).
+1 & 10 on CHI 49
+Sumamry: (4:06 - 2nd) (Shotgun) J.Love pass incomplete deep middle to S.Toure.
+2 & 10 on CHI 49
+Sumamry: (3:59 - 2nd) (Shotgun) A.Dillon right guard to CHI 45 for 4 yards (J.Brisker; Y.Ngakoue).
+3 & 6 on CHI 45
+Sumamry: (3:20 - 2nd) (Shotgun) J.Love scrambles right end to CHI 43 for 2 yards (D.Walker).
+4 & 4 on CHI 43
+Sumamry: (2:29 - 2nd) (Shotgun) PENALTY on GB, Delay of Game, 5 yards, enforced at CHI 43 - No Play.
+4 & 9 on CHI 48
+Sumamry: (2:12 - 2nd) D.Whelan punts 42 yards to CHI 6, Center-M.Orzech, fair catch by T.Taylor.
+Sumamry: (2:12 - 2nd) Timeout at 02:12.
+===============
+Drive9
+Possession: Chicago Bears
+Result: Punt
+CHI: 6
+GB: 7
+Plays: 5
+Yards: 14
+Time: 1:0
+1 & 10 on CHI 6
+Sumamry: (2:00 - 2nd) (Shotgun) K.Herbert right guard to CHI 7 for 1 yard (C.Wooden, D.Savage).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+2 & 9 on CHI 7
+Sumamry: (2:00 - 2nd) K.Herbert right tackle to CHI 19 for 12 yards (R.Ford; D.Savage).
+1 & 10 on CHI 19
+Sumamry: (1:38 - 2nd) (No Huddle, Shotgun) J.Fields pass short left to C.Kmet pushed ob at CHI 24 for 5 yards (D.Savage).
+2 & 5 on CHI 24
+Sumamry: (1:28 - 2nd) (Shotgun) J.Fields pass short right to D.Mooney to CHI 20 for -4 yards (K.Nixon).
+Sumamry: (1:28 - 2nd) Timeout #2 by GB at 01:28.
+3 & 9 on CHI 20
+Sumamry: (1:28 - 2nd) (Shotgun) J.Fields pass incomplete short right to K.Herbert.
+4 & 9 on CHI 20
+Sumamry: (1:12 - 2nd) T.Gill punts 51 yards to GB 29, Center-P.Scales. J.Reed to GB 44 for 15 yards (R.Tonyan).
+Sumamry: (1:12 - 2nd) Timeout at 01:12.
+===============
+Drive10
+Possession: Green Bay Packers
+Result: Field Goal
+CHI: 6
+GB: 10
+Plays: 6
+Yards: 22
+Time: 1:12
+1 & 10 on GB 44
+Sumamry: (1:12 - 2nd) (Shotgun) J.Love pass incomplete short left to A.Jones.
+2 & 10 on GB 44
+Sumamry: (1:07 - 2nd) (Shotgun) J.Love pass incomplete deep left to L.Musgrave.
+3 & 10 on GB 44
+Sumamry: (1:02 - 2nd) (Shotgun) J.Love pass short left to J.Reed to CHI 26 for 30 yards (E.Jackson).
+1 & 10 on CHI 26
+Sumamry: (0:41 - 2nd) (No Huddle, Shotgun) J.Love pass incomplete short right to D.Wicks.
+2 & 10 on CHI 26
+Sumamry: (0:37 - 2nd) (Shotgun) J.Love sacked at CHI 34 for -8 yards (Y.Ngakoue).
+Sumamry: (0:04 - 2nd) Timeout #3 by GB at 00:04.
+3 & 18 on CHI 34
+Sumamry: (0:00 - 2nd) A.Carlson 52 yard field goal is GOOD, Center-M.Orzech, Holder-D.Whelan.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive11
+Possession: Green Bay Packers
+Result: Touchdown
+CHI: 6
+GB: 17
+Plays: 8
+Yards: 75
+Time: 4:41
+Sumamry: (15:00 - 3rd) C.Santos kicks 65 yards from CHI 35 to end zone, Touchback.
+1 & 10 on GB 25
+Sumamry: (15:00 - 3rd) A.Jones left guard to GB 34 for 9 yards (T.Edmunds).
+2 & 1 on GB 34
+Sumamry: (14:19 - 3rd) A.Jones left tackle to GB 34 for no gain (T.Edwards; T.Edmunds).
+3 & 1 on GB 34
+Sumamry: (13:44 - 3rd) J.Love up the middle to GB 35 for 1 yard (A.Billings; T.Edwards).
+1 & 10 on GB 35
+Sumamry: (13:03 - 3rd) (Shotgun) A.Jones left end to GB 42 for 7 yards (T.Edwards).
+2 & 3 on GB 42
+Sumamry: (12:24 - 3rd) R.Walker reported in as eligible.  J.Love pass short right to A.Jones pushed ob at CHI 7 for 51 yards (T.Stevenson).
+Sumamry: (10:19 - 3rd) Timeout at 10:19.
+===============
+Drive12
+Possession: Chicago Bears
+Result: Punt
+CHI: 6
+GB: 17
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (10:19 - 3rd) A.Carlson kicks 65 yards from GB 35 to end zone, Touchback.
+1 & 10 on CHI 25
+Sumamry: (10:18 - 3rd) J.Fields sacked at CHI 14 for -11 yards (D.Wyatt).
+2 & 21 on CHI 14
+Sumamry: (9:37 - 3rd) (Shotgun) J.Fields pass short left to D.Foreman to CHI 17 for 3 yards (K.Clark; Q.Walker).
+3 & 18 on CHI 17
+Sumamry: (8:56 - 3rd) (Shotgun) J.Fields pass short left to R.Johnson to CHI 23 for 6 yards (R.Douglas).
+4 & 12 on CHI 23
+Sumamry: (8:05 - 3rd) T.Gill punts 54 yards to GB 23, Center-P.Scales. J.Reed pushed ob at CHI 42 for 35 yards (D.Gates).
+Sumamry: (8:05 - 3rd) Timeout at 08:05.
+===============
+Drive13
+Possession: Green Bay Packers
+Result: Touchdown
+CHI: 6
+GB: 24
+Plays: 4
+Yards: 42
+Time: 1:39
+1 & 10 on CHI 42
+Sumamry: (8:05 - 3rd) (Shotgun) A.Dillon right tackle to CHI 44 for -2 yards (T.Edmunds, T.Edwards).
+2 & 12 on CHI 44
+Sumamry: (7:24 - 3rd) (Shotgun) J.Love pass incomplete short right to R.Doubs.
+3 & 12 on CHI 44
+Sumamry: (7:20 - 3rd) (Shotgun) J.Love scrambles left end to CHI 35 for 9 yards (J.Johnson).
+Sumamry: (6:34 - 3rd) Timeout #1 by GB at 06:34.
+4 & 3 on CHI 35
+Sumamry: (6:26 - 3rd) (Shotgun) J.Love pass short middle to A.Jones for 35 yards, TOUCHDOWN. GB-A.Jones was injured during the play. His return is Questionable.A.Carlson extra point is GOOD, Center-M.Orzech, Holder-D.Whelan.
+Sumamry: (6:26 - 3rd) Timeout at 06:26.
+===============
+Drive14
+Possession: Chicago Bears
+Result: Fumble
+CHI: 6
+GB: 24
+Plays: 3
+Yards: 7
+Time: 1:28
+Sumamry: (6:26 - 3rd) A.Carlson kicks 65 yards from GB 35 to CHI 0. T.Scott to CHI 11 for 11 yards (Er.Wilson).
+1 & 10 on CHI 11
+Sumamry: (6:22 - 3rd) K.Herbert right tackle to CHI 15 for 4 yards (D.Campbell, R.Douglas).
+2 & 6 on CHI 15
+Sumamry: (5:49 - 3rd) (Shotgun) K.Herbert left end to CHI 18 for 3 yards (D.Savage).
+3 & 3 on CHI 18
+Sumamry: (5:09 - 3rd) (Shotgun) J.Fields sacked at CHI 18 for 0 yards (sack split by K.Clark and D.Wyatt). FUMBLES (K.Clark) [D.Wyatt], RECOVERED by GB-R.Douglas at CHI 28. R.Douglas to CHI 28 for no gain (D.Moore). PENALTY on GB-D.Campbell, Unnecessary Roughness, 15 yards, enforced at CHI 28.
+===============
+Drive15
+Possession: Green Bay Packers
+Result: Punt
+CHI: 6
+GB: 24
+Plays: 3
+Yards: 2
+Time: 1:36
+1 & 10 on CHI 43
+Sumamry: (4:58 - 3rd) J.Love pass short left to S.Toure pushed ob at CHI 41 for 2 yards (T.Edwards).
+2 & 8 on CHI 41
+Sumamry: (4:20 - 3rd) A.Dillon right tackle to CHI 41 for no gain (T.Edmunds).
+3 & 8 on CHI 41
+Sumamry: (3:38 - 3rd) (Shotgun) J.Love pass incomplete short right to J.Reed (E.Jackson).
+4 & 8 on CHI 41
+Sumamry: (3:22 - 3rd) D.Whelan punts 41 yards to end zone, Center-M.Orzech, Touchback. PENALTY on GB-I.Gaines, Face Mask, 15 yards, enforced at CHI 20.
+===============
+Drive16
+Possession: Chicago Bears
+Result: Touchdown
+CHI: 14
+GB: 24
+Plays: 6
+Yards: 65
+Time: 2:23
+1 & 10 on CHI 35
+Sumamry: (3:21 - 3rd) (Shotgun) R.Johnson left guard to CHI 45 for 10 yards (K.Nixon). PENALTY on CHI-B.Jones, Offensive Holding, 10 yards, enforced at CHI 39.
+1 & 16 on CHI 29
+Sumamry: (2:57 - 3rd) (Shotgun) J.Fields pass short right to R.Johnson to CHI 34 for 5 yards (K.Nixon).
+2 & 11 on CHI 34
+Sumamry: (2:36 - 3rd) (No Huddle) J.Fields sacked at CHI 25 for -9 yards (R.Gary). PENALTY on GB-K.Enagbare, Defensive Offside, 5 yards, enforced at CHI 34 - No Play. Penalty on GB-K.Enagbare, Defensive Too Many Men on Field, declined.
+2 & 6 on CHI 39
+Sumamry: (2:27 - 3rd) (Shotgun) J.Fields pass short right to D.Mooney pushed ob at GB 47 for 14 yards (R.Douglas).
+1 & 10 on GB 47
+Sumamry: (2:07 - 3rd) (No Huddle, Shotgun) R.Johnson left guard to GB 36 for 11 yards (D.Savage; R.Ford). PENALTY on GB-R.Ford, Unnecessary Roughness, 15 yards, enforced at GB 36.
+1 & 10 on GB 21
+Sumamry: (1:44 - 3rd) (No Huddle, Shotgun) R.Johnson right guard to GB 20 for 1 yard (Q.Walker; T.Slaton).
+2 & 9 on GB 20
+Sumamry: (0:59 - 3rd) (Shotgun) J.Fields pass deep right to D.Mooney for 20 yards, TOUCHDOWN.TWO-POINT CONVERSION ATTEMPT. K.Herbert rushes right guard. ATTEMPT SUCCEEDS.
+===============
+Drive17
+Possession: Green Bay Packers
+Result: Touchdown
+CHI: 14
+GB: 31
+Plays: 5
+Yards: 61
+Time: 2:29
+Sumamry: (0:59 - 3rd) C.Santos kicks 68 yards from CHI 35 to GB -3. K.Nixon to GB 24 for 27 yards (J.Sanborn; T.Homer). PENALTY on CHI-T.Homer, Face Mask, 15 yards, enforced at GB 24.
+1 & 10 on GB 39
+Sumamry: (0:54 - 3rd) (Shotgun) A.Dillon left guard to GB 41 for 2 yards (E.Jackson; A.Billings).
+2 & 8 on GB 41
+Sumamry: (0:14 - 3rd) J.Love pass short middle to A.Dillon to GB 46 for 5 yards (T.Edwards).
+3 & 3 on GB 46
+Sumamry: (15:00 - 4th) (Shotgun) PENALTY on GB-D.Wicks, False Start, 5 yards, enforced at GB 46 - No Play.
+3 & 8 on GB 41
+Sumamry: (15:00 - 4th) (Shotgun) J.Love pass short left to J.Reed pushed ob at CHI 41 for 18 yards (J.Johnson).
+1 & 10 on CHI 41
+Sumamry: (14:21 - 4th) J.Love to CHI 44 for -3 yards. FUMBLES, and recovers at CHI 46. J.Love pass deep left to L.Musgrave to CHI 4 for 37 yards (T.Stevenson) [D.Walker].
+Sumamry: (13:30 - 4th) Timeout at 13:30.
+===============
+Drive18
+Possession: Chicago Bears
+Result: Interception Touchdown
+CHI: 14
+GB: 38
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (13:30 - 4th) A.Carlson kicks 65 yards from GB 35 to end zone, Touchback.
+1 & 10 on CHI 25
+Sumamry: (13:30 - 4th) (Shotgun) J.Fields up the middle to CHI 24 for -1 yards (D.Wyatt).
+2 & 11 on CHI 24
+Sumamry: (12:59 - 4th) (No Huddle, Shotgun) J.Fields pass incomplete short left to C.Claypool (J.Alexander).
+3 & 11 on CHI 24
+Sumamry: (12:36 - 4th) (Shotgun) J.Fields pass short middle intended for D.Mooney INTERCEPTED by Q.Walker [K.Clark] at CHI 37. Q.Walker for 37 yards, TOUCHDOWN. PENALTY on GB-R.Douglas, Unsportsmanlike Conduct, 15 yards, enforced between downs.A.Carlson extra point is GOOD, Center-M.Orzech, Holder-D.Whelan.
+Sumamry: (12:36 - 4th) Timeout at 12:36.
+===============
+Drive19
+Possession: Chicago Bears
+Result: Punt
+CHI: 14
+GB: 38
+Plays: 5
+Yards: 9
+Time: 2:24
+Sumamry: (12:36 - 4th) A.Carlson kicks 68 yards from GB 20 to CHI 12. T.Scott to CHI 30 for 18 yards (J.Deguara).
+1 & 10 on CHI 30
+Sumamry: (12:29 - 4th) (Shotgun) J.Fields scrambles right end pushed ob at CHI 39 for 9 yards (R.Douglas).
+2 & 1 on CHI 39
+Sumamry: (11:54 - 4th) (Shotgun) J.Fields pass short middle to K.Herbert to CHI 43 for 4 yards (I.McDuffie).
+1 & 10 on CHI 43
+Sumamry: (11:23 - 4th) (No Huddle, Shotgun) J.Fields pass incomplete short middle to K.Herbert (T.Slaton).
+2 & 10 on CHI 43
+Sumamry: (11:19 - 4th) (Shotgun) K.Herbert right guard to CHI 48 for 5 yards (L.Van Ness).
+3 & 5 on CHI 48
+Sumamry: (10:52 - 4th) (No Huddle, Shotgun) J.Fields sacked at CHI 39 for -9 yards (K.Brooks).
+4 & 14 on CHI 39
+Sumamry: (10:12 - 4th) T.Gill punts 54 yards to GB 7, Center-P.Scales, out of bounds.
+===============
+Drive20
+Possession: Green Bay Packers
+Result: Punt
+CHI: 14
+GB: 38
+Plays: 7
+Yards: 14
+Time: 3:54
+1 & 10 on GB 7
+Sumamry: (10:12 - 4th) A.Dillon right guard to GB 10 for 3 yards (J.Johnson; T.Edwards).
+2 & 7 on GB 10
+Sumamry: (9:28 - 4th) A.Dillon left guard to GB 12 for 2 yards (J.Blackwell; T.Edwards).
+3 & 5 on GB 12
+Sumamry: (8:42 - 4th) (Shotgun) J.Love pass short middle to A.Dillon to GB 24 for 12 yards (E.Jackson).
+1 & 10 on GB 24
+Sumamry: (7:56 - 4th) A.Dillon left end to GB 35 for 11 yards (T.Edwards). CHI-A.Billings was injured during the play.  PENALTY on GB-D.Wicks, Offensive Holding, 10 yards, enforced at GB 26.
+1 & 18 on GB 16
+Sumamry: (7:27 - 4th) (Shotgun) P.Taylor left end pushed ob at GB 18 for 2 yards (T.Edwards, G.Dexter).
+2 & 16 on GB 18
+Sumamry: (6:44 - 4th) (Shotgun) J.Love pass incomplete deep left to J.Reed (J.Brisker). GB-J.Reed was injured during the play. His return is Questionable.
+3 & 16 on GB 18
+Sumamry: (6:28 - 4th) (Shotgun) A.Dillon left tackle to GB 21 for 3 yards (D.Robinson, J.Brisker).
+Sumamry: (6:28 - 4th) Timeout #1 by CHI at 06:28.
+4 & 13 on GB 21
+Sumamry: (6:18 - 4th) D.Whelan punts 56 yards to CHI 23, Center-M.Orzech. T.Taylor to CHI 31 for 8 yards (J.Owens).
+===============
+Drive21
+Possession: Chicago Bears
+Result: Touchdown
+CHI: 20
+GB: 38
+Plays: 14
+Yards: 69
+Time: 3:24
+1 & 10 on CHI 31
+Sumamry: (6:18 - 4th) (Shotgun) J.Fields pass short right to C.Kmet to CHI 46 for 15 yards (D.Campbell; R.Ford).
+1 & 10 on CHI 46
+Sumamry: (5:54 - 4th) (No Huddle, Shotgun) J.Fields pass incomplete short right to D.Foreman.
+2 & 10 on CHI 46
+Sumamry: (5:49 - 4th) (Shotgun) J.Fields scrambles left end pushed ob at GB 46 for 8 yards (C.Valentine).
+3 & 2 on GB 46
+Sumamry: (5:24 - 4th) (No Huddle, Shotgun) D.Foreman left guard to GB 37 for 9 yards (D.Campbell).
+1 & 10 on GB 37
+Sumamry: (4:57 - 4th) (No Huddle, Shotgun) J.Fields pass short right to C.Kmet to GB 30 for 7 yards (D.Campbell; I.McDuffie).
+2 & 3 on GB 30
+Sumamry: (4:28 - 4th) (No Huddle, Shotgun) J.Fields scrambles right end pushed ob at GB 23 for 7 yards (I.McDuffie).
+1 & 10 on GB 23
+Sumamry: (4:21 - 4th) (Shotgun) J.Fields pass incomplete short right to D.Mooney.
+2 & 10 on GB 23
+Sumamry: (4:17 - 4th) (Shotgun) J.Fields pass incomplete short right to R.Johnson.
+3 & 10 on GB 23
+Sumamry: (4:13 - 4th) (Shotgun) J.Fields pass short middle to R.Johnson pushed ob at GB 18 for 5 yards (C.Valentine).
+Sumamry: (4:05 - 4th) Timeout #2 by GB at 04:05.
+4 & 5 on GB 18
+Sumamry: (4:05 - 4th) (Shotgun) J.Fields pass short right to R.Johnson to GB 12 for 6 yards (K.Nixon).
+1 & 10 on GB 12
+Sumamry: (3:42 - 4th) (No Huddle, Shotgun) J.Fields pass short right to R.Johnson pushed ob at GB 4 for 8 yards (J.Owens). Chicago challenged the runner was out of bounds ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)
+2 & 2 on GB 4
+Sumamry: (3:37 - 4th) (Shotgun) R.Johnson right guard to GB 2 for 2 yards (Er.Wilson; D.Campbell).
+1 & 2 on GB 2
+Sumamry: (3:04 - 4th) (Shotgun) J.Fields pass incomplete short left.
+Sumamry: (2:54 - 4th) Timeout #3 by GB at 02:54.
+===============
+Drive22
+Possession: Green Bay Packers
+Result: Downs
+CHI: 20
+GB: 38
+Plays: 5
+Yards: 19
+Time: 1:51
+Sumamry: (2:54 - 4th) C.Santos kicks onside 9 yards from CHI 35 to CHI 44. J.Reed (didn't try to advance) to CHI 44 for no gain.
+1 & 10 on CHI 44
+Sumamry: (2:53 - 4th) #8 S. Clifford in at QB (Shotgun) P.Taylor right tackle to CHI 34 for 10 yards (T.Edwards).
+1 & 10 on CHI 34
+Sumamry: (2:00 - 4th) S.Clifford FUMBLES (Aborted) at CHI 35, and recovers at CHI 35.
+Sumamry: (2:00 - 4th) Two-Minute Warning
+2 & 11 on CHI 35
+Sumamry: (2:00 - 4th) (Shotgun) P.Taylor right tackle to CHI 32 for 3 yards (J.Brisker).
+3 & 8 on CHI 32
+Sumamry: (1:16 - 4th) (Shotgun) P.Taylor right tackle to CHI 30 for 2 yards (J.Brisker; T.Stevenson).
+Sumamry: (1:10 - 4th) Timeout #3 by CHI at 01:10.
+4 & 6 on CHI 30
+Sumamry: (1:03 - 4th) P.Taylor left end to CHI 25 for 5 yards (J.Sanborn). Penalty on GB-J.Deguara, Offensive Holding, declined.
+===============
+Drive23
+Possession: Chicago Bears
+Result: End of Game
+CHI: 20
+GB: 38
+Plays: 5
+Yards: 27
+Time: 1:3
+1 & 10 on CHI 25
+Sumamry: (1:03 - 4th) (Shotgun) J.Fields pass incomplete short left to D.Mooney. CHI-D.Mooney was injured during the play.
+2 & 10 on CHI 25
+Sumamry: (1:00 - 4th) (Shotgun) J.Fields pass short left to C.Kmet to CHI 38 for 13 yards (J.Owens). Penalty on GB-I.Gaines, Defensive Holding, declined.
+1 & 10 on CHI 38
+Sumamry: (0:50 - 4th) (Shotgun) J.Fields pass incomplete short right to C.Kmet.
+2 & 10 on CHI 38
+Sumamry: (0:45 - 4th) (Shotgun) J.Fields pass short right to R.Johnson to CHI 43 for 5 yards (I.Gaines, Er.Wilson).
+3 & 5 on CHI 43
+Sumamry: (0:19 - 4th) (No Huddle, Shotgun) J.Fields pass short right to T.Scott to GB 48 for 9 yards (D.Leavitt).
+Sumamry: (0:00 - 4th) END GAME
+===============

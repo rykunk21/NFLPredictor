@@ -1,0 +1,378 @@
+Drive1
+Possession: Las Vegas Raiders
+Result: Touchdown
+DEN: 0
+LV: 7
+Plays: 10
+Yards: 44
+Time: 5:32
+Sumamry: (15:00 - 1st) W.Lutz kicks onside 9 yards from DEN 35 to DEN 44, downed by DEN-T.Smith. PENALTY on DEN-T.Smith, Illegal Touch Kick, 0 yards, enforced at DEN 44.
+1 & 10 on DEN 44
+Sumamry: (14:56 - 1st) T.Munford reported in as eligible.  J.Jacobs right tackle to DEN 43 for 1 yard (A.Singleton; J.Jewell).
+2 & 9 on DEN 43
+Sumamry: (14:20 - 1st) J.Garoppolo pass short left to D.Adams to DEN 35 for 8 yards (P.Surtain).
+3 & 1 on DEN 35
+Sumamry: (13:45 - 1st) T.Munford reported in as eligible.  J.Garoppolo up the middle to DEN 35 for no gain (J.Harris; A.Singleton).
+4 & 1 on DEN 35
+Sumamry: (12:54 - 1st) T.Munford reported in as eligible.  J.Garoppolo pass short right to D.Adams to DEN 22 for 13 yards (K.Jackson).
+1 & 10 on DEN 22
+Sumamry: (12:15 - 1st) J.Jacobs left end to DEN 21 for 1 yard (D.Mathis).
+2 & 9 on DEN 21
+Sumamry: (11:38 - 1st) J.Jacobs right tackle to DEN 19 for 2 yards (E.Bassey).
+3 & 7 on DEN 19
+Sumamry: (10:58 - 1st) (Shotgun) J.Garoppolo scrambles left guard to DEN 11 for 8 yards (F.Clark). PENALTY on DEN-J.Simmons, Unnecessary Roughness, 6 yards, enforced at DEN 11.
+Sumamry: (9:32 - 1st) Timeout #1 by LV at 09:32.
+Sumamry: (9:28 - 1st) Timeout at 09:28.
+===============
+Drive2
+Possession: Denver Broncos
+Result: Touchdown
+DEN: 6
+LV: 7
+Plays: 14
+Yards: 86
+Time: 8:44
+Sumamry: (9:28 - 1st) D.Carlson kicks 81 yards from LV 20 to DEN -1. M.Mims to DEN 27 for 28 yards (B.Bolden; J.Horsted). PENALTY on DEN-J.Strnad, Offensive Holding, 10 yards, enforced at DEN 24.
+1 & 10 on DEN 14
+Sumamry: (9:22 - 1st) (Shotgun) R.Wilson pass short right to A.Trautman to DEN 20 for 6 yards (N.Hobbs).
+2 & 4 on DEN 20
+Sumamry: (8:39 - 1st) R.Wilson pass deep right to B.Johnson to DEN 41 for 21 yards (M.Epps).
+1 & 10 on DEN 41
+Sumamry: (8:08 - 1st) J.Williams left guard to DEN 49 for 8 yards (M.Epps; N.Hobbs).
+2 & 2 on DEN 49
+Sumamry: (7:37 - 1st) J.Williams left guard to LV 48 for 3 yards (J.Tillery; B.Nichols).
+1 & 10 on LV 48
+Sumamry: (6:56 - 1st) R.Wilson pass incomplete short left to J.Williams.
+2 & 10 on LV 48
+Sumamry: (6:50 - 1st) R.Wilson pass short right to M.Mims to LV 40 for 8 yards (R.Spillane, M.Peters). PENALTY on DEN-C.Sutton, Illegal Motion, 5 yards, enforced at LV 48 - No Play.
+2 & 15 on DEN 47
+Sumamry: (6:25 - 1st) (Shotgun) R.Wilson pass short right to B.Johnson pushed ob at LV 43 for 10 yards (M.Peters) [M.Crosby].
+3 & 5 on LV 43
+Sumamry: (5:45 - 1st) (Shotgun) R.Wilson pass incomplete short left to C.Sutton (J.Bennett) [M.Crosby]. PENALTY on LV-J.Bennett, Defensive Pass Interference, 5 yards, enforced at LV 43 - No Play.
+1 & 10 on LV 38
+Sumamry: (5:42 - 1st) J.Williams left guard to LV 36 for 2 yards (T.Moehrig).
+2 & 8 on LV 36
+Sumamry: (5:04 - 1st) R.Wilson pass short left to J.Williams to LV 38 for -2 yards (N.Hobbs).
+3 & 10 on LV 38
+Sumamry: (4:19 - 1st) (Shotgun) R.Wilson pass short left to G.Dulcich to LV 25 for 13 yards (J.Bennett).
+1 & 10 on LV 25
+Sumamry: (3:39 - 1st) S.Perine right end to LV 25 for no gain (N.Hobbs).
+2 & 10 on LV 25
+Sumamry: (3:01 - 1st) (Shotgun) J.Williams left end to LV 18 for 7 yards (T.Moehrig).
+3 & 3 on LV 18
+Sumamry: (2:12 - 1st) (Shotgun) R.Wilson pass short right to A.Trautman to LV 3 for 15 yards (M.Epps; T.Moehrig).
+Sumamry: (0:44 - 1st) Timeout at 00:44.
+===============
+Drive3
+Possession: Las Vegas Raiders
+Result: Field Goal
+DEN: 6
+LV: 10
+Plays: 10
+Yards: 70
+Time: 4:50
+Sumamry: (0:44 - 1st) W.Lutz kicks 65 yards from DEN 35 to end zone, Touchback.
+1 & 10 on LV 25
+Sumamry: (0:44 - 1st) (Shotgun) J.Garoppolo pass short left to J.Jacobs to LV 29 for 4 yards (K.Jackson).
+2 & 6 on LV 29
+Sumamry: (0:08 - 1st) (Shotgun) J.Jacobs up the middle to LV 33 for 4 yards (Z.Allen; J.Harris).
+3 & 2 on LV 33
+Sumamry: (15:00 - 2nd) (Shotgun) J.Jacobs up the middle to LV 39 for 6 yards (J.Jewell; J.Simmons). DEN-C.Sterns was injured during the play.
+Sumamry: (14:47 - 2nd) Timeout at 14:47.
+1 & 10 on LV 39
+Sumamry: (14:30 - 2nd) T.Munford reported in as eligible.  J.Garoppolo pass deep right to J.Meyers to DEN 40 for 21 yards (D.Mathis).
+1 & 10 on DEN 40
+Sumamry: (13:45 - 2nd) (Shotgun) J.Garoppolo pass short right to J.Meyers pushed ob at DEN 27 for 13 yards (D.Mathis).
+1 & 10 on DEN 27
+Sumamry: (13:07 - 2nd) T.Munford reported in as eligible.  J.Garoppolo pass short right to J.Jacobs pushed ob at DEN 8 for 19 yards (K.Jackson).
+3 & 5 on DEN 5
+Sumamry: (11:03 - 2nd) (Shotgun) J.Garoppolo pass incomplete short middle to J.Meyers.
+Sumamry: (10:54 - 2nd) Timeout at 10:54.
+===============
+Drive4
+Possession: Denver Broncos
+Result: Punt
+DEN: 6
+LV: 10
+Plays: 8
+Yards: 27
+Time: 6:5
+Sumamry: (10:54 - 2nd) D.Carlson kicks 65 yards from LV 35 to end zone, Touchback.
+1 & 10 on DEN 25
+Sumamry: (10:54 - 2nd) J.Williams right end pushed ob at DEN 36 for 11 yards (L.Masterson).
+1 & 10 on DEN 36
+Sumamry: (10:12 - 2nd) J.Williams right end to DEN 39 for 3 yards (M.Crosby; L.Masterson).
+2 & 7 on DEN 39
+Sumamry: (9:28 - 2nd) (Shotgun) R.Wilson pass short right to L.Humphrey pushed ob at DEN 45 for 6 yards (M.Peters).
+3 & 1 on DEN 45
+Sumamry: (8:52 - 2nd) S.Perine left end to DEN 45 for no gain (J.Bennett).
+4 & 1 on DEN 45
+Sumamry: (8:30 - 2nd) (No Huddle) PENALTY on LV-J.Tillery, Neutral Zone Infraction, 5 yards, enforced at DEN 45 - No Play.
+1 & 10 on 50
+Sumamry: (8:18 - 2nd) (Shotgun) R.Wilson scrambles left end pushed ob at LV 49 for 1 yard (D.Deablo).
+Sumamry: (7:36 - 2nd) Timeout #1 by DEN at 07:36.
+2 & 9 on LV 49
+Sumamry: (7:35 - 2nd) (Shotgun) R.Wilson pass short left to J.McLaughlin to DEN 48 for -3 yards (D.Deablo). PENALTY on LV-D.Deablo, Face Mask, 15 yards, enforced at LV 49 - No Play.
+1 & 10 on LV 34
+Sumamry: (7:17 - 2nd) J.McLaughlin right end to LV 35 for -1 yards (M.Crosby; J.Jenkins). PENALTY on DEN-C.Manhertz, Offensive Holding, 10 yards, enforced at LV 34 - No Play.
+1 & 20 on LV 44
+Sumamry: (6:55 - 2nd) (Shotgun) R.Wilson sacked at DEN 49 for -7 yards (M.Crosby).
+2 & 27 on DEN 49
+Sumamry: (6:11 - 2nd) (Shotgun) R.Wilson pass short left to J.McLaughlin to DEN 42 for -7 yards (D.Deablo).
+3 & 34 on DEN 42
+Sumamry: (5:32 - 2nd) (Shotgun) S.Perine left guard to LV 48 for 10 yards (D.Deablo).
+4 & 24 on LV 48
+Sumamry: (4:57 - 2nd) R.Dixon punts 43 yards to LV 5, Center-M.Fraboni, downed by DEN-F.Moreau.
+Sumamry: (4:49 - 2nd) Timeout at 04:49.
+===============
+Drive5
+Possession: Las Vegas Raiders
+Result: Punt
+DEN: 6
+LV: 10
+Plays: 5
+Yards: 21
+Time: 2:19
+1 & 10 on LV 5
+Sumamry: (4:49 - 2nd) J.Jacobs up the middle to LV 9 for 4 yards (E.Garcia; M.Henningsen).
+2 & 6 on LV 9
+Sumamry: (4:10 - 2nd) J.Garoppolo pass short right to D.Adams to LV 12 for 3 yards (P.Surtain).
+3 & 3 on LV 12
+Sumamry: (3:23 - 2nd) (Shotgun) PENALTY on DEN-F.Clark, Neutral Zone Infraction, 5 yards, enforced at LV 12 - No Play.
+1 & 10 on LV 17
+Sumamry: (3:06 - 2nd) (Shotgun) J.Garoppolo pass incomplete short middle to D.Adams (P.Surtain) [A.Singleton].
+2 & 10 on LV 17
+Sumamry: (3:02 - 2nd) (Shotgun) J.Garoppolo pass short left to J.Meyers to LV 21 for 4 yards (A.Singleton).
+Sumamry: (2:53 - 2nd) Timeout #2 by DEN at 02:53.
+3 & 6 on LV 21
+Sumamry: (2:53 - 2nd) (Shotgun) J.Garoppolo pass short right to J.Meyers to LV 26 for 5 yards (A.Singleton; J.Jewell).
+Sumamry: (2:38 - 2nd) Timeout #3 by DEN at 02:38.
+4 & 1 on LV 26
+Sumamry: (2:30 - 2nd) A.Cole punts 49 yards to DEN 25, Center-J.Bobenmoyer, fair catch by M.Mims.
+===============
+Drive6
+Possession: Denver Broncos
+Result: Touchdown
+DEN: 13
+LV: 10
+Plays: 9
+Yards: 75
+Time: 2:18
+1 & 10 on DEN 25
+Sumamry: (2:30 - 2nd) (Shotgun) R.Wilson pass short left to C.Sutton ran ob at DEN 34 for 9 yards.
+2 & 1 on DEN 34
+Sumamry: (2:01 - 2nd) (Shotgun) R.Wilson pass short middle to G.Dulcich to DEN 43 for 9 yards (N.Hobbs; R.Spillane).
+Sumamry: (1:56 - 2nd) Two-Minute Warning
+1 & 10 on DEN 43
+Sumamry: (1:56 - 2nd) (Shotgun) R.Wilson pass short middle to S.Perine to DEN 49 for 6 yards (D.Deablo).
+2 & 4 on DEN 49
+Sumamry: (1:35 - 2nd) (No Huddle, Shotgun) R.Wilson pass short left to S.Perine pushed ob at LV 41 for 10 yards (N.Hobbs).
+1 & 10 on LV 41
+Sumamry: (1:29 - 2nd) (Shotgun) R.Wilson pass short left to S.Perine to LV 40 for 1 yard (D.Deablo).
+2 & 9 on LV 40
+Sumamry: (1:00 - 2nd) (No Huddle, Shotgun) R.Wilson pass short left to C.Sutton to LV 37 for 3 yards (T.Moehrig).
+3 & 6 on LV 37
+Sumamry: (0:38 - 2nd) (No Huddle, Shotgun) R.Wilson pass incomplete deep left to C.Sutton [J.Tillery]. PENALTY on LV-J.Bennett, Defensive Pass Interference, 17 yards, enforced at LV 37 - No Play.
+1 & 10 on LV 20
+Sumamry: (0:32 - 2nd) (Shotgun) R.Wilson pass short middle to C.Sutton to LV 5 for 15 yards (T.Moehrig).
+1 & 5 on LV 5
+Sumamry: (0:18 - 2nd) (No Huddle) R.Wilson spiked the ball to stop the clock.
+Sumamry: (0:18 - 2nd) Timeout #2 by LV at 00:18.
+===============
+Drive7
+Possession: Las Vegas Raiders
+Result: End of Half
+DEN: 13
+LV: 10
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (0:12 - 2nd) W.Lutz kicks 65 yards from DEN 35 to end zone, Touchback.
+1 & 10 on LV 25
+Sumamry: (0:12 - 2nd) J.Garoppolo kneels to LV 24 for -1 yards.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive8
+Possession: Denver Broncos
+Result: Missed FG
+DEN: 13
+LV: 10
+Plays: 10
+Yards: 37
+Time: 5:28
+Sumamry: (15:00 - 3rd) D.Carlson kicks 69 yards from LV 35 to DEN -4. M.Mims to DEN 26 for 30 yards (R.Teamer).
+1 & 10 on DEN 26
+Sumamry: (14:56 - 3rd) J.Williams left tackle to DEN 32 for 6 yards (M.Crosby; D.Deablo).
+2 & 4 on DEN 32
+Sumamry: (14:10 - 3rd) (Shotgun) R.Wilson pass incomplete deep left to P.Dorsett.
+3 & 4 on DEN 32
+Sumamry: (14:05 - 3rd) (Shotgun) S.Perine left guard to DEN 37 for 5 yards (R.Spillane; J.Tillery).
+1 & 10 on DEN 37
+Sumamry: (13:21 - 3rd) Q.Bailey reported in as eligible.  J.Williams up the middle to DEN 40 for 3 yards (R.Spillane).
+2 & 7 on DEN 40
+Sumamry: (12:38 - 3rd) R.Wilson pass incomplete short left to J.Williams.
+3 & 7 on DEN 40
+Sumamry: (12:34 - 3rd) (Shotgun) R.Wilson scrambles left end to DEN 46 for 6 yards (M.Epps). FUMBLES (M.Epps), RECOVERED by LV-D.Deablo at DEN 47. D.Deablo to DEN 44 for 3 yards (A.Trautman). PENALTY on LV-M.Peters, Illegal Contact, 5 yards, enforced at DEN 40 - No Play.
+1 & 10 on DEN 45
+Sumamry: (12:24 - 3rd) S.Perine left guard to LV 44 for 11 yards (N.Hobbs; D.Deablo).
+Sumamry: (11:36 - 3rd) Timeout #1 by DEN at 11:36.
+1 & 10 on LV 44
+Sumamry: (11:36 - 3rd) S.Perine left tackle to LV 42 for 2 yards (M.Crosby).
+2 & 8 on LV 42
+Sumamry: (10:54 - 3rd) S.Perine left tackle to LV 41 for 1 yard (J.Bennett, T.Wilson).
+3 & 7 on LV 41
+Sumamry: (10:15 - 3rd) (Shotgun) R.Wilson pass short right to M.Mims to LV 37 for 4 yards (N.Hobbs).
+4 & 3 on LV 37
+Sumamry: (9:36 - 3rd) W.Lutz 55 yard field goal is No Good, Wide Right, Center-M.Fraboni, Holder-R.Dixon.
+Sumamry: (9:32 - 3rd) Timeout at 09:32.
+===============
+Drive9
+Possession: Las Vegas Raiders
+Result: Interception
+DEN: 13
+LV: 10
+Plays: 13
+Yards: 49
+Time: 7:31
+1 & 10 on LV 45
+Sumamry: (9:32 - 3rd) J.Jacobs left end pushed ob at DEN 48 for 7 yards (J.Cooper).
+2 & 3 on DEN 48
+Sumamry: (9:05 - 3rd) (Shotgun) J.Jacobs right tackle to DEN 44 for 4 yards (J.Jewell; E.Bassey).
+1 & 10 on DEN 44
+Sumamry: (8:26 - 3rd) (Shotgun) J.Garoppolo pass incomplete deep left to D.Adams (P.Surtain).
+2 & 10 on DEN 44
+Sumamry: (8:19 - 3rd) (Shotgun) J.Jacobs right guard to DEN 41 for 3 yards (D.Jones; R.Gregory).
+3 & 7 on DEN 41
+Sumamry: (7:36 - 3rd) (Shotgun) PENALTY on LV-J.Eluemunor, False Start, 5 yards, enforced at DEN 41 - No Play.
+3 & 12 on DEN 46
+Sumamry: (7:20 - 3rd) (Shotgun) J.Garoppolo pass short middle to D.Adams to DEN 34 for 12 yards (J.Simmons) [Z.Allen].
+1 & 10 on DEN 34
+Sumamry: (6:46 - 3rd) J.Jacobs left tackle to DEN 33 for 1 yard (J.Harris).
+2 & 9 on DEN 33
+Sumamry: (6:03 - 3rd) (Shotgun) J.Garoppolo pass short left to D.Adams pushed ob at DEN 21 for 12 yards (D.Mathis).
+1 & 10 on DEN 21
+Sumamry: (5:31 - 3rd) (Shotgun) J.Jacobs left end to DEN 17 for 4 yards (R.Gregory; J.Jewell). PENALTY on LV-M.Mayer, Offensive Holding, 10 yards, enforced at DEN 21 - No Play.
+1 & 20 on DEN 31
+Sumamry: (5:14 - 3rd) J.Garoppolo pass short right to J.Meyers to DEN 25 for 6 yards (J.Simmons).
+2 & 14 on DEN 25
+Sumamry: (4:30 - 3rd) (Shotgun) J.Garoppolo pass short right to Z.White pushed ob at DEN 20 for 5 yards (F.Clark).
+3 & 9 on DEN 20
+Sumamry: (3:53 - 3rd) (Shotgun) J.Garoppolo pass incomplete deep left to D.Adams (P.Surtain). PENALTY on DEN-P.Surtain, Defensive Pass Interference, 16 yards, enforced at DEN 20 - No Play.
+2 & 6 on DEN 6
+Sumamry: (2:15 - 3rd) (Shotgun) J.Garoppolo pass incomplete short right to D.Adams (P.Surtain).
+Sumamry: (2:01 - 3rd) Timeout at 02:01.
+===============
+Drive10
+Possession: Denver Broncos
+Result: Field Goal
+DEN: 16
+LV: 10
+Plays: 16
+Yards: 75
+Time: 8:7
+1 & 10 on DEN 20
+Sumamry: (2:01 - 3rd) J.Williams right guard to DEN 24 for 4 yards (M.Crosby; M.Epps).
+2 & 6 on DEN 24
+Sumamry: (1:17 - 3rd) (Shotgun) R.Wilson pass short left to J.Williams to DEN 27 for 3 yards (N.Hobbs).
+3 & 3 on DEN 27
+Sumamry: (0:39 - 3rd) R.Wilson pass short left to S.Perine pushed ob at DEN 47 for 20 yards (J.Bennett).
+1 & 10 on DEN 47
+Sumamry: (0:02 - 3rd) J.Williams right end to 50 for 3 yards (N.Hobbs; R.Spillane).
+2 & 7 on 50
+Sumamry: (15:00 - 4th) (Shotgun) R.Wilson pass short right to J.Williams to DEN 47 for -3 yards (M.Epps).
+3 & 10 on DEN 47
+Sumamry: (14:15 - 4th) (Shotgun) R.Wilson sacked at DEN 43 for -4 yards (J.Tillery).
+4 & 14 on DEN 43
+Sumamry: (13:41 - 4th) R.Dixon punts 44 yards to LV 13, Center-M.Fraboni, fair catch by D.Carter. PENALTY on LV-L.Masterson, Roughing the Kicker, 15 yards, enforced at DEN 43 - No Play.
+1 & 10 on LV 42
+Sumamry: (13:34 - 4th) J.Williams up the middle to LV 37 for 5 yards (J.Bennett).
+2 & 5 on LV 37
+Sumamry: (12:51 - 4th) Q.Bailey reported in as eligible.  R.Wilson pass short right to M.Mims pushed ob at LV 32 for 5 yards (M.Peters) [N.Hobbs].
+1 & 10 on LV 32
+Sumamry: (12:12 - 4th) (Shotgun) R.Wilson pass short right to J.Williams pushed ob at LV 25 for 7 yards (R.Spillane).
+2 & 3 on LV 25
+Sumamry: (11:44 - 4th) (No Huddle, Shotgun) R.Wilson pass short left to A.Trautman to LV 23 for 2 yards (J.Bennett).
+3 & 1 on LV 23
+Sumamry: (11:00 - 4th) R.Wilson pass short right to M.Burton to LV 20 for 3 yards (R.Spillane).
+1 & 10 on LV 20
+Sumamry: (10:19 - 4th) S.Perine left guard to LV 8 for 12 yards (N.Hobbs, D.Deablo).
+2 & 5 on LV 5
+Sumamry: (9:06 - 4th) (Shotgun) R.Wilson pass incomplete short left to B.Johnson (D.Deablo).
+3 & 5 on LV 5
+Sumamry: (9:03 - 4th) (Shotgun) R.Wilson pass incomplete short right.
+Sumamry: (8:54 - 4th) Timeout at 08:54.
+===============
+Drive11
+Possession: Las Vegas Raiders
+Result: Touchdown
+DEN: 16
+LV: 17
+Plays: 6
+Yards: 75
+Time: 2:20
+Sumamry: (8:54 - 4th) W.Lutz kicks 65 yards from DEN 35 to end zone, Touchback.
+1 & 10 on LV 25
+Sumamry: (8:54 - 4th) T.Munford reported in as eligible.  J.Garoppolo pass incomplete short left to J.Jacobs.
+2 & 10 on LV 25
+Sumamry: (8:49 - 4th) T.Munford reported in as eligible.  J.Garoppolo pass deep left to D.Adams ran ob at LV 43 for 18 yards [M.Purcell].
+1 & 10 on LV 43
+Sumamry: (8:14 - 4th) (Shotgun) J.Garoppolo pass short middle to J.Meyers to DEN 41 for 16 yards (D.Mathis). PENALTY on DEN-E.Bassey, Roughing the Passer, 15 yards, enforced at DEN 41.
+1 & 10 on DEN 26
+Sumamry: (7:45 - 4th) (Shotgun) J.Garoppolo pass deep right to A.Hooper to DEN 6 for 20 yards (J.Simmons).
+Sumamry: (6:34 - 4th) Timeout at 06:34.
+===============
+Drive12
+Possession: Denver Broncos
+Result: Punt
+DEN: 16
+LV: 17
+Plays: 3
+Yards: 7
+Time: 1:26
+Sumamry: (6:34 - 4th) D.Carlson kicks 65 yards from LV 35 to end zone, Touchback.
+1 & 10 on DEN 25
+Sumamry: (6:34 - 4th) J.Williams right tackle to DEN 24 for -1 yards (N.Hobbs, D.Deablo).
+2 & 11 on DEN 24
+Sumamry: (5:55 - 4th) (Shotgun) R.Wilson pass incomplete short right to C.Sutton.
+3 & 11 on DEN 24
+Sumamry: (5:50 - 4th) (Shotgun) R.Wilson pass short left to A.Trautman to DEN 32 for 8 yards (T.Moehrig).
+4 & 3 on DEN 32
+Sumamry: (5:08 - 4th) R.Dixon punts 37 yards to LV 31, Center-M.Fraboni, out of bounds.
+Sumamry: (5:08 - 4th) Timeout at 05:08.
+===============
+Drive13
+Possession: Las Vegas Raiders
+Result: End of Game
+DEN: 16
+LV: 17
+Plays: 11
+Yards: 41
+Time: 5:8
+1 & 10 on LV 31
+Sumamry: (5:08 - 4th) (Shotgun) J.Garoppolo pass short left to D.Carter to LV 36 for 5 yards (D.Jones).
+2 & 5 on LV 36
+Sumamry: (4:31 - 4th) (Shotgun) J.Jacobs right tackle to LV 42 for 6 yards (J.Cooper).
+1 & 10 on LV 42
+Sumamry: (3:51 - 4th) (Shotgun) J.Jacobs left tackle to LV 47 for 5 yards (J.Harris).
+2 & 5 on LV 47
+Sumamry: (3:06 - 4th) T.Munford reported in as eligible.  J.Jacobs right guard to LV 44 for -3 yards (Z.Allen).
+Sumamry: (3:00 - 4th) Timeout #2 by DEN at 03:00.
+3 & 8 on LV 44
+Sumamry: (3:00 - 4th) (Shotgun) J.Garoppolo pass short middle to J.Meyers to DEN 49 for 7 yards (K.Jackson). LV-J.Meyers was injured during the play.  PENALTY on DEN-K.Jackson, Unnecessary Roughness, 15 yards, enforced at DEN 49.
+Sumamry: (2:54 - 4th) Timeout at 02:54.
+1 & 10 on DEN 34
+Sumamry: (2:53 - 4th) J.Jacobs right guard to DEN 32 for 2 yards (Z.Allen; J.Jewell).
+2 & 8 on DEN 32
+Sumamry: (2:09 - 4th) J.Garoppolo scrambles left end to DEN 31 for 1 yard (D.Jones).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+3 & 7 on DEN 31
+Sumamry: (2:00 - 4th) (Shotgun) J.Garoppolo scrambles left end to DEN 23 for 8 yards (J.Jewell).
+Sumamry: (1:42 - 4th) Timeout #3 by DEN at 01:42.
+1 & 10 on DEN 23
+Sumamry: (1:42 - 4th) J.Garoppolo kneels to DEN 25 for -2 yards.
+2 & 12 on DEN 25
+Sumamry: (0:58 - 4th) J.Garoppolo kneels to DEN 27 for -2 yards.
+3 & 14 on DEN 27
+Sumamry: (0:20 - 4th) J.Garoppolo kneels to DEN 28 for -1 yards.
+Sumamry: (0:00 - 4th) END GAME
+===============

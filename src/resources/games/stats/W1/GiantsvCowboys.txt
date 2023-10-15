@@ -1,0 +1,492 @@
+Drive1
+Possession: New York Giants
+Result: Blocked FG Touchdown
+NYG: 0
+DAL: 6
+Plays: 11
+Yards: 48
+Time: 6:57
+Sumamry: (15:00 - 1st) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (15:00 - 1st) (Shotgun) S.Barkley left guard to NYG 30 for 5 yards (L.Vander Esch, M.Hooker).
+2 & 5 on NYG 30
+Sumamry: (14:28 - 1st) (Shotgun) D.Jones scrambles left end to NYG 38 for 8 yards (J.Kearse). PENALTY on DAL-J.Kearse, Unnecessary Roughness, 15 yards, enforced at NYG 38.
+1 & 10 on DAL 47
+Sumamry: (14:01 - 1st) D.Jones pass short right to S.Barkley to DAL 47 for no gain (J.Hankins).
+2 & 10 on DAL 47
+Sumamry: (13:24 - 1st) S.Barkley right tackle to DAL 38 for 9 yards (M.Parsons; M.Hooker).
+3 & 1 on DAL 38
+Sumamry: (12:44 - 1st) S.Barkley right end to DAL 33 for 5 yards (M.Hooker).
+1 & 10 on DAL 33
+Sumamry: (12:02 - 1st) (Shotgun) M.Breida right guard to DAL 27 for 6 yards (L.Vander Esch).
+2 & 4 on DAL 27
+Sumamry: (11:24 - 1st) (Shotgun) D.Jones scrambles right end pushed ob at DAL 16 for 11 yards (M.Hooker).
+Sumamry: (10:45 - 1st) Timeout #1 by NYG at 10:45.
+1 & 10 on DAL 16
+Sumamry: (10:45 - 1st) (Shotgun) S.Barkley up the middle to DAL 16 for no gain (J.Thomas).
+2 & 10 on DAL 16
+Sumamry: (10:04 - 1st) (Shotgun) D.Jones scrambles left tackle to DAL 8 for 8 yards (S.Gilmore).
+3 & 2 on DAL 8
+Sumamry: (9:17 - 1st) (Shotgun) PENALTY on NYG-A.Thomas, False Start, 5 yards, enforced at DAL 8 - No Play.
+3 & 7 on DAL 13
+Sumamry: (8:53 - 1st) (Shotgun) D.Jones Aborted. J.Schmitz FUMBLES at DAL 18, recovered by NYG-D.Jones at DAL 27.
+4 & 21 on DAL 27
+Sumamry: (8:03 - 1st) Noah Igbinoghene 58 Yd Return of Blocked Field Goal (Brandon Aubrey PAT failed)
+Sumamry: (8:03 - 1st) Timeout at 08:03.
+===============
+Drive2
+Possession: New York Giants
+Result: Punt
+NYG: 0
+DAL: 6
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (8:03 - 1st) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (8:03 - 1st) (Shotgun) D.Jones pass incomplete short right to D.Slayton (D.Fowler) [D.Fowler].
+2 & 10 on NYG 25
+Sumamry: (7:59 - 1st) (Shotgun) D.Jones pass incomplete short right to D.Waller (J.Thomas).
+3 & 10 on NYG 25
+Sumamry: (7:54 - 1st) (Shotgun) D.Jones sacked at NYG 15 for -10 yards (M.Parsons).
+4 & 20 on NYG 15
+Sumamry: (7:18 - 1st) J.Gillan punts 59 yards to DAL 26, Center-C.Kreiter, downed by NYG-N.McCloud.
+Sumamry: (7:06 - 1st) Timeout at 07:06.
+===============
+Drive3
+Possession: Dallas Cowboys
+Result: Field Goal
+NYG: 0
+DAL: 9
+Plays: 9
+Yards: 72
+Time: 3:45
+1 & 10 on DAL 26
+Sumamry: (7:06 - 1st) (Shotgun) D.Prescott pass short right to J.Ferguson to DAL 28 for 2 yards (X.McKinney).
+2 & 8 on DAL 28
+Sumamry: (6:37 - 1st) T.Pollard right guard to DAL 32 for 4 yards (M.McFadden; A.Jackson).
+3 & 4 on DAL 32
+Sumamry: (5:55 - 1st) (Shotgun) D.Prescott pass deep left to C.Lamb pushed ob at NYG 19 for 49 yards (A.Jackson).
+1 & 10 on NYG 19
+Sumamry: (5:26 - 1st) (No Huddle, Shotgun) D.Prescott pass short right to J.Ferguson to NYG 10 for 9 yards (T.Hawkins, X.McKinney).
+2 & 1 on NYG 10
+Sumamry: (4:47 - 1st) (Shotgun) T.Pollard right guard to NYG 6 for 4 yards (M.McFadden; B.Okereke).
+1 & 6 on NYG 6
+Sumamry: (4:10 - 1st) (Shotgun) D.Prescott pass incomplete short left to J.Ferguson (D.Banks, X.McKinney).
+Sumamry: (3:30 - 1st) Timeout #2 by NYG at 03:30.
+3 & 2 on NYG 2
+Sumamry: (3:30 - 1st) D.Prescott pass incomplete short left to J.Ferguson.
+Sumamry: (3:21 - 1st) Timeout at 03:21.
+===============
+Drive4
+Possession: New York Giants
+Result: Interception Touchdown
+NYG: 0
+DAL: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (3:21 - 1st) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (3:21 - 1st) D.Jones sacked at NYG 16 for -9 yards (D.Lawrence).
+2 & 19 on NYG 16
+Sumamry: (2:39 - 1st) (Shotgun) D.Jones pass incomplete deep left.
+3 & 19 on NYG 16
+Sumamry: (2:22 - 1st) (Shotgun) D.Jones pass short left intended for S.Barkley INTERCEPTED by D.Bland (T.Diggs) at NYG 22. D.Bland for 22 yards, TOUCHDOWN.B.Aubrey extra point is GOOD, Center-T.Sieg, Holder-B.Anger.
+Sumamry: (2:22 - 1st) Timeout at 02:22.
+===============
+Drive5
+Possession: New York Giants
+Result: Punt
+NYG: 0
+DAL: 16
+Plays: 3
+Yards: 3
+Time: 2:1
+Sumamry: (2:22 - 1st) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (2:22 - 1st) (Shotgun) S.Barkley left tackle to NYG 30 for 5 yards (J.Kearse; D.Clark).
+2 & 5 on NYG 30
+Sumamry: (1:44 - 1st) (Shotgun) S.Barkley left guard to NYG 33 for 3 yards (M.Bell).
+3 & 2 on NYG 33
+Sumamry: (1:10 - 1st) (Shotgun) D.Jones right end to NYG 28 for -5 yards (M.Bell).
+4 & 7 on NYG 28
+Sumamry: (0:32 - 1st) J.Gillan punts 62 yards to DAL 10, Center-C.Kreiter. K.Turpin to DAL 20 for 10 yards (M.McFadden).
+Sumamry: (0:21 - 1st) Timeout at 00:21.
+===============
+Drive6
+Possession: Dallas Cowboys
+Result: Field Goal
+NYG: 0
+DAL: 19
+Plays: 11
+Yards: 60
+Time: 4:26
+1 & 10 on DAL 20
+Sumamry: (0:21 - 1st) T.Pollard left tackle to DAL 18 for -2 yards (J.Riley, K.Thibodeaux).
+2 & 12 on DAL 18
+Sumamry: (15:00 - 2nd) (Shotgun) D.Prescott pass incomplete short left to B.Cooks.
+3 & 12 on DAL 18
+Sumamry: (14:57 - 2nd) (Shotgun) D.Prescott pass incomplete deep right to B.Cooks [L.Williams]. PENALTY on NYG-T.Hawkins, Defensive Pass Interference, 37 yards, enforced at DAL 18 - No Play.
+1 & 10 on NYG 45
+Sumamry: (14:46 - 2nd) D.Prescott pass incomplete short right to J.Ferguson (X.McKinney) [J.Ward].
+2 & 10 on NYG 45
+Sumamry: (14:44 - 2nd) (Shotgun) T.Pollard right tackle to NYG 43 for 2 yards (R.Nunez-Roches).
+3 & 8 on NYG 43
+Sumamry: (14:18 - 2nd) (No Huddle, Shotgun) D.Prescott pass short right to T.Pollard to NYG 38 for 5 yards (I.Simmons, T.Hawkins).
+4 & 3 on NYG 38
+Sumamry: (13:42 - 2nd) (Shotgun) D.Prescott pass short middle to B.Cooks to NYG 32 for 6 yards (T.Hawkins).
+1 & 10 on NYG 32
+Sumamry: (13:06 - 2nd) R.Dowdle right guard to NYG 22 for 10 yards (D.Belton; K.Thibodeaux).
+1 & 10 on NYG 22
+Sumamry: (12:24 - 2nd) R.Dowdle left guard to NYG 20 for 2 yards (D.Lawrence; A.Ojulari).
+2 & 8 on NYG 20
+Sumamry: (11:45 - 2nd) R.Dowdle right guard to NYG 20 for no gain (K.Thibodeaux).
+3 & 8 on NYG 20
+Sumamry: (11:05 - 2nd) (Shotgun) D.Prescott pass incomplete short right to J.Ferguson.
+4 & 8 on NYG 20
+Sumamry: (10:55 - 2nd) B.Aubrey 38 yard field goal is GOOD, Center-T.Sieg, Holder-B.Anger.
+Sumamry: (10:55 - 2nd) Timeout at 10:55.
+===============
+Drive7
+Possession: New York Giants
+Result: Interception
+NYG: 0
+DAL: 19
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (10:55 - 2nd) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (10:48 - 2nd) (Shotgun) D.Jones pass short right intended for D.Waller INTERCEPTED by S.Gilmore [M.Parsons] at NYG 38. S.Gilmore to NYG 38 for no gain. Penalty on NYG-E.Neal, Offensive Holding, declined.
+===============
+Drive8
+Possession: Dallas Cowboys
+Result: Touchdown
+NYG: 0
+DAL: 26
+Plays: 5
+Yards: 38
+Time: 2:45
+1 & 10 on NYG 38
+Sumamry: (10:48 - 2nd) D.Prescott pass deep middle to B.Cooks to NYG 22 for 16 yards (A.Jackson) [D.Lawrence].
+1 & 10 on NYG 22
+Sumamry: (10:03 - 2nd) (Shotgun) K.Turpin left end to NYG 16 for 6 yards (J.Pinnock).
+2 & 4 on NYG 16
+Sumamry: (9:25 - 2nd) D.Prescott pass incomplete deep right to C.Lamb. PENALTY on NYG-D.Banks, Illegal Contact, 5 yards, enforced at NYG 16 - No Play.
+1 & 10 on NYG 11
+Sumamry: (9:21 - 2nd) (Shotgun) D.Prescott left end to NYG 5 for 6 yards (X.McKinney; D.Banks).
+2 & 4 on NYG 5
+Sumamry: (8:45 - 2nd) T.Pollard left guard to NYG 2 for 3 yards (L.Williams, M.McFadden).
+3 & 1 on NYG 2
+Sumamry: (8:03 - 2nd) T.Pollard right end for 2 yards, TOUCHDOWN.B.Aubrey extra point is GOOD, Center-T.Sieg, Holder-B.Anger.
+Sumamry: (8:03 - 2nd) Timeout at 08:03.
+===============
+Drive9
+Possession: New York Giants
+Result: Missed FG
+NYG: 0
+DAL: 26
+Plays: 15
+Yards: 57
+Time: 6:58
+Sumamry: (8:03 - 2nd) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (8:03 - 2nd) S.Barkley left guard to NYG 25 for no gain (L.Vander Esch).
+2 & 10 on NYG 25
+Sumamry: (7:23 - 2nd) (Shotgun) D.Jones pass short middle to P.Campbell to NYG 28 for 3 yards (M.Bell) [S.Williams]. PENALTY on DAL-T.Diggs, Defensive Holding, 5 yards, enforced at NYG 25 - No Play.
+1 & 10 on NYG 30
+Sumamry: (7:00 - 2nd) (Shotgun) D.Jones pass short right to D.Waller to NYG 36 for 6 yards (S.Gilmore).
+2 & 4 on NYG 36
+Sumamry: (6:27 - 2nd) S.Barkley right tackle to NYG 39 for 3 yards (O.Odighizuwa; J.Kearse).
+3 & 1 on NYG 39
+Sumamry: (5:52 - 2nd) (Shotgun) D.Jones pass short left to D.Waller ran ob at NYG 47 for 8 yards (M.Hooker) [D.Bland].
+1 & 10 on NYG 47
+Sumamry: (5:24 - 2nd) S.Barkley left end to NYG 45 for -2 yards (D.Armstrong, J.Hankins).
+2 & 12 on NYG 45
+Sumamry: (4:48 - 2nd) (Shotgun) D.Jones pass incomplete short middle to I.Hodgins.
+3 & 12 on NYG 45
+Sumamry: (4:44 - 2nd) (Shotgun) D.Jones scrambles left end pushed ob at DAL 48 for 7 yards (L.Vander Esch).
+Sumamry: (4:31 - 2nd) Timeout #1 by DAL at 04:31.
+4 & 5 on DAL 48
+Sumamry: (4:31 - 2nd) (Shotgun) D.Jones pass short left to D.Waller to DAL 26 for 22 yards (S.Gilmore).
+1 & 10 on DAL 26
+Sumamry: (3:46 - 2nd) S.Barkley up the middle to DAL 24 for 2 yards (M.Bell).
+2 & 8 on DAL 24
+Sumamry: (3:12 - 2nd) S.Barkley left guard to DAL 21 for 3 yards (O.Odighizuwa; M.Bell).
+3 & 5 on DAL 21
+Sumamry: (2:32 - 2nd) (Shotgun) D.Jones pass short right to S.Barkley pushed ob at DAL 14 for 7 yards (L.Vander Esch).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+1 & 10 on DAL 14
+Sumamry: (2:00 - 2nd) D.Jones sacked at DAL 19 for -5 yards (D.Armstrong).
+2 & 15 on DAL 19
+Sumamry: (1:20 - 2nd) D.Jones pass incomplete short right to P.Campbell.
+3 & 15 on DAL 19
+Sumamry: (1:15 - 2nd) (Shotgun) D.Jones scrambles up the middle to DAL 18 for 1 yard (S.Williams; J.Thomas).
+Sumamry: (1:10 - 2nd) Timeout #2 by DAL at 01:10.
+4 & 14 on DAL 18
+Sumamry: (1:09 - 2nd) G.Gano 36 yard field goal is No Good, Wide Left, Center-C.Kreiter, Holder-J.Gillan.
+Sumamry: (1:05 - 2nd) Timeout at 01:05.
+===============
+Drive10
+Possession: Dallas Cowboys
+Result: Punt
+NYG: 0
+DAL: 26
+Plays: 3
+Yards: 4
+Time: 0:23
+1 & 10 on DAL 26
+Sumamry: (1:05 - 2nd) (Shotgun) D.Prescott pass incomplete deep left to M.Gallup (D.Banks).
+2 & 10 on DAL 26
+Sumamry: (1:00 - 2nd) (Shotgun) D.Prescott pass incomplete short right to T.Pollard [D.Lawrence].
+Sumamry: (0:56 - 2nd) Timeout #3 by DAL at 00:56.
+3 & 10 on DAL 26
+Sumamry: (0:56 - 2nd) (Shotgun) T.Pollard right guard to DAL 30 for 4 yards (D.Lawrence).
+Sumamry: (0:52 - 2nd) Timeout #3 by NYG at 00:52.
+4 & 6 on DAL 30
+Sumamry: (0:51 - 2nd) B.Anger punts 48 yards to NYG 22, Center-T.Sieg. E.Gray to NYG 29 for 7 yards (J.Tolbert).
+Sumamry: (0:42 - 2nd) Timeout at 00:42.
+===============
+Drive11
+Possession: New York Giants
+Result: End of Half
+NYG: 0
+DAL: 26
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on NYG 29
+Sumamry: (0:42 - 2nd) (Shotgun) D.Jones pass incomplete short middle to J.Hyatt.
+2 & 10 on NYG 29
+Sumamry: (0:37 - 2nd) (Shotgun) D.Jones sacked at NYG 22 for -7 yards (O.Odighizuwa).
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive12
+Possession: Dallas Cowboys
+Result: Touchdown
+NYG: 0
+DAL: 33
+Plays: 10
+Yards: 75
+Time: 4:59
+Sumamry: (15:00 - 3rd) G.Gano kicks 65 yards from NYG 35 to end zone, Touchback.
+1 & 10 on DAL 25
+Sumamry: (15:00 - 3rd) (Shotgun) D.Prescott pass short left to M.Gallup to DAL 35 for 10 yards (N.McCloud).
+1 & 10 on DAL 35
+Sumamry: (14:29 - 3rd) (Shotgun) T.Pollard up the middle to DAL 42 for 7 yards (M.McFadden).
+2 & 3 on DAL 42
+Sumamry: (14:01 - 3rd) K.Turpin left tackle to DAL 43 for 1 yard (D.Lawrence; K.Thibodeaux).
+3 & 2 on DAL 43
+Sumamry: (13:22 - 3rd) (Shotgun) D.Prescott pass short right to C.Lamb to NYG 48 for 9 yards (J.Pinnock).
+1 & 10 on NYG 48
+Sumamry: (12:50 - 3rd) T.Pollard right tackle to NYG 23 for 25 yards (T.Hawkins).
+1 & 10 on NYG 23
+Sumamry: (12:09 - 3rd) R.Dowdle right tackle to NYG 19 for 4 yards (As.Robinson, X.McKinney).
+2 & 6 on NYG 19
+Sumamry: (11:31 - 3rd) (Shotgun) D.Prescott pass incomplete deep left to P.Hendershot.
+3 & 6 on NYG 19
+Sumamry: (11:26 - 3rd) (Shotgun) D.Prescott pass short right to T.Pollard to NYG 12 for 7 yards (B.Okereke). FUMBLES (B.Okereke), recovered by DAL-T.Biadasz at NYG 4.
+Sumamry: (10:01 - 3rd) Timeout at 10:01.
+===============
+Drive13
+Possession: New York Giants
+Result: Punt
+NYG: 0
+DAL: 33
+Plays: 7
+Yards: 7
+Time: 4:43
+Sumamry: (10:01 - 3rd) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (10:01 - 3rd) D.Jones scrambles right end ran ob at NYG 34 for 9 yards (J.Kearse).
+2 & 1 on NYG 34
+Sumamry: (9:27 - 3rd) (Shotgun) D.Jones FUMBLES (Aborted) at NYG 30, and recovers at NYG 30. D.Jones to NYG 32 for 2 yards (M.Smith).
+3 & 3 on NYG 32
+Sumamry: (8:49 - 3rd) (Shotgun) D.Jones up the middle to NYG 32 for no gain (M.Parsons).
+4 & 3 on NYG 32
+Sumamry: (8:03 - 3rd) (Shotgun) D.Jones pass short left to S.Barkley pushed ob at NYG 37 for 5 yards (T.Diggs).
+1 & 10 on NYG 37
+Sumamry: (7:32 - 3rd) (Shotgun) D.Jones sacked at NYG 33 for -4 yards (O.Odighizuwa).
+2 & 14 on NYG 33
+Sumamry: (6:52 - 3rd) (Shotgun) D.Jones pass short left to D.Slayton pushed ob at NYG 35 for 2 yards (T.Diggs).
+3 & 12 on NYG 35
+Sumamry: (6:09 - 3rd) (Shotgun) D.Jones sacked at NYG 32 for -3 yards (D.Armstrong).
+4 & 15 on NYG 32
+Sumamry: (5:28 - 3rd) J.Gillan punts 39 yards to DAL 29, Center-C.Kreiter. K.Turpin ran ob at DAL 36 for 7 yards (C.Kreiter).
+Sumamry: (5:18 - 3rd) Timeout at 05:18.
+===============
+Drive14
+Possession: Dallas Cowboys
+Result: Punt
+NYG: 0
+DAL: 33
+Plays: 4
+Yards: 8
+Time: 2:30
+1 & 10 on DAL 36
+Sumamry: (5:18 - 3rd) R.Dowdle up the middle to DAL 39 for 3 yards (R.Nunez-Roches; M.McFadden).
+2 & 7 on DAL 39
+Sumamry: (4:41 - 3rd) D.Prescott pass incomplete short left to C.Lamb (K.Thibodeaux) [K.Thibodeaux]. PENALTY on NYG-T.Hawkins, Defensive Holding, 5 yards, enforced at DAL 39 - No Play.
+1 & 10 on DAL 44
+Sumamry: (4:36 - 3rd) R.Dowdle right tackle to DAL 49 for 5 yards (R.Nunez-Roches; D.Lawrence). DAL-C.Edoga was injured during the play.
+Sumamry: (4:08 - 3rd) Timeout at 04:08.
+2 & 5 on DAL 49
+Sumamry: (4:08 - 3rd) D.Prescott pass short right to C.Lamb to DAL 49 for no gain (M.McFadden).
+3 & 5 on DAL 49
+Sumamry: (3:21 - 3rd) (Shotgun) PENALTY on DAL-T.Steele, False Start, 5 yards, enforced at DAL 49 - No Play.
+3 & 10 on DAL 44
+Sumamry: (3:01 - 3rd) (Shotgun) D.Prescott pass incomplete short middle to B.Cooks.
+4 & 10 on DAL 44
+Sumamry: (2:57 - 3rd) B.Anger punts 56 yards to end zone, Center-T.Sieg, Touchback.
+Sumamry: (2:48 - 3rd) Timeout at 02:48.
+===============
+Drive15
+Possession: New York Giants
+Result: Downs
+NYG: 0
+DAL: 33
+Plays: 9
+Yards: 30
+Time: 2:48
+1 & 10 on NYG 20
+Sumamry: (2:48 - 3rd) S.Barkley left tackle to NYG 38 for 18 yards (L.Vander Esch, J.Kearse).
+1 & 10 on NYG 38
+Sumamry: (2:16 - 3rd) (No Huddle, Shotgun) D.Jones pass short right to D.Bellinger to NYG 39 for 1 yard (D.Clark).
+2 & 9 on NYG 39
+Sumamry: (1:49 - 3rd) (No Huddle, Shotgun) D.Jones pass incomplete short right to P.Campbell.
+3 & 9 on NYG 39
+Sumamry: (1:45 - 3rd) (Shotgun) D.Jones pass short right to D.Slayton to NYG 47 for 8 yards (S.Gilmore).
+4 & 1 on NYG 47
+Sumamry: (1:15 - 3rd) D.Jones up the middle to NYG 48 for 1 yard (J.Kearse; M.Smith).
+1 & 10 on NYG 48
+Sumamry: (0:46 - 3rd) (No Huddle, Shotgun) D.Jones right end to 50 for 2 yards (J.Kearse; D.Clark).
+2 & 8 on 50
+Sumamry: (0:11 - 3rd) (No Huddle, Shotgun) D.Jones pass incomplete short left to S.Shepard (S.Gilmore).
+3 & 8 on 50
+Sumamry: (0:07 - 3rd) (Shotgun) D.Jones pass incomplete short middle to P.Campbell (D.Fowler) [D.Fowler].
+4 & 8 on 50
+Sumamry: (0:02 - 3rd) (No Huddle, Shotgun) D.Jones pass incomplete short right to I.Hodgins (S.Gilmore). Penalty on NYG-A.Thomas, Offensive Holding, declined.
+===============
+Drive16
+Possession: Dallas Cowboys
+Result: Touchdown
+NYG: 0
+DAL: 40
+Plays: 8
+Yards: 50
+Time: 3:29
+1 & 10 on 50
+Sumamry: (15:00 - 4th) D.Prescott pass short right to C.Lamb pushed ob at NYG 31 for 19 yards (T.Hawkins).
+1 & 10 on NYG 31
+Sumamry: (14:27 - 4th) T.Pollard up the middle to NYG 19 for 12 yards (B.Okereke).
+1 & 10 on NYG 19
+Sumamry: (13:49 - 4th) T.Pollard right guard to NYG 16 for 3 yards (B.Okereke).
+3 & 7 on NYG 16
+Sumamry: (13:04 - 4th) (Shotgun) D.Prescott pass short middle to K.Turpin to NYG 9 for 7 yards (J.Pinnock).
+2 & 7 on NYG 7
+Sumamry: (11:42 - 4th) (Shotgun) D.Prescott pass incomplete short left to J.Ferguson.
+Sumamry: (11:31 - 4th) Timeout at 11:31.
+===============
+Drive17
+Possession: New York Giants
+Result: Fumble
+NYG: 0
+DAL: 40
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (11:31 - 4th) B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback.
+1 & 10 on NYG 25
+Sumamry: (11:31 - 4th) (Shotgun) D.Jones pass short left to I.Hodgins to NYG 49 for 24 yards (T.Diggs). FUMBLES (T.Diggs), touched at DAL 49, RECOVERED by DAL-I.Mukuamu at DAL 40. I.Mukuamu to DAL 37 for -3 yards (S.Shepard).
+Sumamry: (11:19 - 4th) Timeout at 11:19.
+===============
+Drive18
+Possession: Dallas Cowboys
+Result: Punt
+NYG: 0
+DAL: 40
+Plays: 3
+Yards: 2
+Time: 2:15
+1 & 10 on DAL 37
+Sumamry: (11:19 - 4th) #10-C.Rush in at quarterback. D.Vaughn right end pushed ob at DAL 42 for 5 yards (T.Hawkins).
+2 & 5 on DAL 42
+Sumamry: (10:40 - 4th) D.Vaughn left guard to DAL 44 for 2 yards (C.Basham).
+3 & 3 on DAL 44
+Sumamry: (10:00 - 4th) (Shotgun) D.Vaughn left end to DAL 39 for -5 yards (M.McFadden).
+4 & 8 on DAL 39
+Sumamry: (9:14 - 4th) B.Anger punts 42 yards to NYG 19, Center-T.Sieg, downed by DAL-P.Hendershot.
+Sumamry: (9:04 - 4th) Timeout at 09:04.
+===============
+Drive19
+Possession: New York Giants
+Result: Downs
+NYG: 0
+DAL: 40
+Plays: 10
+Yards: 19
+Time: 5:54
+1 & 10 on NYG 19
+Sumamry: (9:04 - 4th) (Shotgun) D.Jones scrambles left end to NYG 20 for 1 yard (D.Clark).
+2 & 9 on NYG 20
+Sumamry: (8:31 - 4th) (No Huddle, Shotgun) D.Jones pass short right to L.Cager to NYG 28 for 8 yards (D.Bland). NYG-M.Peart was injured during the play.
+Sumamry: (8:13 - 4th) Timeout at 08:13.
+3 & 1 on NYG 28
+Sumamry: (8:04 - 4th) M.Breida up the middle to NYG 31 for 3 yards (C.Golston; S.Williams).
+1 & 10 on NYG 31
+Sumamry: (7:33 - 4th) (Shotgun) D.Jones scrambles right end pushed ob at NYG 35 for 4 yards (C.Golston). PENALTY on NYG-B.Bredeson, Offensive Holding, 10 yards, enforced at NYG 31 - No Play.
+1 & 20 on NYG 21
+Sumamry: (7:11 - 4th) (Shotgun) D.Jones sacked at NYG 16 for -5 yards (C.Golston). PENALTY on DAL-M.Bell, Defensive Holding, 5 yards, enforced at NYG 21 - No Play.
+1 & 10 on NYG 26
+Sumamry: (6:53 - 4th) (Shotgun) G.Brightwell right end to NYG 31 for 5 yards (M.Bell).
+2 & 5 on NYG 31
+Sumamry: (6:26 - 4th) (No Huddle, Shotgun) D.Jones pass short left to P.Campbell to NYG 33 for 2 yards (D.Bland).
+3 & 3 on NYG 33
+Sumamry: (5:59 - 4th) (No Huddle, Shotgun) D.Jones pass short middle to L.Cager to NYG 42 for 9 yards (C.Goodwin, D.Clark).
+1 & 10 on NYG 42
+Sumamry: (5:27 - 4th) (No Huddle, Shotgun) D.Jones sacked at NYG 34 for -8 yards (C.Golston). FUMBLES (C.Golston) [C.Golston], recovered by NYG-M.Glowinski at NYG 33. Officially, a sack for 9 yards.
+2 & 19 on NYG 33
+Sumamry: (4:45 - 4th) (No Huddle, Shotgun) D.Jones sacked at NYG 27 for -6 yards (S.Williams). PENALTY on DAL-S.Williams, Defensive Offside, 5 yards, enforced at NYG 33 - No Play.
+2 & 14 on NYG 38
+Sumamry: (4:43 - 4th) (Shotgun) D.Jones pass short left to M.Breida to NYG 43 for 5 yards (M.Bell). FUMBLES (M.Bell), recovered by NYG-P.Campbell at NYG 35. P.Campbell to NYG 33 for -2 yards. Officially, a pass for -3 yards.
+3 & 19 on NYG 33
+Sumamry: (3:59 - 4th) (Shotgun) D.Jones pass short left to D.Slayton to NYG 38 for 5 yards (M.Bell).
+4 & 14 on NYG 38
+Sumamry: (3:16 - 4th) (Shotgun) D.Jones pass incomplete deep right to D.Slayton [O.Odighizuwa].
+===============
+Drive20
+Possession: Dallas Cowboys
+Result: Downs
+NYG: 0
+DAL: 40
+Plays: 4
+Yards: 6
+Time: 2:0
+1 & 10 on NYG 38
+Sumamry: (3:09 - 4th) D.Vaughn right tackle to NYG 38 for no gain (B.Okereke).
+2 & 10 on NYG 38
+Sumamry: (2:25 - 4th) D.Vaughn right end to NYG 34 for 4 yards (M.McFadden; As.Robinson).
+Sumamry: (2:00 - 4th) Two-Minute Warning
+3 & 6 on NYG 34
+Sumamry: (2:00 - 4th) D.Vaughn right end to NYG 32 for 2 yards (As.Robinson; J.Pinnock).
+Sumamry: (1:14 - 4th) Timeout #1 by DAL at 01:14.
+4 & 4 on NYG 32
+Sumamry: (1:14 - 4th) (Shotgun) C.Rush pass incomplete deep left to J.Tolbert.
+===============
+Drive21
+Possession: New York Giants
+Result: End of Game
+NYG: 0
+DAL: 40
+Plays: 0
+Yards: 0
+Time: 0:0
+1 & 10 on NYG 32
+Sumamry: (1:10 - 4th) (Shotgun) T.Taylor scrambles right end to NYG 38 for 6 yards (D.Bland). PENALTY on NYG-J.Ezeudu, Offensive Holding, 10 yards, enforced at NYG 32 - No Play.
+1 & 20 on NYG 22
+Sumamry: (1:01 - 4th) (Shotgun) T.Taylor pass short right to G.Brightwell to NYG 31 for 9 yards (D.Harper, M.Bell).
+2 & 11 on NYG 31
+Sumamry: (0:30 - 4th) (No Huddle, Shotgun) T.Taylor pass short left to G.Brightwell to NYG 28 for -3 yards (D.Bland).
+Sumamry: (0:00 - 4th) END GAME
+===============

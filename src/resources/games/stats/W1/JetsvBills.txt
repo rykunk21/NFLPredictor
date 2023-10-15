@@ -1,0 +1,510 @@
+Drive1
+Possession: Buffalo Bills
+Result: Punt
+NYJ: 0
+BUF: 0
+Plays: 5
+Yards: 17
+Time: 2:30
+Sumamry: (15:00 - 1st) G.Zuerlein kicks 65 yards from NYJ 35 to end zone, Touchback.
+1 & 10 on BUF 25
+Sumamry: (15:00 - 1st) (Shotgun) J.Allen pass short right to S.Diggs to BUF 32 for 7 yards (A.Gardner).
+2 & 3 on BUF 32
+Sumamry: (14:34 - 1st) (No Huddle, Shotgun) J.Allen pass short left to D.Harty to BUF 37 for 5 yards (Qu.Williams).
+1 & 10 on BUF 37
+Sumamry: (14:01 - 1st) J.Cook up the middle to BUF 40 for 3 yards (J.Johnson, J.Franklin-Myers).
+2 & 7 on BUF 40
+Sumamry: (13:24 - 1st) (Shotgun) J.Cook up the middle to BUF 42 for 2 yards (Q.Williams; J.Franklin-Myers).
+3 & 5 on BUF 42
+Sumamry: (12:39 - 1st) (Shotgun) J.Allen pass incomplete short left to S.Diggs.
+4 & 5 on BUF 42
+Sumamry: (12:37 - 1st) S.Martin punts 46 yards to NYJ 12, Center-R.Ferguson, fair catch by X.Gipson.
+===============
+Drive2
+Possession: New York Jets
+Result: Punt
+NYJ: 0
+BUF: 0
+Plays: 5
+Yards: 34
+Time: 3:6
+1 & 10 on NYJ 12
+Sumamry: (12:30 - 1st) Bre.Hall left tackle pushed ob at NYJ 38 for 26 yards (M.Hyde).
+1 & 10 on NYJ 38
+Sumamry: (11:53 - 1st) (Shotgun) A.Rodgers pass incomplete deep right [E.Oliver].
+2 & 10 on NYJ 38
+Sumamry: (11:46 - 1st) (Shotgun) A.Rodgers pass incomplete short right to T.Conklin [G.Rousseau]. PENALTY on BUF-T.Bernard, Defensive Holding, 5 yards, enforced at NYJ 38 - No Play.
+1 & 10 on NYJ 43
+Sumamry: (11:40 - 1st) (Shotgun) A.Rodgers sacked at NYJ 33 for -10 yards (L.Floyd). NYJ-A.Rodgers was injured during the play. He is Out.
+2 & 20 on NYJ 33
+Sumamry: (10:56 - 1st) Z.Wilson in at QB. (Shotgun) Z.Wilson pass short left to G.Wilson to NYJ 40 for 7 yards (M.Milano; M.Hyde).
+3 & 13 on NYJ 40
+Sumamry: (10:17 - 1st) (Shotgun) Z.Wilson pass short left to Mi.Carter to NYJ 46 for 6 yards (M.Hyde, M.Milano).
+4 & 7 on NYJ 46
+Sumamry: (9:33 - 1st) T.Morstead punts 31 yards to BUF 23, Center-T.Hennessy, out of bounds.
+Sumamry: (9:24 - 1st) Timeout at 09:24.
+===============
+Drive3
+Possession: Buffalo Bills
+Result: Field Goal
+NYJ: 0
+BUF: 3
+Plays: 11
+Yards: 55
+Time: 6:19
+1 & 10 on BUF 23
+Sumamry: (9:24 - 1st) (Shotgun) PENALTY on BUF-D.Knox, False Start, 5 yards, enforced at BUF 23 - No Play.
+1 & 15 on BUF 18
+Sumamry: (9:24 - 1st) (Shotgun) J.Cook right tackle to BUF 23 for 5 yards (Qu.Williams).
+2 & 10 on BUF 23
+Sumamry: (8:44 - 1st) (Shotgun) J.Allen pass short right to D.Harty to BUF 24 for 1 yard (C.Mosley).
+3 & 9 on BUF 24
+Sumamry: (8:02 - 1st) (Shotgun) J.Allen scrambles up the middle to BUF 38 for 14 yards (D.Reed).
+1 & 10 on BUF 38
+Sumamry: (7:25 - 1st) (Shotgun) J.Allen pass short left to D.Harty pushed ob at BUF 41 for 3 yards (A.Amos).
+2 & 7 on BUF 41
+Sumamry: (6:52 - 1st) (Shotgun) J.Cook up the middle to BUF 49 for 8 yards (D.Reed).
+1 & 10 on BUF 49
+Sumamry: (6:18 - 1st) (No Huddle, Shotgun) J.Allen pass short left to D.Knox to NYJ 45 for 6 yards (D.Reed).
+2 & 4 on NYJ 45
+Sumamry: (5:44 - 1st) (Shotgun) J.Allen pass short right to S.Diggs to NYJ 30 for 15 yards (A.Amos).
+1 & 10 on NYJ 30
+Sumamry: (5:10 - 1st) (No Huddle, Shotgun) J.Allen sacked at NYJ 39 for -9 yards (J.Franklin-Myers).
+2 & 19 on NYJ 39
+Sumamry: (4:30 - 1st) (Shotgun) J.Allen pass short right to D.Knox to NYJ 35 for 4 yards (Q.Williams, M.Carter).
+3 & 15 on NYJ 35
+Sumamry: (3:56 - 1st) (No Huddle, Shotgun) J.Allen pass short left to D.Harris to NYJ 22 for 13 yards (Qu.Williams).
+4 & 2 on NYJ 22
+Sumamry: (3:05 - 1st) T.Bass 40 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.
+Sumamry: (3:05 - 1st) Timeout at 03:05.
+===============
+Drive4
+Possession: New York Jets
+Result: Punt
+NYJ: 0
+BUF: 3
+Plays: 6
+Yards: 10
+Time: 3:11
+Sumamry: (3:05 - 1st) T.Bass kicks 61 yards from BUF 35 to NYJ 4. X.Gipson pushed ob at NYJ 22 for 18 yards (T.Rapp).
+1 & 10 on NYJ 22
+Sumamry: (3:01 - 1st) (Shotgun) Z.Wilson pass incomplete short right. Penalty on NYJ-M.Becton, Ineligible Downfield Pass, declined.
+2 & 10 on NYJ 22
+Sumamry: (2:58 - 1st) (Shotgun) PENALTY on NYJ-L.Tomlinson, False Start, 5 yards, enforced at NYJ 22 - No Play.
+2 & 15 on NYJ 17
+Sumamry: (2:58 - 1st) (Shotgun) Z.Wilson pass short left to D.Cook to NYJ 21 for 4 yards (M.Hyde, M.Milano).
+3 & 11 on NYJ 21
+Sumamry: (2:15 - 1st) (Shotgun) Z.Wilson pass deep right to A.Lazard to NYJ 43 for 22 yards (J.Poyer).
+1 & 10 on NYJ 43
+Sumamry: (1:34 - 1st) D.Cook left guard to NYJ 48 for 5 yards (C.Benford, J.Poyer).
+2 & 5 on NYJ 48
+Sumamry: (0:59 - 1st) D.Cook left end to NYJ 44 for -4 yards (M.Milano).
+3 & 9 on NYJ 44
+Sumamry: (0:16 - 1st) (Shotgun) Z.Wilson sacked at NYJ 32 for -12 yards (J.Phillips).
+4 & 21 on NYJ 32
+Sumamry: (15:00 - 2nd) T.Morstead punts 39 yards to BUF 29, Center-T.Hennessy, fair catch by D.Harty.
+===============
+Drive5
+Possession: Buffalo Bills
+Result: Interception
+NYJ: 0
+BUF: 3
+Plays: 3
+Yards: 2
+Time: 1:52
+1 & 10 on BUF 29
+Sumamry: (14:54 - 2nd) (Shotgun) J.Allen sacked at BUF 27 for -2 yards (A.Woods).
+2 & 12 on BUF 27
+Sumamry: (13:54 - 2nd) (Shotgun) J.Allen pass short left to J.Cook to BUF 31 for 4 yards (Qu.Williams).
+3 & 8 on BUF 31
+Sumamry: (13:02 - 2nd) (Shotgun) J.Allen pass deep middle intended for D.Harty INTERCEPTED by J.Whitehead at NYJ 4. J.Whitehead to NYJ 4 for no gain (D.Harty).
+Sumamry: (13:02 - 2nd) Timeout at 13:02.
+===============
+Drive6
+Possession: New York Jets
+Result: Field Goal
+NYJ: 3
+BUF: 3
+Plays: 5
+Yards: 88
+Time: 2:27
+1 & 10 on NYJ 4
+Sumamry: (13:02 - 2nd) Bre.Hall right guard to BUF 13 for 83 yards (C.Benford).
+1 & 10 on BUF 13
+Sumamry: (12:07 - 2nd) D.Cook right tackle to BUF 12 for 1 yard (T.Rapp).
+2 & 9 on BUF 12
+Sumamry: (11:31 - 2nd) (Shotgun) D.Cook up the middle to BUF 8 for 4 yards (J.Poyer; L.Floyd).
+3 & 5 on BUF 8
+Sumamry: (10:47 - 2nd) (No Huddle, Shotgun) Z.Wilson pass incomplete short left [M.Milano].
+4 & 5 on BUF 8
+Sumamry: (10:35 - 2nd) G.Zuerlein 26 yard field goal is GOOD, Center-T.Hennessy, Holder-T.Morstead.
+Sumamry: (10:35 - 2nd) Timeout at 10:35.
+===============
+Drive7
+Possession: Buffalo Bills
+Result: Touchdown
+NYJ: 3
+BUF: 10
+Plays: 11
+Yards: 75
+Time: 5:52
+Sumamry: (10:35 - 2nd) G.Zuerlein kicks 65 yards from NYJ 35 to end zone, Touchback.
+1 & 10 on BUF 25
+Sumamry: (10:35 - 2nd) (Shotgun) J.Cook left end to BUF 20 for -5 yards (Q.Williams).
+2 & 15 on BUF 20
+Sumamry: (9:58 - 2nd) (Shotgun) J.Allen pass short right to S.Diggs pushed ob at BUF 38 for 18 yards (C.Mosley, M.Carter).
+1 & 10 on BUF 38
+Sumamry: (9:21 - 2nd) (No Huddle, Shotgun) J.Allen pass incomplete short middle to J.Cook [J.Franklin-Myers].
+2 & 10 on BUF 38
+Sumamry: (9:16 - 2nd) (Shotgun) J.Allen pass short left to D.Kincaid to BUF 46 for 8 yards (C.Mosley, J.Whitehead).
+3 & 2 on BUF 46
+Sumamry: (8:40 - 2nd) (Shotgun) J.Allen scrambles left end pushed ob at NYJ 48 for 6 yards (Q.Jefferson; C.Mosley).
+1 & 10 on NYJ 48
+Sumamry: (7:59 - 2nd) J.Cook right end ran ob at NYJ 36 for 12 yards (J.Sherwood).
+1 & 10 on NYJ 36
+Sumamry: (7:32 - 2nd) (No Huddle, Shotgun) J.Cook up the middle to NYJ 37 for -1 yards (Qu.Williams, A.Gardner).
+2 & 11 on NYJ 37
+Sumamry: (6:53 - 2nd) J.Allen pass deep right to G.Davis to NYJ 11 for 26 yards (T.Adams).
+1 & 10 on NYJ 11
+Sumamry: (6:13 - 2nd) (Shotgun) J.Allen pass short left to S.Diggs to NYJ 8 for 3 yards (W.McDonald).
+2 & 7 on NYJ 8
+Sumamry: (5:34 - 2nd) (Shotgun) D.Harris up the middle to NYJ 5 for 3 yards (Qu.Williams).
+3 & 4 on NYJ 5
+Sumamry: (4:43 - 2nd) (Shotgun) J.Allen pass short right to S.Diggs for 5 yards, TOUCHDOWN.T.Bass extra point is GOOD, Center-R.Ferguson, Holder-S.Martin.
+Sumamry: (4:43 - 2nd) Timeout at 04:43.
+===============
+Drive8
+Possession: New York Jets
+Result: Interception
+NYJ: 3
+BUF: 10
+Plays: 3
+Yards: 12
+Time: 1:35
+Sumamry: (4:43 - 2nd) T.Bass kicks 67 yards from BUF 35 to NYJ -2. X.Gipson to NYJ 26 for 28 yards (D.Jackson).
+1 & 10 on NYJ 26
+Sumamry: (4:38 - 2nd) Z.Wilson pass short left to T.Conklin to NYJ 28 for 2 yards (T.Bernard).
+2 & 8 on NYJ 28
+Sumamry: (3:56 - 2nd) D.Cook right end pushed ob at NYJ 38 for 10 yards (J.Poyer).
+1 & 10 on NYJ 38
+Sumamry: (3:17 - 2nd) Z.Wilson pass short middle intended for R.Cobb INTERCEPTED by M.Milano at NYJ 48. M.Milano to NYJ 35 for 13 yards (Z.Wilson). PENALTY on BUF-M.Milano, Taunting, 15 yards, enforced at NYJ 35.
+Sumamry: (3:08 - 2nd) Timeout at 03:08.
+===============
+Drive9
+Possession: Buffalo Bills
+Result: Field Goal
+NYJ: 3
+BUF: 13
+Plays: 9
+Yards: 34
+Time: 2:51
+1 & 10 on 50
+Sumamry: (3:08 - 2nd) (Shotgun) J.Allen pass short left to D.Kincaid to NYJ 44 for 6 yards (M.Carter, D.Reed).
+2 & 4 on NYJ 44
+Sumamry: (2:36 - 2nd) (Shotgun) J.Cook left tackle pushed ob at NYJ 31 for 13 yards (T.Adams).
+Sumamry: (2:00 - 2nd) Two-Minute Warning
+1 & 10 on NYJ 31
+Sumamry: (2:00 - 2nd) (Shotgun) J.Allen pass short left to S.Diggs to NYJ 25 for 6 yards (D.Reed, Qu.Williams).
+2 & 4 on NYJ 25
+Sumamry: (1:24 - 2nd) (Shotgun) J.Allen pass short left to D.Kincaid to NYJ 22 for 3 yards (Qu.Williams).
+3 & 1 on NYJ 22
+Sumamry: (0:45 - 2nd) J.Allen up the middle to NYJ 20 for 2 yards (C.Mosley).
+Sumamry: (0:40 - 2nd) Timeout #1 by BUF at 00:40.
+1 & 10 on NYJ 20
+Sumamry: (0:40 - 2nd) (Shotgun) J.Allen sacked at NYJ 23 for -3 yards (Q.Jefferson).
+Sumamry: (0:34 - 2nd) Timeout #2 by BUF at 00:34.
+2 & 13 on NYJ 23
+Sumamry: (0:34 - 2nd) (Shotgun) J.Allen pass incomplete deep right to J.Cook (Qu.Williams).
+3 & 13 on NYJ 23
+Sumamry: (0:29 - 2nd) (Shotgun) J.Allen scrambles left tackle to NYJ 16 for 7 yards (C.Mosley, B.Huff).
+Sumamry: (0:20 - 2nd) Timeout #1 by NYJ at 00:20.
+4 & 6 on NYJ 16
+Sumamry: (0:17 - 2nd) T.Bass 34 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.
+===============
+Drive10
+Possession: New York Jets
+Result: End of Half
+NYJ: 3
+BUF: 13
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (0:17 - 2nd) T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.
+1 & 10 on NYJ 25
+Sumamry: (0:17 - 2nd) Z.Wilson kneels to NYJ 24 for -1 yards.
+Sumamry: (0:00 - 2nd) END QUARTER 2
+===============
+Drive11
+Possession: New York Jets
+Result: Field Goal
+NYJ: 6
+BUF: 13
+Plays: 12
+Yards: 50
+Time: 6:1
+Sumamry: (15:00 - 3rd) T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.
+1 & 10 on NYJ 25
+Sumamry: (15:00 - 3rd) Bre.Hall left guard to NYJ 25 for no gain (E.Oliver).
+2 & 10 on NYJ 25
+Sumamry: (14:21 - 3rd) Z.Wilson pass incomplete short middle to Bre.Hall [G.Rousseau].
+3 & 10 on NYJ 25
+Sumamry: (14:17 - 3rd) (Shotgun) Z.Wilson pass short middle to G.Wilson to NYJ 37 for 12 yards (C.Benford).
+1 & 10 on NYJ 37
+Sumamry: (13:37 - 3rd) (Shotgun) Z.Wilson pass short right to D.Cook pushed ob at NYJ 44 for 7 yards (J.Poyer).
+2 & 3 on NYJ 44
+Sumamry: (13:10 - 3rd) (Shotgun) Z.Wilson pass short right to Bre.Hall to BUF 36 for 20 yards (J.Poyer).
+1 & 10 on BUF 36
+Sumamry: (12:31 - 3rd) D.Cook right guard to BUF 27 for 9 yards (T.White, T.Bernard).
+2 & 1 on BUF 27
+Sumamry: (11:47 - 3rd) D.Cook left tackle to BUF 28 for -1 yards (A.Epenesa).
+3 & 2 on BUF 28
+Sumamry: (11:03 - 3rd) (Shotgun) D.Cook up the middle to BUF 22 for 6 yards (J.Phillips). BUF-J.Phillips was injured during the play.
+Sumamry: (10:48 - 3rd) Timeout at 10:48.
+1 & 10 on BUF 22
+Sumamry: (10:33 - 3rd) Bre.Hall left end to BUF 21 for 1 yard (T.Bernard, E.Oliver).
+2 & 9 on BUF 22
+Sumamry: (9:54 - 3rd) Bre.Hall left end to BUF 22 for -1 yards (G.Rousseau). FUMBLES (G.Rousseau), ball out of bounds at BUF 25.
+3 & 13 on BUF 25
+Sumamry: (9:13 - 3rd) (Shotgun) Z.Wilson pass incomplete short right. Penalty on NYJ-J.Ruckert, Offensive Pass Interference, declined. Penalty on NYJ-C.McGovern, Ineligible Downfield Pass, declined.
+4 & 13 on BUF 25
+Sumamry: (8:59 - 3rd) G.Zuerlein 43 yard field goal is GOOD, Center-T.Hennessy, Holder-T.Morstead.
+Sumamry: (8:59 - 3rd) Timeout at 08:59.
+===============
+Drive12
+Possession: Buffalo Bills
+Result: Interception
+NYJ: 6
+BUF: 13
+Plays: 8
+Yards: 34
+Time: 4:51
+Sumamry: (8:59 - 3rd) G.Zuerlein kicks 65 yards from NYJ 35 to end zone, Touchback.
+1 & 10 on BUF 25
+Sumamry: (8:59 - 3rd) (Shotgun) J.Cook left tackle to BUF 24 for -1 yards (J.Johnson, Q.Williams).
+2 & 11 on BUF 24
+Sumamry: (8:19 - 3rd) (Shotgun) J.Allen pass short left to D.Knox to BUF 39 for 15 yards (T.Adams).
+1 & 10 on BUF 39
+Sumamry: (7:35 - 3rd) (Shotgun) J.Allen pass short left to D.Kincaid to BUF 48 for 9 yards (D.Reed, T.Adams).
+2 & 1 on BUF 48
+Sumamry: (6:56 - 3rd) J.Cook left end pushed ob at NYJ 49 for 3 yards (D.Reed).
+1 & 10 on NYJ 49
+Sumamry: (6:23 - 3rd) (Shotgun) J.Allen pass short right to J.Cook to NYJ 46 for 3 yards (J.Sherwood).
+2 & 7 on NYJ 46
+Sumamry: (5:40 - 3rd) (Shotgun) J.Allen pass short right to S.Diggs to NYJ 38 for 8 yards (J.Whitehead).
+1 & 10 on NYJ 38
+Sumamry: (5:00 - 3rd) (Shotgun) J.Allen sacked at NYJ 41 for -3 yards (Q.Jefferson).
+2 & 13 on NYJ 41
+Sumamry: (4:08 - 3rd) (Shotgun) J.Allen pass deep middle intended for S.Diggs INTERCEPTED by J.Whitehead [Q.Williams] at NYJ -1. Touchback.
+Sumamry: (4:08 - 3rd) Timeout at 04:08.
+===============
+Drive13
+Possession: New York Jets
+Result: Punt
+NYJ: 6
+BUF: 13
+Plays: 4
+Yards: 19
+Time: 1:58
+1 & 10 on NYJ 20
+Sumamry: (4:08 - 3rd) (Shotgun) Z.Wilson pass short right to D.Cook to NYJ 35 for 15 yards (T.Bernard; M.Milano).
+1 & 10 on NYJ 35
+Sumamry: (3:29 - 3rd) Z.Wilson pass short right to G.Wilson to NYJ 33 for -2 yards (T.White).
+2 & 12 on NYJ 33
+Sumamry: (2:52 - 3rd) (Shotgun) Z.Wilson pass incomplete short right to A.Lazard.
+3 & 12 on NYJ 33
+Sumamry: (2:49 - 3rd) (Shotgun) Z.Wilson pass short middle to Mi.Carter to NYJ 39 for 6 yards (M.Hyde, T.Bernard). Penalty on NYJ-M.Becton, Offensive Holding, declined.
+4 & 6 on NYJ 39
+Sumamry: (2:10 - 3rd) T.Morstead punts 50 yards to BUF 11, Center-T.Hennessy. D.Harty ran ob at BUF 15 for 4 yards (J.Sherwood).
+Sumamry: (2:10 - 3rd) Timeout at 02:10.
+===============
+Drive14
+Possession: Buffalo Bills
+Result: Punt
+NYJ: 6
+BUF: 13
+Plays: 3
+Yards: 8
+Time: 1:37
+1 & 10 on BUF 15
+Sumamry: (2:10 - 3rd) (Shotgun) D.Harty left end to BUF 19 for 4 yards (D.Reed).
+2 & 6 on BUF 19
+Sumamry: (1:30 - 3rd) (Shotgun) J.Allen pass incomplete deep right.
+3 & 6 on BUF 19
+Sumamry: (1:22 - 3rd) (Shotgun) J.Allen pass short right to J.Cook to BUF 23 for 4 yards (Qu.Williams).
+4 & 2 on BUF 23
+Sumamry: (0:42 - 3rd) S.Martin punts 53 yards to NYJ 24, Center-R.Ferguson. X.Gipson pushed ob at NYJ 25 for 1 yard (S.Neal).
+Sumamry: (0:33 - 3rd) Timeout at 00:33.
+===============
+Drive15
+Possession: New York Jets
+Result: Punt
+NYJ: 6
+BUF: 13
+Plays: 3
+Yards: 6
+Time: 1:22
+1 & 10 on NYJ 25
+Sumamry: (0:33 - 3rd) Z.Wilson pass incomplete short right to A.Lazard (C.Benford).
+2 & 10 on NYJ 25
+Sumamry: (0:25 - 3rd) Bre.Hall left end ran ob at NYJ 32 for 7 yards (T.Rapp).
+3 & 3 on NYJ 32
+Sumamry: (15:00 - 4th) (Shotgun) Z.Wilson sacked at NYJ 31 for -1 yards (sack split by L.Floyd and E.Oliver).
+4 & 4 on NYJ 31
+Sumamry: (14:19 - 4th) T.Morstead punts 54 yards to BUF 15, Center-T.Hennessy, fair catch by D.Harty.
+===============
+Drive16
+Possession: Buffalo Bills
+Result: Interception
+NYJ: 6
+BUF: 13
+Plays: 8
+Yards: 28
+Time: 4:28
+1 & 10 on BUF 15
+Sumamry: (14:11 - 4th) (Shotgun) J.Allen pass short left to J.Cook pushed ob at BUF 21 for 6 yards (M.Carter).
+2 & 4 on BUF 21
+Sumamry: (13:39 - 4th) (Shotgun) J.Cook up the middle to BUF 25 for 4 yards (T.Adams, J.Johnson).
+1 & 10 on BUF 25
+Sumamry: (13:10 - 4th) (No Huddle, Shotgun) J.Allen sacked at BUF 23 for -2 yards (J.Johnson).
+2 & 12 on BUF 23
+Sumamry: (12:28 - 4th) (Shotgun) J.Allen pass short right to D.Harris to BUF 26 for 3 yards (A.Gardner).
+3 & 9 on BUF 26
+Sumamry: (11:44 - 4th) (Shotgun) J.Allen pass short right to L.Murray to BUF 35 for 9 yards (J.Johnson) [B.Huff].
+1 & 10 on BUF 35
+Sumamry: (11:08 - 4th) (Shotgun) L.Murray up the middle to BUF 41 for 6 yards (S.Thomas).
+2 & 4 on BUF 41
+Sumamry: (10:30 - 4th) (No Huddle, Shotgun) L.Murray left guard to BUF 43 for 2 yards (Qu.Williams).
+3 & 2 on BUF 43
+Sumamry: (9:43 - 4th) (Shotgun) J.Allen pass short right intended for G.Davis INTERCEPTED by J.Whitehead at NYJ 43. J.Whitehead ran ob at NYJ 43 for no gain.
+Sumamry: (9:43 - 4th) Timeout at 09:43.
+===============
+Drive17
+Possession: New York Jets
+Result: Touchdown
+NYJ: 13
+BUF: 13
+Plays: 8
+Yards: 57
+Time: 4:48
+1 & 10 on NYJ 43
+Sumamry: (9:43 - 4th) D.Cook up the middle to NYJ 48 for 5 yards (D.Jones, T.Bernard).
+2 & 5 on NYJ 48
+Sumamry: (9:05 - 4th) D.Cook up the middle to NYJ 48 for no gain (D.Jones).
+3 & 5 on NYJ 48
+Sumamry: (8:19 - 4th) (Shotgun) Z.Wilson pass short left to A.Lazard to BUF 28 for 24 yards (M.Milano, T.Bernard) [E.Oliver].
+1 & 10 on BUF 28
+Sumamry: (7:32 - 4th) (Shotgun) Bre.Hall up the middle to BUF 24 for 4 yards (J.Phillips).
+2 & 6 on BUF 24
+Sumamry: (6:55 - 4th) (Shotgun) Bre.Hall up the middle to BUF 23 for 1 yard (T.Settle).
+3 & 5 on BUF 23
+Sumamry: (6:16 - 4th) (Shotgun) Z.Wilson pass short right to G.Wilson to BUF 9 for 14 yards (C.Benford).
+Sumamry: (4:55 - 4th) Timeout at 04:55.
+===============
+Drive18
+Possession: Buffalo Bills
+Result: Fumble
+NYJ: 13
+BUF: 13
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (4:55 - 4th) G.Zuerlein kicks 65 yards from NYJ 35 to end zone, Touchback.
+1 & 10 on BUF 25
+Sumamry: (4:47 - 4th) (Shotgun) J.Allen FUMBLES (Aborted) at BUF 21, and recovers at BUF 21. J.Allen to BUF 25 for 4 yards (M.Clemons). FUMBLES (M.Clemons), RECOVERED by NYJ-Q.Williams at BUF 27.
+===============
+Drive19
+Possession: New York Jets
+Result: Field Goal
+NYJ: 16
+BUF: 13
+Plays: 8
+Yards: 15
+Time: 3:3
+1 & 10 on BUF 27
+Sumamry: (4:51 - 4th) Bre.Hall right guard to BUF 21 for 6 yards (T.Rapp; J.Poyer).
+2 & 4 on BUF 21
+Sumamry: (4:08 - 4th) Bre.Hall right guard to BUF 18 for 3 yards (E.Oliver, T.Rapp).
+3 & 1 on BUF 18
+Sumamry: (3:20 - 4th) D.Cook up the middle to BUF 18 for no gain (S.Lawson, T.White).
+4 & 1 on BUF 18
+Sumamry: (2:50 - 4th) Z.Wilson up the middle to BUF 16 for 2 yards (S.Lawson; T.Bernard).
+1 & 10 on BUF 16
+Sumamry: (2:06 - 4th) D.Cook right end to BUF 19 for -3 yards (E.Oliver, M.Milano). BUF-T.White was injured during the play.
+Sumamry: (2:00 - 4th) Two-Minute Warning
+2 & 13 on BUF 19
+Sumamry: (2:00 - 4th) D.Cook up the middle to BUF 18 for 1 yard (T.Bernard).
+Sumamry: (1:56 - 4th) Timeout #1 by BUF at 01:56.
+3 & 12 on BUF 18
+Sumamry: (1:56 - 4th) (Shotgun) Mi.Carter right tackle to BUF 12 for 6 yards (M.Milano, T.Bernard).
+Sumamry: (1:51 - 4th) Timeout #2 by BUF at 01:51.
+4 & 6 on BUF 12
+Sumamry: (1:48 - 4th) G.Zuerlein 30 yard field goal is GOOD, Center-T.Hennessy, Holder-T.Morstead. BUF-M.Hyde was injured during the play.
+Sumamry: (1:48 - 4th) Timeout at 01:48.
+===============
+Drive20
+Possession: Buffalo Bills
+Result: Field Goal
+NYJ: 16
+BUF: 16
+Plays: 9
+Yards: 43
+Time: 1:46
+Sumamry: (1:48 - 4th) G.Zuerlein kicks 65 yards from NYJ 35 to end zone, Touchback.
+1 & 10 on BUF 25
+Sumamry: (1:48 - 4th) (Shotgun) J.Allen scrambles left end to BUF 32 for 7 yards (B.Huff; C.Mosley).
+2 & 3 on BUF 32
+Sumamry: (1:22 - 4th) (No Huddle, Shotgun) J.Allen pass short left to G.Davis to BUF 38 for 6 yards (D.Reed).
+1 & 10 on BUF 38
+Sumamry: (1:00 - 4th) (No Huddle, Shotgun) J.Allen pass short right to S.Diggs to NYJ 47 for 15 yards (M.Carter).
+1 & 10 on NYJ 47
+Sumamry: (0:39 - 4th) (No Huddle, Shotgun) J.Allen pass short right to S.Diggs ran ob at NYJ 39 for 8 yards. PENALTY on BUF-S.Diggs, Offensive Pass Interference, 10 yards, enforced at NYJ 47 - No Play.
+Sumamry: (0:35 - 4th) Timeout #1 by NYJ at 00:35.
+1 & 20 on BUF 43
+Sumamry: (0:35 - 4th) (Shotgun) J.Allen pass short left to S.Diggs to NYJ 42 for 15 yards (D.Reed).
+Sumamry: (0:29 - 4th) Timeout #3 by BUF at 00:29.
+2 & 5 on NYJ 42
+Sumamry: (0:29 - 4th) (Shotgun) J.Allen pass short left to S.Diggs to NYJ 32 for 10 yards (D.Reed).
+1 & 10 on NYJ 32
+Sumamry: (0:17 - 4th) (No Huddle) J.Allen spiked the ball to stop the clock.
+2 & 10 on NYJ 32
+Sumamry: (0:16 - 4th) (Shotgun) J.Allen pass incomplete deep left to G.Davis [Q.Jefferson].
+Sumamry: (0:10 - 4th) Timeout #2 by NYJ at 00:10.
+3 & 10 on NYJ 32
+Sumamry: (0:10 - 4th) (Shotgun) J.Allen pass incomplete short left to L.Murray.
+4 & 10 on NYJ 32
+Sumamry: (0:02 - 4th) T.Bass 50 yard field goal is GOOD, Center-R.Ferguson, Holder-S.Martin.
+===============
+Drive21
+Possession: New York Jets
+Result: End of Half
+NYJ: 16
+BUF: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (0:02 - 4th) T.Bass kicks 65 yards from BUF 35 to end zone, Touchback.
+1 & 10 on NYJ 25
+Sumamry: (0:02 - 4th) Z.Wilson kneels to NYJ 24 for -1 yards.
+Sumamry: (0:00 - 4th) END QUARTER 4
+===============
+Drive22
+Possession: Buffalo Bills
+Result: Punt Return Touchdown
+NYJ: 22
+BUF: 16
+Plays: 0
+Yards: 0
+Time: 0:0
+Sumamry: (10:00 - OT) G.Zuerlein kicks 65 yards from NYJ 35 to end zone, Touchback.
+1 & 10 on BUF 25
+Sumamry: (10:00 - OT) (Shotgun) PENALTY on BUF-S.Brown, False Start, 5 yards, enforced at BUF 25 - No Play.
+1 & 15 on BUF 20
+Sumamry: (10:00 - OT) (Shotgun) J.Allen pass incomplete short right to D.Knox.
+2 & 15 on BUF 20
+Sumamry: (9:57 - OT) (Shotgun) J.Cook up the middle to BUF 23 for 3 yards (J.Franklin-Myers; Q.Williams).
+3 & 12 on BUF 23
+Sumamry: (9:26 - OT) (No Huddle, Shotgun) J.Allen pass incomplete short left to S.Diggs.
+4 & 12 on BUF 23
+Sumamry: (9:02 - OT) S.Martin punts 42 yards to NYJ 35, Center-R.Ferguson. X.Gipson for 65 yards, TOUCHDOWN.
+Sumamry: (0:00 - OT) END GAME
+===============

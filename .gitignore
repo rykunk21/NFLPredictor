@@ -1,0 +1,8 @@
+*.egg-info/
+env
+.vscode
+__pycache__
+**/*.pyc
+pyproject.toml
+setup.py
+datasets

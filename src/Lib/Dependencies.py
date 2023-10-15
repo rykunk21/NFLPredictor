@@ -1,18 +1,20 @@
-# DATA
+# GENERAL
+from typing import Any
 import os
-import openpyxl
-from bs4 import BeautifulSoup
-import urllib.request
 import math
-
-
-## LEARN
+import glob
 import io
 import re
 import string
 import tqdm
-import glob
 
+# DATA
+import openpyxl
+from bs4 import BeautifulSoup
+import urllib.request
+
+
+## LEARN
 import numpy as np
 
 import tensorflow as tf
@@ -20,7 +22,7 @@ from keras import layers
 
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
-import numpy as np
+
 
 ### CONSTANTS
 SCORES_DIR = './datasets/gameScores'

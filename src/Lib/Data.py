@@ -4,15 +4,14 @@
 @AIAssistant: GPT-4
 
 """
-
-from typing import Any
-import os
+from src.Lib.Dependencies import *
 
 class Manager:
     """
     Populates Datasets
     """
     def __init__(self, year) -> None:
+        
         self.year = year
 
     ### PUBLIC
@@ -89,6 +88,23 @@ class Manager:
 
             gameData = self._weeklyScores(self._weekURL(weeknum, seasontype, self.year))
             self._write_to_xlsx(gameData, sheetName, file_name=f'{self.year}.xlsx')
+
+    def pullWeek(self, sheet_name):
+
+        def parseSheetName(sheet_name):
+            if sheet_name.startswith('P'):
+                return int(sheet_name[1:]), 1
+            elif sheet_name.startswith('W'):
+                return int(sheet_name[1:]), 2
+            elif sheet_name.startswith('PO'):
+                return int(sheet_name[2:]), 3
+            else:
+                raise ValueError(f"Invalid sheet name: {sheet_name}")
+
+        weeknum, seasontype = parseSheetName(sheet_name)
+
+        gameData = self._weeklyScores(self._weekURL(weeknum, seasontype, self.year))
+        self._write_to_xlsx(gameData, sheet_name, file_name=f'{self.year}.xlsx')
 
     def updateElos(self) -> None:
 
@@ -180,6 +196,10 @@ class Manager:
     def _write_to_xlsx(self, data_dict, sheet_name, file_name):
 
         file_name = os.path.join(SCORES_DIR, file_name)
+        file_dir = os.path.dirname(file_name)
+        if not os.path.exists(file_dir):
+            os.makedirs(file_dir)
+
         # Check if the workbook already exists
         if os.path.exists(file_name):
             wb = openpyxl.load_workbook(file_name)
@@ -316,10 +336,10 @@ class Game:
 
                     self.scoreboard = Scoreboard(self.home, self.away, homeTeamFinalScore, awayTeamFinalScore)
 
-                else:
-                    raise Exception(f"Week '{week}' does not exist in the workbook.")
             else:
-                raise Exception('Game year does not exist')
+                raise Exception(f"the {week}/{year} combination does not exist in the database!")
+        else:
+            raise Exception('Game year does not exist')
             
     def sumamry(self):
         url = f"https://www.espn.com/nfl/recap/_/gameId/{self.ID}"
@@ -638,6 +658,3 @@ if __name__ == '__main__':
     from Dependencies import *
     main()
 
-# else:
-#     from src.Lib.Dependencies import *
-#     print('alternate import')

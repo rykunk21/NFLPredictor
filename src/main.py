@@ -1,36 +1,52 @@
 from src.Lib import Data
+from src.Lib import Learn
+from src.Lib import Predict
+import argparse
 
-def main(**kwargs):
+
+def parse_args():
     """
-    Main entry point for src code
-
-    Options:
-        -pull : Pulls new data
-        -train : trains a new model
-        -predict : generates this weeks predictions
-
+    Parses command-line arguments and options.
     """
-    
-    pull = kwargs.get('pull')
-    train = kwargs.get('train')
-    predict = kwargs.get('predict')
+    parser = argparse.ArgumentParser(description="Your script description here.")
 
-    # print('\n'.join(list(map(lambda x: str(x), [pull,train,predict]))))
+    # Add command-line arguments for each action
+    parser.add_argument('-pull', nargs='+', help="Pull data")
+    parser.add_argument('-learn', nargs='+', help="Train a model")
+    parser.add_argument('-predict', nargs='+', help="Make predictions")
+
+    # Parse the command-line arguments
+    args = parser.parse_args()
+
+    return args
 
 
-    if pull:
-        # Pull new data
-        year = pull.pop(0)
+def main():
+    args = parse_args()
 
-        dataMg = Data.Manager(year)
+    if args.pull:
+        print("Pull data:", args.pull)
 
-        dataMg.pullRecaps()
-        dataMg.pullScores()
+        years = args.pull.pop(0).split('->')
+        
+        start = end = years
 
-    if train:
-        # train 
-        pass
+        if len(years) > 1:
+            start, end = years
 
-    if predict:
-        # predict
-        pass
+        for year in range(int(start), int(end) +1):
+            dm = Data.Manager(year)
+            if len(args.pull) == 0:
+                dm.pullScores()
+
+            elif len(args.pull) == 1:
+                sheet = args.pull
+                dm.pullWeek(sheet_name=sheet)
+         
+
+    if args.learn:
+        print("Train a model:", args.learn)
+
+
+    if args.predict:
+        print("Make predictions:", args.predict)

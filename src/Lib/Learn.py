@@ -1,5 +1,5 @@
 
-from src.Lib import Dependencies
+from src.Lib.Dependencies import *
 from src.Lib import Data
 
 
@@ -361,20 +361,15 @@ class BayesianEnsemble:
     def __init__(self) -> None:
         pass
 
-
 def train():
     pass
 
 
-def main():
 
-    ep = EloPredictor(2023)
-    print(ep.predict('W3', 'bears'))
+def main():
+    pass
 
 if __name__ == '__main__':
-
+    from .Dependencies import *
     main()
 
-else:
-    from src.Lib.Dependencies import *
-    print('alternate import')

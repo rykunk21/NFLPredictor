@@ -20,33 +20,45 @@ def parse_args():
 
     return args
 
+def getYears(pullArgs):
+    years = pullArgs[0].split('->')
+
+    # build the range if input denotes range
+    end = int(years[-1])
+    start = int(years[0])
+
+    # loop over the years
+    for year in range(start, end +1):
+        yield year
 
 def main():
     args = parse_args()
 
     if args.pull:
-        print("Pull data:", args.pull)
-
-        years = args.pull.pop(0).split('->')
-        
-        start = end = years
-
-        if len(years) > 1:
-            start, end = years
-
-        for year in range(int(start), int(end) +1):
+        print("-----------PULL-----------")
+        # loop over the years
+        for year in getYears(args.pull):   
             dm = Data.Manager(year)
-            if len(args.pull) == 0:
+            if len(args.pull) == 1:
                 dm.pullScores()
-
-            elif len(args.pull) == 1:
-                sheet = args.pull
+                
+            elif len(args.pull) > 1:
+                sheet = args.pull[-1]
                 dm.pullWeek(sheet_name=sheet)
          
 
     if args.learn:
-        print("Train a model:", args.learn)
+        print("-----------LEARN-----------")
 
+        for year in getYears(args.learn):
+            
+            dm = Data.Manager(year)
+
+            current_week = args.learn[-1]
+            if 'elo' in args.learn:
+                dm.updateElos(current_week)   
+            model = Learn.EloPredictor(year)
+            print(model.predict('W3', 'bears'))
 
     if args.predict:
-        print("Make predictions:", args.predict)
+        print("-----------PREDICT-----------")

@@ -91,7 +91,52 @@ class Manager:
 
     def pullWeek(self, sheet_name):
 
-        def parseSheetName(sheet_name):
+        weeknum, seasontype = self._parseSheetName(sheet_name)
+
+        gameData = self._weeklyScores(self._weekURL(weeknum, seasontype, self.year))
+        self._write_to_xlsx(gameData, sheet_name, file_name=f'{self.year}.xlsx')
+
+    def updateElos(self) -> None:
+        
+        simluator = Simluator(self.year)
+        current_week = self.getCurrentWeek()
+
+        for i in range(1, current_week + 1):
+            simluator.simulate_week(i)
+
+    def getCurrentWeek(self) -> int:
+        
+        url = f'https://www.espn.com/nfl/schedule/_/week/1/year/{self.year}/seasontype/1'  # Replace with your desired URL
+        xpath_expression = '/html/body/div[1]/div/div/div/main/div[3]/div/div/section/div/section/div/div/div/div/div'
+
+        try:
+            # Send an HTTP GET request to the URL using urllib
+            with urllib.request.urlopen(url) as response:
+                if 200 <= response.getcode() < 300:
+                    # Read the HTML content of the page
+                    page_content = response.read().decode('utf-8')
+
+                    # Parse the HTML content of the page
+                    page_content = html.fromstring(page_content)
+
+                    # Use XPath to locate the element
+                    element = page_content.xpath(xpath_expression)
+
+                    if element:
+                        # Extract all the text within the located element
+                        extracted_text = ' '.join(element[0].xpath('.//text()'))
+                        return extracted_text
+                    else:
+                        return "Element not found with the given XPath."
+                else:
+                    return f"Failed to retrieve the page. Status code: {response.getcode()}"
+
+        except Exception as e:
+            return str(e)
+
+    ### PRIVATE
+
+    def _parseSheetName(self, sheet_name):
             if sheet_name.startswith('P'):
                 return int(sheet_name[1:]), 1
             elif sheet_name.startswith('W'):
@@ -100,19 +145,6 @@ class Manager:
                 return int(sheet_name[2:]), 3
             else:
                 raise ValueError(f"Invalid sheet name: {sheet_name}")
-
-        weeknum, seasontype = parseSheetName(sheet_name)
-
-        gameData = self._weeklyScores(self._weekURL(weeknum, seasontype, self.year))
-        self._write_to_xlsx(gameData, sheet_name, file_name=f'{self.year}.xlsx')
-
-    def updateElos(self) -> None:
-
-        simluator = Simluator(self.year)
-        for i in range(1, CURRENT_WEEK + 1):
-            simluator.simulate_week(i)
-
-    ### PRIVATE
 
     def _weekURL(self, gameNum, seasonType, year):
         return f'https://www.espn.com/nfl/scoreboard/_/week/{gameNum}/year/{year}/seasontype/{seasonType}'
@@ -213,7 +245,7 @@ class Manager:
             ws.title = sheet_name
 
         # Write the headers
-        headers = ['ID', 'teamname', 'q1', 'q2', 'q3', 'q4', 'OT', 'finalscore', 'home', 'win']
+        headers = ['ID', 'teamname', 'q1', 'q2', 'q3', 'q4', 'OT', 'finalscore', 'home', 'win', 'elo']
         ws.append(headers)
 
         # handle null data: Write nonthing:
@@ -262,85 +294,41 @@ class Season:
     def game(self, game):
         pass
 
-
 class Game:
-
-    def __init__(self, *args, **kwargs) -> None:
-        
+    def __init__(self, **kwargs) -> None:
         week = kwargs.get('week')
         year = kwargs.get('year')
-        
 
         if week and year:
             team = kwargs.get('team')
+            wb = self._load_or_create_workbook(year)
+            if week in wb.sheetnames:
+                ws = wb[week]
+                col_names = self._get_column_names_indices(ws)
+                
+                home_team_data = self._fetch_team_data(ws, col_names, team)
 
-            # Search the datasets for the game ID
-            file_name = os.path.join(SCORES_DIR, f'{year}.xlsx')
+                for row in ws.iter_rows(min_row=2):
+                    current_team_name = row[col_names['teamname']].value
+                    if row[col_names['ID']].value == home_team_data['ID'] and current_team_name != team:
+                        away_team_data = {
+                            'ID': row[col_names['ID']].value,
+                            'name': current_team_name,
+                            'elo': row[col_names['elo']].value,
+                            'home': row[col_names['home']].value == 1,
+                            'finalscore': row[col_names['finalscore']].value
+                        }
+                        break
 
-            # Check if the workbook already exists
-            if os.path.exists(file_name):
-                wb = openpyxl.load_workbook(file_name)
-                if week in wb.sheetnames:
-                    ws = wb[week]
-                    
-                    # Get column names to indices mapping
-                    col_names = {cell.value: idx for idx, cell in enumerate(ws[1])}  # Assuming first row contains column names
-
-                    for row in ws.iter_rows(min_row=2):  # Start from the second row to skip the header
-                        current_team_name = row[col_names['teamname']].value
-                        elo = row[col_names['elo']].value
-
-                        if current_team_name == team:
-                            self.ID = row[col_names['ID']].value
-
-                            # Create Team instance
-                            initParams = {
-                                'name': current_team_name,
-                                'elo': elo,
-                                'home': row[col_names['home']].value == 1
-                            }
-                            if initParams['home']:
-                                homeTeamObj = Team(**initParams)
-                                homeTeamFinalScore = row[col_names['finalscore']].value  # Assuming you have a 'finalscore' column
-
-                            else:
-                                awayTeamObj = Team(**initParams)
-                                awayTeamFinalScore = row[col_names['finalscore']].value  # Assuming you have a 'finalscore' column
-
-                            break
-
-                    # Now, find the other team with the same ID
-                    for row in ws.iter_rows(min_row=2):  # Start from the second row to skip the header
-                        current_team_name = row[col_names['teamname']].value
-                        if row[col_names['ID']].value == self.ID and current_team_name != team:
-                            elo = row[col_names['elo']].value
-
-                            # Create Team instance
-                            initParams = {
-                                'name': current_team_name,
-                                'elo': elo,
-                                'home': row[col_names['home']].value == 1
-                            }
-                            if initParams['home']:
-                                homeTeamObj = Team(**initParams)
-                                homeTeamFinalScore = row[col_names['finalscore']].value  # Assuming you have a 'finalscore' column
-
-                            else:
-                                awayTeamObj = Team(**initParams)
-                                awayTeamFinalScore = row[col_names['finalscore']].value  # Assuming you have a 'finalscore' column
-
-                            break
-
-                    self.home = homeTeamObj
-                    self.away = awayTeamObj
-
-                    self.scoreboard = Scoreboard(self.home, self.away, homeTeamFinalScore, awayTeamFinalScore)
-
+                self.home = Team(**home_team_data)
+                self.away = Team(**away_team_data)
+                self.scoreboard = Scoreboard(self.home, self.away, home_team_data['finalscore'], away_team_data['finalscore'])
+                                
             else:
                 raise Exception(f"the {week}/{year} combination does not exist in the database!")
         else:
             raise Exception('Game year does not exist')
-            
+    
     def sumamry(self):
         url = f"https://www.espn.com/nfl/recap/_/gameId/{self.ID}"
 
@@ -465,9 +453,6 @@ class Game:
             return self.away.elo.winProb(self.home.elo)
         else:
             raise Exception('An uknown error occured in game.eloPrediction')
-    
-    def updateTeams(self, winMargin, homeWin):
-        pass
 
     def teams(self):
         """
@@ -482,16 +467,53 @@ class Game:
         """
         return self.scoreboard.winner().name == self.home.name
 
+    def isPlayed(self) -> bool:
+        """
+        Returns True if the game has been played
+        """
+        return self.scoreboard.score() != (0,0)
+    
     # MAGIC
     def __repr__(self) -> str:
         return f'{self.home}(H) V {self.away}(A)'
     def __str__(self) -> str:
         return self.__repr__()
     
+    # PRIVATE
+    def _load_or_create_workbook(self, year):
+        file_name = os.path.join(SCORES_DIR, f'{year}.xlsx')
+        if os.path.exists(file_name):
+            wb = openpyxl.load_workbook(file_name)
+        else:
+            wb = openpyxl.Workbook()
+            wb.save(file_name)
+        return wb
+    def _get_column_names_indices(self, ws):
+        col_names = {cell.value: idx for idx, cell in enumerate(ws[1])}  # Assuming first row contains column names
+        return col_names
+
+    def _fetch_team_data(self, ws, col_names, team):
+
+        for row in ws.iter_rows(min_row=2):  # Start from the second row to skip the header
+            current_team_name = row[col_names['teamname']].value
+            elo = row[col_names['elo']].value  # Use the elo_column_index to access 'elo'
+
+            if current_team_name == team:
+                return {
+                    'ID': row[col_names['ID']].value,
+                    'name': current_team_name,
+                    'elo': elo,
+                    'home': row[col_names['home']].value == 1,
+                    'finalscore': row[col_names['finalscore']].value
+                }
+
 
 class EloRating:
-    def __init__(self, rating) -> None:
-        self.rating = rating
+    def __init__(self, rating=1200) -> None:
+        if rating is None:
+            self.rating = 1200
+        else:
+            self.rating = rating
         self.kFactor = 20
 
     def winProb(self, other) -> float:
@@ -583,7 +605,8 @@ class Scoreboard:
     
         elif self.homeScore < self.awayScore:
             return self.away
-    
+    def score(self):
+        return self.homeScore, self.awayScore
 
 class Simluator:
     def __init__(self, year) -> None:
@@ -602,17 +625,25 @@ class Simluator:
         # Get column names to indices mapping
         col_names = {cell.value: idx for idx, cell in enumerate(next(ws.iter_rows()))}  # Assuming first row contains column names
 
+
+
         # Store the Elo updates to apply them to the next week
         elo_updates = {}
+
+        # Initialize a flag to check if there is data in the sheet
 
         # For each game in the sheet:
         for row in ws.iter_rows(min_row=2):
             # Create a Game instance using data from the row
             game = Game(week=f'W{week}', year=self.year, team=row[col_names['teamname']].value)
             
+            if not game.isPlayed():
+                return
+            
             # Store the Elo changes
             elo_updates[game.home.name] = game.post()[0]
             elo_updates[game.away.name] = game.post()[1]
+
 
         # Load the next week's sheet (or create it if it doesn't exist) using "Wx" naming convention
         next_week = week + 1

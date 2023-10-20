@@ -22,7 +22,6 @@ def parse_args():
 
 def getYears(pullArgs):
     years = pullArgs[0].split('->')
-
     # build the range if input denotes range
     end = int(years[-1])
     start = int(years[0])
@@ -41,6 +40,7 @@ def main():
             dm = Data.Manager(year)
             if len(args.pull) == 1:
                 dm.pullScores()
+                dm.updateElos()   
                 
             elif len(args.pull) > 1:
                 sheet = args.pull[-1]
@@ -52,13 +52,18 @@ def main():
 
         for year in getYears(args.learn):
             
-            dm = Data.Manager(year)
+            # dm = Data.Manager(year)
 
-            current_week = args.learn[-1]
-            if 'elo' in args.learn:
-                dm.updateElos(current_week)   
-            model = Learn.EloPredictor(year)
-            print(model.predict('W3', 'bears'))
+            # current_week = args.learn[-1]
+            # if 'elo' in args.learn:
+            #     dm.updateElos()   
+            # model = Learn.EloPredictor(year)
+            # print(model.predict('W3', 'bears'))
+
+            model = Learn.Word2Vec(year)
+            model.compile()
+            model.train(epochs = 70, save = True)
+
 
     if args.predict:
         print("-----------PREDICT-----------")

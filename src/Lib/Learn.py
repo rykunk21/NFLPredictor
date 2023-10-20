@@ -1,4 +1,3 @@
-
 from src.Lib.Dependencies import *
 from src.Lib import Data
 
@@ -138,8 +137,6 @@ class Preprocessor:
         def __init__(self) -> None:
             pass
 
-  
-
 
 class Word2Vec:
     def __init__(self, year, embedding_dim=128, num_ns=15, windowSize=2):
@@ -210,8 +207,6 @@ class Word2Vec:
         self.model.compile(optimizer='adam',
                         loss=tf.keras.losses.CategoricalCrossentropy(from_logits=True),
                         metrics=['accuracy'])
-
-
 
     def train(self, epochs=100, save = False, callbacks=None):
         """
@@ -361,6 +356,7 @@ class BayesianEnsemble:
     def __init__(self) -> None:
         pass
 
+
 def train():
     pass
 
@@ -368,7 +364,6 @@ def train():
 
 def main():
     pass
-
 if __name__ == '__main__':
     from .Dependencies import *
     main()

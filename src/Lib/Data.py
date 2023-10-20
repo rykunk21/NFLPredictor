@@ -104,7 +104,7 @@ class Manager:
         for i in range(1, current_week + 1):
             simluator.simulate_week(i)
 
-    def getCurrentWeek(self) -> int:
+    def getCurrentWeek(self) -> int: #TODO
         
         url = f'https://www.espn.com/nfl/schedule/_/week/1/year/{self.year}/seasontype/1'  # Replace with your desired URL
         xpath_expression = '/html/body/div[1]/div/div/div/main/div[3]/div/div/section/div/section/div/div/div/div/div'
@@ -293,6 +293,7 @@ class Season:
     
     def game(self, game):
         pass
+
 
 class Game:
     def __init__(self, **kwargs) -> None:
@@ -608,6 +609,7 @@ class Scoreboard:
     def score(self):
         return self.homeScore, self.awayScore
 
+
 class Simluator:
     def __init__(self, year) -> None:
         self.year = year
@@ -673,19 +675,18 @@ class Simluator:
 
 
 def main():
+    pass
 
+    # gameParams = {
+    #     'week': 'W2',
+    #     'year': '2023',
+    #     'team': 'bills'
+    # }
+    # game = Game(**gameParams)
 
-    gameParams = {
-        'week': 'W2',
-        'year': '2023',
-        'team': 'bills'
-    }
-    game = Game(**gameParams)
-
-    print(game.isHome('bills'))
+    # print(game.isHome('bills'))
   
 
 if __name__ == '__main__':
-    from Dependencies import *
     main()
 

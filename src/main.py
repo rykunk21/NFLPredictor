@@ -1,6 +1,7 @@
 from src.Lib import Data
 from src.Lib import Learn
 from src.Lib import Predict
+import keras
 import argparse
 
 
@@ -21,8 +22,10 @@ def parse_args():
     return args
 
 def getYears(pullArgs):
+
     years = pullArgs[0].split('->')
     # build the range if input denotes range
+
     end = int(years[-1])
     start = int(years[0])
 
@@ -38,32 +41,48 @@ def main():
         # loop over the years
         for year in getYears(args.pull):   
             dm = Data.Manager(year)
-            if len(args.pull) == 1:
-                dm.pullScores()
-                dm.updateElos()   
-                
-            elif len(args.pull) > 1:
-                sheet = args.pull[-1]
-                dm.pullWeek(sheet_name=sheet)
-         
+            dm.pullScores()
+            dm.updateElos()          
 
     if args.learn:
         print("-----------LEARN-----------")
 
-        for year in getYears(args.learn):
-            
-            # dm = Data.Manager(year)
+        def GetTestVecs():
+            years = [year for year in getYears(args.learn)]
+            teams_to_retrieve = ['bears', 'packers', 'lions']  # Replace with your list of teams
 
-            # current_week = args.learn[-1]
-            # if 'elo' in args.learn:
-            #     dm.updateElos()   
-            # model = Learn.EloPredictor(year)
-            # print(model.predict('W3', 'bears'))
+            vectors_dict = Learn.Word2Vec.retrieve(years, teams_to_retrieve)
 
-            model = Learn.Word2Vec(year)
-            model.compile()
-            model.train(epochs = 70, save = True)
+            for year, team_vectors in vectors_dict.items():
+                print(f"Year: {year}")
+                for team, vector in team_vectors.items():
+                    if vector is not None:
+                        print(f"Vector for {team}: {vector}")
+                    else:
+                        print(f"Vector for {team} not found.")
 
+        def BuildVecs():
 
+            for year in getYears(args.learn):
+                print(f'LEARNING MODEL {year}')
+
+                model = Learn.Word2Vec(year)
+                model.train(epochs = 70, save=True)
+
+        def TestDNN():      
+            for year in getYears(args.learn):
+                arch = Learn.DNN.Architecture([128,64,32])   
+                model = Learn.DNN(year, arch)
+                model.train(epochs=100,visual=True, save=True)
+                model.test()
+
+        TestDNN()
+        
+ 
     if args.predict:
+        
         print("-----------PREDICT-----------")
+        Predict.evaluate()
+
+
+

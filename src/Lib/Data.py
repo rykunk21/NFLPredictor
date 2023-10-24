@@ -13,6 +13,12 @@ class Manager:
     def __init__(self, year) -> None:
         
         self.year = year
+        self.wbPath = os.path.join(SCORES_DIR, f'{year}.xlsx')
+        
+        if os.path.exists(self.wbPath):
+            self.wb = openpyxl.load_workbook(self.wbPath)
+        else:
+            raise Exception('No workbook available')
 
     ### PUBLIC
 
@@ -98,14 +104,48 @@ class Manager:
 
     def updateElos(self) -> None:
         
-        simluator = Simluator(self.year)
         current_week = self.getCurrentWeek()
 
-        for i in range(1, current_week + 1):
-            simluator.simulate_week(i)
+        for week in range(1, current_week + 1):
+                        # Load the sheet for the given week using "Wx" naming convention
+            ws = self.wb[f'W{week}']
 
+            # Get column names to indices mapping
+            col_names = {cell.value: idx for idx, cell in enumerate(next(ws.iter_rows()))}  # Assuming the first row contains column names
+            
+
+            eloUpdates = dict()
+            # For each game in the sheet:
+            for row in ws.iter_rows(min_row=2):
+                # Create a Game instance using data from the row
+                game = Game(week=f'W{week}', year=self.year, team=row[col_names['teamname']].value)
+
+                homeUpdate, awayUpdate = game.post()
+
+                eloUpdates[game.home.name] = homeUpdate
+                eloUpdates[game.away.name] = awayUpdate
+
+            # update next weeks elo
+            while any(update for update in eloUpdates.values()):
+                week += 1 
+                if week > 18:
+                    break
+
+                for team in eloUpdates:
+                    # find the team in the 
+                    ws = self.wb[f'W{week}']
+                    for row in ws.iter_rows(min_row=2):
+                        if row[col_names['teamname']].value == team:
+                            row[col_names['elo']].value = eloUpdates[team]
+                            eloUpdates[team] = None
+                            break
+
+            self.wb.save(self.wbPath)
+                            
     def getCurrentWeek(self) -> int: #TODO
-        
+        ## HARD CODE WEEK (TEMP)
+        return 18
+
         url = f'https://www.espn.com/nfl/schedule/_/week/1/year/{self.year}/seasontype/1'  # Replace with your desired URL
         xpath_expression = '/html/body/div[1]/div/div/div/main/div[3]/div/div/section/div/section/div/div/div/div/div'
 
@@ -308,7 +348,7 @@ class Game:
                 col_names = self._get_column_names_indices(ws)
                 
                 home_team_data = self._fetch_team_data(ws, col_names, team)
-
+                
                 for row in ws.iter_rows(min_row=2):
                     current_team_name = row[col_names['teamname']].value
                     if row[col_names['ID']].value == home_team_data['ID'] and current_team_name != team:
@@ -422,7 +462,6 @@ class Game:
         winmargin = self.scoreboard.winMargin()
         homewin = 1 if winmargin[0] == self.home.name else 0 # cant handle ties
 
-
         newHome = self.home.elo.shift(self.away.elo, winmargin[1], homewin)
         newAway = self.away.elo.shift(self.home.elo, winmargin[1], 1 - homewin)
 
@@ -466,14 +505,21 @@ class Game:
         """
         Return true if the home team won
         """
-        return self.scoreboard.winner().name == self.home.name
+        return self.scoreboard.winner() == self.home.name
 
-    def isPlayed(self) -> bool:
+    def isPlayed(self) -> bool: # TODO
         """
         Returns True if the game has been played
         """
         return self.scoreboard.score() != (0,0)
     
+    def won(self, team):
+        if self.isHome(team):
+            return self.result()
+        elif self.isAway(team):
+            return not self.result()
+
+
     # MAGIC
     def __repr__(self) -> str:
         return f'{self.home}(H) V {self.away}(A)'
@@ -491,6 +537,12 @@ class Game:
         return wb
     def _get_column_names_indices(self, ws):
         col_names = {cell.value: idx for idx, cell in enumerate(ws[1])}  # Assuming first row contains column names
+
+        # Check if 'elo' column exists, and if not, add it to the dictionary with the next available index
+        if 'elo' not in col_names:
+            next_idx = max(col_names.values()) + 1 if col_names else 0
+            col_names['elo'] = next_idx
+
         return col_names
 
     def _fetch_team_data(self, ws, col_names, team):
@@ -507,6 +559,14 @@ class Game:
                     'home': row[col_names['home']].value == 1,
                     'finalscore': row[col_names['finalscore']].value
                 }
+        
+        # TEAM IS ON BYE
+        return {
+            'ID': None,
+            'name': team,
+            'home': None,
+            'finalscore': None
+        }
 
 
 class EloRating:
@@ -593,11 +653,12 @@ class Scoreboard:
 
     def winMargin(self) -> int:
         
-        if self.homeScore > self.awayScore:
+        if self.homeScore >= self.awayScore:
             return (self.home, self.homeScore - self.awayScore)
     
         elif self.homeScore < self.awayScore:
             return (self.away, self.awayScore - self.homeScore)
+        
     
     def winner(self):
 
@@ -619,33 +680,30 @@ class Simluator:
             self.wb = openpyxl.load_workbook(self.wbPath)
         else:
             raise Exception('No workbook available')
-
+    
     def simulate_week(self, week):
         # Load the sheet for the given week using "Wx" naming convention
         ws = self.wb[f'W{week}']
 
         # Get column names to indices mapping
-        col_names = {cell.value: idx for idx, cell in enumerate(next(ws.iter_rows()))}  # Assuming first row contains column names
-
-
-
-        # Store the Elo updates to apply them to the next week
-        elo_updates = {}
+        col_names = {cell.value: idx for idx, cell in enumerate(next(ws.iter_rows()))}  # Assuming the first row contains column names
 
         # Initialize a flag to check if there is data in the sheet
+        has_data = False
+
+        elo_updates = dict()
 
         # For each game in the sheet:
         for row in ws.iter_rows(min_row=2):
             # Create a Game instance using data from the row
             game = Game(week=f'W{week}', year=self.year, team=row[col_names['teamname']].value)
-            
-            if not game.isPlayed():
-                return
-            
-            # Store the Elo changes
-            elo_updates[game.home.name] = game.post()[0]
-            elo_updates[game.away.name] = game.post()[1]
 
+            if game.isPlayed():
+                # Store the Elo changes
+                elo_updates[game.home.name] = game.post()[0]
+                elo_updates[game.away.name] = game.post()[1]
+
+                has_data = True
 
         # Load the next week's sheet (or create it if it doesn't exist) using "Wx" naming convention
         next_week = week + 1
@@ -657,14 +715,22 @@ class Simluator:
 
             # Update the Elo ratings for the teams in the next week's sheet
             for team, elo_change in elo_updates.items():
-                for row in ws_next.iter_rows(min_row=2):
-                    if row[col_names['teamname']].value == team:
-                        row[col_names['elo']].value = elo_change
+                team_found = False
+                for row_next in ws_next.iter_rows(min_row=2):
+                    if row_next[col_names['teamname']].value == team:
+                        row_next[col_names['elo']].value = elo_change
+                        team_found = True
                         break
+                if not team_found:
+                    # If the team is not found in the next week's sheet, simulate the week after that
+                    self.simulate_week(next_week + 1)
 
             # Save the workbook after making the updates
             self.wb.save(self.wbPath)
 
+        # Continue with the next week's simulation if there was data in the current week
+        if has_data and next_week <= 18:
+            self.simulate_week(next_week)
 
     def simulateGame(self) -> Team:
         pass
@@ -673,18 +739,13 @@ class Simluator:
         pass
 
 
+def getCurrentWeek(): # TODO
+    return 8
+
 
 def main():
     pass
 
-    # gameParams = {
-    #     'week': 'W2',
-    #     'year': '2023',
-    #     'team': 'bills'
-    # }
-    # game = Game(**gameParams)
-
-    # print(game.isHome('bills'))
   
 
 if __name__ == '__main__':

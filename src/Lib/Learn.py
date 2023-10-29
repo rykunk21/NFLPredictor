@@ -1,8 +1,67 @@
 from src.Lib.Dependencies import *
-from src.Lib import Data
-
+from src.Lib.Data import Game, getCurrentWeek
+from src.Lib.Predict import generatePredictor, loadModel
 
 class Preprocessor:
+    @staticmethod
+    def generateConcatData():
+        rows = []
+
+        # build rows
+        for year in range(2001, 2024):
+
+            vectors = Word2Vec.retrieve([year], NFLTEAMS).get(year)
+            wbPath = os.path.join(SCORES_DIR, f'{year}.xlsx')
+
+            if os.path.exists(wbPath):
+                wb = openpyxl.load_workbook(wbPath)
+            else:
+                raise Exception('No workbook available')
+            
+            for week in wb.sheetnames:
+                
+                # Hard Exclude Preseason
+                if week in ['P1', 'P2', 'P3', 'P4']:
+                    continue
+                
+                ws = wb[week]
+
+                col_names = {cell.value: idx for idx, cell in enumerate(next(ws.iter_rows()))}  # Assuming first row contains column names
+                
+                # For each game in the sheet:
+                for row in ws.iter_rows(min_row=2):
+                    
+                    # Create a Game instance using data from the row
+                    game = Game(week=week, year=year, team=row[col_names['teamname']].value)
+
+                    # retrieve vecs
+                    homeVec = vectors[game.home.name]
+                    awayVec = vectors[game.away.name]
+                    
+                    if homeVec is None or awayVec is None: # TODO for commanders
+                        continue
+
+                    homeWin = 1 if game.result() else 0
+                    homeWin = np.array(homeWin).reshape(1,)
+
+                    # Concatenate the arrays as a sequence
+                    homeRow = np.concatenate((homeVec, awayVec, homeWin))
+                    awayRow = np.concatenate((awayVec, homeVec, 1 - homeWin))
+
+                    # Append the concatenated rows to the 'rows' list
+                    rows.append(homeRow)
+                    rows.append(awayRow)
+
+                    print(f'GENERATED ROW {str(game)}: {year}')
+
+
+        data = np.array(rows, dtype=np.float32)
+        np.save(os.path.join(SCORES_DIR, 'ALLDATA.npy'), data)
+
+
+    @staticmethod
+    def retrieveConcatData():
+        return np.load(os.path.join(SCORES_DIR, 'ALLDATA.npy'))
 
     class VecHandler:
 
@@ -146,67 +205,33 @@ class Preprocessor:
 
         
         def _initializeData(self):
-            rows = []
+            data = Preprocessor.retrieveConcatData()
 
-            # build rows
-            for year in range(2001, self.year+1):
-
-                self.vectors = Word2Vec.retrieve([year], NFLTEAMS).get(year)
-                self.wbPath = os.path.join(SCORES_DIR, f'{year}.xlsx')
-
-                if os.path.exists(self.wbPath):
-                    self.wb = openpyxl.load_workbook(self.wbPath)
-                else:
-                    raise Exception('No workbook available')
-                
-                for week in self.wb.sheetnames:
-                    
-                    # Hard Exclude Preseason
-                    if week in ['P1', 'P2', 'P3', 'P4']:
-                        continue
-                    
-                    ws = self.wb[week]
-
-                    col_names = {cell.value: idx for idx, cell in enumerate(next(ws.iter_rows()))}  # Assuming first row contains column names
-                    
-                    # For each game in the sheet:
-                    for row in ws.iter_rows(min_row=2):
-                        
-                        # Create a Game instance using data from the row
-                        game = Data.Game(week=week, year=year, team=row[col_names['teamname']].value)
-
-                        # retrieve vecs
-                        homeVec = self.vectors[game.home.name]
-                        awayVec = self.vectors[game.away.name]
-                        
-                        if homeVec is None or awayVec is None: # TODO for commanders
-                            continue
-
-                        homeWin = 1 if game.result() else 0
-                        homeWin = np.array(homeWin).reshape(1,)
-
-                        # Concatenate the arrays as a sequence
-                        homeRow = np.concatenate((homeVec, awayVec, homeWin))
-                        awayRow = np.concatenate((awayVec, homeVec, 1 - homeWin))
-
-                        # Append the concatenated rows to the 'rows' list
-                        rows.append(homeRow)
-                        rows.append(awayRow)
-
-                        print(f'GENERATED ROW {str(game)}: {year}')
-
-
-            self.data = np.array(rows, dtype=np.float32)
-
-            X, Y =  self.data[:,:-1], self.data[:,-1]        
+            X, Y =  data[:,:-1], data[:,-1]        
 
             self.xTrain, self.xTest, self.yTrain, self.yTest = train_test_split(
                 X, Y, test_size=self.testSize, random_state=self.randomState
             )
         
-    
     class BayesHandler:
-        def __init__(self) -> None:
+        def __init__(self, year) -> None:
+            self.year = year
+            self.data = Preprocessor.retrieveConcatData()
+
+        def eloPredictions(self):
+            """
+            Gets all the elo predictions for every game
+            """
+            pass
+        def nnPrecitions(self):
+            """
+            Gets all the nnPredictions for every game
+            """
+            pass
+        def gameOutcomes(self):
+            """
+            Gets all the game outcomes in order
+            """
             pass
 
 
@@ -523,7 +548,7 @@ class EloPredictor:
         :param team: Team name.
         :return: Predicted outcome based on ELO.
         """
-        game = Data.Game(week=week, year=self.year, team=team)
+        game = Game(week=week, year=self.year, team=team)
         return game.eloPrediction(team)
 
     def evaluate(self):
@@ -557,7 +582,7 @@ class EloPredictor:
             # For each game in the sheet:
             for row in ws.iter_rows(min_row=2):
                 team = row[col_names['teamname']].value
-                game = Data.Game(week=week, year=self.year, team=team)
+                game = Game(week=week, year=self.year, team=team)
 
                 prediction = 0 if game.eloPrediction(team) < .5 else 1
                 predictions.append(prediction)
@@ -576,12 +601,71 @@ class EloPredictor:
 
 
 class BayesianEnsemble:
-    def __init__(self) -> None:
-        pass
+    def __init__(self, year) -> None:
+        self.modelName = 'DNNV1'
+        self.handler = Preprocessor.BayesHandler(year)
 
+    def generateTraces(self):
 
-def train():
-    pass
+        eloPreditions = self.handler.eloPredictions()
+        nnPredictions = self.handler.nnPredictions()
+        gameOutcomes = self.hanlder.gameOutcomes()
+
+        with pm.Model() as eloModel:
+            # Define Elo predictor's parameters and likelihood
+            # Replace with your own model logic and parameters
+
+            # Likelihood distribution based on Elo predictor's predictions
+            elo_likelihood = pm.Bernoulli('elo_likelihood', p=eloPreditions, observed=gameOutcomes)
+
+        with pm.Model() as nnModel:
+            # Define Bayesian NN's parameters and likelihood
+            # Replace with your own Keras Sequential model logic and parameters
+
+            # Likelihood distribution based on NN's predictions
+            nn_likelihood = pm.Bernoulli('nn_likelihood', p=nnPredictions, observed=gameOutcomes)
+
+        with pm.Model() as ensembleModel:
+            # Define weights for combining the two models' predictions
+            elo_weight = pm.Beta('elo_weight', alpha=1, beta=1)  # Weight for Elo predictor
+            nn_weight = pm.Beta('nn_weight', alpha=1, beta=1)    # Weight for NN predictor
+
+            # Combine predictions using weights
+            combined_prediction = elo_weight * eloPreditions + nn_weight * nnPredictions
+
+            # Likelihood distribution based on the combined prediction
+            likelihood = pm.Bernoulli('likelihood', p=combined_prediction, observed=gameOutcomes)
+    
+        with eloModel:
+            self.elo_trace = pm.sample(1000)  # Sample from the Elo predictor's posterior
+
+        with nnModel:
+            self.nn_trace = pm.sample(1000)   # Sample from the NN's posterior
+
+        with ensembleModel:
+            self.ensemble_trace = pm.sample(1000)
+
+    def predit(self, team, model='DNNV1'):
+        week = getCurrentWeek()
+        newEloPrediction = EloPredictor(self.year).predict(week, team)
+
+        game = Game(week=week, year=2023, team=team)
+        opponent = game.opponent(team)    
+
+        predictor = generatePredictor(team,opponent)
+        model = loadModel(model)
+        
+        newNNPrediction = model.predict(predictor)
+
+        elo_weights_samples = self.ensemble_trace['elo_weight']
+        nn_weights_samples = self.ensemble_trace['nn_weight']
+
+        # Compute ensemble prediction using sampled weights
+        ensemble_predictions = (elo_weights_samples * newEloPrediction +
+                                nn_weights_samples * newNNPrediction)
+        # Calculate the mean prediction (you can use other aggregation methods)
+        ensemble_mean_prediction = np.mean(ensemble_predictions)
+        return ensemble_mean_prediction
 
 
 

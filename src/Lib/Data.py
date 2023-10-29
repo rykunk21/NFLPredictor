@@ -516,9 +516,16 @@ class Game:
     def won(self, team):
         if self.isHome(team):
             return self.result()
+        
         elif self.isAway(team):
             return not self.result()
 
+    def opponent(self, team):
+        if team == self.home.name:
+            return self.away.name
+        
+        elif team == self.away.name:
+            return self.home.name
 
     # MAGIC
     def __repr__(self) -> str:
@@ -740,7 +747,7 @@ class Simluator:
 
 
 def getCurrentWeek(): # TODO
-    return 8
+    return 'W8'
 
 
 def main():

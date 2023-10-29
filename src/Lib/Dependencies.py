@@ -20,6 +20,8 @@ import numpy as np
 
 import tensorflow as tf
 import keras
+import pymc3 as pm
+
 from keras import layers
 from keras.layers import Dense
 

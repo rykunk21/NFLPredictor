@@ -1,9 +1,7 @@
 from src.Lib import Data
 from src.Lib import Learn
 from src.Lib import Predict
-import keras
 import argparse
-
 
 def parse_args():
     """
@@ -14,7 +12,7 @@ def parse_args():
     # Add command-line arguments for each action
     parser.add_argument('-pull', nargs='+', help="Pull data")
     parser.add_argument('-learn', nargs='+', help="Train a model")
-    parser.add_argument('-predict', nargs='+', help="Make predictions")
+    parser.add_argument('-predict', nargs='*', help="Make predictions")
 
     # Parse the command-line arguments
     args = parser.parse_args()
@@ -71,18 +69,27 @@ def main():
 
         def TestDNN():      
             for year in getYears(args.learn):
-                arch = Learn.DNN.Architecture([128,64,32])   
+                arch = Learn.DNN.Architecture([256,64,32,64,256])   
                 model = Learn.DNN(year, arch)
                 model.train(epochs=100,visual=True, save=True)
                 model.test()
+        def Generate():
+            Learn.Preprocessor.generateConcatData()
 
-        TestDNN()
+
+        Generate()
         
- 
     if args.predict:
-        
         print("-----------PREDICT-----------")
-        Predict.evaluate()
 
-
+        if len(args.predict) == 0:
+            # predict all
+            pass
+        elif len(args.predict) == 1:
+            team = args.predict[0]
+            pred = Predict.predict(team, 'DNNV2')
+            print(pred)
+            
+            
+        
 
